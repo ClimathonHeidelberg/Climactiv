@@ -1,0 +1,4 @@
+RewriteEngine On
+RewriteCond %{HTTP_COOKIE} !OnecomWPAuth=GwlgzgbhIHhfVeO
+RewriteCond %{REQUEST_URI} /wp-admin/install.php
+RewriteRule . "-" [F]
