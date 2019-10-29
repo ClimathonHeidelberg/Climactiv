@@ -1,0 +1,21 @@
+phraseapp:
+  project_id: a442f264c41bee70e40736df8693c713
+  file_format: gettext
+  push:
+    sources:
+    - file: ./languages/vcaching-en_US.po
+      params:
+        locale_id: 718c737e76dd3a0a2c4d6f52fb7612b9
+        update_translations: true
+        update_descriptions: true
+        skip_unverification: false
+        tags: wp,wp.plugin,wp.plugin.performance-cache
+
+    - file: ./languages/vcaching-*.po
+
+  pull:
+    targets:
+      - file: ./languages/vcaching-<locale_name>.po
+      - file: ./languages/vcaching-<locale_name>.mo
+        params:
+          file_format: gettext_mo

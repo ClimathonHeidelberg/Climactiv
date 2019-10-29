@@ -1,0 +1,5127 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2019-10-17 17:43+0530\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.1.1\n"
+
+#: inc/functions.php:126 inc/functions.php:338 modules/notices.php:61
+msgid "Connection timed out"
+msgstr "Zeitüberschreitung bei der Verbindung"
+
+#: inc/functions.php:151
+msgid ""
+"Sorry, no compatible themes found for your version of WordPress and PHP."
+msgstr ""
+"Leider wurden keine Themen gefunden, die kompatibel zu Ihrer Version von "
+"WordPress und PHP sind."
+
+#: inc/functions.php:151 inc/functions.php:377
+msgid "Try again"
+msgstr "Bitte versuchen Sie es erneut"
+
+#: inc/functions.php:197
+msgid "WordPress is being upgraded. Please try again later."
+msgstr "WordPress wird aktualisiert. Bitte versuchen Sie es später nochmal."
+
+#: inc/functions.php:212
+msgid "Installing theme"
+msgstr "Thema installieren"
+
+#: inc/functions.php:232 inc/functions.php:566
+msgid "Something went wrong. Please contact the support at One.com."
+msgstr ""
+"Leider ist ein Fehler aufgetreten. Bitte wenden Sie sich an den Support von "
+"One.com."
+
+#: inc/functions.php:246 inc/functions.php:583
+msgid ""
+"Unable to connect to the file system. Please contact the support at One.com."
+msgstr ""
+"Eine Verbindung zum Dateisystem konnte nicht hergestellt werden. Bitte "
+"wenden Sie sich an den Support von One.com."
+
+#: inc/functions.php:261
+msgid "Theme installed successfully"
+msgstr "Das Thema wurde installiert."
+
+#: inc/functions.php:264 inc/functions.php:279 inc/functions.php:606
+#: inc/functions.php:608 templates/network/plugin-listing.php:87
+#: templates/network/plugin-listing.php:89
+#: templates/network/recommended-plugin-listing.php:100
+#: templates/network/theme-listing-loop.php:85
+#: templates/network/theme-listing-loop.php:87 templates/plugin-listing.php:86
+#: templates/plugin-listing.php:88 templates/recommended-plugin-listing.php:99
+#: templates/theme-listing-loop.php:82 templates/theme-listing-loop.php:84
+msgid "Activate"
+msgstr "Aktivieren"
+
+#: inc/functions.php:377
+msgid ""
+"Sorry, no compatible plugins found with your version of WordPress and PHP."
+msgstr ""
+"Leider wurden keine Plugins gefunden, die kompatibel zu Ihrer Version von "
+"WordPress und PHP sind."
+
+#: inc/functions.php:547
+msgid "Installing plugin"
+msgstr "Plugin installieren"
+
+#: inc/functions.php:598
+msgid "Plugin installed successfully"
+msgstr "Das Plugin wurde installiert."
+
+#: inc/update.php:167
+msgid "View details"
+msgstr ""
+
+#: modules/cookie-banner/inc/functions.php:22
+#: modules/cookie-banner/inc/functions.php:23
+#: modules/cookie-banner/templates/oc_cookie_banner_admin.php:3
+msgid "Cookie Banner"
+msgstr "Cookie-Banner"
+
+#: modules/cookie-banner/inc/functions.php:173
+msgid ""
+"Since you are using One.com Analytics plugin, we recommend that you enable a "
+"cookie banner. This banner tells your visitors about your site storing data "
+"about them."
+msgstr ""
+"Plug-insene One.com Analytics og Online Marketing som du bruker benytter "
+"annonser som sporer cookies til nettstedet ditt. Vi anbefaler at du legger "
+"til en cookie-fane for å informere dine besøkende om dette."
+
+#: modules/cookie-banner/inc/functions.php:178
+msgid "Setup cookie banner"
+msgstr "Zur Aktivierung"
+
+#: modules/cookie-banner/inc/functions.php:179
+msgid "Skip setup"
+msgstr "Setup überspringen"
+
+#: modules/cookie-banner/templates/oc_cookie_banner_admin.php:16
+msgid ""
+"This website uses cookies. By continuing to use this site, you accept our "
+"use of cookies."
+msgstr ""
+"Diese Seite verwendet Cookies. Durch die weitere Nutzung dieser Website "
+"stimmen Sie der Verwendung von Cookies zu."
+
+#: modules/cookie-banner/templates/oc_cookie_banner_admin.php:18
+#: modules/cookie-banner/templates/oc_cookie_banner_admin.php:85
+#: modules/cookie-banner/templates/oc_cookie_banner_admin.php:101
+msgid "Learn more"
+msgstr "Mehr erfahren"
+
+#: modules/cookie-banner/templates/oc_cookie_banner_admin.php:20
+#: modules/cookie-banner/templates/oc_cookie_banner_admin.php:116
+msgid "Accept"
+msgstr "Akzeptieren"
+
+#: modules/cookie-banner/templates/oc_cookie_banner_admin.php:75
+msgid "Enable cookie banner"
+msgstr "Cookie-Banner aktivieren"
+
+#: modules/cookie-banner/templates/oc_cookie_banner_admin.php:77
+msgid ""
+"Show a banner on your website to inform visitors about cookies and get their "
+"consent."
+msgstr ""
+"Mit einem Cookie-Banner können Sie Ihre Besucher über den Einsatz von "
+"Cookies informieren und ihre Zustimmung einholen."
+
+#: modules/cookie-banner/templates/oc_cookie_banner_admin.php:82
+msgid "Banner text"
+msgstr "Banner-Text"
+
+#: modules/cookie-banner/templates/oc_cookie_banner_admin.php:83
+msgid "Add a text asking your users to accept cookies."
+msgstr ""
+"Tragen Sie einen Text ein, um Ihre Besucher über den Einsatz von Cookies zu "
+"informieren."
+
+#: modules/cookie-banner/templates/oc_cookie_banner_admin.php:85
+msgid ""
+"Cookie requirements vary. This default text is for general use but may not "
+"meet your particular legal requirements."
+msgstr ""
+"Dieser Standardtext stimmt ggf. nicht mit den für Sie gültigen "
+"Datenschutzvorgaben überein. Im Zweifel lassen Sie sich bitte juristisch "
+"beraten."
+
+#: modules/cookie-banner/templates/oc_cookie_banner_admin.php:89
+msgid "Cookie policy link (Optional)"
+msgstr "Link zu den Cookie-Richtlinien (optional)"
+
+#: modules/cookie-banner/templates/oc_cookie_banner_admin.php:92
+msgid "Add a link to your cookie policy"
+msgstr "Link zu Ihren Cookie-Richtlinien hinzufügen"
+
+#: modules/cookie-banner/templates/oc_cookie_banner_admin.php:94
+msgid ""
+"Your privacy policy can contain information about which cookies you use, so "
+"visitors can read more about what you collect information about."
+msgstr ""
+"In Ihrer Datenschutzerklärung könnten Sie Ihre Besucher beispielsweise "
+"darüber aufklären, welche Cookies Sie zu welchem Zweck einsetzen."
+
+#: modules/cookie-banner/templates/oc_cookie_banner_admin.php:95
+msgid "What should be included in my cookie policy?"
+msgstr "Unverbindliche Ratschläge für Ihre Datenschutzerklärung"
+
+#: modules/cookie-banner/templates/oc_cookie_banner_admin.php:100
+msgid "Link text"
+msgstr "Linktext"
+
+#: modules/cookie-banner/templates/oc_cookie_banner_admin.php:105
+msgid "Link URL"
+msgstr "Link-URL"
+
+#: modules/cookie-banner/templates/oc_cookie_banner_admin.php:108
+msgid "You can link to any page on your website or even add an external link."
+msgstr ""
+"Sie können auf jede Seite Ihrer Website verlinken oder sogar einen externen "
+"Link hinzufügen."
+
+#: modules/cookie-banner/templates/oc_cookie_banner_admin.php:115
+msgid "Button text"
+msgstr "Buttontext"
+
+#: modules/cookie-banner/templates/oc_cookie_banner_admin.php:118
+msgid "This is the text that appears on the button that activates cookies."
+msgstr "Dieser Text erscheint im Button, der Cookies aktivieren wird."
+
+#: modules/cookie-banner/templates/oc_cookie_banner_admin.php:122
+msgid "Banner style"
+msgstr "Banner-Stil"
+
+#: modules/cookie-banner/templates/oc_cookie_banner_admin.php:124
+msgid "Grey"
+msgstr "Grau"
+
+#: modules/cookie-banner/templates/oc_cookie_banner_admin.php:125
+msgid "Black"
+msgstr "Schwarz"
+
+#: modules/cookie-banner/templates/oc_cookie_banner_admin.php:126
+msgid "White"
+msgstr "Weiß"
+
+#: modules/cookie-banner/templates/oc_cookie_banner_admin.php:140
+msgid "Tip"
+msgstr "Tipp"
+
+#: modules/cookie-banner/templates/oc_cookie_banner_admin.php:140
+msgid "Remember to delete cache in case you are using any caching plugin."
+msgstr ""
+"Sollten Sie ein Caching-Plugin einsetzen, leeren Sie bitte anschließend "
+"Ihren Cache."
+
+#: modules/cookie-banner/templates/oc_cookie_banner_admin.php:142
+msgid "Purge Performance Cache"
+msgstr "Performance Cache leeren"
+
+# "Cancel" and go back, or "Save" your settings.
+#
+# ____________________________
+# Reference for developers:
+#
+#: modules/cookie-banner/templates/oc_cookie_banner_admin.php:149
+msgid "Save"
+msgstr "Speichern"
+
+# IMPORTANT!!!!
+#
+# This is the NAME of the feature. Try to keep it short and clean and to the point. If there is no good version in your language, use the English one, or a variant thereof.
+#
+# The Health Monitor checks a WordPress site for vulnerabilities and if its overall performance is good. Issues are reported, with information on how to fix it.
+# ________________________________________
+#
+#
+#: modules/health-monitor/inc/functions.php:14
+#: modules/health-monitor/inc/functions.php:15
+#: modules/health-monitor/templates/oc_sh_health_monitor.php:11
+#: onecom-themes-plugins.php:661
+msgid "Health Monitor"
+msgstr "Website-Diagnostik"
+
+#: modules/health-monitor/inc/functions.php:42
+#: modules/health-monitor/inc/widgets.php:43
+msgid "Scan again"
+msgstr "Erneut scannen"
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# This is the part where we explain what needs to be fixed, and link to a guide with more information, or link to our chatsupport (in case the customer cannot solve it without our help).
+#
+# The text in between the place holders will be the link text -> %slinktext%s
+# ________________________________________
+#
+#
+#: modules/health-monitor/inc/functions.php:63
+#: modules/health-monitor/templates/oc_sh_health_monitor.php:93
+#, php-format
+msgid ""
+"You can disable PHP error reporting in the One.com control panel and "
+"WordPress debugging in the wp.config.php file. Check these two guides for "
+"more details on how to manage these settings: %sHow do I enable error "
+"messages for PHP?%s and %sHow do I enable debugging in WordPress?%s"
+msgstr ""
+"Sie können die PHP-Fehlermeldungen im One.com-Kontrollpanel und den Debug-"
+"Modus von WordPress in der Datei wp-config.php deaktivieren. Bitte gehen Sie "
+"gemäß der beiden folgenden Anleitungen vor, setzen Sie aber jeweils am Ende "
+"die gegenteilige Einstellung: %sWie kann ich die PHP-Fehlermeldungen "
+"aktivieren?%s sowie %sWie aktiviere ich den Debug-Modus in WordPress? %s"
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# The message will be shown when a state is all good. It's a header, so no full stop.
+# ________________________________________
+#
+#: modules/health-monitor/inc/functions.php:70
+msgid "This is configured properly!"
+msgstr "Anzeige der Fehlermeldungen sowie Debug-Modus wurden deaktiviert"
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# This is the part where we explain what needs to be fixed, and link to a guide with more information, or link to our chatsupport (in case the customer cannot solve it without our help).
+# ________________________________________
+#
+#
+#: modules/health-monitor/inc/functions.php:93
+#, php-format
+msgid ""
+"You are running an outdated version of PHP. We recommend using the latest "
+"version of PHP. %sHow do I update PHP for my WordPress site?%s"
+msgstr ""
+"Sie können die PHP-Version im One.com-Kontrollpanel unter „PHP und "
+"Datenbank“ einstellen. Siehe auch: %sWie aktualisiere ich PHP für meine "
+"WordPress-Website?%s"
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# The message will be shown when a state is all good. It's a header, so no full stop.
+# ________________________________________
+#: modules/health-monitor/inc/functions.php:100
+msgid "You have the latest PHP version enabled!"
+msgstr "Sie nutzen die empfohlene PHP-Version"
+
+#
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# This is the part where we explain what needs to be fixed, and link to a guide with more information, or link to our chatsupport (in case the customer cannot solve it without our help).
+#
+# The text in between the place holders will be the link text -> %slinktext%s
+# ________________________________________
+#
+#: modules/health-monitor/inc/functions.php:128
+#, php-format
+msgid ""
+"One or more of your plugins are outdated. Outdated plugins make your site "
+"vulnerable to security attacks. %sUpdate your Plugins to the newest version%s"
+msgstr ""
+"Spielen Sie die jeweils aktuellen Versionen Ihrer Plugins ein. Zudem "
+"empfehlen wir Ihnen, nicht genutzte Plugins zu entfernen. Bitte beachten Sie "
+"folgende Anleitung:  %sWie aktualisiere ich ein CMS wie WordPress oder "
+"Joomla?%s"
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# The message will be shown when a state is all good. It's a header, so no full stop.
+# ________________________________________
+#: modules/health-monitor/inc/functions.php:135
+msgid "All your plugins are updated"
+msgstr "Ihre Plugins sind aktuell"
+
+#
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# This is the part where we explain what needs to be fixed, and link to a guide with more information, or link to our chatsupport (in case the customer cannot solve it without our help).
+#
+# The text in between the place holders will be the link text -> %slinktext%s
+# ________________________________________
+#
+#: modules/health-monitor/inc/functions.php:163
+#, php-format
+msgid ""
+"One or more of your installed themes are outdated. Using outdated themes can "
+"break your site and generate potential security risks. %sUpdate your Themes "
+"to the newest version%s"
+msgstr ""
+"Spielen Sie die jeweils aktuellen Versionen Ihrer Themes ein. Zudem "
+"empfehlen wir Ihnen, nicht genutzte Themes zu entfernen. Bitte beachten Sie "
+"folgende Anleitung:  %sWie aktualisiere ich ein CMS wie WordPress oder "
+"Joomla?%s"
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# The message will be shown when a state is all good. It's a header, so no full stop.
+# ________________________________________
+#: modules/health-monitor/inc/functions.php:170
+msgid "All your themes are updated!"
+msgstr "Ihre Themes sind aktuell"
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# This is the part where we explain what needs to be fixed, and link to a guide with more information, or link to our chatsupport (in case the customer cannot solve it without our help).
+# ________________________________________
+#
+#
+#: modules/health-monitor/inc/functions.php:200
+#, php-format
+msgid ""
+"Update WordPress to the latest version, especially minor updates are "
+"important because they usually include security fixes. Check this guide for "
+"more instructions:  %sHow do I update a CMS like WordPress?%s"
+msgstr ""
+"WordPress-Aktualisierungen beheben oftmals Sicherheitslücken, weswegen wir "
+"Ihnen das Einspielen ausdrücklich empfehlen, siehe auch: %sWie aktualisiere "
+"ich ein CMS wie WordPress oder Joomla?%s"
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# The message will be shown when a state is all good. It's a header, so no full stop.
+# ________________________________________
+#: modules/health-monitor/inc/functions.php:207
+msgid "Your WordPress version is updated"
+msgstr "Sie nutzen die aktuelle WordPress-Version"
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# This is the part where we explain what needs to be fixed, and link to a guide with more information, or link to our chatsupport (in case the customer cannot solve it without our help).
+#
+# The text in between the place holders will be the link text -> %slinktext%s
+# ________________________________________
+#
+#
+#: modules/health-monitor/inc/functions.php:231
+#, php-format
+msgid ""
+"You are using default table prefix. This means that attackers can easily "
+"guess your database configuration. %sChange the table prefix for WordPress%s"
+msgstr ""
+"Dies lässt sich wie folgt beheben: %sTabellenpräfix für WordPress ändern%s"
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# The message will be shown when a state is all good. It's a header, so no full stop.
+# ________________________________________
+#
+#: modules/health-monitor/inc/functions.php:238
+msgid "You are not using default table prefix"
+msgstr "WordPress nutzt ein individuelles Tabellenpräfix"
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# This is the part where we explain what needs to be fixed, and link to a guide with more information, or link to our chatsupport (in case the customer cannot solve it without our help).
+# ________________________________________
+#
+#
+#: modules/health-monitor/inc/functions.php:267
+#, php-format
+msgid ""
+"Wordpress core updates are disabled. This means that your site cannot be "
+"auto updated to latest minor updates of WordPress. %sEnable auto updates%s"
+msgstr ""
+"Aktivieren Sie wieder die automatische Aktualisierung von WordPress. Sollte "
+"die Deaktivierung über ein Plugin vorgenommen worden sein, setzen Sie sie "
+"dort zurück. Alternativ passen Sie bitte die entsprechende Einstellung in "
+"der Datei wp-config.php an. Siehe auch: %sWarum Sie WordPress immer aktuell "
+"halten sollten%s."
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# The message will be shown when a state is all good. It's a header, so no full stop.
+# ________________________________________
+#
+#: modules/health-monitor/inc/functions.php:272
+msgid "Wordpress core updates are enabled"
+msgstr "WordPress wird automatisch aktualisiert"
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# The message will be shown when a state is all good. It's a header, so no full stop.
+# ________________________________________
+#
+#: modules/health-monitor/inc/functions.php:292
+msgid "Connection to Wordpress.org was successful"
+msgstr "Verbindung zu wordpress.org wurde hergestellt"
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# The message will be shown when a state is all good. It's a header, so no full stop.
+# ________________________________________
+#
+#: modules/health-monitor/inc/functions.php:313
+msgid "File editing from WordPress admin is disabled"
+msgstr "Datei-Editor im Adminbereich wurde deaktiviert"
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# This is the part where we explain what needs to be fixed, and link to a guide with more information, or link to our chatsupport (in case the customer cannot solve it without our help).
+#
+# The text in between the place holders will be the link text -> %slinktext%s
+# ________________________________________
+#
+#
+#: modules/health-monitor/inc/functions.php:321
+#, php-format
+msgid ""
+"File editing from your WordPress dashboard is allowed, meaning users with a "
+"role that has this right can edit all the core files of your site. Someone "
+"might accidentally break it, or a hacker might get access to a password. "
+"%sDisable file editing in WordPress admin%s"
+msgstr ""
+"Um dies zu unterbinden, muss eine Ergänzung zur Datei wp-config.php "
+"vorgenommen werden. Bitte gehen Sie wie folgt vor: %sDatei-Editor im "
+"WordPress-Adminbereich deaktivieren%s."
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# This is the part where we explain what needs to be fixed, and link to a guide with more information, or link to our chatsupport (in case the customer cannot solve it without our help).
+# ________________________________________
+#
+#
+#: modules/health-monitor/inc/functions.php:352
+#, php-format
+msgid ""
+"One or more of your usernames is very common, like for example “admin”. "
+"These usernames are easy to guess and could be exploited by hackers. "
+"%sChange a WordPress username in PhpMyAdmin%s"
+msgstr ""
+"Tauschen Sie den gängigen Benutzernamen durch einen individuellen aus, "
+"mithilfe dieser Anleitung: %sWordPress-Benutzernamen via phpMyAdmin "
+"austauschen%s"
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# The message will be shown when a state is all good. It's a header, so no full stop.
+# ________________________________________
+#
+#: modules/health-monitor/inc/functions.php:359
+msgid "You are not using any common username. "
+msgstr "Sie nutzen individuelle Benutzernamen"
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# This is the part where we explain what needs to be fixed, and link to a guide with more information, or link to our chatsupport (in case the customer cannot solve it without our help).
+#
+# The text in between the place holders will be the link text -> %slinktext%s
+# ________________________________________
+#
+#
+#: modules/health-monitor/inc/functions.php:383
+#, php-format
+msgid ""
+"Your site isn’t using HTTPS. Visitors on your site might get a warning that "
+"your website isn’t secure and it can also have a negative effect on your SEO "
+"rating. %sContact support%s"
+msgstr ""
+"Bitte %swenden Sie sich an unseren Kundensupport%s, damit der Fehler ggf. "
+"behoben werden kann."
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# The message will be shown when a state is all good. It's a header, so no full stop.
+# ________________________________________
+#: modules/health-monitor/inc/functions.php:390
+msgid "Your site has valid SSL certificate!"
+msgstr "Ihre Seite nutzt ein gültiges SSL-Zertifikat"
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# This is the part where we explain what needs to be fixed, and link to a guide with more information, or link to our chatsupport (in case the customer cannot solve it without our help).
+#
+# The text in between the place holders will be the link text -> %slinktext%s
+# ________________________________________
+#
+#
+#: modules/health-monitor/inc/functions.php:425
+#, php-format
+msgid ""
+"File execution is allowed in your uploads folder. This means that an "
+"attacker can upload malware and execute it by simply trying to access it "
+"from their browser. %sDisable file execution in the WordPress uploads folder"
+"%s"
+msgstr ""
+"Um die Ausführung von Dateien zu unterbinden, muss eine .htaccess-Datei mit "
+"einem speziellen Code in den uploads-Ordner platziert werden. Bitte gehen "
+"Sie wie folgt vor: %sDateiausführung im uploads-Ordner von WordPress "
+"unterbinden%s"
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# The message will be shown when a state is all good. It's a header, so no full stop.
+# ________________________________________
+#
+#: modules/health-monitor/inc/functions.php:432
+msgid "File execution is blocked in \"Uploads\" folder."
+msgstr "Ihr uploads-Ordner ist gegen schädliche Dateiausführung geschützt"
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# This is the part where we explain what needs to be fixed, and link to a guide with more information, or link to our chatsupport (in case the customer cannot solve it without our help).
+#
+# The text in between the place holders will be the link text -> %slinktext%s
+# ________________________________________
+#
+#
+#: modules/health-monitor/inc/functions.php:484
+#, php-format
+msgid ""
+"One or more of your plugins is on the list of plugins we advise against "
+"using. Plugins on this list have a negative effect on the performance of "
+"your site, or pose a security risk. Deactivate %sDiscouraged WordPress "
+"plugins%s"
+msgstr ""
+"Entfernen Sie die nicht empfohlenen Plugins. In den meisten Fällen werden "
+"Sie in der umfangreichen Plugin-Bibliothek von WordPress eine adäquate "
+"Alternative finden. Unter dem folgenden Link können Sie unsere Liste der "
+"nicht empfohlenen Plugins einsehen: %sNicht empfohlene Plugins%s."
+
+#: modules/health-monitor/inc/functions.php:491
+#: templates/discouraged-plugin-listing.php:58
+#: templates/network/discouraged-plugin-listing.php:58
+msgid ""
+"You are doing great! None of your installed plugins, are on our list of "
+"discouraged plugins."
+msgstr ""
+"Sehr gut! Alle Ihrer installierten Plugins befinden sich nicht auf unserer "
+"Liste der nicht empfohlenen Plugins."
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# This is the part where we explain what needs to be fixed, and link to a guide with more information, or link to our chatsupport (in case the customer cannot solve it without our help).
+#
+# The text in between the place holders will be the link text -> %slinktext%s
+# ________________________________________
+#
+#
+#: modules/health-monitor/inc/functions.php:523
+#, php-format
+msgid ""
+"Your file and folder permissions are not set correctly. If they are too "
+"strict you get errors on your site, if they are too loose this poses a "
+"security risk. %sChange the file permissions via an FTP client%s"
+msgstr ""
+"Um dies zu beheben, setzen Sie via FTP die Dateiberechtigungen auf 755 und "
+"die Ordnerberechtigungen auf 644. Folgende Anleitung führt Sie durch das "
+"genaue Vorgehen: %sDateiberechtigungen per FTP-Programm ändern%s"
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# The message will be shown when a state is all good. It's a header, so no full stop.
+# ________________________________________
+#
+#: modules/health-monitor/inc/functions.php:530
+msgid "Correct file permissions."
+msgstr "Dateiberechtigungen sind korrekt gesetzt"
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# This is the part where we explain what needs to be fixed, and link to a guide with more information, or link to our chatsupport (in case the customer cannot solve it without our help).
+#
+# The text in between the place holders will be the link text -> %slinktext%s
+# ________________________________________
+#
+#
+#: modules/health-monitor/inc/functions.php:585
+#: modules/health-monitor/inc/functions.php:593
+msgid ""
+"Your site could not connect to wordpress.org, which means background updates "
+"may not be working properly. %Contact support%s"
+msgstr ""
+"Deaktivieren Sie testweise alle Plugins und aktivieren Sie ein Standardtheme "
+"von WordPress, z.B. „Twenty Nineteen“. Führen Sie dann hier einen neuen Scan "
+"durch. Sollte die Verbindung zu wordpress.org wieder möglich sein, "
+"aktivieren Sie jedes Ihrer Plugins einzeln und führen Sie jedes Mal einen "
+"neuen Scan durch. Sollte die Ursache bis hierhin nicht gefunden worden sein, "
+"reaktivieren Sie Ihr eigentliches Theme und scannen erneut. Bei Problemen "
+"%swenden Sie sich bitte an unseren Kundensupport%s."
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# The message will be shown when a state is all good. It's a header, so no full stop.
+# ________________________________________
+#
+#: modules/health-monitor/inc/functions.php:600
+msgid "Background updates are working properly."
+msgstr "Aktualisierungen im Hintergrund sind aktiviert und intakt"
+
+# IMPORTANT!!!!
+#
+# This is the NAME of the feature. Try to keep it short and clean and to the point. If there is no good version in your language, use the English one, or a variant thereof. Make sure you are consistent, there are 4 keys that have Health Monitor.
+#
+# The Health Monitor checks a WordPress site for vulnerabilities and if its overall performance is good. Issues are reported, with information on how to fix it.
+#
+#: modules/health-monitor/inc/widgets.php:12
+msgid "One.com Health Monitor"
+msgstr "One.com Website-Diagnostik"
+
+#: modules/health-monitor/inc/widgets.php:32
+msgid "Scan now"
+msgstr "Jetzt scannen"
+
+# Make sure that you use the same term as you used for the name. This text isn't visible yet, but it will show the percentage of health after this. 100% means no issues.
+#
+#: modules/health-monitor/inc/widgets.php:43
+msgid "Health Monitor score is"
+msgstr "Das Ergebnis lautet"
+
+# This relates to the last time that the Health Monitor scan was done. It will be followed by a date.
+#
+# ______________________________________
+#
+#: modules/health-monitor/inc/widgets.php:43
+msgid "Last checked on"
+msgstr "Zuletzt überprüft am"
+
+# Description of the Health Monitor feature, make sure to use the same term as for the name.
+#
+#
+# ________________________________
+#
+#: modules/health-monitor/templates/oc_sh_health_monitor.php:14
+msgid ""
+"Health Monitor lets you monitor the essential security checkpoints and fix "
+"them if needed."
+msgstr ""
+"Mit der Website-Diagnostik können Sie den Sicherheitszustand und die "
+"Leistungsfähigkeit Ihrer Seite überprüfen."
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# The message will be shown when something failed, it's header so no full stop.
+# ________________________________________
+#
+#: modules/health-monitor/templates/oc_sh_health_monitor.php:25
+msgid "PHP version"
+msgstr "Sie nutzen nicht die empfohlene PHP-Version"
+
+#: modules/health-monitor/templates/oc_sh_health_monitor.php:29
+#: onecom-themes-plugins.php:337 onecom-themes-plugins.php:338
+#: onecom-themes-plugins.php:345 onecom-themes-plugins.php:346
+#: onecom-themes-plugins.php:353 onecom-themes-plugins.php:354
+#: onecom-themes-plugins.php:398 onecom-themes-plugins.php:401
+#: onecom-themes-plugins.php:412 onecom-themes-plugins.php:664
+msgid "Plugins"
+msgstr "Plugins"
+
+#: modules/health-monitor/templates/oc_sh_health_monitor.php:33
+#: onecom-themes-plugins.php:329 onecom-themes-plugins.php:330
+#: onecom-themes-plugins.php:387 onecom-themes-plugins.php:390
+#: onecom-themes-plugins.php:663
+msgid "Themes"
+msgstr "Themen"
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# The message will be shown when something failed, it's header so no full stop.
+# ________________________________________
+#
+#: modules/health-monitor/templates/oc_sh_health_monitor.php:37
+msgid "WordPress version"
+msgstr "Sie nutzen eine veraltete WordPress-Version"
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# The message will be shown when something failed, it's header so no full stop.
+# ________________________________________
+#
+#
+#: modules/health-monitor/templates/oc_sh_health_monitor.php:41
+msgid "Connection to Wordpress.org"
+msgstr "Keine Verbindung zu wordpress.org"
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# The message will be shown when something failed, it's header so no full stop.
+# ________________________________________
+#
+#: modules/health-monitor/templates/oc_sh_health_monitor.php:45
+msgid "WordPress core updates"
+msgstr "Automatische WordPress-Aktualisierungen wurden deaktiviert"
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# The message will be shown when something failed, it's header so no full stop.
+# ________________________________________
+#
+#: modules/health-monitor/templates/oc_sh_health_monitor.php:49
+msgid "SSL certificate"
+msgstr "Ihre Seite setzt kein intaktes SSL-Zertifikat ein"
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# The message will be shown when something failed, it's header so no full stop.
+# ________________________________________
+#
+#: modules/health-monitor/templates/oc_sh_health_monitor.php:53
+msgid "File execution in uploads"
+msgstr "Dateiausführung im uploads-Ordner ist aktiviert"
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# The message will be shown when something failed, it's header so no full stop.
+# ________________________________________
+#
+#: modules/health-monitor/templates/oc_sh_health_monitor.php:58
+msgid "WP file directory and files permissions"
+msgstr "Fehlerhafte Datei- und Ordnerberechtigungen gefunden"
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# The message will be shown when something failed, it's header so no full stop.
+# ________________________________________
+#
+#: modules/health-monitor/templates/oc_sh_health_monitor.php:63
+msgid "Database security"
+msgstr "Ihre Datenbank kann Angriffen ausgesetzt werden"
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# The message will be shown when something failed, it's header so no full stop.
+# ________________________________________
+#
+#: modules/health-monitor/templates/oc_sh_health_monitor.php:67
+msgid "File editing from admin"
+msgstr "Datei-Editor im Adminbereich ist aktiv"
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# The message will be shown when something failed, it's header so no full stop.
+# ________________________________________
+#
+#: modules/health-monitor/templates/oc_sh_health_monitor.php:71
+msgid "Insecure usernames"
+msgstr "Sie nutzen einen leicht zu erratenden Benutzernamen"
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# The message will be shown when something failed, it's header so no full stop.
+# ________________________________________
+#
+#: modules/health-monitor/templates/oc_sh_health_monitor.php:75
+msgid "Using discouraged plugins"
+msgstr "Sie nutzen mindestens ein nicht empfohlenes Plugin"
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# The message will be shown when something failed, it's header so no full stop.
+# ________________________________________
+#
+#: modules/health-monitor/templates/oc_sh_health_monitor.php:85
+#: modules/health-monitor/templates/oc_sh_health_monitor.php:103
+msgid "Debug mode/Error reporting"
+msgstr "Fehlermeldungen werden Ihren Besuchern angezeigt"
+
+#: modules/notice-discouraged-plugins.php:90
+#, php-format
+msgid ""
+"The plugin <strong>%s</strong>, that you are using, creates a lot of large "
+"temporary files causing high load on our servers and possible time-outs on "
+"your site.<br/>We strongly advise you to deactivate it. If you keep on using "
+"this plugin we may be forced to suspend your site. "
+msgstr ""
+"Das Plugin <strong>%s</strong> generiert sehr viele temporäre Dateien. Dies "
+"verursacht eine sehr hohe Serverlast, ggf. mit Ausfällen bei Ihrer Website."
+"<br/>Wir raten Ihnen dringend, das Plugin zu deaktivieren. Bei weiterer "
+"Nutzung behalten wir uns die temporäre Suspendierung Ihrer Website vor. "
+
+#: modules/notice-discouraged-plugins.php:93
+#: templates/discouraged-plugin-listing.php:79
+#: templates/network/discouraged-plugin-listing.php:79
+msgid "Deactivate"
+msgstr "Deaktivieren"
+
+#: modules/notice-discouraged-plugins.php:101 modules/notices.php:101
+msgid ""
+"You are using one or more plugins from the list of plugins we discourage. We "
+"recommend that you deactivate them, to ensure the best performance of your "
+"website. "
+msgstr ""
+"Sie verwenden eines oder mehrere der Plugins, die von uns nicht empfohlen "
+"werden. Sie sollten diese also deaktivieren, um die beste Performance Ihrer "
+"Webseite sicherzustellen."
+
+#: modules/notice-discouraged-plugins.php:104 modules/notices.php:105
+msgid "View discouraged plugins"
+msgstr "Nicht empfohlene Plugins ansehen"
+
+#: onecom-themes-plugins.php:319 onecom-themes-plugins.php:320
+#: onecom-themes-plugins.php:375 onecom-themes-plugins.php:378
+msgid "One.com"
+msgstr "One.com"
+
+#: onecom-themes-plugins.php:409 onecom-themes-plugins.php:662
+#: staging/Includes/Core/Administrator.php:96
+#: staging/Includes/Core/Administrator.php:97
+#: staging/Includes/Core/Administrator.php:110
+#: staging/Includes/Core/Administrator.php:111
+msgid "Staging"
+msgstr ""
+
+#: onecom-themes-plugins.php:423
+msgid "One.com Control Panel"
+msgstr "One.com Kontrollpanel"
+
+#: onecom-themes-plugins.php:426
+msgid "Go to Control Panel at One.com"
+msgstr "Zum Kontrollpanel von One.com gehen"
+
+#: onecom-themes-plugins.php:440
+msgid "One.com Guides & FAQ"
+msgstr "One.com Anleitungen & Häufig gestellte Fragen"
+
+#: onecom-themes-plugins.php:443
+msgid "Go to Guides & FAQ at One.com"
+msgstr "Zu Anleitungen & Häufig gestellte Fragen von One.com gehen"
+
+#: staging/Includes/Core/Jobs/Directories.php:281
+#, php-format
+msgid "Unable to open %s with mode %s"
+msgstr ""
+
+#: staging/Includes/Core/Jobs/Directories.php:300
+#, php-format
+msgid "Unable to write to: %s"
+msgstr ""
+
+#: staging/Includes/Core/Jobs/Directories.php:304
+msgid "Out of disk space."
+msgstr ""
+
+#: staging/Includes/Core/views/ajax/scan.php:2
+msgid "Staging Site Name:"
+msgstr ""
+
+#: staging/Includes/Core/views/ajax/scan.php:8
+msgid ""
+"<br>Probably not enough free disk space to create a staging site. <br> You "
+"can continue but its likely that the copying process will fail."
+msgstr ""
+
+#: staging/Includes/Core/views/ajax/scan.php:18
+msgid "DB Tables"
+msgstr ""
+
+#: staging/Includes/Core/views/ajax/scan.php:21
+msgid "Files"
+msgstr ""
+
+#: staging/Includes/Core/views/ajax/scan.php:35
+msgid "Please Deselect the tables you dont want to copy."
+msgstr ""
+
+#: staging/Includes/Core/views/ajax/scan.php:76
+msgid ""
+"Uncheck the folders you do not want to copy. Click on them for expanding!"
+msgstr ""
+
+#: staging/Includes/Core/views/ajax/scan.php:83
+msgid "Extra directories to copy"
+msgstr ""
+
+#: staging/Includes/Core/views/ajax/scan.php:91
+msgid ""
+"Enter one folder path per line.<br>Folders must start with absolute path: "
+msgstr ""
+
+#: staging/Includes/Core/views/ajax/scan.php:103
+msgid "All files will be copied to: "
+msgstr ""
+
+#: staging/Includes/Core/views/ajax/staging_details.php:13
+msgid "Your staging site"
+msgstr "Deine Staging Seite"
+
+#: staging/Includes/Core/views/ajax/staging_details.php:15
+msgid "Staging site broken"
+msgstr "Staging Seite ist kompromittiert"
+
+#: staging/Includes/Core/views/ajax/staging_details.php:21
+msgid "Staging Frontend:"
+msgstr "Staging Frontend:"
+
+#: staging/Includes/Core/views/ajax/staging_details.php:22
+msgid "Staging Backend:"
+msgstr "Staging Backend:"
+
+#: staging/Includes/Core/views/ajax/staging_details.php:27
+msgid ""
+"We have detected that your staging site is broken due to missing database "
+"table(s) and/or directory(s)."
+msgstr ""
+"Wir haben festgestellt, dass Ihre Staging Seite aufgrund fehlender Datenbank "
+"Tabellen und/oder Verzeichnissen kompromittiert ist."
+
+#: staging/Includes/Core/views/ajax/staging_details.php:28
+msgid "Click on \"Rebuild Staging\" to regenerate your staging site."
+msgstr ""
+"Klicken Sie auf “Staging wiederherstellen” um die Staging Seite neu zu "
+"generieren."
+
+#: staging/Includes/Core/views/ajax/staging_details.php:43
+msgid ""
+"The staging website is a copy of your live website, where you can test new "
+"plugins and themes without affecting your live website."
+msgstr ""
+"Die Staging Webseite ist eine Kopie Ihrer Live Webseite, auf welcher Sie "
+"Ihre Plugins und Themes testen können, ohne Ihre Live Webseite zu "
+"beeinflussen."
+
+#: staging/Includes/Core/views/ajax/staging_details.php:44
+msgid ""
+"Only one staging version can be created for each website. When you rebuild a "
+"staging website, any existing staging site will be replaced with a new "
+"snapshot of your live website."
+msgstr ""
+"Es kann für jede Webseite nur eine Staging Version erstellt werden. Wenn Sie "
+"eine Staging Webseite wiederherstellen, wird die Staging Seite durch einen "
+"neuen Snapshot Ihrer Live Webseite ersetzt."
+
+#: staging/Includes/Core/views/ajax/staging_details.php:45
+msgid ""
+"The login details for the staging backend are the same as for the live "
+"website."
+msgstr ""
+"Die Login-Daten für das Staging Backend sind die gleichen, wie für die Live "
+"Webseite."
+
+#: staging/Includes/Core/views/ajax/staging_details.php:47
+msgid ""
+"Caution: Rebuilding will overwrite all files and the database of your "
+"existing staging website."
+msgstr ""
+"Achtung: Die Wiederherstellung wird alle Ihre Dateien und die Datenbank "
+"Ihrer aktuellen Staging Seite überschreiben."
+
+#: staging/Includes/Core/views/ajax/staging_details.php:50
+#: staging/Includes/Core/views/live.php:51
+#: staging/Includes/Core/views/staging.php:32
+msgid "Need help?"
+msgstr "Brauchen Sie Hilfe?"
+
+#: staging/Includes/Core/views/ajax/staging_details.php:52
+#: staging/Includes/Core/views/ajax/staging_details.php:53
+#: staging/Includes/Core/views/includes/footer.php:14
+#: staging/Includes/Core/views/includes/footer.php:29
+#: staging/Includes/Core/views/includes/footer.php:44
+#: staging/Includes/Core/views/includes/footer.php:62
+#: staging/Includes/Core/views/staging.php:34
+msgid "Are you sure?"
+msgstr "Sind Sie sicher?"
+
+#: staging/Includes/Core/views/ajax/staging_details.php:52
+msgid "Rebuild Staging"
+msgstr "Staging wiederherstellen"
+
+#: staging/Includes/Core/views/ajax/staging_details.php:53
+msgid "Delete Staging"
+msgstr "Staging löschen"
+
+#: staging/Includes/Core/views/blocked.php:14
+msgid "Staging feature not available."
+msgstr ""
+
+#: staging/Includes/Core/views/blocked.php:16
+msgid ""
+"Staging feature is not yet available for the following type of WordPress "
+"websites:"
+msgstr ""
+
+#: staging/Includes/Core/views/includes/footer.php:16
+msgid ""
+"This will overwrite your staging website with a copy of the files and "
+"database from your live website. All changes made in your staging website "
+"will be lost."
+msgstr ""
+"Dies wird Ihre Staging Webseite mit einer Kopie der Dateien und Datenbank "
+"Ihrer Live Webseite überschreiben. Alle Änderungen, die Sie auf Ihrer "
+"Staging Webseite durchgeführt haben, gehen verloren."
+
+#: staging/Includes/Core/views/includes/footer.php:19
+#: staging/Includes/Core/views/includes/footer.php:34
+#: staging/Includes/Core/views/includes/footer.php:50
+#: staging/Includes/Core/views/includes/footer.php:67
+msgid "OK"
+msgstr ""
+
+# "Cancel" and go back, or "Save" your settings.
+#
+# ____________________________
+# Reference for developers:
+#
+#: staging/Includes/Core/views/includes/footer.php:20
+#: staging/Includes/Core/views/includes/footer.php:35
+#: staging/Includes/Core/views/includes/footer.php:51
+#: staging/Includes/Core/views/includes/footer.php:68
+msgid "Cancel"
+msgstr "Abbrechen"
+
+#: staging/Includes/Core/views/includes/footer.php:31
+msgid ""
+"This takes a snapshot of your blog and copies it to a \"staging area\" where "
+"you can test changes without affecting your live site. There's only one "
+"staging area, so every time you click this button the old staging area is "
+"lost forever, replaced with a snapshot of your live blog."
+msgstr ""
+
+#: staging/Includes/Core/views/includes/footer.php:46
+msgid "The staging site will be lost."
+msgstr "Die Staging Seite wird verloren gehen."
+
+#: staging/Includes/Core/views/includes/footer.php:64
+msgid ""
+"This will overwrite your live website with a copy of the files and database "
+"from your staging website."
+msgstr ""
+"Dies wird Ihre Live Webseite mit einer Kopie der Dateien und Datenbank der "
+"Staging Webseite überschreiben."
+
+#: staging/Includes/Core/views/includes/header.php:6
+msgid "One Staging"
+msgstr ""
+
+#: staging/Includes/Core/views/includes/header.php:8
+msgid "This is your Staging site."
+msgstr ""
+
+#: staging/Includes/Core/views/live.php:7
+msgid "Please wait, while we are copying your live site to the staging site."
+msgstr ""
+"Bitte warten Sie, während wir Ihre Live Seite auf die Staging Seite kopieren"
+
+#: staging/Includes/Core/views/live.php:15
+msgid "Please wait, while we are updating staging site."
+msgstr "Bitte warten Sie, während wir die Staging-Site aktualisieren."
+
+#: staging/Includes/Core/views/live.php:21
+msgid "Please wait, while we are deleting staging site."
+msgstr ""
+
+#: staging/Includes/Core/views/live.php:47
+msgid ""
+"Create a staging version of your site to try out new plugins, themes and "
+"customizations"
+msgstr ""
+"Erstellen Sie eine Staging Version Ihrer Seite, um neue Plugins, Themes und "
+"andere Anpassungen auszuprobieren"
+
+#: staging/Includes/Core/views/live.php:48
+msgid ""
+"The staging environment allows you to make changes to your site, without it "
+"affecting the live version of your website. When you create a staging site, "
+"it will be a snapshot of your live website."
+msgstr ""
+"Die Staging Umgebung erlaubt es Ihnen, Änderungen auf Ihrer Seite "
+"vorzunehmen, ohne die Live Version Ihrer Webseite zu beeinflussen. Eine "
+"Staging Seite ist vergleichbar mit einem Snapshot Ihrer Seite."
+
+#: staging/Includes/Core/views/live.php:48
+msgid ""
+"You can use it as a playground to test new plugins and themes. Once you are "
+"satisfied with the result, you can copy all the changes to your live website "
+"with a single click."
+msgstr ""
+"Sie können es wie einen Spielplatz nutzen und darauf neue Plugins und Themes "
+"testen. Sobald Sie mit dem Ergebnis zufrieden sind, können Sie alle "
+"Änderungen mit einem einzigen Klick auf Ihre Live-Webseite kopieren."
+
+#: staging/Includes/Core/views/live.php:49
+msgid "Please note"
+msgstr "Bitte beachten Sie"
+
+#: staging/Includes/Core/views/live.php:49
+msgid ""
+"Plugins that are URL sensitive may not work as expected on the staging site."
+msgstr ""
+"Plugins, die URL sensibel sind, werden wahrscheinlich nicht erwartungsgemäß "
+"angezeigt werden."
+
+#: staging/Includes/Core/views/live.php:54
+msgid "Create staging site"
+msgstr "Stagingseite erstellen"
+
+#: staging/Includes/Core/views/staging.php:6
+msgid "Please wait, while we are copying staging into live."
+msgstr ""
+
+#: staging/Includes/Core/views/staging.php:18
+msgid "Copy staging to your live site"
+msgstr "Staging auf die Live Seite kopieren"
+
+#: staging/Includes/Core/views/staging.php:22
+msgid ""
+"This is your staging website, a snapshot of your live website. Here you can "
+"test changes without affecting your live website."
+msgstr ""
+"Dies ist Ihre Staging Webseite, ein Snapshot Ihrer Live Webseite. Hier "
+"können Sie Änderungen testen, ohne Ihre Live Webseite zu beeinflussen."
+
+#: staging/Includes/Core/views/staging.php:24
+msgid ""
+"When you copy from staging to live, the live website will get replaced with "
+"a snapshot of this staging website."
+msgstr ""
+
+#: staging/Includes/Core/views/staging.php:25
+msgid "Before you continue, please be aware of the following:"
+msgstr "Bevor Sie fortfahren, seien Sie sich über folgendes bewusst:"
+
+#: staging/Includes/Core/views/staging.php:28
+msgid "It is not possible to reverse this process."
+msgstr "Es ist nicht möglich, diesen Prozess wieder rückgängig zu machen."
+
+#: staging/Includes/Core/views/staging.php:29
+msgid ""
+"When you copy from staging to live, all data and files of your live website "
+"will be overwritten. This includes recently added posts, pages, media "
+"uploads and files."
+msgstr ""
+"Wenn Sie von staging zu live kopieren, werden alle Daten, Dateien und Ihre "
+"Live Webseite überschrieben. Dies beinhaltet hinzugefügte Posts, Seiten, "
+"Medienuploads und -dateien."
+
+#: staging/Includes/Core/views/staging.php:30
+msgid ""
+"It can take a couple of minutes for the copy to finish, so please do not "
+"close or navigate away from this page."
+msgstr ""
+"Es kann dauern, bis die Kopie fertiggestellt wurde. Bitte schließen oder "
+"verlassen Sie die Seite nicht."
+
+#: staging/Includes/Core/views/staging.php:34
+msgid "Copy staging to live"
+msgstr "Staging zu live kopieren"
+
+#: staging/Includes/Core/views/staging.php:39
+msgid "Live website details not found. Can not copy staging into live!"
+msgstr ""
+
+#: staging/one_staging.php:147
+msgid "Status"
+msgstr ""
+
+#: staging/one_staging.php:148
+msgid "Response"
+msgstr ""
+
+#: staging/one_staging.php:149
+msgid "Copied successfully."
+msgstr "Die Staging Seite wurde erfolgreich erstellt."
+
+#: staging/one_staging.php:150
+msgid "Something went wrong; please try again."
+msgstr ""
+"Leider ist ein Fehler aufgetreten. Bitte wenden Sie sich an den Support von "
+"One.com."
+
+#: staging/one_staging.php:154
+msgid "Preparing..."
+msgstr "Vorbereiten…"
+
+#: staging/one_staging.php:155
+msgid "Start copying..."
+msgstr "Kopieren starten…"
+
+#: staging/one_staging.php:156
+msgid "Copying database..."
+msgstr "Datenbank kopieren…"
+
+#: staging/one_staging.php:157
+msgid "Preparing directories..."
+msgstr "Verzeichnisse vorbereiten…"
+
+#: staging/one_staging.php:158
+msgid "Copying files..."
+msgstr "Dateien kopieren…"
+
+#: staging/one_staging.php:159
+msgid "Updating database..."
+msgstr "Datenbank updaten…"
+
+#: staging/one_staging.php:160
+msgid "Finalising..."
+msgstr "Abschließen…"
+
+#: staging/one_staging.php:161
+msgid "Finished!"
+msgstr "Fertig!"
+
+#: staging/one_staging.php:162
+msgid "Deleting staging..."
+msgstr "Staging wird gelöscht…"
+
+#: templates/discouraged-plugin-listing.php:13
+#: templates/discouraged-plugin-listing.php:25
+#: templates/network/discouraged-plugin-listing.php:13
+#: templates/network/discouraged-plugin-listing.php:25
+#: templates/network/plugin-listing.php:25
+#: templates/network/recommended-plugin-listing.php:25
+#: templates/plugin-listing.php:25 templates/recommended-plugin-listing.php:25
+msgid "Discouraged plugins"
+msgstr "Nicht empfohlene Plugins"
+
+#: templates/discouraged-plugin-listing.php:23
+#: templates/network/discouraged-plugin-listing.php:23
+#: templates/network/plugin-listing.php:23
+#: templates/network/recommended-plugin-listing.php:23
+#: templates/plugin-listing.php:23 templates/recommended-plugin-listing.php:23
+msgid "One.com plugins"
+msgstr "One.com Plugins"
+
+#: templates/discouraged-plugin-listing.php:24
+#: templates/network/discouraged-plugin-listing.php:24
+#: templates/network/plugin-listing.php:24
+#: templates/network/recommended-plugin-listing.php:24
+#: templates/plugin-listing.php:24 templates/recommended-plugin-listing.php:24
+msgid "Recommended plugins"
+msgstr "Empfohlene Plugins"
+
+#: templates/discouraged-plugin-listing.php:60
+#: templates/network/discouraged-plugin-listing.php:60
+msgid ""
+"Your WordPress site should work the best possible way. We checked the "
+"plugins on your website, and listed those we don't recommended you to use."
+msgstr ""
+"Ihre WordPress Seite sollte best möglich funktionieren. Wir haben die "
+"Plugins Ihrer Webseite geprüft und diese aufgelistet, deren Nutzung wir "
+"nicht empfehlen."
+
+#: templates/discouraged-plugin-listing.php:60
+#: templates/network/discouraged-plugin-listing.php:60
+msgid "There are also some suggestions for alternative plugins to use instead."
+msgstr ""
+"Sie finden auch ein paar Empfehlungen für alternative Plugins, die Sie "
+"nutzen können."
+
+#: templates/discouraged-plugin-listing.php:63
+#: templates/network/discouraged-plugin-listing.php:63
+msgid "View full list of discouraged plugins"
+msgstr "Komplette Liste der nicht empfohlenen Plugins anzeigen"
+
+#: templates/discouraged-plugin-listing.php:88
+#: templates/network/discouraged-plugin-listing.php:88
+msgid "Suggested alternative"
+msgstr "Empfohlene Alternative"
+
+#: templates/discouraged-plugin-listing.php:88
+#: templates/network/discouraged-plugin-listing.php:88
+msgid "Suggested alternatives"
+msgstr "Empfohlene Alternativen"
+
+#: templates/discouraged-plugin-listing.php:117
+#: templates/network/discouraged-plugin-listing.php:117
+msgid "Yes, deactivate plugin"
+msgstr "Ja, Plugin deaktivieren"
+
+#: templates/discouraged-plugin-listing.php:117
+#: templates/network/discouraged-plugin-listing.php:117
+msgid "Not right now"
+msgstr "Nicht jetzt"
+
+#: templates/discouraged-plugin-listing.php:119
+#: templates/network/discouraged-plugin-listing.php:119
+msgid "Are you sure that you want to deactivate this plugin?"
+msgstr "Sind Sie sicher, dass Sie dieses Plugin deaktivieren möchten?"
+
+#: templates/discouraged-plugin-listing.php:121
+#: templates/network/discouraged-plugin-listing.php:121
+msgid "Deactivating a plugin can break functionality on your website."
+msgstr ""
+"Das Deaktivieren eines Plugins kann die Funktionalität Ihrer Webseite "
+"einschränken."
+
+#: templates/network/plugin-listing.php:13 templates/plugin-listing.php:13
+msgid "Plugins that bring the One.com experience and services to WordPress."
+msgstr ""
+"Plugins, die die gesamte One.com Erfahrung und Services zu Wordpress bringen."
+
+#: templates/network/plugin-listing.php:84
+#: templates/network/recommended-plugin-listing.php:98
+#: templates/network/theme-listing-loop.php:75 templates/plugin-listing.php:83
+#: templates/recommended-plugin-listing.php:97
+#: templates/theme-listing-loop.php:72
+msgid "Active"
+msgstr "Aktiv"
+
+#: templates/network/plugin-listing.php:92
+#: templates/network/recommended-plugin-listing.php:102
+#: templates/plugin-listing.php:91 templates/recommended-plugin-listing.php:101
+msgid "Install now"
+msgstr "Jetzt installieren"
+
+#: templates/network/recommended-plugin-listing.php:13
+#: templates/recommended-plugin-listing.php:13
+msgid "Presenting some of our favorite WordPress plugins, curated for quality."
+msgstr ""
+"Hier sind einige unserer Lieblingsplugins, zusammengestellt für beste "
+"Qualität."
+
+#: templates/network/recommended-plugin-listing.php:110
+#: templates/recommended-plugin-listing.php:109
+msgid "More details"
+msgstr "Weitere Informationen"
+
+#: templates/network/recommended-plugin-listing.php:117
+#: templates/recommended-plugin-listing.php:116
+msgid "By"
+msgstr "Von"
+
+#: templates/network/theme-listing-loop.php:57
+#: templates/theme-listing-loop.php:50
+msgid "Preview"
+msgstr "Voransicht"
+
+#: templates/network/theme-listing-loop.php:90
+#: templates/network/theme-listing.php:100 templates/theme-listing-loop.php:87
+#: templates/theme-listing.php:102
+msgid "Install"
+msgstr "Installieren"
+
+#: templates/network/theme-listing.php:14 templates/theme-listing.php:14
+msgid "Exclusive themes specially crafted for One.com customers."
+msgstr "Exklusiv für One.com Kunden gestaltete Themen"
+
+#: templates/network/theme-listing.php:35
+#: templates/network/theme-listing.php:37
+#: templates/network/theme-listing.php:49 templates/theme-listing.php:31
+#: templates/theme-listing.php:33 templates/theme-listing.php:45
+msgid "All"
+msgstr "Alle"
+
+#: templates/network/theme-listing.php:38
+#: templates/network/theme-listing.php:50 templates/theme-listing.php:34
+#: templates/theme-listing.php:46
+msgid "Blog"
+msgstr "Blog"
+
+#: templates/network/theme-listing.php:39
+#: templates/network/theme-listing.php:51 templates/theme-listing.php:35
+#: templates/theme-listing.php:47
+msgid "Business & Services"
+msgstr "Business & Service"
+
+#: templates/network/theme-listing.php:40
+#: templates/network/theme-listing.php:52 templates/theme-listing.php:36
+#: templates/theme-listing.php:48
+msgid "Events"
+msgstr "Events"
+
+#: templates/network/theme-listing.php:41
+#: templates/network/theme-listing.php:53 templates/theme-listing.php:37
+#: templates/theme-listing.php:49
+msgid "Family & Recreation"
+msgstr "Familie & Freizeit"
+
+#: templates/network/theme-listing.php:42
+#: templates/network/theme-listing.php:54 templates/theme-listing.php:38
+#: templates/theme-listing.php:50
+msgid "Food & Hospitality"
+msgstr "Essen & Bewirtung"
+
+#: templates/network/theme-listing.php:43
+#: templates/network/theme-listing.php:55 templates/theme-listing.php:39
+#: templates/theme-listing.php:51
+msgid "Music & Art"
+msgstr "Musik & Kunst"
+
+#: templates/network/theme-listing.php:44
+#: templates/network/theme-listing.php:56 templates/theme-listing.php:40
+#: templates/theme-listing.php:52
+msgid "Online Shop"
+msgstr "Webshop"
+
+#: templates/network/theme-listing.php:45
+#: templates/network/theme-listing.php:57 templates/theme-listing.php:41
+#: templates/theme-listing.php:53
+msgid "Portfolio & CV"
+msgstr "Portfolio & Lebenslauf"
+
+#: templates/network/theme-listing.php:96 templates/theme-listing.php:98
+msgid "Back to themes"
+msgstr "Zurück zu den Website-Themen"
+
+#: templates/network/theme-listing.php:103 templates/theme-listing.php:105
+msgid "Desktop"
+msgstr "Desktop"
+
+#: templates/network/theme-listing.php:104 templates/theme-listing.php:106
+msgid "Mobile"
+msgstr "Mobil"
+
+#, fuzzy
+#~ msgid " - Latest updates"
+#~ msgstr "- Letzte Aktualisierungen"
+
+#, fuzzy
+#~ msgid " Full Width Section Image"
+#~ msgstr "Bild für Abschnitt in voller Breite"
+
+#~ msgid ""
+#~ "%1$s%3$sThat's it, all done!%4$s%2$sThe import of demo data has finished. "
+#~ "Please check your page and make sure that everything has been imported "
+#~ "correctly.%5$s"
+#~ msgstr ""
+#~ "%1$s%3$sDas wars.%4$s%2$sDer Import der Demo Daten ist abgeschlossen. "
+#~ "Prüfen Sie bitte Ihre Seite und stellen Sie sicher, dass alles korrekt "
+#~ "importiert wurde.%5$s"
+
+#~ msgid ""
+#~ "%1$sThe demo import has finished, but there were some import errors."
+#~ "%2$sMore details about the errors can be found in this %3$s%5$slog file"
+#~ "%6$s%4$s%7$s"
+#~ msgstr ""
+#~ "%1$sDer Demo Import ist abgeschlossen, allerdings sind während des "
+#~ "Imports einige Fehler aufgetreten.%2$sWeitere Informationen zur "
+#~ "Fehlerquelle lassen sich in den %3$s%5$sLog-Dateien finden.%6$s%4$s%7$s"
+
+#~ msgid "%s <span class=\"screen-reader-text says\">says:</span>"
+#~ msgstr ""
+#~ "%s <span class=\"screen-reader-text says\">sagt:</span><span class="
+#~ "\"screen-reader-text says\">says:</span>"
+
+#, fuzzy
+#~ msgid "(no title)"
+#~ msgstr "Website-Titel"
+
+#, fuzzy
+#~ msgid "404"
+#~ msgstr "404"
+
+#~ msgid "404 Page Content"
+#~ msgstr "404-Seiteninhalt"
+
+#~ msgid "<span class=\"screen-reader-text\">Posted on</span> %s"
+#~ msgstr "<span class=\"screen-reader-text\">Eingestellt am</span> %s"
+
+# Error message that is shown when an Administrator user tries to login with a wrong password, explaining that they need to set a new one.
+#
+# The text in between the placeholders will become a link.
+#
+# _______________________________________
+#~ msgid ""
+#~ "<strong>ERROR</strong> If you are owner of this domain, please %s reset "
+#~ "your password%s by providing email id registered with one.com."
+#~ msgstr ""
+#~ "Das eingegebene Passwort ist falsch. Wenn Sie sich zum ersten Mal mit "
+#~ "diesem Benutzer anmelden, müssen Sie %s ein neues Passwort%s festlegen."
+
+#~ msgid "A video will override the featured image for this post."
+#~ msgstr "Ein Video überschreibt das ausgewählte Bild für diesen Beitrag."
+
+#~ msgid "About"
+#~ msgstr "Über"
+
+#~ msgid "About Blog"
+#~ msgstr "Über den Blog"
+
+#~ msgid "About Me"
+#~ msgstr "Über mich"
+
+#~ msgid "About the blog"
+#~ msgstr "Über den Blog"
+
+#~ msgid "About us section"
+#~ msgstr "Unterer Abschnitt"
+
+#~ msgid "Above the flip box"
+#~ msgstr "Über der Flipbox"
+
+#~ msgid "Acronym"
+#~ msgstr "Abkürzung"
+
+#~ msgid "Active Color"
+#~ msgstr "Aktive Farbe"
+
+#, fuzzy
+#~ msgid "Actual ratio"
+#~ msgstr "Verhältnis"
+
+#, fuzzy
+#~ msgid "Add a custom color to text in your online shop."
+#~ msgstr ""
+#~ "Fügen Sie eine benutzerdefinierte Textfarbe für Ihren Webshop hinzu."
+
+#, fuzzy
+#~ msgid "Add a custom font for your online shop."
+#~ msgstr ""
+#~ "Fügen Sie eine benutzerdefinierte Schriftart für Ihren Webshop hinzu."
+
+#~ msgid "Add Adventure"
+#~ msgstr "Add Reise"
+
+#, fuzzy
+#~ msgid "Add custom CSS to the shopfront."
+#~ msgstr "Fügen Sie ein benutzerdefiniertes CSS zum Webshop hinzu."
+
+#, fuzzy
+#~ msgid ""
+#~ "Add custom CSS to your shop and read the tips to get started. You can "
+#~ "always start over, by emptying the custom CSS field below."
+#~ msgstr ""
+#~ "Fügen Sie benutzerdefinierte CSS zu Ihrem Shop hinzu. Lesen Sie die "
+#~ "Tipps, um loszulegen. Sie können immer wieder neu starten, indem Sie das "
+#~ "CSS-Feld unten entleeren."
+
+#~ msgid "Add fonts in your website."
+#~ msgstr "Schriftarten zu Ihrer Website hinzufügen."
+
+#, fuzzy
+#~ msgid "Add Google Font"
+#~ msgstr "Google Schriftart hinzufügen"
+
+#~ msgid "Add Image"
+#~ msgstr "Bild hinzufügen"
+
+#, fuzzy
+#~ msgid "Add Media"
+#~ msgstr "Medien hinzufügen"
+
+#, fuzzy
+#~ msgid "Add New"
+#~ msgstr "Neu hinzufügen"
+
+#~ msgid "Add New Adventure"
+#~ msgstr "Add New Reise"
+
+#~ msgid "Add New Catalog"
+#~ msgstr "Neu hinzufügen"
+
+#~ msgid "Add New Instructor"
+#~ msgstr "Neuen Ausbilder hinzufügen"
+
+#~ msgid "Add New Recipe Type"
+#~ msgstr "Neue Rezept Art hinzufügen"
+
+#~ msgid "Add New Reviews"
+#~ msgstr "Neue Besprechungen hinzufügen"
+
+#~ msgid "Add New Service"
+#~ msgstr "Neue Serivceleistung hinzufügen"
+
+#~ msgid "Add New Slide"
+#~ msgstr "Neuen Slide hinzufügen"
+
+#~ msgid "Add New Spotlight"
+#~ msgstr "Neues Highlight hinzufügen"
+
+#~ msgid "Add New Testimonial"
+#~ msgstr "Neue Referenz hinzufügen"
+
+#~ msgid "Add New Travel"
+#~ msgstr "Neue Reise hinzufügen"
+
+#~ msgid "Add New Tutorials Type"
+#~ msgstr "Neuen Tutorial-Typ hinzufügen"
+
+#~ msgid "Add New User"
+#~ msgstr "Neuen Benutzer hinzufügen"
+
+#~ msgid "Add phone number on your website"
+#~ msgstr "Eine Telefonnumer zu Ihrer Website hinzufügen"
+
+#~ msgid "Add Reviews"
+#~ msgstr "Besprechungen hinzufügen"
+
+#~ msgid "Add Service"
+#~ msgstr "Serivceleistung hinzufügen"
+
+#~ msgid "Add Spotlight"
+#~ msgstr "Highlight hinzufügen"
+
+#~ msgid "Add Testimonial"
+#~ msgstr "Add Referenz"
+
+#~ msgid "Add Testimonials"
+#~ msgstr "Referenzen hinzufügen"
+
+#~ msgid "Add Travel"
+#~ msgstr "Reise hinzufügen"
+
+#~ msgid "Add widgets here to appear in your footer."
+#~ msgstr "Fügen Sie hier Widgets hinzu, die in Ihrem Footer erscheinen."
+
+#~ msgid "Add widgets here to appear in your header."
+#~ msgstr "Fügen Sie hier Widgets hinzu, die in Ihrer Header erscheinen."
+
+#~ msgid "Add widgets here to appear in your sidebar."
+#~ msgstr "Fügen Sie hier Widgets hinzu, die in Ihrer Sidebar erscheinen."
+
+#, fuzzy
+#~ msgid "Add your online shop to a page"
+#~ msgstr "Fügen Sie Ihren Webshop zu einer Seite hinzu"
+
+#~ msgid "Address"
+#~ msgstr "Anschrift"
+
+#~ msgid "Address Line 1"
+#~ msgstr "Adresszeile 1"
+
+#~ msgid "Address Line 2"
+#~ msgstr "Adresszeile 2"
+
+# You have three ways that you can show the shopping cart on your site.
+#
+# This is the header and description, after which you need to choose an option.
+#
+# ____________________________
+# Reference for developers:
+#
+#~ msgid "Adjust cart position"
+#~ msgstr "Position und Stil des Einkaufswagens festlegen"
+
+#~ msgid "Advanced"
+#~ msgstr "Erweitert"
+
+#~ msgid "Adventure"
+#~ msgstr "Reise"
+
+#~ msgid "All Recipe Types"
+#~ msgstr "Alle Rezept Arten"
+
+#~ msgid "All Reviews"
+#~ msgstr "Alle Besprechungen"
+
+#~ msgid "All services button link"
+#~ msgstr "Dienste Schaltflächenlink"
+
+#~ msgid "All services button text"
+#~ msgstr "Dienste Schaltflächentext"
+
+#~ msgid "All Slides"
+#~ msgstr "Alle Slides"
+
+#~ msgid "All Tutorials Types"
+#~ msgstr "Alle Tutorial-Typen"
+
+#~ msgid "All Users"
+#~ msgstr "Alle Benutzer"
+
+# Checkbox option to enable a share link that is visible under each post.
+# __________________________
+#~ msgid "Allow social sharing for posts?"
+#~ msgstr "Link zum Teilen unter jedem Beitrag hinzufügen"
+
+#, fuzzy
+#~ msgid "Alphabetical"
+#~ msgstr "Alphabetisch"
+
+#, fuzzy
+#~ msgid "Any question?"
+#~ msgstr "Haben Sie Fragen?"
+
+# This option will be available to users instead of "In head of all pages", but only when they don't use a One.com theme. The customer then needs to add a css selector in the box below.
+# ____________________________
+# Reference for developers:
+#
+#~ msgid "Attach cart to css selector"
+#~ msgstr "Einkaufswagen an CSS-Selector anfügen"
+
+#~ msgid "Author"
+#~ msgstr "Autor"
+
+#~ msgid "Auto"
+#~ msgstr "Auto"
+
+#, fuzzy
+#~ msgid "Background"
+#~ msgstr "Hintergrund"
+
+#, fuzzy
+#~ msgid "Background Attachment"
+#~ msgstr "Hintergrund Anhang"
+
+#, fuzzy
+#~ msgid "Background Color"
+#~ msgstr "Hintergrundfarbe"
+
+#, fuzzy
+#~ msgid "Background color (dropdown menu)"
+#~ msgstr "Hintergrundfarbe (Dropdown-Menü)"
+
+#, fuzzy
+#~ msgid "Background color (online shop)"
+#~ msgstr "Hintergrund-Farbe (Webshop)"
+
+#, fuzzy
+#~ msgid "Background Image"
+#~ msgstr "Hintergrundbild"
+
+#, fuzzy
+#~ msgid "Background Position"
+#~ msgstr "Hintergrundposition"
+
+#, fuzzy
+#~ msgid "Background Repeat"
+#~ msgstr "Hintergrund Wiederholung"
+
+#~ msgid "Background Section"
+#~ msgstr "Hintergrund Abschnitt"
+
+#~ msgid "Background Section - Text Color"
+#~ msgstr "Hintergrundabschnitt - Textfarbe"
+
+#, fuzzy
+#~ msgid "Background Size"
+#~ msgstr "Hintergrund Größe"
+
+#, fuzzy
+#~ msgid "Banner"
+#~ msgstr "Banner"
+
+#~ msgid "Banner Blurb"
+#~ msgstr "Banner-Kurzinfo"
+
+#~ msgid "Banner Buttons"
+#~ msgstr "Bannerschaltflächen"
+
+#~ msgid "Banner Buttons - Border"
+#~ msgstr "Bannerschaltflächen - Rand"
+
+#~ msgid "Banner Buttons - Border Radius"
+#~ msgstr "Bannerschaltflächen - Randradius"
+
+#~ msgid "Banner Buttons - Show Border"
+#~ msgstr "Bannerschaltflächen - Rand anzeigen"
+
+#~ msgid "Banner Caption"
+#~ msgstr "Bannerbeschriftung"
+
+#~ msgid "Banner Caption - Content"
+#~ msgstr "Bannerbeschriftung - Titel"
+
+#~ msgid "Banner Caption - Subtitle"
+#~ msgstr "Bannerbeschriftung - Untertitel"
+
+#~ msgid "Banner Caption - Title"
+#~ msgstr "Bannerbeschriftung - Titel"
+
+#~ msgid "Banner Content"
+#~ msgstr "Banner Inhalt"
+
+#~ msgid "Banner Custom Height"
+#~ msgstr "Bannerhöhe anpassen"
+
+#~ msgid "Banner Font Style"
+#~ msgstr "Banner Schriftart"
+
+#~ msgid "Banner Heading Font Style"
+#~ msgstr "Bannerüberschrift-Schriftart"
+
+#~ msgid "Banner Height"
+#~ msgstr "Bannerhöhe"
+
+#~ msgid "Banner Height (px)"
+#~ msgstr "Bannerhöhe (Pixel)"
+
+#, fuzzy
+#~ msgid "Banner Image"
+#~ msgstr "Bannerbild"
+
+#~ msgid "Banner Right Text"
+#~ msgstr "Text Banner rechts"
+
+#~ msgid "Banner Right Text Image"
+#~ msgstr "Bild für Text Banner rechts"
+
+#~ msgid "Banner Setting"
+#~ msgstr "Bannereinstellung"
+
+#~ msgid "Banner Settings"
+#~ msgstr "Bannereinstellungen"
+
+#, fuzzy
+#~ msgid "Banner Sub-text"
+#~ msgstr "Text Banneruntertitel"
+
+#~ msgid "Banner Subtext Font Style"
+#~ msgstr "Bannersubtext-Schriftart"
+
+#~ msgid "Banner Subtitle Text"
+#~ msgstr "Text Banneruntertitel"
+
+#, fuzzy
+#~ msgid "Banner Text"
+#~ msgstr "Banner Text"
+
+#~ msgid "Banner Title Text"
+#~ msgstr "Text Bannertitel"
+
+#~ msgid "Banner Widget"
+#~ msgstr "Banner Widget"
+
+#, fuzzy
+#~ msgid "Below the banner"
+#~ msgstr "Unter dem Banner"
+
+#~ msgid "Below the banner."
+#~ msgstr "Unter dem Banner."
+
+#, fuzzy
+#~ msgid "Below the full width section"
+#~ msgstr "Unter dem Abschnitt in voller Breite"
+
+#~ msgid "Big Text Color"
+#~ msgstr "Farbe für großen Text"
+
+#~ msgid "Blog Listing - Page Layout"
+#~ msgstr "Blog-Listing - Seitenlayout"
+
+#~ msgid "Blog Section Title"
+#~ msgstr "Titel Blog-Abschnitt"
+
+#~ msgid "Blog Settings"
+#~ msgstr "Blog-Einstellungen"
+
+#~ msgid "Blog settings"
+#~ msgstr "Blog-Einstellungen"
+
+#~ msgid "Blog Sidebar"
+#~ msgstr "Blog Sidebar"
+
+#~ msgid "Blog Template"
+#~ msgstr "Blog-Vorlage"
+
+#~ msgid "Body"
+#~ msgstr "Textkörper"
+
+#, fuzzy
+#~ msgid "Body Background"
+#~ msgstr "Textkörper Hintergrund"
+
+# Label to set the colour for the background of the blog.
+#
+# See screenshot for context and the corresponding colour, here the background is mint green.
+# ____________________________________________
+#~ msgid "Body Background color"
+#~ msgstr "Hintergrund"
+
+#, fuzzy
+#~ msgid "Body background with image, color, etc."
+#~ msgstr "Textkörper-Hintergrund mit Bild, Farbe usw."
+
+#, fuzzy
+#~ msgid "Body Font Style"
+#~ msgstr "Body-Schriftart"
+
+#~ msgid "Body Social Icon background Color"
+#~ msgstr "Textkörper Social Media Iconhintergrundfarbe"
+
+#~ msgid "Body Social Icon Color"
+#~ msgstr "Textkörper Social Media Iconfarbe"
+
+#, fuzzy
+#~ msgid "Body text"
+#~ msgstr "Textkörper"
+
+#~ msgid "Body Text Color"
+#~ msgstr "Body Textfarbe"
+
+# The colour of the text in comments
+# __________________________
+#~ msgid "Body text of comments"
+#~ msgstr "Kommentartext"
+
+# Label to set the colour of the body text of the blog post.
+#
+# See screenshot for context and the corresponding colour, which is pink.
+# ______________________
+#~ msgid "Body text of posts"
+#~ msgstr "Beitragstext"
+
+#~ msgid "Booking Page Link"
+#~ msgstr "Link zur Buchungsseite"
+
+#, fuzzy
+#~ msgid "Border color (dropdown menu)"
+#~ msgstr "Randfarbe (Dropdown-Menü)"
+
+#, fuzzy
+#~ msgid "Borders"
+#~ msgstr "Ränder"
+
+# If you choose the option to have a floating cart, the cart is visible on all pages. It sort of floats above the page and stays at the same place whether you scroll up and down.
+#
+# Use the slider to determine the vertical position of the cart on your page.
+#
+# ____________________________
+# Reference for developers:
+#
+#~ msgid "Bottom"
+#~ msgstr "Unten"
+
+#, fuzzy
+#~ msgid "Bottom Content"
+#~ msgstr "Inhalt des unteren Abschnitts"
+
+#, fuzzy
+#~ msgid "Bottom left"
+#~ msgstr "Unten links"
+
+#~ msgid "Bottom Left Section"
+#~ msgstr "Abschnitt unten links"
+
+#~ msgid "Bottom Left Section Content"
+#~ msgstr "Inhalt Abschnitt unten links"
+
+#~ msgid "Bottom Left Section Title"
+#~ msgstr "Titel Abschnitt unten links"
+
+#, fuzzy
+#~ msgid "Bottom line (borders)"
+#~ msgstr "Untere Linie (Ränder)"
+
+#, fuzzy
+#~ msgid "Bottom right"
+#~ msgstr "Unten rechts"
+
+#~ msgid "Bottom Right Section"
+#~ msgstr "Abschnitt unten rechts"
+
+#, fuzzy
+#~ msgid "Bottom Section"
+#~ msgstr "Unterer Abschnitt"
+
+#, fuzzy
+#~ msgid "Bottom Section Content"
+#~ msgstr "Inhalt des unteren Abschnitts"
+
+#, fuzzy
+#~ msgid "Bottom Section Image"
+#~ msgstr "Bild Abschnitt unten"
+
+#, fuzzy
+#~ msgid "Bottom Section Subtitle"
+#~ msgstr "Untertitel Abschnitt unten"
+
+#, fuzzy
+#~ msgid "Bottom Section Title"
+#~ msgstr "Titel Abschnitt unten"
+
+#, fuzzy
+#~ msgid "Box-1 Image"
+#~ msgstr "Box-1 Bild"
+
+#, fuzzy
+#~ msgid "Box-1 Text"
+#~ msgstr "Box-1 Text"
+
+#, fuzzy
+#~ msgid "Box-1 Title"
+#~ msgstr "Box-1 Titel"
+
+#, fuzzy
+#~ msgid "Box-2 Image"
+#~ msgstr "Box-2 Bild"
+
+#, fuzzy
+#~ msgid "Box-2 Text"
+#~ msgstr "Box-2 Text"
+
+#, fuzzy
+#~ msgid "Box-2 Title"
+#~ msgstr "Box-2 Titel"
+
+#, fuzzy
+#~ msgid "Box-3 Image"
+#~ msgstr "Box-3 Bild"
+
+#, fuzzy
+#~ msgid "Box-3 Text"
+#~ msgstr "Box-3 Text"
+
+#, fuzzy
+#~ msgid "Box-3 Title"
+#~ msgstr "Box-3 Titel"
+
+#~ msgid "Brand description."
+#~ msgstr "Markenbeschreibung."
+
+#, fuzzy
+#~ msgid "Breakfast"
+#~ msgstr "Frühstück"
+
+#, fuzzy
+#~ msgid "Breakfast: "
+#~ msgstr "Frühstück:"
+
+#~ msgid "Button 1 Link"
+#~ msgstr "Link Schaltfläche"
+
+#~ msgid "Button 1 Title"
+#~ msgstr "Titel Schaltfläche"
+
+#~ msgid "Button 2 Link"
+#~ msgstr "Link Schaltfläche"
+
+#, fuzzy
+#~ msgid "Button 2 Title"
+#~ msgstr "Titel Schaltfläche"
+
+#~ msgid "Button Background Color"
+#~ msgstr "Schaltfläche-Hintergrundfarbe"
+
+#, fuzzy
+#~ msgid "Button Color"
+#~ msgstr "Schaltflächenfarbe"
+
+#~ msgid "Button Label"
+#~ msgstr "Etikett Schaltfläche"
+
+#~ msgid "Button label"
+#~ msgstr "Etikett Schaltfläche"
+
+#~ msgid "Button Link"
+#~ msgstr "Link Schaltfläche"
+
+#~ msgid "Button link"
+#~ msgstr "Link Schaltfläche"
+
+#~ msgid "Button Text"
+#~ msgstr "Buttontext"
+
+#~ msgid "Button Title"
+#~ msgstr "Titel Schaltfläche"
+
+#~ msgid "Buttons"
+#~ msgstr "Schaltflächen"
+
+#~ msgid "Buttons Font Style"
+#~ msgstr "Schaltflächen-Schriftart"
+
+#~ msgid "Caption Alignment"
+#~ msgstr "Bildunterschrift Ausrichtung"
+
+#, fuzzy
+#~ msgid "Car"
+#~ msgstr "Auto"
+
+#, fuzzy
+#~ msgid "Car: "
+#~ msgstr "Auto:"
+
+#, fuzzy
+#~ msgid "Cart & price (focus color)"
+#~ msgstr "Warenkorb & Preis (Fokusfarbe)"
+
+# You can set the color of the cart. If you select the floating cart option, then you should also choose a background color, this is the little tab around the cart.
+#
+# Same for the checkout banner, the background is the blue color in the screenshot, and the cart color here is set to white.
+#
+# ____________________________
+# Reference for developers:
+#
+#~ msgid "Cart color"
+#~ msgstr "Farbe des Einkaufswagens"
+
+# Title and button text for the cart feature under Online Shop plugin settings.
+#
+# ____________________________
+# Reference for developers:
+#
+#~ msgid "Cart position and style"
+#~ msgstr "Lage und Stil des Einkaufswagens"
+
+#~ msgid "Cart saved successfully."
+#~ msgstr "Einkaufswagen erfolgreich gespeichert."
+
+# You can set the color of the cart. If you select the floating cart option, then you should also choose a background color, this is the little tab around the cart.
+#
+# Same for the checkout banner, the background is the blue color in the screenshot, and the cart color here is set to white.
+#
+# ____________________________
+# Reference for developers:
+#
+#~ msgid "Cart tab background color"
+#~ msgstr "Hintergrundfarbe des Einkaufswagen-Registers"
+
+#~ msgid "Catalog Description"
+#~ msgstr "Logo und Beschreibung"
+
+#~ msgid "Categories"
+#~ msgstr "Kategorien"
+
+#~ msgid "Category"
+#~ msgstr "Kategorie"
+
+#~ msgid "Center"
+#~ msgstr "Mitte"
+
+#~ msgid "Change header background color"
+#~ msgstr "Hintergrundfarbe der Kopfzeile ändern"
+
+#, fuzzy
+#~ msgid "Change the background color for dropdown menus."
+#~ msgstr "Die Hintergrundfarbe von Dropdown-Menüs ändern."
+
+#, fuzzy
+#~ msgid "Change the border color for dropdown menus."
+#~ msgstr "Die Randfarbe von Dropdown-Menüs ändern."
+
+#, fuzzy
+#~ msgid "Change the color of text for selected dropdown items."
+#~ msgstr ""
+#~ "Ändern Sie die Farbe des Textes für die ausgewählten Dropdown Elemente.\t"
+
+#, fuzzy
+#~ msgid ""
+#~ "Change the color on text links, selected text and text for input fields."
+#~ msgstr ""
+#~ "Ändern Sie die Farbe von Textlinks, markiertem Text und Text für "
+#~ "Eingabefelder."
+
+#~ msgid "Change the font for this banner"
+#~ msgstr "Ändern Sie die Schriftart für dieses Banner"
+
+#~ msgid "Change the font for this internal banner"
+#~ msgstr "Ändern Sie die Schriftart für dieses interne Banner"
+
+#~ msgid "Change the font style for Header Menu"
+#~ msgstr "Ändern Sie die Schriftart für das Header Menü"
+
+#~ msgid "Change the font style for logo"
+#~ msgstr "Ändern Sie die Schriftart für das Logo"
+
+#, fuzzy
+#~ msgid "Change the hover color for the items in dropdown menu."
+#~ msgstr "Die Farbe beim Darüberfahren von Dropdown-Menüs ändern."
+
+#, fuzzy
+#~ msgid "Change the text color for dropdown menus."
+#~ msgstr "Die Textfarbe von Dropdown-Menüs ändern."
+
+#, fuzzy
+#~ msgid "Chat with us"
+#~ msgstr "Chatten Sie mit uns"
+
+#, fuzzy
+#~ msgid "Choose or Upload an Image"
+#~ msgstr "Ein Bild auswählen oder hochladen"
+
+#~ msgid "Click here to view the post"
+#~ msgstr "Hier klicken, um den Beitrag anzusehen"
+
+#~ msgid "Click to Select"
+#~ msgstr "Zum Auswählen klicken"
+
+#, fuzzy
+#~ msgid "close"
+#~ msgstr "Schließen"
+
+#~ msgid "Collection Link"
+#~ msgstr "Link zur Sammlung"
+
+#~ msgid "Color Scheme"
+#~ msgstr "Farbschema"
+
+#~ msgid "Colors"
+#~ msgstr "Farben"
+
+#~ msgid "Comments"
+#~ msgstr "Kommentare"
+
+#, fuzzy
+#~ msgid "Comments are closed."
+#~ msgstr "Kommentare sind geschlossen."
+
+#~ msgid "Common Bottom Text"
+#~ msgstr "Gemeinsamer Text für Fußzeilen"
+
+#, fuzzy
+#~ msgid "Contact"
+#~ msgstr "Kontakt"
+
+#~ msgid "Contact Details "
+#~ msgstr "Kontaktdetails"
+
+#~ msgid "Contact Details"
+#~ msgstr "Kontaktdetails"
+
+#~ msgid "Contact Form"
+#~ msgstr "Kontaktformular"
+
+#~ msgid "Contact query from website"
+#~ msgstr "Kontaktabfragen der Webseite"
+
+#, fuzzy
+#~ msgid "Content"
+#~ msgstr "Inhalt"
+
+#~ msgid "Content Buttons"
+#~ msgstr "Inhaltsschaltflächen"
+
+#~ msgid "Content Buttons - Border"
+#~ msgstr "Inhaltsschaltflächen - Rand"
+
+#~ msgid "Content Buttons - Border Radius"
+#~ msgstr "Inhaltsschaltflächen - Randradius"
+
+#~ msgid "Content Buttons - Show Border"
+#~ msgstr "Inhaltsschaltflächen - Rand anzeigen"
+
+#, fuzzy
+#~ msgid "Continue reading"
+#~ msgstr "Weiterlesen"
+
+#, fuzzy
+#~ msgid "Copied to clipboard"
+#~ msgstr "In Zwischenablage kopiert"
+
+#, fuzzy
+#~ msgid "Copy shortcode"
+#~ msgstr "Kurzcode kopieren"
+
+#, fuzzy
+#~ msgid "Copy this shortcode to the page"
+#~ msgstr "Diesen Kurzcode auf die Seite kopieren"
+
+#~ msgid "Copyright Background Color"
+#~ msgstr "Copyright Hintergrundfarbe"
+
+#~ msgid "Copyright Font Style"
+#~ msgstr "Copyright Schriftart"
+
+#, fuzzy
+#~ msgid "Copyright Text"
+#~ msgstr "Copyright-Text"
+
+#~ msgid "Copyright Text Color"
+#~ msgstr "Copyright Textfarbe"
+
+#~ msgctxt "costume-crafting"
+#~ msgid "Tutorials Type"
+#~ msgstr "Tutorials-Typ"
+
+#~ msgctxt "costume-crafting"
+#~ msgid "Tutorials Types"
+#~ msgstr "Tutorials-Typ"
+
+#, fuzzy
+#~ msgid "Crop images"
+#~ msgstr "Bilder beschneiden"
+
+#~ msgid "Custom"
+#~ msgstr "Anpassen"
+
+#~ msgid ""
+#~ "Custom colors selection may override the Primary and Secondary Skin "
+#~ "colors at some places"
+#~ msgstr ""
+#~ "Benutzerdefinierte Farbenauswahl kann die Primär- und Sekundärskinfarben "
+#~ "an einigen Stellen überschreiben"
+
+#~ msgid "Custom CSS"
+#~ msgstr "CSS anpassen"
+
+#~ msgid "Custom Form"
+#~ msgstr "Benutzerdefiniertes Formular"
+
+#~ msgid "Custom Height"
+#~ msgstr "Benutzerdefinierte Höhe"
+
+#~ msgid "Custom post type for Service"
+#~ msgstr "Angepasster Postingtyp für Serivceleistung"
+
+#~ msgid "Custom post type for Spotlight"
+#~ msgstr "Angepasster Postingtyp für Highlight"
+
+#~ msgid "Custom post type for Travel"
+#~ msgstr "Angepasster Postingtyp für Reise"
+
+#~ msgid "Custom Title"
+#~ msgstr "Benutzerdefinierter Titel"
+
+#, fuzzy
+#~ msgid "Customize"
+#~ msgstr "Anpassen"
+
+#~ msgid "Customize > Site Identity > Site Icon"
+#~ msgstr "Anpassen > Site Identität > Site Icon"
+
+#~ msgid "Customize Skin"
+#~ msgstr "Skin anpassen"
+
+#, fuzzy
+#~ msgid "Customize the look of your online shop"
+#~ msgstr "Passen Sie den Look Ihres Webshops an"
+
+#, fuzzy
+#~ msgid "Customize the styling for your shop"
+#~ msgstr "Passen Sie das Aussehen Ihres Webshops an"
+
+#~ msgid "CV Headline"
+#~ msgstr "Lebenslauf Überschrift"
+
+#~ msgid "CV Name"
+#~ msgstr "Lebenslauf Bezeichnung"
+
+#~ msgid "CV Summary"
+#~ msgstr "Lebenslauf Zusammenfassung"
+
+#~ msgid "Day"
+#~ msgstr "Tag"
+
+# Description displayed on the cart tile under the Online shop plugin settings.
+# ____________________________
+# Reference for developers:
+#
+#~ msgid "Decide how the cart icon is displayed. Place it on all pages or not."
+#~ msgstr ""
+#~ "Wählen Sie aus, wie und wo das Einkaufswagensymbol auf Ihrer Website "
+#~ "angezeigt werden soll. "
+
+#, fuzzy
+#~ msgid "Default buttons (borders)"
+#~ msgstr "Standardtasten (Ränder)"
+
+#~ msgid "Default page title will be displayed if this field is blank."
+#~ msgstr ""
+#~ "Der Titel der Standardseite wird angezeigt, wenn das Feld leer bleibt."
+
+#~ msgid "Delete"
+#~ msgstr "Löschen"
+
+#, fuzzy
+#~ msgid "Description"
+#~ msgstr "Beschreibung"
+
+#~ msgid "Details"
+#~ msgstr "Kontaktdetails"
+
+#~ msgid "Display information with icon."
+#~ msgstr "Zeigt Informationen mit einem Icon an."
+
+#~ msgid "Display?"
+#~ msgstr "Anzeige?"
+
+#~ msgid "Displays a call to action banner with image."
+#~ msgstr "Zeigt einen Aufruf zum Aktionsbanner mit Bild an."
+
+#~ msgid "Displays an address on your site."
+#~ msgstr "Zeigt auf Ihrer Website eine Anschrift an."
+
+#~ msgid "Displays social icons list."
+#~ msgstr "Zeigt die Liste der Social Media Icons an."
+
+#, fuzzy
+#~ msgid "Dropdown menus"
+#~ msgstr "Dropdown-Menüs"
+
+#, fuzzy
+#~ msgid "Earlier Travels"
+#~ msgstr "Frühere Reisen"
+
+#~ msgid "Edit"
+#~ msgstr "Bearbeiten"
+
+#~ msgid "Edit Adventure"
+#~ msgstr "Edit Reise"
+
+#~ msgid "Edit Footer Widgets"
+#~ msgstr "Fußzeilen-Widgets bearbeiten"
+
+#~ msgid "Edit Instructor"
+#~ msgstr "Ausbilder bearbeiten"
+
+#~ msgid "Edit Lesson"
+#~ msgstr "Lektion bearbeiten"
+
+#~ msgid "Edit My Profile"
+#~ msgstr "Mein Profil bearbeiten"
+
+#~ msgid "Edit Recipe"
+#~ msgstr "Rezept bearbeiten"
+
+#~ msgid "Edit Recipe Type"
+#~ msgstr "Rezept Art bearbeiten"
+
+#~ msgid "Edit Reviews"
+#~ msgstr "Besprechungen bearbeiten"
+
+#, fuzzy
+#~ msgid "Edit Service"
+#~ msgstr "Serivceleistung bearbeiten"
+
+#~ msgid "Edit Slide"
+#~ msgstr "Slide bearbeiten"
+
+#~ msgid "Edit Slides"
+#~ msgstr "Slides bearbeiten"
+
+#~ msgid "Edit Spotlight"
+#~ msgstr "Highlight bearbeiten"
+
+#, fuzzy
+#~ msgid "Edit styling"
+#~ msgstr "Aussehen bearbeiten"
+
+#~ msgid "Edit Testimonial"
+#~ msgstr "Edit Referenz"
+
+#~ msgid "Edit Testimonials"
+#~ msgstr "Referenz bearbeiten"
+
+#~ msgid "Edit Travel"
+#~ msgstr "Reise bearbeiten"
+
+#~ msgid "Edit Tutorial"
+#~ msgstr "Tutorial bearbeiten"
+
+#~ msgid "Edit Tutorials Type"
+#~ msgstr "Tutorial-Typ bearbeiten"
+
+#~ msgid "Email "
+#~ msgstr "E-Mail-Adresse"
+
+#, fuzzy
+#~ msgid "Email"
+#~ msgstr "E-Mail-Adresse"
+
+#~ msgid "Email Address"
+#~ msgstr "E-Mail-Adresse"
+
+#~ msgid "Email entered is not valid or empty."
+#~ msgstr "Die eingegebene E-Mail-Adresse ist ungültig oder leer."
+
+#~ msgid "Email entered is not valid."
+#~ msgstr "Die eingegebene E-Mail-Adresse ist ungültig."
+
+#~ msgid "Email is too large, please use a valid email."
+#~ msgstr ""
+#~ "Die E-Mail-Adresse ist zu lang, bitte eine gültige E-Mail-Adresse "
+#~ "eingeben."
+
+#~ msgid "Email is too large."
+#~ msgstr "Die E-Mail-Adresse ist zu lang."
+
+#~ msgid "Email notifications"
+#~ msgstr "Emailbenachrichtigungen"
+
+#~ msgid "Email Subject"
+#~ msgstr "Email Betreff"
+
+#~ msgid "Email:"
+#~ msgstr "E-Mail:"
+
+#~ msgid "Enter banner height with unit. Example - 560px"
+#~ msgstr "Geben Sie die Banner Höhe mit Einheit ein. Beispiel: -560px"
+
+#~ msgid "Enter multiple towns using comma (,) such as: Town1,Town2,Town3"
+#~ msgstr "Mehrere Orte mit Komma (,) eingeben, z. B.: Ort1, Ort2, Ort3"
+
+#~ msgid "Enter one specification per line."
+#~ msgstr "Geben Sie eine Spezifikation pro Zeile ein."
+
+#~ msgid "Enter product price with unit. Example - $128.00"
+#~ msgstr ""
+#~ "Geben Sie den Preis für das Produkt inklusive Währung an. Beispiel: "
+#~ "$128.00"
+
+#~ msgid "Enter title for full width section."
+#~ msgstr "Titel für Abschnitt in voller Breite eingeben."
+
+#~ msgid "Enter Towns"
+#~ msgstr "Orte eingeben"
+
+#, fuzzy
+#~ msgid "Enter your social profile links here:"
+#~ msgstr "Hier Links zu Ihrem Social Media Profil eingeben:"
+
+#~ msgid "Error 404 - Not Found"
+#~ msgstr "Fehler 404 - Seite nicht gefunden"
+
+#~ msgid "Events Section"
+#~ msgstr "Abschnitt Ereignisse"
+
+#, fuzzy
+#~ msgid "Example:"
+#~ msgstr "Beispiel:"
+
+#~ msgid "Excerpt"
+#~ msgstr "Ausschnitt"
+
+#, fuzzy
+#~ msgid "Facebook"
+#~ msgstr "Facebook"
+
+#~ msgid "FAQ's"
+#~ msgstr "FAQ's"
+
+#, fuzzy
+#~ msgid "Favicon"
+#~ msgstr "Favicon"
+
+#, fuzzy
+#~ msgid "Favicon Icon"
+#~ msgstr "Favicon Icon"
+
+#~ msgid "Featured"
+#~ msgstr "Ausgewählt"
+
+#~ msgid "Featured Highlighted Right Text"
+#~ msgstr "Ausgewählter gehighlighteter rechter text"
+
+#~ msgid "Featured Product"
+#~ msgstr "Featured Produkt"
+
+#~ msgid "Featured Products"
+#~ msgstr "Gefeaturte Produkte"
+
+#~ msgid "Featured Right Text"
+#~ msgstr "Ausgewählter rechter Text"
+
+#~ msgid "Features"
+#~ msgstr "Funktionen"
+
+#~ msgid "Features Left Area"
+#~ msgstr "Eigenschaften linker Bereich"
+
+#~ msgid "Features List"
+#~ msgstr "Liste der Funktionen"
+
+#~ msgid "Features Right Area"
+#~ msgstr "Eigenschaften rechter Bereich"
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# In this text we explain what the issue is and why it's a problem that needs to be fixed.
+# ________________________________________
+#
+#
+#~ msgid ""
+#~ "File editing from your WordPress dashboard is allowed, meaning users with "
+#~ "a role that has this right can edit all the core files of your site. "
+#~ "Someone might accidentally break it, or a hacker might get access to a "
+#~ "password."
+#~ msgstr ""
+#~ "Benutzer mit Administratorenrechten können vom Adminbereich aus relevante "
+#~ "Betriebsdateien bearbeiten. Hierdurch besteht die Gefahr, dass Ihre Seite "
+#~ "beschädigt werden kann: entweder versehentlich durch einen Benutzer oder "
+#~ "durch einen Hacker, der sich Zugriff auf ein Admin-Konto verschaffen "
+#~ "konnte."
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# In this text we explain what the issue is and why it's a problem that needs to be fixed.
+# ________________________________________
+#
+#
+#~ msgid ""
+#~ "File execution is allowed in in your uploads folder. This means that an "
+#~ "attacker can upload malware and execute it by simply trying to access it "
+#~ "from their browser."
+#~ msgstr ""
+#~ "Ein Hacker könnte Malware hochladen und diese per einfachem Aufruf im "
+#~ "Browser ausführen."
+
+#, fuzzy
+#~ msgid "Fill color"
+#~ msgstr "Füllfarbe"
+
+#, fuzzy
+#~ msgid ""
+#~ "Fill color is applied to .svg icons in your shop, like the arrow on the "
+#~ "\"Back\" button."
+#~ msgstr ""
+#~ "Die Füllfarbe wird für die .svg Symbole in Ihrem Shop angewendet, wie z. "
+#~ "B. bei beim Pfeil auf dem \"Zurück\" Button."
+
+#~ msgid "First button link"
+#~ msgstr "Dienste Schaltflächenlink"
+
+#~ msgid "First button title"
+#~ msgstr "Titel Schaltfläche"
+
+#, fuzzy
+#~ msgid "Flight"
+#~ msgstr "Flug"
+
+#, fuzzy
+#~ msgid "Flight: "
+#~ msgstr "Flug:"
+
+# If you choose the option to have a floating cart, the cart is visible on all pages. It sort of floats above the page and stays at the same place whether you scroll up and down.
+#
+# Use the slider to determine the vertical position of the cart on your page.
+#
+# ____________________________
+# Reference for developers:
+#
+#~ msgid "Floating cart on all pages"
+#~ msgstr "Schwebender Einkaufswagen auf allen Seiten"
+
+#, fuzzy
+#~ msgid "Focus color"
+#~ msgstr "Fokusfarbe"
+
+#, fuzzy
+#~ msgid "Font"
+#~ msgstr "Schriftart"
+
+#~ msgid "Font Families"
+#~ msgstr "Schriftfamilien"
+
+#, fuzzy
+#~ msgid "Font Family"
+#~ msgstr "Schriftart"
+
+#, fuzzy
+#~ msgid "Font Size"
+#~ msgstr "Schriftgröße"
+
+#, fuzzy
+#~ msgid "Font Style"
+#~ msgstr "Lettertype"
+
+#~ msgid "Font Styles"
+#~ msgstr "Schriftarten"
+
+#, fuzzy
+#~ msgid "Font Weight"
+#~ msgstr "Schriftbreite"
+
+#, fuzzy
+#~ msgid "Footer"
+#~ msgstr "Fußzeile"
+
+#~ msgid "Footer 1"
+#~ msgstr "Fußzeile 1"
+
+#~ msgid "Footer 2"
+#~ msgstr "Fußzeile 2"
+
+#~ msgid "Footer 3"
+#~ msgstr "Fußzeile 3"
+
+#~ msgid "Footer Area 1"
+#~ msgstr "Footer Bereich 1"
+
+#~ msgid "Footer Area 2"
+#~ msgstr "Footer Bereich 2"
+
+#~ msgid "Footer Area 3"
+#~ msgstr "Footer Bereich 3"
+
+#, fuzzy
+#~ msgid "Footer background with image, color, etc."
+#~ msgstr "Fußzeilen-Hintergrund mit Bild, Farbe usw."
+
+#~ msgid "Footer Color"
+#~ msgstr "Fußzeilenfarbe"
+
+#~ msgid "Footer Scripts"
+#~ msgstr "Fußzeilenscripts"
+
+#~ msgid "Footer Social Icon Color"
+#~ msgstr "Fußzeile Social Media Iconfarbe"
+
+#~ msgid "For example: Post Author, Published Date, Post Categories"
+#~ msgstr ""
+#~ "Beispielsweise: Autor, Datum der Verlöffentlichung, Postingkategorien"
+
+#~ msgid "Form Buttons"
+#~ msgstr "Formularschaltflächen"
+
+#~ msgid "Form Buttons - Border"
+#~ msgstr "Formularschaltflächen - Rand"
+
+#~ msgid "Form Buttons - Border Radius"
+#~ msgstr "Formularschaltflächen - Randradius"
+
+#~ msgid "Form Buttons - Show Border"
+#~ msgstr "Formularschaltflächen - Rand anzeigen"
+
+#~ msgid "Form Description"
+#~ msgstr "Kurzbeschreibung"
+
+#~ msgid "Form Embed Code or Shortcode"
+#~ msgstr "Einbindungscode oder Kurzcode für Formular"
+
+#~ msgid "Form Fields Labels"
+#~ msgstr "Formularfeldlabels"
+
+#~ msgid "Form Section"
+#~ msgstr "Formularabschnitt"
+
+#~ msgid "Form Title"
+#~ msgstr "Titel Angebotsformular"
+
+#~ msgid "Full Viewport"
+#~ msgstr "Vollansichtport"
+
+#, fuzzy
+#~ msgid "Full width Section Background Image"
+#~ msgstr "Hintergrundbild für Abschnitt in voller Breite"
+
+#~ msgid "Full Width Section Background Image"
+#~ msgstr "Hintergrundbild für Abschnitt in voller Breite"
+
+#~ msgid "Full Width Section Description"
+#~ msgstr "Beschreibung für Abschnitt in voller Breite"
+
+#, fuzzy
+#~ msgid "Full Width Section Subtitle"
+#~ msgstr "Untertitel für Abschnitt in voller Breite"
+
+#, fuzzy
+#~ msgid "Full Width Section Text"
+#~ msgstr "Text für Abschnitt in voller Breite"
+
+#, fuzzy
+#~ msgid "Full Width Section Title"
+#~ msgstr "Titel für Abschnitt in voller Breite"
+
+#, fuzzy
+#~ msgid "Gallery"
+#~ msgstr "Galerie"
+
+#, fuzzy
+#~ msgid "General"
+#~ msgstr "Allgemeines"
+
+#, fuzzy
+#~ msgid "Generate a shortcode and add it to any page."
+#~ msgstr "Erzeugen Sie einen Kurzcode und fügen Sie ihn zu jeder Seite hinzu."
+
+#, fuzzy
+#~ msgid "Generate the shortcode"
+#~ msgstr "Den Kurzcode erzeugen"
+
+# Description telling users what to do here. The shortcode should be copied in the page in WordPress.
+#
+# ____________________________
+# Reference for developers:
+#
+#, fuzzy
+#~ msgid ""
+#~ "Generate the shortcode with these settings, and copy it to the page where "
+#~ "you want your webshop to be displayed."
+#~ msgstr ""
+#~ "Passen Sie die Einstellungen hier an, um den Kurzcode zu generieren, und "
+#~ "kopieren Sie dann den Code auf der Seite, auf der Ihr Webshop angezeigt "
+#~ "werden soll."
+
+#, fuzzy
+#~ msgid "Get started here"
+#~ msgstr "Hier anfangen"
+
+#, fuzzy
+#~ msgid "Get the shortcode"
+#~ msgstr "Den Kurzcode abrufen"
+
+#, fuzzy
+#~ msgid "Go to Products & Orders"
+#~ msgstr "Zu Produkten & Bestellungen gehen"
+
+#, fuzzy
+#~ msgid "Google Plus"
+#~ msgstr "Google Plus"
+
+#, fuzzy
+#~ msgid "Google+"
+#~ msgstr "Google+"
+
+#, fuzzy
+#~ msgid "Group"
+#~ msgstr "Gruppe"
+
+#, fuzzy
+#~ msgid "Group: "
+#~ msgstr "Gruppe:"
+
+#, fuzzy
+#~ msgid "Guide"
+#~ msgstr "Leitfaden"
+
+#, fuzzy
+#~ msgid "Guide: "
+#~ msgstr "Führung:"
+
+#, fuzzy
+#~ msgid "H1 Font Style"
+#~ msgstr "H1 Schriftart"
+
+#~ msgid "H1 Text Color"
+#~ msgstr "H1 Textfarbe"
+
+#, fuzzy
+#~ msgid "H2 Font Style"
+#~ msgstr "H2 Schriftart"
+
+#~ msgid "H2 Text Color"
+#~ msgstr "H2 Textfarbe"
+
+#, fuzzy
+#~ msgid "H3 Font Style"
+#~ msgstr "H3 Schriftart"
+
+#~ msgid "H3 Text Color"
+#~ msgstr "H3 Textfarbe"
+
+#, fuzzy
+#~ msgid "H4 Font Style"
+#~ msgstr "H4 Schriftart"
+
+#~ msgid "H4 Text Color"
+#~ msgstr "H4 Textfarbe"
+
+#, fuzzy
+#~ msgid "H5 Font Style"
+#~ msgstr "H5 Schriftart"
+
+#~ msgid "H5 Text Color"
+#~ msgstr "H5 Textfarbe"
+
+#, fuzzy
+#~ msgid "H6 Font Style"
+#~ msgstr "H6 Schriftart"
+
+#~ msgid "H6 Text Color"
+#~ msgstr "H6 Textfarbe"
+
+#~ msgid "has added a new post"
+#~ msgstr "hat einen neuen Beitrag hinzugefügt"
+
+#~ msgid "Head Scripts"
+#~ msgstr "Kopfzeilenscripts"
+
+#, fuzzy
+#~ msgid "Header"
+#~ msgstr "Kopfzeile"
+
+#~ msgid "Header Height"
+#~ msgstr "Kopfzeilenhöhe"
+
+#~ msgid "Header Left Text"
+#~ msgstr "Kopfzeile Linker Text"
+
+#, fuzzy
+#~ msgid "Header Logo"
+#~ msgstr "Titel-Logo"
+
+#~ msgid "Header Menu Font Style"
+#~ msgstr "Kopfzeilenmenü-Schriftart"
+
+#~ msgid "Header Right Text"
+#~ msgstr "Kopfzeile Rechter Text"
+
+#~ msgid "Header Subtitle"
+#~ msgstr "Kopfzeilen Tagline"
+
+#~ msgid "Header Tagline"
+#~ msgstr "Kopfzeilen Tagline"
+
+#~ msgid "Heading"
+#~ msgstr "Heading"
+
+#, fuzzy
+#~ msgid "Headings (borders)"
+#~ msgstr "Überschriften (Ränder)"
+
+#~ msgid "Headings Colors"
+#~ msgstr "Überschriftenfarben"
+
+#~ msgid ""
+#~ "Hi! This blog is being upgraded to WordPress at the moment. It will be "
+#~ "back online in a few minutes."
+#~ msgstr ""
+#~ "Hallo! Dieser Blog wird derzeit auf WordPress aktualisiert. Es wird in "
+#~ "wenigen Minuten wieder online sein."
+
+# This message is going to be displayed to customers during the migration of iloblogs to WordPress.
+#~ msgid ""
+#~ "Hi! Your blog is being migrated to WordPress at the moment. \n"
+#~ "A bundle of features and flexibilities is getting ready for you.\n"
+#~ "We'll send you an email when the migration will be finished."
+#~ msgstr ""
+#~ "Hallo! Dieser Blog wird derzeit auf WordPress aktualisiert. Es wird in "
+#~ "wenigen Minuten wieder online sein."
+
+#~ msgid "Highlighted Text"
+#~ msgstr "Highlightet Text"
+
+#, fuzzy
+#~ msgid "Hightlight Box"
+#~ msgstr "Highlight-Box"
+
+#, fuzzy
+#~ msgid "Hightlight Content"
+#~ msgstr "Highlight-Inhalt"
+
+#, fuzzy
+#~ msgid "Home"
+#~ msgstr "Startseite"
+
+#~ msgid "Homepage Banner"
+#~ msgstr "Startseitenbanner"
+
+#~ msgid "Homepage Banner - Text Color"
+#~ msgstr "Startseitenbanner - Textfarbe"
+
+#~ msgid "Homepage Content"
+#~ msgstr "Inhalt der Startseite"
+
+#~ msgid "Homepage Icon"
+#~ msgstr "Motto der Startseite"
+
+#~ msgid "Homepage Slider"
+#~ msgstr "Homepage Slider"
+
+#~ msgid "Homepage Slogan"
+#~ msgstr "Motto der Startseite"
+
+#~ msgid "Hover Background Color"
+#~ msgstr "Hintergrundfarbe beim Darüberfahren"
+
+#, fuzzy
+#~ msgid "Hover color"
+#~ msgstr "Farbe beim Darüberfahren"
+
+#~ msgid "Hover Color"
+#~ msgstr "Farbe beim Darüberfahren"
+
+#, fuzzy
+#~ msgid "Hover color (dropdown menu)"
+#~ msgstr "Farbe beim Darüberfahren (Dropdown-Menü)"
+
+#~ msgid "Hover Text Color"
+#~ msgstr "Textfarbe beim Darüberfahren"
+
+#~ msgid "Icon"
+#~ msgstr "Symbol"
+
+#~ msgid "Icon Alignment"
+#~ msgstr "Icon Ausrichtung"
+
+#, fuzzy
+#~ msgid "Icon Background Color"
+#~ msgstr "Icon-Hintergrundfarbe"
+
+#~ msgid "Icon Box"
+#~ msgstr "Icon Box"
+
+#, fuzzy
+#~ msgid "Icon Color"
+#~ msgstr "Icon-Farbe"
+
+#~ msgid "Icon Hover Color"
+#~ msgstr "Icon Hover Farbe"
+
+#~ msgid "Icon Size"
+#~ msgstr "Icon Größe"
+
+#~ msgid "If colors are not set, skin colors will be applied."
+#~ msgstr ""
+#~ "Wenn Sie keine Farbe auswählen, erscheint die Standardfarbe des Themes."
+
+#~ msgid "If turned On, the native colors of social icons will be used."
+#~ msgstr ""
+#~ "Wenn eingeschaltet, werden die eigenen Farben der Social Media Icons "
+#~ "verwendet."
+
+#~ msgid "If you prefer not to receive updates by email, please log in to"
+#~ msgstr ""
+#~ "Wenn Sie keine Aktualisierungen per E-Mail erhalten möchten, melden Sie "
+#~ "sich an bei"
+
+#, fuzzy
+#~ msgid "Image"
+#~ msgstr "Bild"
+
+#~ msgid "Image borders"
+#~ msgstr "Bildrand"
+
+#, fuzzy
+#~ msgid "Image overlay color"
+#~ msgstr "Bildüberlagerungsfarbe"
+
+#, fuzzy
+#~ msgid "Image style"
+#~ msgstr "Bildstil"
+
+#~ msgid "Import"
+#~ msgstr "Importieren"
+
+#, fuzzy
+#~ msgid "Import Demo Data"
+#~ msgstr "Demodaten importieren"
+
+#~ msgid "Import demo data"
+#~ msgstr "Demo Daten importieren"
+
+#, fuzzy
+#~ msgid "Importing, please wait!"
+#~ msgstr "Daten werden importiert, bitte warten!"
+
+# This option places the cart in the header on all your pages, usually to the right of your menu. This option is only available when you are using a One.com theme. If you use another theme you get the option "Attach cart to CSS selector" instead.
+#
+# ____________________________
+# Reference for developers:
+#
+#~ msgid "In head on all pages"
+#~ msgstr "In der Kopfzeile auf allen Seiten"
+
+# This option places the cart in the header on all your pages, usually to the right of your menu. This option is only available when you are using a One.com theme. If you use another theme you get the option "Attach cart to CSS selector" instead.
+#
+# ____________________________
+# Reference for developers:
+#
+#, fuzzy
+#~ msgid "In header on all pages"
+#~ msgstr "In der Kopfzeile auf allen Seiten"
+
+#~ msgid "Information Blocks"
+#~ msgstr "Informationsblöcke"
+
+#, fuzzy
+#~ msgid "Insert email addresses separated by comma"
+#~ msgstr "E-Mail-Adressen eingeben, durch Kommas getrennt"
+
+# Selecting this option only shows the cart icon inside the webshop widget, and not on any other places. It is the default setting for the cart.
+#
+# ____________________________
+# Reference for developers:
+#
+#~ msgid "Inside Webshop widget"
+#~ msgstr "Nur im Shop-Widget"
+
+#~ msgid "Instagram"
+#~ msgstr "Instagram"
+
+#~ msgid "Instructor"
+#~ msgstr "Ausbilder"
+
+#~ msgid "Instructor Description"
+#~ msgstr "Ausbilderbeschreibung"
+
+#~ msgid "Instructors"
+#~ msgstr "Ausbilder"
+
+#~ msgid "Internal Banner - Text Color"
+#~ msgstr "Internes Banner - Textfarbe"
+
+#~ msgid "Internal Banner Font Style"
+#~ msgstr "Internes Banner Schriftart"
+
+#~ msgid "Internal Banner Height"
+#~ msgstr "Interne Bannerhöhe"
+
+#~ msgid "Internal Banners"
+#~ msgstr "Interne Banner"
+
+# This is an error message that becomes visible if someone cannot do their math. You are welcome to change it a bit to make it shorter, for example, "That is not correct, try again".
+# ____________________________
+#~| msgid "Something went wrong; please try again."
+#~ msgid "Invalid answer, please try again."
+#~ msgstr "Falsches Ergebnis. Bitte erneut versuchen."
+
+#, fuzzy
+#~ msgid ""
+#~ "It can take a couple of minutes for the import to finish, so please click "
+#~ "the Import button only once."
+#~ msgstr ""
+#~ "Es kann ein paar Minuten dauern, bis der Import abgeschlossen ist. Bitte "
+#~ "klicken Sie nur einmal auf die Schaltfläche Importieren."
+
+#~ msgid "It will display on every pages, services etc."
+#~ msgstr "Wird auf allen Seiten, bei allen Angeboten usw. angezeigt."
+
+#~ msgid "Items"
+#~ msgstr "Items"
+
+#, fuzzy
+#~ msgid "Label"
+#~ msgstr "Beschreibung"
+
+#~ msgctxt "label"
+#~ msgid "Search for:"
+#~ msgstr "Suchen: %s"
+
+#, fuzzy
+#~ msgid "Landscape"
+#~ msgstr "Querformat"
+
+#~ msgid "Layout"
+#~ msgstr "Layout"
+
+#, fuzzy
+#~ msgid ""
+#~ "Learn more about the online shop from the guides and FAQs on our website."
+#~ msgstr ""
+#~ "Erfahren Sie mehr über den Webshop von den Anleitungen und FAQs auf "
+#~ "unserer Website."
+
+#, fuzzy
+#~ msgid "Leave a Comment"
+#~ msgstr "Kommentar hinterlassen"
+
+#~ msgid "Left"
+#~ msgstr "Links"
+
+#, fuzzy
+#~ msgid "Left Section Image"
+#~ msgstr "Bild linker Abschnitt"
+
+#, fuzzy
+#~ msgid "Left Section Text"
+#~ msgstr "Text linker Abschnitt"
+
+#, fuzzy
+#~ msgid "Left Section Title"
+#~ msgstr "Titel linker Abschnitt"
+
+#~ msgid "Left Sidebar"
+#~ msgstr "Linke Seitenleiste"
+
+#~ msgid "Lesson"
+#~ msgstr "Lektion"
+
+#~ msgid "Lesson Description"
+#~ msgstr "Lektionsbeschreibung"
+
+#, fuzzy
+#~ msgid "Line Height"
+#~ msgstr "Zeilenhöhe"
+
+#~ msgid "Link"
+#~ msgstr "Link"
+
+#, fuzzy
+#~ msgid "Link Color"
+#~ msgstr "Linkfarbe"
+
+#, fuzzy
+#~ msgid "Link Hover Color"
+#~ msgstr "Farbe beim Darüberfahren"
+
+#~ msgid "Link Text"
+#~ msgstr "Link Text"
+
+#~ msgid "Linkedin"
+#~ msgstr "Linkedin"
+
+# Label to set the colour for all links.
+#
+# See screenshot for context and the corresponding colours.
+# ____________________________
+#~ msgid "Links"
+#~ msgstr "Links"
+
+#~ msgid "Links Color"
+#~ msgstr "Farbe für Links"
+
+#~ msgid "Log in"
+#~ msgstr "Anmelden"
+
+#~ msgid "Log Out"
+#~ msgstr "Ausloggen"
+
+#, fuzzy
+#~ msgid "Logo"
+#~ msgstr "Logo"
+
+#~ msgid "Logo & Description"
+#~ msgstr "Logo und Beschreibung"
+
+#~ msgid "Logo Font Style"
+#~ msgstr "Logo-Schriftart"
+
+#, fuzzy
+#~ msgid "Logo Height"
+#~ msgstr "Zeilenhöhe"
+
+#~ msgid "Logo Text Color"
+#~ msgstr "Logotextfarbe"
+
+#, fuzzy
+#~ msgid "Mainmenu Navigation"
+#~ msgstr "Hauptmenü-Navigation"
+
+#~ msgid "Manage Footer Widgets"
+#~ msgstr "Fußzeilen-Widgets verwalten"
+
+#~ msgid "Manage Header Menu"
+#~ msgstr "Kopfzeilenmenü verwalten"
+
+#~ msgid "Manage Logo Text"
+#~ msgstr "Logotext verwalten"
+
+#~ msgid "Manage Site Title"
+#~ msgstr "Website-Titel verwalten"
+
+#~ msgid "Manage Slider"
+#~ msgstr "Slider verwalten"
+
+#~ msgid "Manage Social Icons"
+#~ msgstr "Verwalten Sie Ihre Social Media Icons"
+
+#~ msgid "Map Embed Code"
+#~ msgstr "Karteneinbindungscode"
+
+#~ msgid "Map Section"
+#~ msgstr "Kartenabschnitt"
+
+#, fuzzy
+#~ msgid "Menu"
+#~ msgstr "Menü"
+
+#~ msgid "Menu Background Color"
+#~ msgstr "Menü Hintergrundfarbe"
+
+#~ msgid "Menu Font Style"
+#~ msgstr "Menü-Schriftart"
+
+#~ msgid "Menu Item Background Color"
+#~ msgstr "Menüelement-Hintergrundfarbe"
+
+#~ msgid "Menu Item Color"
+#~ msgstr "Menüelementfarbe"
+
+#~ msgid "Message "
+#~ msgstr "Mitteilung"
+
+#~ msgid "Message"
+#~ msgstr "Mitteilung"
+
+#~ msgid "Message is too large, please shorten it."
+#~ msgstr "Mitteilung ist zu groß, bitte kürzen."
+
+#~ msgid "Message text is empty or too short."
+#~ msgstr "Mitteilungstext ist leer oder zu kurz."
+
+# If you choose the option to have a floating cart, the cart is visible on all pages. It sort of floats above the page and stays at the same place whether you scroll up and down.
+#
+# Use the slider to determine the vertical position of the cart on your page.
+#
+# ____________________________
+# Reference for developers:
+#
+#~ msgid "Middle"
+#~ msgstr "Mitte"
+
+#~ msgid "Middle Bottom Section Content"
+#~ msgstr "Inhalt Abschnitt Mitte unten"
+
+#~ msgid "Middle Bottom Section Title"
+#~ msgstr "Titel Abschnitt Mitte unten"
+
+#~ msgid "Middle Left Section Content"
+#~ msgstr "Inhalt Abschnitt Mitte links"
+
+#~ msgid "Middle Left Section Title"
+#~ msgstr "Titel Abschnitt Mitte links"
+
+#~ msgid "Middle Right Section Content"
+#~ msgstr "Inhalt Abschnitt Mitte rechts"
+
+#~ msgid "Middle Right Section Image"
+#~ msgstr "Inhalt Abschnitt Mitte rechts"
+
+#~ msgid "Middle Right Section Title"
+#~ msgstr "Titel Abschnitt Mitte rechts"
+
+#~ msgid "Middle Section Content"
+#~ msgstr "Inhalt des Mittelabschnitts"
+
+#, fuzzy
+#~ msgid "Middle Section-1 Content Image"
+#~ msgstr "Bild für Inhalt von Mittelabschnitt-1"
+
+#, fuzzy
+#~ msgid "Middle Section-1 Link"
+#~ msgstr "Link Mittelabschnitt-1"
+
+#, fuzzy
+#~ msgid "Middle Section-1 Title"
+#~ msgstr "Titel Mittelabschnitt-1"
+
+#, fuzzy
+#~ msgid "Middle Section-2 Left Content"
+#~ msgstr "Linker Inhalt Mittelabschnitt-2"
+
+#, fuzzy
+#~ msgid "Middle Section-2 Right content"
+#~ msgstr "Rechter Inhalt Mittelabschnitt-2"
+
+#, fuzzy
+#~ msgid "Middle Section-2 Title"
+#~ msgstr "Titel Mittelabschnitt-2"
+
+#~ msgid "Missing Attachment"
+#~ msgstr "Fehlender Anhang"
+
+#~ msgid "Month"
+#~ msgstr "Monat"
+
+#, fuzzy
+#~ msgid "Most popular"
+#~ msgstr "Beliebteste"
+
+#~ msgid "Name "
+#~ msgstr "Name"
+
+#, fuzzy
+#~ msgid "Name"
+#~ msgstr "Name"
+
+#~ msgid "Name is empty or too short."
+#~ msgstr "Der Name ist leer oder zu kurz."
+
+#~ msgid "Name is too large."
+#~ msgstr "Der Name ist zu lang."
+
+#~ msgid "New Adventure"
+#~ msgstr "New Reise"
+
+#~ msgid "New Collections"
+#~ msgstr "Neue Sammlung"
+
+#~ msgid "New Item"
+#~ msgstr "Neues Element"
+
+#~ msgid "New Lesson"
+#~ msgstr "Neue Lektion"
+
+#~ msgid "New Recipe"
+#~ msgstr "Neues Rezept"
+
+#~ msgid "New Recipe Type"
+#~ msgstr "Neue Rezept Art"
+
+#, fuzzy
+#~ msgid "New Service"
+#~ msgstr "Neue Serivceleistung"
+
+#~ msgid "New Slide"
+#~ msgstr "Neuer Slide"
+
+#~ msgid "New Spotlight"
+#~ msgstr "Neues Highlight"
+
+#~ msgid "New Testimonial"
+#~ msgstr "Neue Referenz"
+
+#~ msgid "New Travel"
+#~ msgstr "Neue Reise"
+
+#~ msgid "New Tutorial"
+#~ msgstr "Neues Tutorial"
+
+#~ msgid "New Tutorials Type"
+#~ msgstr "Neuer Tutorial-Typ"
+
+#, fuzzy
+#~ msgid "Newest"
+#~ msgstr "Neueste"
+
+#~ msgid "Newsletter"
+#~ msgstr "Newsletter"
+
+#~ msgid "Newsletter Settings"
+#~ msgstr "Newsletter Einstellungen"
+
+#, fuzzy
+#~ msgid "Next"
+#~ msgstr "Nachher"
+
+#~ msgid "No entries found!"
+#~ msgstr "Keine Einträge gefunden!"
+
+#, fuzzy
+#~ msgid ""
+#~ "No existing data will be deleted or modified, this includes posts, pages, "
+#~ "categories, images, custom post types or any other data."
+#~ msgstr ""
+#~ "Vorhandenen Daten (wie Postings, Seiten, Kategorien, Bilder, "
+#~ "benutzerdefinierte Postingtypen oder andere Daten) werden nicht gelöscht "
+#~ "oder geändert."
+
+#~ msgid "No posts found. Try a different search!"
+#~ msgstr "Keine Postings gefunden. Bitte einen anderen Suchbegriff eingeben."
+
+#~ msgid "No Sidebar"
+#~ msgstr "Keine Seitenleiste"
+
+#~ msgid "No Slides found"
+#~ msgstr "Keine Slides gefunden"
+
+#~ msgid "No Slides found in the Trash"
+#~ msgstr "Keine Slides im Papierkorb gefunden"
+
+#~ msgid "Not Found"
+#~ msgstr "Nicht gefunden"
+
+#, fuzzy
+#~ msgid "Note:"
+#~ msgstr "Hinweis:"
+
+#~ msgid "Note: You can override this setting on a specific page."
+#~ msgstr ""
+#~ "Hinweis: Sie können die Einstellungen auf einer ausgewählten Seite "
+#~ "überschreiben."
+
+#~ msgid "Note: You can override this setting on a specific post."
+#~ msgstr ""
+#~ "Hinweis: Sie können die Einstellungen auf einem ausgewählten Post "
+#~ "überschreiben."
+
+#, fuzzy
+#~ msgid "Nothing found"
+#~ msgstr "Nichts gefunden"
+
+#, fuzzy
+#~ msgid "Nothing found in Trash"
+#~ msgstr "Nichts im Papierkorb gefunden"
+
+#, fuzzy
+#~ msgid "Notice Section Content"
+#~ msgstr "Inhalt Abschnitt Notizen"
+
+#, fuzzy
+#~ msgid "Offset Left"
+#~ msgstr "Offset links"
+
+#, fuzzy
+#~ msgid "Offset Top"
+#~ msgstr "Offset oben"
+
+#~ msgid "One column with left sidebar"
+#~ msgstr "Eine Spalte mit Sidebar links"
+
+#~ msgid "One column with right sidebar"
+#~ msgstr "Eine Spalte mit Sidebar rechts"
+
+#~ msgid "One column without sidebar"
+#~ msgstr "Eine Spalte ohne Sidebar"
+
+#
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# In this text we explain what the issue is and why it's a problem that needs to be fixed.
+# ________________________________________
+#~ msgid ""
+#~ "One or more of your installed themes are outdated. Using outdated themes "
+#~ "can break your site and generate potential security risks."
+#~ msgstr ""
+#~ "Eines oder mehrere Ihrer Themes sind veraltet. Diese können "
+#~ "möglicherweise ein Sicherheitsrisiko darstellen."
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# In this text we explain what the issue is and why it's a problem that needs to be fixed.
+# ________________________________________
+#
+#~ msgid ""
+#~ "One or more of your plugins are outdated. Outdated plugins make your site "
+#~ "vulnerable to security attacks."
+#~ msgstr ""
+#~ "Eines oder mehrere Ihrer Plugins sind veraltet. Hacking-Angriffe erfolgen "
+#~ "überdurchschnittlich oft durch veraltete Plugins."
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# In this text we explain what the issue is and why it's a problem that needs to be fixed.
+# ________________________________________
+#
+#~ msgid ""
+#~ "One or more of your plugins is on the list of plugins we advise against "
+#~ "using. Plugins on this list have a negative effect on the performance of "
+#~ "your site, or pose a security risk."
+#~ msgstr ""
+#~ "Sie nutzen eines bzw. mehrere der Plugins, von deren Einsatz wir "
+#~ "ausdrücklich abraten. Diese Plugins beeinträchtigen die Geschwindigkeit "
+#~ "und/oder die Sicherheit Ihrer Seite."
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# In this text we explain what the issue is and why it's a problem that needs to be fixed.
+# ________________________________________
+#
+#~ msgid ""
+#~ "One or more of your usernames is very common, like for example “admin”. "
+#~ "These usernames are easy to guess and could be exploited by hackers."
+#~ msgstr ""
+#~ "Benutzernamen wie „admin“ sind weit verbreitet. Hacker müssen dann nur "
+#~ "noch von Bots die richtige Kombination aus Ihrem Benutzernamen und "
+#~ "möglichen Passwörtern durchspielen lassen. Mit einem individuellen "
+#~ "Benutzernamen erschweren Sie den Einbruchversuch deutlich."
+
+#~ msgid "One Reply to &ldquo;%s&rdquo;"
+#~ msgstr "Eine Antwort an &ldquo;%s&rdquo;"
+
+#, fuzzy
+#~ msgid "Online shop Settings"
+#~ msgstr "Webshop-Einstellungen"
+
+#~ msgid "Open in new window?"
+#~ msgstr "In neuem Fenster öffnen?"
+
+#, fuzzy
+#~ msgid ""
+#~ "OptionTree is installed as a plugin and also embedded in your current "
+#~ "theme. Please deactivate the plugin to load the theme dependent version "
+#~ "of OptionTree, and remove this warning."
+#~ msgstr ""
+#~ "OptionTree wird als Plugin installiert und auch in dein aktuelles Thema "
+#~ "eingebettet. Bitte das Plugin deaktivieren, um die themenabhängige "
+#~ "Version von OptionsTree zu laden und diese Warnung zu entfernen."
+
+#, fuzzy
+#~ msgid "Order details (borders)"
+#~ msgstr "Bestelldaten (Ränder)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Otherwise you might end up mixing the demo data with the existing content "
+#~ "on your website."
+#~ msgstr ""
+#~ "Andernfalls vermischen Sie eventuell die Demo-Daten mit dem bestehenden "
+#~ "Inhalt Ihrer Webseite."
+
+#, fuzzy
+#~ msgid "Our chat support is open 24/7"
+#~ msgstr "Unser Chatsupport ist rund um die Uhr für Sie da."
+
+#~ msgid "Page content"
+#~ msgstr "Seiteninhalt"
+
+#~ msgid "Page Content"
+#~ msgstr "Seiteninhalt"
+
+#~ msgid "Page Description"
+#~ msgstr "Seiteninhalt"
+
+#~ msgid "Page Header"
+#~ msgstr "Seitenkopf"
+
+#, fuzzy
+#~ msgid "Page Not Found"
+#~ msgstr "Seite nicht gefunden"
+
+#~ msgid "Page Section"
+#~ msgstr "Seitenabschnitt"
+
+#~ msgid "Page Sections"
+#~ msgstr "Seitenabschnitte"
+
+#, fuzzy
+#~ msgid "Page Settings"
+#~ msgstr "Seiteneinstellungen"
+
+#, fuzzy
+#~ msgid "Page Sub Title"
+#~ msgstr "Untertitel der Seite"
+
+#~ msgid "Page Subtitle"
+#~ msgstr "Seitenuntertitel"
+
+#~ msgid "Page Title"
+#~ msgstr "Seiten Titel"
+
+#~ msgid "Pages > Home > Banner"
+#~ msgstr "Seiten > Startseite > Banner"
+
+#, fuzzy
+#~ msgid "Pages:"
+#~ msgstr "Seiten:"
+
+#~ msgid "Parent Recipe Type"
+#~ msgstr "Übergeordnete Rezept Arten"
+
+#~ msgid "Parent Recipe Type:"
+#~ msgstr "Übergeordnete Rezept Arten:"
+
+#~ msgid "Parent Tutorials Type"
+#~ msgstr "Übergeordneter Tutorial-Typ"
+
+#~ msgid "Parent Tutorials Type:"
+#~ msgstr "Übergeordneter Tutorial-Typ:"
+
+#~ msgid "Personal Website"
+#~ msgstr "Persönliche Website"
+
+#, fuzzy
+#~ msgid "Phone"
+#~ msgstr "Telefon"
+
+#~ msgid "Phone "
+#~ msgstr "Telefon"
+
+#~ msgid "Phone is empty or too short."
+#~ msgstr "Der Name ist leer oder zu kurz."
+
+#~ msgid "Phone:"
+#~ msgstr "Tel.:"
+
+#~ msgid "Please add / edit"
+#~ msgstr "Bitte Highlight-Postings"
+
+#~ msgid ""
+#~ "Please copy and paste the Embed Code or Shortcode of the custom form (if "
+#~ "any). This will replace the default form."
+#~ msgstr ""
+#~ "Bitte kopieren Sie den Einbindungscode oder den Kurzcode des "
+#~ "benutzerdefinierten Formulars (falls vorhanden). Dadurch wird das "
+#~ "Standardformular ersetzt."
+
+#, fuzzy
+#~ msgid "Please enter a number between 2 and 100."
+#~ msgstr "Bitte geben Sie eine Zahl zwischen 2 und 100 ein."
+
+#~ msgid "Please enter your email."
+#~ msgstr "Bitte geben Sie Ihre E-Mail-Adresse ein."
+
+#, fuzzy
+#~| msgid "Please select the therapies to be diplayed."
+#~ msgid "Please select services to be diplayed."
+#~ msgstr "Bitte wählen Sie die Kurse aus, die angezeigt werden sollen."
+
+#~ msgid "Please select the courses to be diplayed."
+#~ msgstr "Bitte wählen Sie die Kurse aus, die angezeigt werden sollen."
+
+#~ msgid "Please select the services to be diplayed."
+#~ msgstr "Bitte wählen Sie die Kurse aus, die angezeigt werden sollen."
+
+#, fuzzy
+#~| msgid "Please select the therapies to be diplayed."
+#~ msgid "Please select the services to be displayed."
+#~ msgstr "Bitte wählen Sie die Kurse aus, die angezeigt werden sollen."
+
+#~ msgid "Please select the therapies to be diplayed."
+#~ msgstr "Bitte wählen Sie die Kurse aus, die angezeigt werden sollen."
+
+#, fuzzy
+#~ msgid "Please upload Image."
+#~ msgstr "Bitte das Bild hochladen."
+
+#, fuzzy
+#~ msgid "Please upload the image ."
+#~ msgstr "Bitte das Bild hochladen."
+
+#, fuzzy
+#~ msgid "Please upload the image."
+#~ msgstr "Bitte das Bild hochladen."
+
+#~ msgid "Please wait..."
+#~ msgstr "Bitte warten..."
+
+#, fuzzy
+#~ msgid "Portrait"
+#~ msgstr "Hochformat"
+
+#~ msgctxt "Post Type General Name"
+#~ msgid "Instructors"
+#~ msgstr "Ausbilder"
+
+#~ msgctxt "Post Type General Name"
+#~ msgid "Lessons"
+#~ msgstr "Lektion"
+
+#~ msgctxt "Post Type General Name"
+#~ msgid "Recipes"
+#~ msgstr "Rezepte"
+
+#~ msgctxt "Post Type General Name"
+#~ msgid "Tutorials"
+#~ msgstr "Tutorial"
+
+#~ msgctxt "Post Type Singular Name"
+#~ msgid "Instructor"
+#~ msgstr "Ausbilder"
+
+#~ msgctxt "Post Type Singular Name"
+#~ msgid "Lesson"
+#~ msgstr "Lektion"
+
+#~ msgctxt "Post Type Singular Name"
+#~ msgid "Recipe"
+#~ msgstr "Rezept"
+
+#~ msgctxt "Post Type Singular Name"
+#~ msgid "Tutorial"
+#~ msgstr "Tutorial"
+
+#~ msgid "Posted by %s"
+#~ msgstr "Gepostet von %s"
+
+#~ msgid "Posted in"
+#~ msgstr "Gepostet in"
+
+#, fuzzy
+#~ msgid ""
+#~ "Posts, pages, images, widgets, menus and other theme settings will get "
+#~ "imported."
+#~ msgstr ""
+#~ "Postings, Seiten, Bilder, Widgets, Menüs und andere Themeneinstellungen "
+#~ "werden importiert."
+
+#, fuzzy
+#~ msgid "Previous"
+#~ msgstr "Vorher"
+
+#, fuzzy
+#~ msgid "Price"
+#~ msgstr "Preis"
+
+#~ msgid "Price Blocks"
+#~ msgstr "Preisblöcke"
+
+#, fuzzy
+#~ msgid "Price: "
+#~ msgstr "Preis:"
+
+#, fuzzy
+#~ msgid "Price: High to low"
+#~ msgstr "Preis: hoch bis niedrig"
+
+#, fuzzy
+#~ msgid "Price: Low to high"
+#~ msgstr "Preis: niedrig bis hoch"
+
+#~ msgid "Primary"
+#~ msgstr "Übergeordnet"
+
+#~ msgid "Primary Navigation"
+#~ msgstr "Haupt-Navigation"
+
+#~ msgid "Primary Sidebar"
+#~ msgstr "Übergeordnete Sidebar"
+
+# Settings section where you can make the blog private, so that users need to log in before they can see it.
+# __________________________
+#~ msgid "Private blog"
+#~ msgstr "Anmeldung erzwingen"
+
+#, fuzzy
+#~ msgid "Pro tip"
+#~ msgstr "Profi-Tipp"
+
+#, fuzzy
+#~ msgid "Products per page"
+#~ msgstr "Produkte pro Seite"
+
+#, fuzzy
+#~ msgid "Products per row"
+#~ msgstr "Produkte pro Zeile"
+
+#~ msgid "Profile Image"
+#~ msgstr "Profilbild"
+
+#, fuzzy
+#~ msgid "Promotion label position"
+#~ msgstr "Position des Werbebanners"
+
+#~ msgid ""
+#~ "Provide email accounts where you want to receive emails from this form."
+#~ msgstr ""
+#~ "E-Mail-Adressen eingeben, die E-Mails von diesem Frmular erhalten sollen."
+
+#, fuzzy
+#~ msgid ""
+#~ "Provide email ids on which you want to receive email from contact form. "
+#~ "Example: info@one.com, contact@gmail.com"
+#~ msgstr ""
+#~ "E-Mail-Adressen eingeben, die E-Mails vom Kontaktformular erhalten "
+#~ "sollen. Beispiel: info@one.com, contact@gmail.com"
+
+#, fuzzy
+#~ msgid "Published on: "
+#~ msgstr "Veröffentlicht am:"
+
+#~ msgid "Quote Form Description"
+#~ msgstr "Beschreibung Angebotsformular"
+
+#~ msgid "Quote Form Title"
+#~ msgstr "Titel Angebotsformular"
+
+#~ msgid "Read More"
+#~ msgstr "Erfahren Sie mehr"
+
+#~ msgid "Read more button text"
+#~ msgstr "Dienste Schaltflächentext"
+
+#, fuzzy
+#~ msgid "Ready to publish your first post?"
+#~ msgstr "Sind Sie bereit, Ihr erstes Posting zu veröffentlichen?"
+
+#~ msgid "Recent Posts"
+#~ msgstr "Neueste Posts"
+
+#~ msgid "Recently Published"
+#~ msgstr "Zuletzt veröffentlich"
+
+#~ msgid "Recipe"
+#~ msgstr "Rezept"
+
+#~ msgid "Recipe Description"
+#~ msgstr "Rezept Beschreibung"
+
+#~ msgid "Recipe Type"
+#~ msgstr "Rezept Art"
+
+#, fuzzy
+#~ msgid "Recipients"
+#~ msgstr "Empfänger"
+
+#, fuzzy
+#~ msgid "Redo"
+#~ msgstr "Wiederherstellen"
+
+#, fuzzy
+#~ msgid "Redo last undone action"
+#~ msgstr "Letzte rückgängig gemachte Aktion wiederherstellen"
+
+#~ msgid "Remove Image"
+#~ msgstr "Bid entfernen"
+
+#, fuzzy
+#~ msgid "Reply"
+#~ msgstr "Antwort"
+
+# Option with checkbox where you can make the blog private, so that users need to log in before they can see it.
+# __________________________
+#~ msgid "Require login credentials to view blog?"
+#~ msgstr "Aufruf des Blogs nur nach Anmeldung ermöglichen"
+
+#~ msgid "Required"
+#~ msgstr "Erforderlich"
+
+#, fuzzy
+#~ msgid "Reset Options"
+#~ msgstr "Optionen zurücksetzen"
+
+#~ msgid "Reviews"
+#~ msgstr "Besprechungen"
+
+#~ msgid "Right"
+#~ msgstr "Rechts"
+
+#, fuzzy
+#~ msgid "Right Main Content"
+#~ msgstr "Inhalt rechte Hauptseite"
+
+#~ msgid "Right Sidebar"
+#~ msgstr "Rechte Seitenleiste"
+
+#, fuzzy
+#~ msgid "Save & Publish"
+#~ msgstr "Speichern & veröffentlichen"
+
+#, fuzzy
+#~ msgid "Save Changes"
+#~ msgstr "Änderungen speichern"
+
+#, fuzzy
+#~ msgid "Saved & Published"
+#~ msgstr "Gespeichert & veröffentlicht"
+
+#~ msgid "Scripts to be inserted after footer."
+#~ msgstr "Scripts, die nach der Fußzeile eingefügt werden."
+
+#~ msgid "Scripts to be inserted in \"head\" tag."
+#~ msgstr "Scripts, die in den \"head\" Tag eingefügt werden."
+
+#~ msgid "Search"
+#~ msgstr "Suchen"
+
+#~ msgid "Search Adventures"
+#~ msgstr "Search Reise"
+
+#~ msgid "Search for:"
+#~ msgstr "Suchen nach:"
+
+#~ msgid "Search Recipe Types"
+#~ msgstr "Nach Rezept Arten suchen"
+
+#, fuzzy
+#~ msgid "Search Results"
+#~ msgstr "Suchergebnisse"
+
+#~ msgid "Search Service"
+#~ msgstr "Serivceleistung suchen"
+
+#~ msgid "Search Slides"
+#~ msgstr "Slides suchen"
+
+#~ msgid "Search Spotlight"
+#~ msgstr "Highlight suchen"
+
+#~ msgid "Search Testimonial"
+#~ msgstr "Search Referenz"
+
+#~ msgid "Search Testimonials"
+#~ msgstr "Referenzen suchen"
+
+#~ msgid "Search Travel"
+#~ msgstr "Reise suchen"
+
+#~ msgid "Search Tutorials Types"
+#~ msgstr "Tutorial Typen suchen"
+
+#~ msgid "Search: %s"
+#~ msgstr "Suchen: %s"
+
+#, fuzzy
+#~ msgid "Secondary"
+#~ msgstr "Sekundäre Schriftart"
+
+#~ msgid "Secondary Font Family"
+#~ msgstr "Sekundäre Schriftart"
+
+#~ msgid "Section"
+#~ msgstr "Abschnitt"
+
+#~ msgid "Section Background"
+#~ msgstr "Abschnittshintergrund"
+
+#~ msgid "Section Content"
+#~ msgstr "Abschnittsinhalt"
+
+#~ msgid "Section Image"
+#~ msgstr "Bild linker Abschnitt"
+
+#~ msgid "Section Sub Title"
+#~ msgstr "Abschnittsüberschrift"
+
+#~ msgid "Section Title"
+#~ msgstr "Abschnittsüberschrift"
+
+#~ msgid "Section Titles Font Style"
+#~ msgstr "Abschnittsteitel-Schriftart"
+
+#, fuzzy
+#~ msgid "Select an image by clicking the + button"
+#~ msgstr "Wählen Sie ein Bild durch Klicken des + Buttons"
+
+#, fuzzy
+#~ msgid "Select background color of header."
+#~ msgstr "Iconhintergrundfarbe für den Bereich des Titels auswählen."
+
+#~ msgid "Select banner image"
+#~ msgstr "Services auswählen"
+
+#~ msgid "Select icon background color on footer section"
+#~ msgstr "Iconhintergrundfarbe für den Bereich deder Fußzeile auswählen"
+
+#~ msgid "Select icon background color on main content area"
+#~ msgstr "Iconhintergrundfarbe für den Bereich des Hauptinhalts auswählen"
+
+#~ msgid "Select icon color on footer section"
+#~ msgstr "Iconfarbe für den Bereich deder Fußzeile auswählen"
+
+#~ msgid "Select icon color on main content area"
+#~ msgstr "Iconfarbe für den Bereich des Hauptinhalts  auswählen"
+
+#~ msgid "Select Services"
+#~ msgstr "Services auswählen"
+
+#, fuzzy
+#~ msgid "Select social icon background color"
+#~ msgstr "Hintergrundfarbe für Social Media Icon auswählen"
+
+#, fuzzy
+#~ msgid "Select social icon background color."
+#~ msgstr "Hintergrundfarbe für Social Media Icon auswählen"
+
+#, fuzzy
+#~ msgid "Select social icon color"
+#~ msgstr "Farbe für Social Media Icon auswählen"
+
+#, fuzzy
+#~ msgid "Select social icon color."
+#~ msgstr "Farbe für Social Media Icon auswählen"
+
+#~ msgid "Select the button background color for contact form "
+#~ msgstr ""
+#~ "Die Hintergrundfarbe für die Schaltfläche des Kontaktformulars wählen"
+
+#, fuzzy
+#~ msgid "Select the font size, font family, color etc"
+#~ msgstr "Schriftgröße, Schriftart, Farbe usw. auswählen"
+
+#, fuzzy
+#~ msgid "Select the font size, font family, color etc."
+#~ msgstr "Schriftgröße, Schriftart, Farbe usw. auswählen"
+
+#~ msgid "Select the font size, font family, color for menu"
+#~ msgstr "Schriftgröße, Schriftart, Farbe für das Menü auswählen"
+
+# This text is a description explaining what checking happens when you check the option to show the checkout banner.
+#
+# ____________________________
+# Reference for developers:
+#
+#~ msgid ""
+#~ "Select this option to show a checkout banner at the bottom of all pages "
+#~ "of your site on mobile devices, when there is something in the cart."
+#~ msgstr ""
+#~ "Wählen Sie diese Option, um auf Mobilgeräten ein Checkout-Banner unten "
+#~ "auf allen Seiten Ihrer Website anzuzeigen, wenn sich etwas im "
+#~ "Einkaufswagen befindet."
+
+# You have three ways that you can show the shopping cart on your site.
+#
+# This is the header and description, after which you need to choose an option.
+#
+# ____________________________
+# Reference for developers:
+#
+#~ msgid "Select where you want the cart icon to be visible."
+#~ msgstr ""
+#~ "Wählen Sie, wo auf Ihrer Seite das Einkaufswagensymbol zu sehen sein soll."
+
+#, fuzzy
+#~ msgid "Selected value (dropdown)"
+#~ msgstr "Ausgewählter Wert (Dropdown)"
+
+#, fuzzy
+#~ msgid "Service"
+#~ msgstr "Serviceleistung"
+
+#~ msgid "Service "
+#~ msgstr "Serviceleistung"
+
+#~ msgid "Service Description"
+#~ msgstr "Beschreibung des Service"
+
+#~ msgid "Service Details"
+#~ msgstr "Details des Services"
+
+#~ msgid "Services"
+#~ msgstr "Services"
+
+#~ msgid "Services Button Link"
+#~ msgstr "Dienste Schaltflächenlink"
+
+#~ msgid "Services Button Text"
+#~ msgstr "Dienste Schaltflächentext"
+
+#~ msgid "Services Label"
+#~ msgstr "Name der Services"
+
+#~ msgid "Services page Icon"
+#~ msgstr "Name der Services"
+
+#, fuzzy
+#~ msgid "Set a color for the background of your shop."
+#~ msgstr "Bestimmen Sie eine Farbe für den Hintergrund Ihrer Shops."
+
+# Title and button text for the cart feature under Online Shop plugin settings.
+#
+# ____________________________
+# Reference for developers:
+#
+#, fuzzy
+#~ msgid "Set cart position and style"
+#~ msgstr "Lage und Stil des Einkaufswagens"
+
+#, fuzzy
+#~ msgid "Settings"
+#~ msgstr "Einstellungen"
+
+#~ msgid "Short Description"
+#~ msgstr "Kurzbeschreibung"
+
+#, fuzzy
+#~ msgid "Show \"sort by\" selector"
+#~ msgstr "Auswahl \"sortieren nach\" anzeigen"
+
+#~ msgid "Show Background Image"
+#~ msgstr "Hintergrundbild anzeigen"
+
+#~ msgid "Show Banner"
+#~ msgstr "Banner anzeigen?"
+
+#~ msgid "Show banner"
+#~ msgstr "Banner anzeigen"
+
+#~ msgid "Show Banner?"
+#~ msgstr "Banner anzeigen?"
+
+#, fuzzy
+#~ msgid "Show category selector"
+#~ msgstr "Kategorieauswahl anzeigen"
+
+#~ msgid "Show Courses"
+#~ msgstr "Kurse anzeigen"
+
+#~ msgid "Show Featured Video"
+#~ msgstr "Featured Videos anzeigen"
+
+#~ msgid "Show Features"
+#~ msgstr "Eigenschaften anzeigen"
+
+#~ msgid "Show Header"
+#~ msgstr "Kopfzeile anzeigen"
+
+#~ msgid "Show Logo"
+#~ msgstr "Logo anzeigen"
+
+#~ msgid "Show Post Metadata"
+#~ msgstr "Posting-Metadata anzeigen"
+
+#~ msgid "Show Price Section"
+#~ msgstr "Preisbereich anzeigen"
+
+#~ msgid "Show Section"
+#~ msgstr "Abschnitt anzeigen."
+
+#~ msgid "Show Services"
+#~ msgstr "Services anschauen"
+
+#~ msgid "Show Slider"
+#~ msgstr "Slider anzeigen"
+
+#, fuzzy
+#~ msgid "Show Thumbnail"
+#~ msgstr "Titel anzeigen"
+
+#~ msgid "Show Title"
+#~ msgstr "Titel anzeigen"
+
+#~ msgid "Show Title Icon"
+#~ msgstr "Zeige Titel Symbol"
+
+#~ msgid "Show/Hide Newsletter Section"
+#~ msgstr "Zeigen/Verbergen des Newsletterabschnitts"
+
+#~ msgid "Sidebar"
+#~ msgstr "Sidebar"
+
+#~ msgid "Single Page - Page layout"
+#~ msgstr "Einzelne Seite - Seitenlayout"
+
+#~ msgid "Single Post - Page Layout"
+#~ msgstr "Einzelposting - Seitenlayout"
+
+#, fuzzy
+#~ msgid "Site Description / Tagline"
+#~ msgstr "Beschreibung der Website / Motto"
+
+#~ msgid "Site Name"
+#~ msgstr "Site-Name"
+
+#~ msgid "Site title"
+#~ msgstr "Website-Titel"
+
+#, fuzzy
+#~ msgid "Site Title"
+#~ msgstr "Website-Titel"
+
+#~ msgid "Site Title Font Style"
+#~ msgstr "Schriftart für Website-Titel"
+
+#~ msgid "Site title will be displayed if no image uploaded."
+#~ msgstr "Website-Titel wird angezeigt, wenn kein Bild hochgeladen wurde."
+
+#~ msgid "Skin - Primary Color"
+#~ msgstr "Skin - Primärfarbe"
+
+#~ msgid "Skin - Secondary Color"
+#~ msgstr "Skin - Sekundärfarbe"
+
+#~ msgid "Slide"
+#~ msgstr "Slide"
+
+#, fuzzy
+#~ msgid "Slider"
+#~ msgstr "Slider"
+
+#~ msgid "Small Text Color"
+#~ msgstr "Farbe für kleinen Text"
+
+#, fuzzy
+#~ msgid "Social"
+#~ msgstr "Social"
+
+#, fuzzy
+#~ msgid "Social Icon Background Color"
+#~ msgstr "Social Media Iconhintergrundfarbe"
+
+#, fuzzy
+#~ msgid "Social Icon Color"
+#~ msgstr "Social Media Iconfarbe"
+
+#~ msgid "Social Icon Default Colors"
+#~ msgstr "Social Media Iconstandardfarben"
+
+#, fuzzy
+#~ msgid "Social Icons"
+#~ msgstr "Links zum Teilen"
+
+#~ msgid "Social Icons Color"
+#~ msgstr "Social Media Iconfarbe"
+
+#, fuzzy
+#~ msgid "Social Links"
+#~ msgstr "Social Media Links"
+
+#~ msgid "Social Profile Icon"
+#~ msgstr "Social Media Profil Icon"
+
+#~ msgid "Social Profile Link"
+#~ msgstr "Social Media Profil Link"
+
+#~ msgid "Social Section Content"
+#~ msgstr "Inhalt Abschnitt Soziale Medien"
+
+#~ msgid "Social Section Title"
+#~ msgstr "Titel Abschnitt Soziale Medien"
+
+#~ msgid "Some error occurred, please reload the page and try again."
+#~ msgstr ""
+#~ "Es ist ein Fehler aufgetreten, bitte die Seite neu laden und erneut "
+#~ "versuchen."
+
+#~ msgid "Something went wrong! Please try again!"
+#~ msgstr "Leider ist ein Fehler aufgetreten, bitte versuchen Sie es erneut."
+
+# Error message that is currently hidden, will be used in the future.
+# ____________________________
+# Reference for developers:
+#
+#~ msgid "Something went wrong. Please reload the page and try again."
+#~ msgstr ""
+#~ "Es ist etwas schief gegangen. Bitte laden Sie die Seite neu und versuchen "
+#~ "Sie es noch einmal."
+
+#~ msgid "Sorry, but you are looking for something that isn't here."
+#~ msgstr "Sorry, aber Sie suchen etwas, das hier nicht vorhanden ist."
+
+#, fuzzy
+#~ msgid "Sort by"
+#~ msgstr "Sortieren nach"
+
+#~ msgid "Space after caption (px)"
+#~ msgstr "Leerraum nach Beschriftung (Pixel)"
+
+#~ msgid "Specifications"
+#~ msgstr "Spezifikationen"
+
+#~ msgid "Spotlight"
+#~ msgstr "Highlight"
+
+#~ msgid "Spotlight Blurb"
+#~ msgstr "Highlight Kurzinfo"
+
+#~ msgid "spotlight posts"
+#~ msgstr "hinzufügen/bearbeiten,"
+
+#~ msgid "Spotlight Title"
+#~ msgstr "Highlight Titel"
+
+#, fuzzy
+#~ msgid "Square"
+#~ msgstr "Quadratisch"
+
+#, fuzzy
+#~ msgid "Standard"
+#~ msgstr "Standard"
+
+#~ msgid "Sub Footer Background"
+#~ msgstr "Unterfooter Hintergrund"
+
+#~ msgid "Sub Footer Text Color"
+#~ msgstr "Unterfooter Textfarbe"
+
+#, fuzzy
+#~ msgid "Sub Title"
+#~ msgstr "Untertitel"
+
+#~ msgid "Submenu Item Background Color"
+#~ msgstr "Untermenü Item Hintergrundfarbe"
+
+#~ msgid "Submenu Item Color"
+#~ msgstr "Untermenüfarbe"
+
+#~ msgid "Submenu Item color"
+#~ msgstr "Untermenü Item Farbe"
+
+#~ msgid "SUBMIT"
+#~ msgstr "SENDEN"
+
+#~ msgid "Submit Comment"
+#~ msgstr "Kommentar einsenden"
+
+#~ msgid "Subscribe"
+#~ msgstr "Abonnieren"
+
+#~ msgid "Subscribed successfully."
+#~ msgstr "Erfolgreich abonniert"
+
+#~ msgid "Subtext"
+#~ msgstr "Subtext"
+
+#~ msgid "Subtitle"
+#~ msgstr "Untertitel"
+
+#~ msgctxt "taxonomy general name"
+#~ msgid "Recipe Types"
+#~ msgstr "Rezept Arten"
+
+#~ msgctxt "taxonomy singular name"
+#~ msgid "Recipe Type"
+#~ msgstr "Rezept Art"
+
+#, fuzzy
+#~ msgid "Testimonial"
+#~ msgstr "Referenz"
+
+#~ msgid "Testimonial Font Style"
+#~ msgstr "Testimonial Schriftart"
+
+#, fuzzy
+#~ msgid "Testimonials"
+#~ msgstr "Testimonials"
+
+#, fuzzy
+#~ msgid "Text"
+#~ msgstr "Text"
+
+#, fuzzy
+#~ msgid "Text color"
+#~ msgstr "Textfarbe"
+
+#, fuzzy
+#~ msgid "Text Color"
+#~ msgstr "Textfarbe"
+
+#, fuzzy
+#~ msgid "Text color (dropdown menu)"
+#~ msgstr "Textfarbe (Dropdown-Menü)"
+
+#, fuzzy
+#~ msgid "Text Decoration"
+#~ msgstr "Textverzierung"
+
+#, fuzzy
+#~ msgid "Text links"
+#~ msgstr "Textlinks"
+
+#~ msgid "Text Shadow"
+#~ msgstr "Textschatten"
+
+#~ msgid ""
+#~ "The added features will be displayed in the order they are arranged here."
+#~ msgstr ""
+#~ "Die hinzugefügten Funktionen werden in der Reihenfolge angezeigt, in der "
+#~ "sie hier angeordnet sind."
+
+#~ msgid ""
+#~ "The added plans will be displayed in the order they are arranged here."
+#~ msgstr ""
+#~ "Die hinzugefügten Funktionen werden in der Reihenfolge angezeigt, in der "
+#~ "sie hier angeordnet sind."
+
+#~ msgid ""
+#~ "The added testimonial will be displayed in the order they are arranged "
+#~ "here."
+#~ msgstr ""
+#~ "Die hinzugefügten Testimonials werden in der Reihenfolge angezeigt, in "
+#~ "der sie hier angeordnet sind."
+
+#, fuzzy
+#~ msgid ""
+#~ "The easiest way to setup your theme is by importing demo data. It "
+#~ "includes demo posts, pages, images and theme settings. This will allow "
+#~ "you to edit the demo content, instead of creating everything from scratch."
+#~ msgstr ""
+#~ "Der einfachste Weg, um Ihr Thema zu erstellen, ist der Import von "
+#~ "Demodaten. Sie enthalten Beispiele von Postings, Seiten, Bildern und "
+#~ "Themeneinstellungen. So brauchen Sie nur die Demoinhalte zu bearbeiten, "
+#~ "anstatt alles von Grund auf neu zu erstellen."
+
+#~ msgid "The field used on service pages"
+#~ msgstr "Feld wird auf Serviceseite verwendet"
+
+#~ msgid "The newly added font families will appear after saving the options."
+#~ msgstr ""
+#~ "Die neu hinzugefügten Schriftfamilien werden nach dem Speichern der "
+#~ "Optionen angezeigt."
+
+#~ msgid "The rules added here will be applied as additional CSS."
+#~ msgstr ""
+#~ "Die hier hinzugefügten Regeln werden als zusätzliches CSS angewendet."
+
+#~ msgid "The selected courses/lessons will be displayed."
+#~ msgstr "Die ausgewählten Kurse/Lektionen werden angezeigt."
+
+#~ msgid "The selected services will be displayed."
+#~ msgstr "Die ausgewählten Services werden angezeigt."
+
+#~ msgid "The selected therapies will be displayed."
+#~ msgstr "Die ausgewählten Services werden angezeigt."
+
+#~ msgid "Theme Options > Banners > Homepage Banner Height"
+#~ msgstr "Themenoptionen > Banner > Startseitenbanner Höhe"
+
+#~ msgid "Theme Options > Banners > Internal Banner Height"
+#~ msgstr "Themenoptionen > Banner >  Interne Banner Höhe"
+
+#~ msgid "Theme Options > Typography > Font Styles > Internal Banners"
+#~ msgstr "Themenoptionen> Typografie> Schriftarten> Interne Banner"
+
+#, fuzzy
+#~ msgid "Theme Options reset."
+#~ msgstr "Themenoptionen zurückgesetzt."
+
+#, fuzzy
+#~ msgid "Theme Options updated."
+#~ msgstr "Themenoptionen aktualisiert."
+
+#~ msgid ""
+#~ "Theme's default font properties can be changed from the section specific "
+#~ "tabs given below."
+#~ msgstr ""
+#~ "Die Standard-Schriftart-Eigenschaften des Themas können von den unten "
+#~ "angegebenen abschnittspezifischen Registerkarten aus geändert werden."
+
+#, fuzzy
+#~ msgid "These examples will help you get started with customizing the CSS."
+#~ msgstr "Diese Beispiele helfen Ihnen, mit dem Anpassen des CSS zu beginnen."
+
+#~ msgid "This email is already used. Please use a different email."
+#~ msgstr ""
+#~ "Diese E-Mail-Adresse wird bereits verwendet. Bitte benutzen Sie eine "
+#~ "andere E-Mail-Adresse."
+
+#~ msgid ""
+#~ "This post is password protected. Enter the password to view comments."
+#~ msgstr ""
+#~ "Dieses Posting ist passwortgeschützt. Passwort eingeben, um die "
+#~ "Kommentare zu sehen."
+
+#~ msgid "This will add a shadow on the banner text"
+#~ msgstr "Dies wird einen Schatten zum Bannertext hinzufügen."
+
+#~ msgid "This will add a shadow on the text."
+#~ msgstr "Dies wird einen Schatten zum Text hinzufügen."
+
+#, fuzzy
+#~ msgid "This will be displayed in Listing Page section"
+#~ msgstr "Website-Titel wird angezeigt, wenn kein Bild hochgeladen wurde."
+
+#~ msgid ""
+#~ "This will change the font familiy of titles of special elements, e.g., "
+#~ "widgets."
+#~ msgstr ""
+#~ "Dies wird die Schriftart und Titel der Sonderelemente ändern z. B. widgets"
+
+#~ msgid "This will change the height of the banner."
+#~ msgstr "Dies wird die Höhe des Banners ändern."
+
+#~ msgid "This will change the typography of content areas only."
+#~ msgstr "Dies ändert nur die Typografie der Inhaltsbereiche."
+
+#~ msgid "This will change the typography of homepage banner only."
+#~ msgstr "Dies ändert nur die Typografie des Startseitenbanners."
+
+#~ msgid "This will change the typography of internal page banners only."
+#~ msgstr "Dies ändert nur die Typografie der internen Seitenbanner."
+
+#~ msgid "This will change the typography of logo text only."
+#~ msgstr "Dies ändert nur die Typografie des Logotextes."
+
+#~ msgid "This will change the typography of main titles on pages."
+#~ msgstr "Hierdurch wird die Typografie der Haupttitel geändert."
+
+#~ msgid "This will change the typography of navigation menu in header."
+#~ msgstr "Dies ändert die Typografie des Navigationsmenüs in der Kopfzeile."
+
+#~ msgid "This will change the typography of section titles on pages."
+#~ msgstr "Dies ändert die Typografie der Abschnittstitel auf den Seiten."
+
+#~ msgid "This will change the typography of the buttons."
+#~ msgstr "Dies ändert die Typografie der Schaltflächen."
+
+#~ msgid "This will change the typography of the Footer."
+#~ msgstr "Dies ändert die Typografie der Fußzeile."
+
+#~ msgid ""
+#~ "This will change the visibility and position of sidebar on the blog post "
+#~ "listing pages."
+#~ msgstr ""
+#~ "Dies ändert die Sichtbarkeit und Position der Seitenleiste auf den "
+#~ "Listing-Seiten der Blog-Postings."
+
+#~ msgid ""
+#~ "This will change the visibility and position of sidebar on the post "
+#~ "details pages."
+#~ msgstr ""
+#~ "Dies ändert die Sichtbarkeit und Position der Seitenleiste auf den "
+#~ "einzelnen Posting-Seiten."
+
+#~ msgid ""
+#~ "This will change the visibility and position of the sidebar on the pages."
+#~ msgstr ""
+#~ "Dies wird die Sichbarkeit und die Position der Sidebar auf Ihren Seiten "
+#~ "ändern."
+
+# Warning that if you set a background colour, this will override any background images you may have.
+#
+# See screenshot for context and the corresponding colours.
+# ____________________________
+#~ msgid "This will override the body background image."
+#~ msgstr ""
+#~ "Wird hier eine Farbe eingestellt, werden Hintergrundbilder überdeckt."
+
+#~ msgid "This will replace the default form."
+#~ msgstr "Dadurch wird das Standardformular ersetzt."
+
+#, fuzzy
+#~ msgid "This will show/hide the featured images on archive pages."
+#~ msgstr "Ein Video überschreibt das ausgewählte Bild für diesen Beitrag."
+
+#~ msgid "This will show/hide the post details."
+#~ msgstr "Dies zeigt/verbirgt die Daten des Postings."
+
+#~ msgid "Three columns without sidebar"
+#~ msgstr "Drei Spalten ohne Sidebar"
+
+#, fuzzy
+#~ msgid "Tips & tricks?"
+#~ msgstr "Tipps & Tricks?"
+
+#, fuzzy
+#~ msgid "Tips for CSS"
+#~ msgstr "Tipps für CSS"
+
+#, fuzzy
+#~ msgid "Title"
+#~ msgstr "Title"
+
+#~ msgid "Title Icon"
+#~ msgstr "Titel Symbol"
+
+# Label to set the colour of the title of the sections for category, recent posts, previous posts, etc.
+#
+# See screenshot for context and the corresponding colours.
+# ____________________________
+#~ msgid "Title of \"Category\" and \"Previous posts\""
+#~ msgstr "„Kategorie“-/„Ältere Beiträge“-Titel"
+
+# Label to set the colour of the post title.
+#
+# See screenshot for context and the corresponding colours.
+# ____________________________
+#~ msgid "Title of posts"
+#~ msgstr "Beitragstitel"
+
+# Label to set the colour blog titkle.
+#
+# See screenshot for context and the corresponding colour, purple in this case.
+# __________________________
+#~ msgid "Title of the blog"
+#~ msgstr "Blogtitel"
+
+#~ msgid "Title:"
+#~ msgstr "Titel:"
+
+#~ msgid "To change Banner Font Style"
+#~ msgstr "Internes Banner Schriftart"
+
+#~ msgid "To change Banner Height: "
+#~ msgstr "Um die Bannerhöhe zu ändern:"
+
+#~ msgid "To change Banner Height:"
+#~ msgstr "Um die Bannerhöhe zu ändern:"
+
+#~ msgid "To change Homepage Banner Content: "
+#~ msgstr "Um den Inhalt des Startseitenbanners zu ändern:"
+
+#~ msgid "To change Homepage Banner Content:"
+#~ msgstr "Um den Inhalt des Startseitenbanners zu ändern:"
+
+#~ msgid "To change the font style of header"
+#~ msgstr "Um die Schriftart der Kopfzeile zu ändern"
+
+#~ msgid "To change the font style of logo"
+#~ msgstr "Um die Schriftart des Logos zu ändern"
+
+#, fuzzy
+#~ msgid ""
+#~ "To manage your products and orders, click \"Go to Products & Orders\", "
+#~ "and log in with your One.com account."
+#~ msgstr ""
+#~ "Um Ihre Produkte und Bestellungen zu verwalten, klicken Sie auf \"Zu "
+#~ "Produkten & Bestellungen gehen\" und melden Sie sich mit Ihrem One.com-"
+#~ "Konto an."
+
+#~ msgid "to show this section."
+#~ msgstr "um diesen Abschnitt anzuzeigen."
+
+# If you choose the option to have a floating cart, the cart is visible on all pages. It sort of floats above the page and stays at the same place whether you scroll up and down.
+#
+# Use the slider to determine the vertical position of the cart on your page.
+#
+# ____________________________
+# Reference for developers:
+#
+#~ msgid "Top"
+#~ msgstr "Oben"
+
+#, fuzzy
+#~ msgid "Top left"
+#~ msgstr "Oben links"
+
+#, fuzzy
+#~ msgid "Top right"
+#~ msgstr "Oben rechts"
+
+#, fuzzy
+#~ msgid "Top Section Content"
+#~ msgstr "Inhalt des oberen Abschnitts"
+
+#, fuzzy
+#~ msgid "Top Section Content Image"
+#~ msgstr "Bild für Inhalt des oberen Abschnitts"
+
+#, fuzzy
+#~ msgid "Top Section Subtitle"
+#~ msgstr "Untertitel des oberen Abschnitts"
+
+#, fuzzy
+#~ msgid "Top Section Title"
+#~ msgstr "Titel oberer Abschnitt"
+
+#, fuzzy
+#~ msgid "Travel"
+#~ msgstr "Reise"
+
+#~ msgid "Treatment Settings"
+#~ msgstr "Seiteneinstellungen"
+
+#~ msgid "Try a search instead"
+#~ msgstr "Probieren Sie stattdessen eine Suche"
+
+#~ msgid "Try searching with a different keyword."
+#~ msgstr "Versuchen Sie, mit einem anderen Suchbegriff zu suchen."
+
+#~ msgid "Tutorial"
+#~ msgstr "Tutorial"
+
+#~ msgid "Tutorial Description"
+#~ msgstr "Tutorial Beschreibung"
+
+#~ msgid "Tutorials Type"
+#~ msgstr "Tutorials-Typ"
+
+#, fuzzy
+#~ msgid "Twitter"
+#~ msgstr "Twitter"
+
+#~ msgid "Two columns with left sidebar"
+#~ msgstr "Zwei Spalten mit Sidebar links"
+
+#~ msgid "Two columns with right sidebar"
+#~ msgstr "Zwei Spalten mit Sidebar rechts"
+
+#~ msgid "Two columns without sidebar"
+#~ msgstr "Zwei Spalten ohne Sidebar"
+
+#
+# Label for CAPTCHA. If the translation becomes too long, leave out "below" or just stick to "Type in the answer".
+#
+# _________________________________
+#~ msgid "Type in the answer to the sum below:"
+#~ msgstr "Geben Sie die Lösung ein:"
+
+#, fuzzy
+#~ msgid "Typography"
+#~ msgstr "Typographie"
+
+#~ msgid "Typography > Header Font Style > Header Menu Font Style"
+#~ msgstr "Typografie> Kopfzeilen-Schriftart> Kopfzeilenmenü-Schriftart"
+
+#~ msgid "Typography > Header Font Style > Logo Font Style"
+#~ msgstr "Typografie> Kopfzeilen-Schriftart> Logo-Schriftart"
+
+#, fuzzy
+#~ msgid "Undo"
+#~ msgstr "Rückgängig machen"
+
+#, fuzzy
+#~ msgid "Undo last action"
+#~ msgstr "Letzte Aktion rückgängig machen"
+
+#~ msgid "Update Instructor"
+#~ msgstr "Ausbilder aktualisieren"
+
+#~ msgid "Update Lesson"
+#~ msgstr "Lektion aktualisieren"
+
+#~ msgid "Update Recipe"
+#~ msgstr "Rezept updaten"
+
+#~ msgid "Update Recipe Type"
+#~ msgstr "Rezept Art updaten"
+
+#~ msgid "Update Service"
+#~ msgstr "Service aktualisieren"
+
+#, fuzzy
+#~ msgid "Update the styling for borders."
+#~ msgstr "Das Aussehen der Ränder ändern."
+
+#~ msgid "Update Tutorial"
+#~ msgstr "Tutorial updaten"
+
+#~ msgid "Update Tutorials Type"
+#~ msgstr "Tutorial-Typ aktualisieren"
+
+#~ msgid "Upload background image."
+#~ msgstr "Hintergrundbild hochladen."
+
+#~ msgid "Upload Banner"
+#~ msgstr "Banner hochladen"
+
+#, fuzzy
+#~ msgid "Upload banner of your website."
+#~ msgstr "Banner auf Ihre Website hochladen."
+
+#~ msgid "Upload banner right text image."
+#~ msgstr "Bild für Text Banner rechts hochladen"
+
+#~ msgid "Upload Favicon"
+#~ msgstr "Favicon hochladen"
+
+#, fuzzy
+#~ msgid "Upload favicon of your website."
+#~ msgstr "Favicon auf Ihre Website hochladen."
+
+#, fuzzy
+#~ msgid "Upload footer logo of your website."
+#~ msgstr "Logo für Fußzeile Ihrer Website hochladen."
+
+#~ msgid "Upload Header Image"
+#~ msgstr "Kopfzeilen-Bild hochladen"
+
+#~ msgid "Upload home page banner of your website."
+#~ msgstr "Startseiten-Banner auf Ihre Website hochladen."
+
+#~ msgid "Upload Icon"
+#~ msgstr "Icon uploaden"
+
+#~ msgid "Upload Logo"
+#~ msgstr "Logo hochladen"
+
+#, fuzzy
+#~ msgid "Upload logo of your website."
+#~ msgstr "Logo auf Ihre Website hochladen."
+
+# There is a checkbox before this text, checking it will enable an "easy checkout banner" on mobile.
+#
+# ____________________________
+# Reference for developers:
+#
+#~ msgid "Use easy checkout banner on mobile"
+#~ msgstr "Checkout-Banner auf Mobilgeräten verwenden"
+
+#~ msgid "Use shortcodes here, if necessary."
+#~ msgstr "Benutzen Sie Shortcodes hier, falls notwendig."
+
+#, fuzzy
+#~ msgid "Use this image"
+#~ msgstr "Dieses Bild verwenden"
+
+#, fuzzy
+#~ msgid "Used as image overlay on hover."
+#~ msgstr "Wird als Bildüberlagerungsfarbe beim Darüberfahren verwendet."
+
+#, fuzzy
+#~ msgid "Used for a line placed below the items on the checkout page."
+#~ msgstr ""
+#~ "Es wird für eine Linie genutzt, die unter den Elementen auf der Bezahl-"
+#~ "Seite ist."
+
+#, fuzzy
+#~ msgid "Used for border of order details."
+#~ msgstr "Wird für die Ränder der Bestelldaten verwendet."
+
+#, fuzzy
+#~ msgid "Used for cart icon, price text, pagination, mobile slider border."
+#~ msgstr ""
+#~ "Wird verwendet für Warenkorb-Symbol, Preistext, Seitenzahlen, "
+#~ "Schieberrand."
+
+#, fuzzy
+#~ msgid "Used for default buttons, like 'Back' and 'Return to shop'."
+#~ msgstr ""
+#~ "Wird für Standardtasten verwendet, wie „Zurück“ oder „Zurück zum Shop“."
+
+#, fuzzy
+#~ msgid "Used for headings on 'checkout page' and 'cart page'."
+#~ msgstr ""
+#~ "Wird für Überschriften auf den Seiten „Zur Kasse gehen“ und „Warenkorb“ "
+#~ "verwendet."
+
+#, fuzzy
+#~ msgid "Used for hover color on cart."
+#~ msgstr "Wird beim Warenkorb als Farbe beim Darüberfahren verwendet."
+
+# If you choose the option to have a floating cart, the cart is visible on all pages. It sort of floats above the page and stays at the same place whether you scroll up and down.
+#
+# Use the slider to determine the vertical position of the cart on your page.
+#
+# ____________________________
+# Reference for developers:
+#
+#~ msgid "Vertical cart position on the page"
+#~ msgstr "Vertikale Position auf der Seite"
+
+#~ msgid "via the contact form on"
+#~ msgstr "über das Kontaktformular auf"
+
+#~ msgid "Video URL"
+#~ msgstr "Video URL"
+
+#~ msgid "View Adventures"
+#~ msgstr "View Reise"
+
+#~ msgid "View Instructor"
+#~ msgstr "Ausbilder anzeigen"
+
+#~ msgid "View Instructors"
+#~ msgstr "Ausbilder anzeigen"
+
+#~ msgid "View Lesson"
+#~ msgstr "Lektion anzeigen"
+
+#~ msgid "View Lessons"
+#~ msgstr "Lektionen anzeigen"
+
+#~ msgid "View Recipe"
+#~ msgstr "Rezept anzeigen"
+
+#~ msgid "View Recipes"
+#~ msgstr "Rezept anzeigen"
+
+#, fuzzy
+#~ msgid "View Service"
+#~ msgstr "Serivceleistung anzeigen"
+
+#~ msgid "View Slide"
+#~ msgstr "Slide ansehen"
+
+#~ msgid "View Spotlight"
+#~ msgstr "Highlight anzeigen"
+
+#~ msgid "View Testimonial"
+#~ msgstr "View Referenz"
+
+#~ msgid "View Testimonials"
+#~ msgstr "Referenzen anzeigen"
+
+#~ msgid "View Travel"
+#~ msgstr "Reise anzeigen"
+
+#~ msgid "View Tutorial"
+#~ msgstr "Tutorial anzeigen"
+
+#~ msgid "View Tutorials"
+#~ msgstr "Tutorials anzeigen"
+
+#, fuzzy
+#~ msgid "We're here to help"
+#~ msgstr "Wir sind hier um zu helfen"
+
+#~ msgid "Website"
+#~ msgstr "Website"
+
+#~ msgid "What styling services can we help you with today?"
+#~ msgstr "Mit welchen Styling-Services können wir Ihnen heute weiterhelfen?"
+
+#, fuzzy
+#~ msgid "When you import demo data, please be aware of the following:"
+#~ msgstr "Wenn Sie Demodaten importieren, beachten Sie bitte Folgendes:"
+
+#~ msgid "Widget to Display contact."
+#~ msgstr "Widget, um Kontakt anzuzeigen."
+
+#~ msgid "Widget to Display Testimonial."
+#~ msgstr "Widget, um Referenz anzuzeigen."
+
+#~ msgid "Widget to Display Travel Post."
+#~ msgstr "Widget, um Reise-Posting anzuzeigen."
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# In this text we explain what the issue is and why it's a problem that needs to be fixed.
+# ________________________________________
+#
+#~ msgid ""
+#~ "Wordpress core updates are disabled. This means that your site cannot be "
+#~ "auto updated to latest minor updates of WordPress"
+#~ msgstr ""
+#~ "WordPress-Aktualisierungen bieten in aller Regel "
+#~ "Sicherheitsverbesserungen. Unterbinden Sie sie, wird Ihre Seite über "
+#~ "Sicherheitslücken verfügen."
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# In this text we explain what the issue is and why it's a problem that needs to be fixed.
+# ________________________________________
+#
+#~ msgid ""
+#~ "You are running an outdated version of PHP. We recommend using the latest "
+#~ "version of PHP."
+#~ msgstr ""
+#~ "Wir empfehlen, die neueste stabile PHP-Version einzusetzen. Zusammen mit "
+#~ "der Aktualisierung von WordPress selbst sorgen Sie hiermit dafür, dass "
+#~ "Ihre Seite technisch auf dem neuesten Stand bleibt."
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# In this text we explain what the issue is and why it's a problem that needs to be fixed.
+# ________________________________________
+#
+#~ msgid ""
+#~ "You are using an outdated version of WordPress. Using an outdated version "
+#~ "of Wordpress can cause multiple problems, including security risks"
+#~ msgstr ""
+#~ "Wir empfehlen, WordPress stets aktuell zu halten. Indem Sie die jeweils "
+#~ "aktuelle Version einsetzen, ist Ihre Seite nicht nur sicherer, sondern "
+#~ "verfügt auch über den aktuellen Funktionsumfang ."
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# In this text we explain what the issue is and why it's a problem that needs to be fixed.
+# ________________________________________
+#
+#~ msgid ""
+#~ "You are using default table prefix. This means that attackers can easily "
+#~ "guess your database configuration."
+#~ msgstr ""
+#~ "Sie nutzen mit wp_ den Standard-Tabellenpräfix von WordPress. Hacker "
+#~ "greifen gezielt WordPress-Datenbanken an. Indem wp_ als Präfix genutzt "
+#~ "wird, sind Angriffe leichter möglich."
+
+#, fuzzy
+#~ msgid ""
+#~ "You can always change settings later directly in your shortcode on the "
+#~ "page."
+#~ msgstr ""
+#~ "Sie können die Einstellungen jederzeit direkt in Ihrem Kurzcode auf der "
+#~ "Seite ändern."
+
+#, fuzzy
+#~ msgid "You can have maximum 100 products per page."
+#~ msgstr "Sie können höchstens 100 Produkte pro Seite haben."
+
+# If you select "In header on all pages", you also have the option to enter a CSS selector to place the cart somewhere else on your site, on all pages.
+#
+# If you don't use a One.com theme, adding a CSS selector is required, if you do use a One.com theme adding a CSS selector is optional.
+#
+# This text needs to fit both scenarios.
+# ____________________________
+# Reference for developers:
+#
+#~ msgid ""
+#~ "You can place the cart somewhere else on your site by attaching it to an "
+#~ "HTML element. Enter a CSS selector that exists in your theme’s HTML."
+#~ msgstr ""
+#~ "Sie können den Einkaufswagen überall auf Ihrer Seite platzieren, indem "
+#~ "Sie ihn an an HTML-Element anfügen. Geben Sie einen CSS-Selector ein, der "
+#~ "in der HTML Ihres Themas vorhanden ist."
+
+#, fuzzy
+#~ msgid ""
+#~ "You can re-order with drag & drop, the order will update after saving."
+#~ msgstr ""
+#~ "Sie können die Reihenfolge mit Drag & Drop ändern. Die Änderungen werden "
+#~ "nach dem Speichern upgedatet."
+
+#, fuzzy
+#~ msgid "You need to have at least 2 products per page."
+#~ msgstr "Sie müssen mindestens 2 Produkte pro Seite haben."
+
+#~ msgid "You received a new message from"
+#~ msgstr "Du hast eine neue Nachricht erhalten von"
+
+#, fuzzy
+#~ msgid ""
+#~ "You should only import demo data when making a new website from scratch."
+#~ msgstr ""
+#~ "Sie sollten die Demo-Daten nur importieren, wenn Sie eine komplett neue "
+#~ "Webseite erstellen."
+
+#~ msgid "Your comment is awaiting moderation."
+#~ msgstr "Ihr Kommentar wartet auf Moderation."
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# In this text we explain what the issue is and why it's a problem that needs to be fixed.
+# ________________________________________
+#
+#~ msgid ""
+#~ "Your file and folder permissions are not set correctly. If they are too "
+#~ "strict you get errors on your site, if they are too loose this poses a "
+#~ "security risk."
+#~ msgstr ""
+#~ "Mit Datei- und Ordnerberechtigungen können Sie im Prinzip bestimmen, wer "
+#~ "zu welchen Änderungen auf Ihrem Webspace befugt ist. Sind sie zu strikt "
+#~ "gesetzt, kann WordPress ggf. nur fehlerhaft betrieben werden. Sind sie zu "
+#~ "offen gesetzt, besteht ein höheres Sicherheitsrisiko."
+
+#, fuzzy
+#~ msgid "Your message has been successfully sent."
+#~ msgstr "Ihr Mitteilung wurde erfolgreich versendet."
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# In this text we explain what the issue is and why it's a problem that needs to be fixed.
+# ________________________________________
+#
+#~ msgid ""
+#~ "Your site could not connect to wordpress.org, which means background "
+#~ "updates may not be working properly."
+#~ msgstr ""
+#~ "Ihre Seite konnte keine Verbindung zu wordpress.org hrestellen. Somit "
+#~ "werden WordPress-Aktualisierungen im Hintergrund nicht ordnungsgemäß "
+#~ "funktionieren. Mögliche Ursache ist ein Plugin oder Theme."
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# In this text we explain what the issue is and why it's a problem that needs to be fixed.
+# ________________________________________
+#
+#~ msgid ""
+#~ "Your site is configured to display errors to the visitors! This can "
+#~ "reveal sensitive information to attackers."
+#~ msgstr ""
+#~ "Sollten auf Ihrer Seite Fehlermeldungen zu sehen sein, wurden die PHP-"
+#~ "Fehlermeldungen, der Debug-Modus von WordPress oder beides zusammen "
+#~ "aktiviert. Sofern Sie diese nicht bewusst zur Problembehebung aktiviert "
+#~ "haben, empfehlen wir Ihnen, die Einstellungen aus Datenschutz- und "
+#~ "Sicherheitsgründen zu deaktivieren."
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# In this text we explain what the issue is and why it's a problem that needs to be fixed.
+# ________________________________________
+#
+#~ msgid ""
+#~ "Your site isn’t using HTTPS. Visitors on your site might get a warning "
+#~ "that your website isn’t secure and it can also have a negative effect on "
+#~ "your SEO rating."
+#~ msgstr ""
+#~ "Ihre Seite kann auf kein gültiges SSL-Zertifikat zugreifen. Da sämtliche "
+#~ "Domains bei One.com mit Hosting-Paket automatisch über ein SSL-Zertifikat "
+#~ "verfügen, liegt offenbar ein Fehler in der Konfiguration vor."
+
+#, fuzzy
+#~ msgid "Your website tagline."
+#~ msgstr "Motto Ihrer Website."
+
+#, fuzzy
+#~ msgid "Your website title."
+#~ msgstr "Titel Ihrer Website."

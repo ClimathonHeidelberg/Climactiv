@@ -1,0 +1,21 @@
+phraseapp:
+  project_id: a442f264c41bee70e40736df8693c713
+  file_format: gettext
+  push:
+    sources:
+    - file: ./languages/onecom-wp-en_US.po
+      params:
+        locale_id: 718c737e76dd3a0a2c4d6f52fb7612b9
+        update_translations: true
+        update_descriptions: true
+        tags: wp,wp.plugin,wp.plugin.generic
+        skip_unverification: false
+
+    - file: ./languages/onecom-wp-*.po
+
+  pull:
+    targets:
+      - file: ./languages/onecom-wp-<locale_name>.po
+      - file: ./languages/onecom-wp-<locale_name>.mo
+        params:
+          file_format: gettext_mo

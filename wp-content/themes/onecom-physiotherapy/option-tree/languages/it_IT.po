@@ -1,0 +1,4475 @@
+msgid ""
+msgstr ""
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: PhraseApp (phraseapp.com)\n"
+
+#: core/theme-option.php:460
+#, fuzzy
+msgid " Full Width Section Image"
+msgstr "Immagine sezione intera"
+
+#: importer/inc/OneClickDemoImport.php:382
+#, php-format
+msgid "%1$s%3$sThat's it, all done!%4$s%2$sThe import of demo data has finished. Please check your page and make sure that everything has been imported correctly.%5$s"
+msgstr "%1$s%3$sÈ tutto!%4$s%2$sL'importazione dei dati demo è completata. Controlla la tua pagina e assicurati che ogni cosa sia stata importata correttamente.%5$s"
+
+#: importer/inc/OneClickDemoImport.php:393
+#, php-format
+msgid "%1$sThe demo import has finished, but there were some import errors.%2$sMore details about the errors can be found in this %3$s%5$slog file%6$s%4$s%7$s"
+msgstr "%1$sL'importazione demo è completata ma con alcuni errori di importazione.%2$sPer ulteriori informazioni sugli errori, consulta questo %3$s%5$sfile log.%6$s%4$s%7$s"
+
+#: 404.php:22
+#, fuzzy
+msgid "404"
+msgstr "404"
+
+#: inc/theme_options.php:1417
+msgid "404 Page Content"
+msgstr "Contenuto pagina 404"
+
+#: inc/theme_metaboxes.php:260 inc/theme_metaboxes.php:413
+#: inc/theme_metaboxes.php:449
+msgid "A video will override the featured image for this post."
+msgstr "Un video sostituirà l’immagine in primo piano per questo post."
+
+#: admin/options-init.php:478
+msgid "About"
+msgstr "Info"
+
+#: admin/options-init.php:436 admin/options-init.php:443
+msgid "Above the flip box"
+msgstr "Sopra la flip box"
+
+#: inc/theme_metaboxes.php:625
+msgid "Acronym"
+msgstr "Acronimo"
+
+#: inc/functions.php:251 inc/functions.php:266 inc/functions.php:593
+#: inc/functions.php:595 templates/network/plugin-listing.php:87
+#: templates/network/plugin-listing.php:89
+#: templates/network/recommended-plugin-listing.php:100
+#: templates/network/theme-listing-loop.php:77
+#: templates/network/theme-listing-loop.php:79 templates/plugin-listing.php:86
+#: templates/plugin-listing.php:88 templates/recommended-plugin-listing.php:99
+#: templates/theme-listing-loop.php:74 templates/theme-listing-loop.php:76
+#, fuzzy
+msgid "Activate"
+msgstr "Attiva"
+
+#: templates/network/plugin-listing.php:84
+#: templates/network/recommended-plugin-listing.php:98
+#: templates/network/theme-listing-loop.php:67 templates/plugin-listing.php:83
+#: templates/recommended-plugin-listing.php:97
+#: templates/theme-listing-loop.php:64
+#, fuzzy
+msgid "Active"
+msgstr "Attivo"
+
+#: admin/options-init.php:213
+msgid "Active Color"
+msgstr "Colore attivo"
+
+#: includes/ws-shortcode.php:40
+#, fuzzy
+msgid "Actual ratio"
+msgstr "Rapporto effettivo"
+
+#: includes/customize-page.php:101
+#, fuzzy
+msgid "Add a custom color to text in your online shop."
+msgstr "Aggiungi un colore personalizzato al testo del tuo E-commerce."
+
+#: includes/customize-page.php:86
+#, fuzzy
+msgid "Add a custom font for your online shop."
+msgstr "Aggiungi un font personalizzato al tuo E-commerce."
+
+#: custompost/custompost.php:8
+msgid "Add Adventure"
+msgstr "Add Viaggio"
+
+#: includes/settings-page.php:43
+#, fuzzy
+msgid "Add custom CSS to the shopfront."
+msgstr "Aggiungi CSS personalizzati alla tua vetrina."
+
+#: includes/customize-page.php:62
+#, fuzzy
+msgid "Add custom CSS to your shop and read the tips to get started. You can always start over, by emptying the custom CSS field below."
+msgstr "Aggiungi CSS personalizzati al tuo shop e leggi i suggerimenti introduttivi. Puoi sempre ricominciare svuotando il campo CSS personalizzati sottostante."
+
+#: inc/theme_options.php:627
+msgid "Add fonts in your website."
+msgstr "Aggiungi caratteri al tuo sito Web."
+
+#: option-tree/includes/ot-functions-option-types.php:1310
+#, fuzzy
+msgid "Add Google Font"
+msgstr "Aggiungi Font Google"
+
+#: inc/category-media.php:45 inc/category-media.php:84
+msgid "Add Image"
+msgstr "Aggiungi immagine"
+
+#: option-tree/includes/ot-functions-docs-page.php:398
+#: option-tree/includes/ot-functions-option-types.php:247
+#: option-tree/includes/ot-functions-option-types.php:3163
+#: option-tree/includes/ot-functions-settings-page.php:169
+#: option-tree/ot-loader.php:777
+#, fuzzy
+msgid "Add Media"
+msgstr "Aggiungi media"
+
+#: option-tree/includes/ot-functions-option-types.php:1512
+#: option-tree/includes/ot-functions-option-types.php:2258
+#, fuzzy
+msgid "Add New"
+msgstr "Aggiungi nuovo"
+
+#: custompost/custompost.php:9
+msgid "Add New Adventure"
+msgstr "Add New Viaggio"
+
+#: inc/core_functions.php:469
+msgid "Add New Catalog"
+msgstr "Aggiungi nuovo"
+
+#: inc/core_functions.php:446
+msgid "Add New Instructor"
+msgstr "Aggiungi nuovo istruttore"
+
+#: inc/core_functions.php:375
+msgid "Add New Recipe Type"
+msgstr "Aggiungi Nuovo Tipo di Ricetta"
+
+#: functions.php:167
+msgid "Add New Reviews"
+msgstr "Aggiungi nuove recensioni"
+
+#: custompost/customposts.php:71
+msgid "Add New Service"
+msgstr "Aggiungi nuovo servizio"
+
+#: inc/core_functions.php:332
+msgid "Add New Slide"
+msgstr "Aggiungi nuova immagine"
+
+#: custompost/customposts.php:40
+msgid "Add New Spotlight"
+msgstr "Aggiungi nuovo spotlight"
+
+#: custompost/customposts.php:9
+msgid "Add New Testimonial"
+msgstr "Aggiungi nuove testimonianze"
+
+#: custompost/custompost.php:9
+msgid "Add New Travel"
+msgstr "Aggiungi nuovo viaggio"
+
+#: inc/core_functions.php:375
+msgid "Add New Tutorials Type"
+msgstr "Aggiungi nuovi tipi di tutorial"
+
+#: admin/options-init.php:121
+msgid "Add phone number on your website"
+msgstr "Aggiungi n. di telefono sul tuo sito Web"
+
+#: functions.php:164
+msgid "Add Reviews"
+msgstr "Aggiunti recensioni"
+
+#: custompost/customposts.php:70
+msgid "Add Service"
+msgstr "Aggiungi servizio"
+
+#: custompost/customposts.php:39
+msgid "Add Spotlight"
+msgstr "Aggiunti spotlight"
+
+#: custompost/custompost.php:101
+msgid "Add Testimonial"
+msgstr "Add Testimonianza"
+
+#: custompost/customposts.php:8
+msgid "Add Testimonials"
+msgstr "Aggiungi testimonianze"
+
+#: custompost/custompost.php:8
+msgid "Add Travel"
+msgstr "Aggiungi viaggio"
+
+#: functions.php:268 functions.php:277 functions.php:286 functions.php:295
+#: functions.php:304
+msgid "Add widgets here to appear in your footer."
+msgstr "Aggiungi qui i widgets che compariranno a piè di pagina."
+
+#: functions.php:280
+msgid "Add widgets here to appear in your header."
+msgstr "Aggiungi qui i widget che compariranno nella tua intestazione"
+
+#: functions.php:258
+msgid "Add widgets here to appear in your sidebar."
+msgstr "Aggiungi qui i widgets che compariranno nella tua barra laterale."
+
+#: includes/settings-page.php:30
+#, fuzzy
+msgid "Add your online shop to a page"
+msgstr "Aggiungi il tuo E-commerce a una pagina"
+
+#: inc/widgets.php:266 inc/widgets.php:350
+msgid "Address"
+msgstr "Indirizzo"
+
+#: admin/options-init.php:540
+msgid "Address Line 1"
+msgstr "Riga indirizzo 1"
+
+#: admin/options-init.php:546
+msgid "Address Line 2"
+msgstr "Riga indirizzo 2"
+
+# You have three ways that you can show the shopping cart on your site.
+# 
+# This is the header and description, after which you need to choose an option.
+# 
+# ____________________________
+# Reference for developers:
+# 
+#: includes/ws-cart-shortcode.php:21
+msgid "Adjust cart position"
+msgstr "Imposta la posizione e lo stile del carrello"
+
+#: inc/theme_options.php:68
+msgid "Advanced"
+msgstr "Avanzate"
+
+#: custompost/custompost.php:6 custompost/custompost.php:7
+msgid "Adventure"
+msgstr "Viaggio"
+
+#: custompost/custompost.php:30
+msgid "Adventures"
+msgstr "Viaggio"
+
+#: inc/core_functions.php:370
+msgid "All Recipe Types"
+msgstr "Tutti i Tipi di Ricetta"
+
+#: functions.php:165
+msgid "All Reviews"
+msgstr "Tutte le recensioni"
+
+#: inc/core_functions.php:335
+msgid "All Slides"
+msgstr "Tutte le immagini"
+
+#: inc/core_functions.php:370
+msgid "All Tutorials Types"
+msgstr "Tutti i tipi di tutorial"
+
+#: includes/ws-shortcode.php:25
+#, fuzzy
+msgid "Alphabetical"
+msgstr "In ordine alfabetico"
+
+#: includes/settings-page.php:85
+#, fuzzy
+msgid "Any question?"
+msgstr "Hai delle domande?"
+
+#: templates/discouraged-plugin-listing.php:119
+#: templates/network/discouraged-plugin-listing.php:119
+#, fuzzy
+msgid "Are you sure that you want to deactivate this plugin?"
+msgstr "Sei sicura di volere disattivare questo plugin?"
+
+#: staging/Includes/Core/views/ajax/staging_details.php:52
+#: staging/Includes/Core/views/ajax/staging_details.php:53
+#: staging/Includes/Core/views/includes/footer.php:14
+#: staging/Includes/Core/views/includes/footer.php:29
+#: staging/Includes/Core/views/includes/footer.php:44
+#: staging/Includes/Core/views/includes/footer.php:62
+#: staging/Includes/Core/views/staging.php:34
+#, fuzzy
+msgid "Are you sure?"
+msgstr "Sei sicuro?"
+
+# This option will be available to users instead of "In head of all pages", but only when they don't use a One.com theme. The customer then needs to add a css selector in the box below.
+# ____________________________
+# Reference for developers:
+# 
+#: includes/ws-cart-shortcode.php:41
+msgid "Attach cart to css selector"
+msgstr "Collega il carrello al selettore CSS"
+
+#: template-parts/internal-banner.php:60
+#: template-parts/internal-banner.php:62
+msgid "Author"
+msgstr "Autore"
+
+#: inc/theme_metaboxes.php:89 inc/theme_metaboxes.php:504
+#: inc/theme_metaboxes.php:687 inc/theme_metaboxes.php:939
+#: inc/theme_metaboxes.php:1026 inc/theme_metaboxes.php:1101
+#: inc/theme_metaboxes.php:1191
+msgid "Auto"
+msgstr "Auto"
+
+#: templates/network/theme-listing.php:83 templates/theme-listing.php:83
+#, fuzzy
+msgid "Back to themes"
+msgstr "Torna ai temi"
+
+#: admin/options-init.php:206
+#, fuzzy
+msgid "Background"
+msgstr "Sfondo"
+
+#: option-tree/includes/ot-functions-option-types.php:151
+#, fuzzy
+msgid "Background Attachment"
+msgstr "Ancoraggio sfondo"
+
+#: admin/options-init.php:173
+#, fuzzy
+msgid "Background Color"
+msgstr "Colore sfondo"
+
+#: includes/customize-page.php:209
+#, fuzzy
+msgid "Background color (dropdown menu)"
+msgstr "Colore di sfondo (menu a discesa)"
+
+#: includes/customize-page.php:153
+#, fuzzy
+msgid "Background color (online shop)"
+msgstr "Colore di sfondo (E-commerce)"
+
+#: option-tree/includes/ot-functions-option-types.php:240
+#, fuzzy
+msgid "Background Image"
+msgstr "Immagine di sfondo"
+
+#: option-tree/includes/ot-functions-option-types.php:171
+#, fuzzy
+msgid "Background Position"
+msgstr "Posizione sfondo"
+
+#: option-tree/includes/ot-functions-option-types.php:132
+#, fuzzy
+msgid "Background Repeat"
+msgstr "Ripetizione sfondo"
+
+#: inc/theme_metaboxes.php:288 inc/theme_metaboxes.php:526
+msgid "Background Section"
+msgstr "Sezione di sfondo"
+
+#: inc/theme_options.php:302
+msgid "Background Section - Text Color"
+msgstr "Sezione sfondo - Colore testo"
+
+#: option-tree/includes/ot-functions-option-types.php:214
+#: option-tree/includes/ot-functions-option-types.php:228
+#, fuzzy
+msgid "Background Size"
+msgstr "Dimensioni sfondo"
+
+#: core/theme-option.php:406
+#, fuzzy
+msgid "Banner"
+msgstr "Banner"
+
+#: admin/options-init.php:417
+msgid "Banner Blurb"
+msgstr "Estratto banner"
+
+#: inc/theme_options.php:368
+msgid "Banner Buttons"
+msgstr "Pulsanti Banner"
+
+#: inc/theme_options.php:391
+msgid "Banner Buttons - Border"
+msgstr "Pulsanti Banner - Bordo"
+
+#: inc/theme_options.php:399
+msgid "Banner Buttons - Border Radius"
+msgstr "Pulsanti Banner - Raggio bordo"
+
+#: inc/theme_options.php:382
+msgid "Banner Buttons - Show Border"
+msgstr "Pulsanti Banner - Mostra bordo"
+
+#: inc/widgets.php:195
+msgid "Banner Caption"
+msgstr "Didascalia banner"
+
+#: inc/theme_metaboxes.php:123
+msgid "Banner Caption - Subtitle"
+msgstr "Didascalia banner - Sottotitolo"
+
+#: inc/theme_metaboxes.php:114
+msgid "Banner Caption - Title"
+msgstr "Didascalia banner - Titolo"
+
+#: inc/theme_metaboxes.php:163
+msgid "Banner Content"
+msgstr "Contenuto del banner"
+
+#: inc/theme_metaboxes.php:105 inc/theme_metaboxes.php:954
+#: inc/theme_metaboxes.php:1041 inc/theme_metaboxes.php:1116
+#: inc/theme_metaboxes.php:1206
+msgid "Banner Custom Height"
+msgstr "Altezza banner personalizzata"
+
+#: inc/theme-options.php:329
+msgid "Banner Font Style"
+msgstr "Stile carattere banner"
+
+#: inc/theme_options.php:890
+msgid "Banner Heading Font Style"
+msgstr "Stile carattere intestazione banner"
+
+#: inc/theme_metaboxes.php:81 inc/theme_metaboxes.php:496
+#: inc/theme_metaboxes.php:679 inc/theme_metaboxes.php:931
+#: inc/theme_metaboxes.php:1018 inc/theme_metaboxes.php:1093
+#: inc/theme_metaboxes.php:1183
+msgid "Banner Height"
+msgstr "Altezza banner"
+
+#: inc/widgets.php:211
+msgid "Banner Height (px)"
+msgstr "Altezza banner (px)"
+
+#: metaboxes/metabox.php:44
+#, fuzzy
+msgid "Banner Image"
+msgstr "Immagine banner"
+
+#: admin/options-init.php:432
+msgid "Banner Right Text"
+msgstr "Testo banner a destra"
+
+#: admin/options-init.php:441
+msgid "Banner Right Text Image"
+msgstr "Immagine testo banner a destra"
+
+#: inc/theme_metaboxes.php:977 inc/theme_metaboxes.php:1052
+#: inc/theme_metaboxes.php:1150
+msgid "Banner Setting"
+msgstr "Impostazione banner"
+
+#: inc/theme_metaboxes.php:904 inc/theme_metaboxes.php:985
+msgid "Banner Settings"
+msgstr "Impostazioni banner"
+
+#: core/theme-option.php:421
+#, fuzzy
+msgid "Banner Sub-text"
+msgstr "Sottotitolo banner"
+
+#: inc/theme_options.php:910
+msgid "Banner Subtext Font Style"
+msgstr "Stile carattere sottotesto banner"
+
+#: admin/options-init.php:411
+msgid "Banner Subtitle Text"
+msgstr "Testo sottotitolo banner"
+
+#: core/theme-option.php:415
+#, fuzzy
+msgid "Banner Text"
+msgstr "Testo del banner"
+
+#: admin/options-init.php:405
+msgid "Banner Title Text"
+msgstr "Testo titolo banner"
+
+#: inc/widgets.php:249
+msgid "Banner Widget"
+msgstr "Widget banner"
+
+#: staging/Includes/Core/views/staging.php:25
+#, fuzzy
+msgid "Before you continue, please be aware of the following:"
+msgstr "Prima di continuare, tieni in considerazione quanto segue:"
+
+#: core/theme-option.php:433 core/theme-option.php:443
+#: core/theme-option.php:450
+#, fuzzy
+msgid "Below the banner"
+msgstr "Sotto il banner"
+
+#: admin/options-init.php:451
+msgid "Below the banner."
+msgstr "Sotto il banner"
+
+#: core/theme-option.php:484 core/theme-option.php:494
+#: core/theme-option.php:501 core/theme-option.php:508
+#: core/theme-option.php:518 core/theme-option.php:525
+#: core/theme-option.php:532 core/theme-option.php:542
+#: core/theme-option.php:549
+#, fuzzy
+msgid "Below the full width section"
+msgstr "Sotto la sezione intera"
+
+#: inc/core_functions.php:60
+msgid "Big Text Color"
+msgstr "Colore del testo grande al passaggio del mouse"
+
+#: inc/theme_options.php:86
+msgid "Blog"
+msgstr "Blog"
+
+#: inc/theme_options.php:1082
+msgid "Blog Listing - Page Layout"
+msgstr "Presentazione blog - layout pagina"
+
+#: admin/options-init.php:522
+msgid "Blog Section Title"
+msgstr "Titolo sezione blog"
+
+#: functions.php:151
+msgid "Blog Sidebar"
+msgstr "Barra laterale blog"
+
+#: inc/theme_options.php:111 inc/theme_options.php:716
+#: inc/theme_options.php:723
+msgid "Body"
+msgstr "Corpo"
+
+#: admin/options-init.php:111
+#, fuzzy
+msgid "Body Background"
+msgstr "Sfondo corpo documento"
+
+#: admin/options-init.php:112
+#, fuzzy
+msgid "Body background with image, color, etc."
+msgstr "Sfondo corpo documento con immagine, colore, ecc."
+
+#: admin/options-init.php:251
+#, fuzzy
+msgid "Body Font Style"
+msgstr "Stile font corpo documento"
+
+#: admin/options-init.php:392
+msgid "Body Social Icon background Color"
+msgstr "Colore di sfondo icona social nel corpo"
+
+#: admin/options-init.php:385
+msgid "Body Social Icon Color"
+msgstr "Colore icona social nel corpo"
+
+#: includes/customize-page.php:100
+#, fuzzy
+msgid "Body text"
+msgstr "Corpo testo"
+
+#: inc/theme_options.php:115
+msgid "Body Text Color"
+msgstr "Colore testo corpo"
+
+#: inc/theme_metaboxes.php:1242
+msgid "Booking Page Link"
+msgstr "Link per la prenotazione"
+
+#: includes/customize-page.php:220
+#, fuzzy
+msgid "Border color (dropdown menu)"
+msgstr "Colore bordo (menu a discesa)"
+
+#: includes/customize-page.php:265
+#, fuzzy
+msgid "Borders"
+msgstr "Bordi"
+
+# If you choose the option to have a floating cart, the cart is visible on all pages. It sort of floats above the page and stays at the same place whether you scroll up and down.
+# 
+# Use the slider to determine the vertical position of the cart on your page.
+# 
+# ____________________________
+# Reference for developers:
+# 
+#: includes/ws-cart-shortcode.php:62
+msgid "Bottom"
+msgstr "In basso"
+
+#: metabox/metabox.php:16
+#, fuzzy
+msgid "Bottom Content"
+msgstr "Contenuto in basso"
+
+#: includes/ws-shortcode.php:75
+#, fuzzy
+msgid "Bottom left"
+msgstr "In basso a sinistra"
+
+#: options-init.php:391
+msgid "Bottom Left Section"
+msgstr "Sezione in basso a sinistra"
+
+#: admin/options-init.php:534
+msgid "Bottom Left Section Content"
+msgstr "Contenuto sezione in basso a sinistra"
+
+#: admin/options-init.php:528
+msgid "Bottom Left Section Title"
+msgstr "Titolo sezione in basso a sinistra"
+
+#: includes/customize-page.php:301
+#, fuzzy
+msgid "Bottom line (borders)"
+msgstr "Riga finale (margini)"
+
+#: includes/ws-shortcode.php:74
+#, fuzzy
+msgid "Bottom right"
+msgstr "In basso a destra"
+
+#: options-init.php:397
+msgid "Bottom Right Section"
+msgstr "Sezione in basso a destra"
+
+#: core/theme-option.php:559
+#, fuzzy
+msgid "Bottom Section"
+msgstr "Sezione in basso"
+
+#: admin/options-init.php:543
+#, fuzzy
+msgid "Bottom Section Content"
+msgstr "Contenuto sezione in basso"
+
+#: admin/options-init.php:552
+#, fuzzy
+msgid "Bottom Section Image"
+msgstr "Immagine sezione in basso"
+
+#: admin/options-init.php:537
+#, fuzzy
+msgid "Bottom Section Subtitle"
+msgstr "Sottotitolo sezione in basso"
+
+#: admin/options-init.php:531
+#, fuzzy
+msgid "Bottom Section Title"
+msgstr "Titolo sezione in basso"
+
+#: core/theme-option.php:483
+#, fuzzy
+msgid "Box-1 Image"
+msgstr "Immagine casella 1"
+
+#: core/theme-option.php:500
+#, fuzzy
+msgid "Box-1 Text"
+msgstr "Testo casella 1"
+
+#: core/theme-option.php:493
+#, fuzzy
+msgid "Box-1 Title"
+msgstr "Titolo casella 1"
+
+#: core/theme-option.php:507
+#, fuzzy
+msgid "Box-2 Image"
+msgstr "Immagine casella 2"
+
+#: core/theme-option.php:524
+#, fuzzy
+msgid "Box-2 Text"
+msgstr "Testo casella 2"
+
+#: core/theme-option.php:517
+#, fuzzy
+msgid "Box-2 Title"
+msgstr "Titolo casella 2"
+
+#: core/theme-option.php:531
+#, fuzzy
+msgid "Box-3 Image"
+msgstr "Immagine casella 3"
+
+#: core/theme-option.php:548
+#, fuzzy
+msgid "Box-3 Text"
+msgstr "Testo casella 3"
+
+#: core/theme-option.php:541
+#, fuzzy
+msgid "Box-3 Title"
+msgstr "Titolo casella 3"
+
+#: inc/widgets.php:100
+msgid "Brand description."
+msgstr "Descrizione brand."
+
+#: functions.php:265
+#, fuzzy
+msgid "Breakfast"
+msgstr "Colazione"
+
+#: single.php:104
+#, fuzzy
+msgid "Breakfast: "
+msgstr "Colazione:"
+
+#: admin/options-init.php:583
+msgid "Button Background Color"
+msgstr "Colore sfondo pulsante"
+
+#: admin/options-init.php:133
+#, fuzzy
+msgid "Button Color"
+msgstr "Colore pulsante"
+
+#: inc/theme_metaboxes.php:131 inc/widgets.php:199
+msgid "Button Label"
+msgstr "Etichetta pulsante"
+
+#: inc/theme_metaboxes.php:138 inc/theme_metaboxes.php:271
+#: inc/theme_metaboxes.php:326 inc/theme_metaboxes.php:554
+#: inc/widgets.php:203
+msgid "Button Link"
+msgstr "Collegamento pulsante"
+
+#: inc/theme_metaboxes.php:795
+msgid "Button Text"
+msgstr "Bottone testo"
+
+#: inc/theme_metaboxes.php:203 inc/theme_metaboxes.php:263
+#: inc/theme_metaboxes.php:318 inc/theme_metaboxes.php:427
+#: inc/theme_metaboxes.php:547 inc/theme_metaboxes.php:961
+#: inc/theme_metaboxes.php:967 inc/theme_metaboxes.php:1130
+#: inc/theme_metaboxes.php:1236
+msgid "Button Title"
+msgstr "Titolo pulsante"
+
+#: inc/theme_options.php:358 inc/theme_options.php:1042
+msgid "Buttons"
+msgstr "Pulsanti"
+
+#: inc/theme_options.php:1049
+msgid "Buttons Font Style"
+msgstr "Stile carattere pulsanti"
+
+#: templates/network/recommended-plugin-listing.php:117
+#: templates/recommended-plugin-listing.php:116
+#, fuzzy
+msgid "By"
+msgstr "A cura di"
+
+# "Cancel" and go back, or "Save" your settings.
+# 
+# ____________________________
+# Reference for developers:
+# 
+#: includes/ws-cart-shortcode.php:127
+#, fuzzy
+msgid "Cancel"
+msgstr "Annulla"
+
+#: inc/theme_metaboxes.php:58
+msgid "Caption Alignment"
+msgstr "Allineamento didascalia"
+
+#: functions.php:277
+#, fuzzy
+msgid "Car"
+msgstr "Vettura"
+
+#: single.php:122
+#, fuzzy
+msgid "Car: "
+msgstr "Vettura:"
+
+#: includes/customize-page.php:167
+#, fuzzy
+msgid "Cart & price (focus color)"
+msgstr "Carrello e prezzo (colore dello stato attivo)"
+
+# You can set the color of the cart. If you select the floating cart option, then you should also choose a background color, this is the little tab around the cart.
+# 
+# Same for the checkout banner, the background is the blue color in the screenshot, and the cart color here is set to white.
+# 
+# ____________________________
+# Reference for developers:
+# 
+#: includes/ws-cart-shortcode.php:75
+msgid "Cart color"
+msgstr "Colore del carrello"
+
+# Title and button text for the cart feature under Online Shop plugin settings.
+# 
+# ____________________________
+# Reference for developers:
+# 
+#: includes/settings-page.php:52 includes/settings-page.php:55
+#: includes/settings-page.php:56
+msgid "Cart position and style"
+msgstr "Posizione e stile del carrello"
+
+#: includes/ws-cart-shortcode.php:124
+msgid "Cart saved successfully."
+msgstr "Carrello salvato correttamente."
+
+# You can set the color of the cart. If you select the floating cart option, then you should also choose a background color, this is the little tab around the cart.
+# 
+# Same for the checkout banner, the background is the blue color in the screenshot, and the cart color here is set to white.
+# 
+# ____________________________
+# Reference for developers:
+# 
+#: includes/ws-cart-shortcode.php:81 includes/ws-cart-shortcode.php:86
+#: includes/ws-cart-shortcode.php:114
+msgid "Cart tab background color"
+msgstr "Colore di sfondo dell'etichetta carrello"
+
+#: inc/core_functions.php:491
+msgid "Catalog Description"
+msgstr "Logo e descrizione"
+
+#: inc/theme_metaboxes.php:154 inc/theme_metaboxes.php:181
+#: inc/theme_metaboxes.php:208 inc/theme_metaboxes.php:214
+#: inc/theme_metaboxes.php:220
+msgid "Category"
+msgstr "Categoria"
+
+#: staging/Includes/Core/views/ajax/staging_details.php:47
+#, fuzzy
+msgid "Caution: Rebuilding will overwrite all files and the database of your existing staging website."
+msgstr "Attenzione: la ricostruzione sovrascriverà tutti I file del database del tuo sito in allestimento già esistente."
+
+#: inc/theme_metaboxes.php:71
+msgid "Center"
+msgstr "Allineato al centro"
+
+#: admin/options-init.php:144
+msgid "Change header background color"
+msgstr "Cambia colore di sfondo intestazione"
+
+#: includes/customize-page.php:210
+#, fuzzy
+msgid "Change the background color for dropdown menus."
+msgstr "Cambia il colore di sfondo dei menu a discesa."
+
+#: includes/customize-page.php:221
+#, fuzzy
+msgid "Change the border color for dropdown menus."
+msgstr "Cambia il colore del bordo dei menu a discesa."
+
+#: includes/customize-page.php:242
+#, fuzzy
+msgid "Change the color of text for selected dropdown items."
+msgstr "Modifica il colore del testo per gli oggetti selezionati dal menu a tendina."
+
+#: includes/customize-page.php:116
+#, fuzzy
+msgid "Change the color on text links, selected text and text for input fields."
+msgstr "Cambia il colore dei link testuali, del testo selezionato e del testo dei campi di immissione."
+
+#: inc/theme_metaboxes.php:82
+msgid "Change the font for this banner"
+msgstr "Cambia il tipo di carattere usato per questo banner"
+
+#: inc/theme_metaboxes.php:497 inc/theme_metaboxes.php:680
+#: inc/theme_metaboxes.php:932 inc/theme_metaboxes.php:1019
+#: inc/theme_metaboxes.php:1094 inc/theme_metaboxes.php:1184
+msgid "Change the font for this internal banner"
+msgstr "Cambia il tipo di carattere usato per questo banner interno"
+
+#: inc/theme_options.php:606
+msgid "Change the font style for Header Menu"
+msgstr "Cambia lo stile di carattere usato per il menu intestazione"
+
+#: inc/theme_options.php:586
+msgid "Change the font style for logo"
+msgstr "Cambia lo stile di carattere usato per il logo"
+
+#: includes/customize-page.php:252
+#, fuzzy
+msgid "Change the hover color for the items in dropdown menu."
+msgstr "Cambia il colore al passaggio del mouse sulle voci del menu a discesa."
+
+#: includes/customize-page.php:232
+#, fuzzy
+msgid "Change the text color for dropdown menus."
+msgstr "Cambia il colore del testo dei menu a discesa."
+
+#: includes/settings-page.php:86
+#, fuzzy
+msgid "Chat with us"
+msgstr "Chatta con noi"
+
+#: metaboxes/metabox.php:185 metaboxes/metabox.php:198
+#, fuzzy
+msgid "Choose or Upload an Image"
+msgstr "Scegli o carica un’immagine"
+
+#: staging/Includes/Core/views/ajax/staging_details.php:28
+#, fuzzy
+msgid "Click on \"Rebuild Staging\" to regenerate your staging site."
+msgstr "Clicca su “Ricostruisci sito in allestimento” per ricreare il tuo sito in allestimento."
+
+#: includes/ws-cart-shortcode.php:20 includes/ws-shortcode.php:2
+#, fuzzy
+msgid "close"
+msgstr "chiudi"
+
+#: inc/theme-metaboxes.php:174
+msgid "Collection Link"
+msgstr "Collegamento collezione"
+
+#: inc/theme_options.php:64
+msgid "Color Scheme"
+msgstr "Combinazione colori"
+
+#: comments.php:38
+#, fuzzy
+msgid "Comments are closed."
+msgstr "I commenti sono chiusi."
+
+#: admin/options-init.php:127
+msgid "Common Bottom Text"
+msgstr "Testo comune in basso"
+
+#: inc/functions.php:111 inc/functions.php:325
+#, fuzzy
+msgid "Connection timed out"
+msgstr "Timeout connessione"
+
+#: admin/options-init.php:561
+#, fuzzy
+msgid "Contact"
+msgstr "Contatto"
+
+#: inc/core_functions.php:279
+msgid "Contact Details "
+msgstr "Dati di contatto"
+
+#: inc/core_functions.php:282
+msgid "Contact Details"
+msgstr "Dati di contatto"
+
+#: inc/theme-metaboxes.php:390 inc/theme-metaboxes.php:396
+msgid "Contact Form"
+msgstr "Modulo di contatto"
+
+#: inc/core_functions.php:276
+msgid "Contact query from website"
+msgstr "Modulo di richiesta dal sito web"
+
+#: admin/options-init.php:450
+#, fuzzy
+msgid "Content"
+msgstr "Contenuto"
+
+#: inc/theme_options.php:412
+msgid "Content Buttons"
+msgstr "Pulsanti Contenuto"
+
+#: inc/theme_options.php:434
+msgid "Content Buttons - Border"
+msgstr "Pulsanti Contenuto - Bordo"
+
+#: inc/theme_options.php:447
+msgid "Content Buttons - Border Radius"
+msgstr "Pulsanti Banner - Raggio bordo"
+
+#: inc/theme_options.php:425
+msgid "Content Buttons - Show Border"
+msgstr "Pulsanti Contenuto - Mostra bordo"
+
+#: template-parts/content.php:36
+#, fuzzy
+msgid "Continue reading"
+msgstr "Continua la lettura"
+
+#: staging/one_staging.php:149
+#, fuzzy
+msgid "Copied successfully."
+msgstr "Allestimento creato con successo."
+
+#: includes/ws-shortcode.php:105
+#, fuzzy
+msgid "Copied to clipboard"
+msgstr "Copiato in Appunti"
+
+#: includes/ws-shortcode.php:102
+#, fuzzy
+msgid "Copy shortcode"
+msgstr "Copia codice breve"
+
+#: staging/Includes/Core/views/staging.php:34
+#, fuzzy
+msgid "Copy staging to live"
+msgstr "Copia del sito in allestimento al sito online"
+
+#: staging/Includes/Core/views/staging.php:18
+#, fuzzy
+msgid "Copy staging to your live site"
+msgstr "Copia sito in allestimento sul sito online"
+
+#: includes/ws-shortcode.php:95
+#, fuzzy
+msgid "Copy this shortcode to the page"
+msgstr "Copia questo codice breve sulla pagina"
+
+#: staging/one_staging.php:156
+#, fuzzy
+msgid "Copying database..."
+msgstr "Copia database…"
+
+#: staging/one_staging.php:158
+#, fuzzy
+msgid "Copying files..."
+msgstr "Copia file…"
+
+#: inc/theme_options.php:338
+msgid "Copyright Background Color"
+msgstr "Colore sfondo copyright"
+
+#: inc/theme-options.php:311
+msgid "Copyright Font Style"
+msgstr "Stile carattere copyright"
+
+#: admin/options-init.php:200
+#, fuzzy
+msgid "Copyright Text"
+msgstr "Testo di copyright"
+
+#: inc/theme_options.php:349
+msgid "Copyright Text Color"
+msgstr "Colore testo di copyright"
+
+#: inc/core_functions.php:368
+msgctxt "costume-crafting"
+msgid "Tutorials Type"
+msgstr "Tipo di tutorial"
+
+#: inc/core_functions.php:367
+msgctxt "costume-crafting"
+msgid "Tutorials Types"
+msgstr "Tipo di tutorial"
+
+#: staging/Includes/Core/views/live.php:47
+#, fuzzy
+msgid "Create a staging version of your site to try out new plugins, themes and customizations"
+msgstr "Crea un sito in allestimento del tuo sito web, per provare I nuovi plugin, temi e personalizzazioni"
+
+#: staging/Includes/Core/views/live.php:54
+#, fuzzy
+msgid "Create staging site"
+msgstr "Crea un sito in allestimento"
+
+#: includes/ws-shortcode.php:45
+#, fuzzy
+msgid "Crop images"
+msgstr "Ritaglia immagini"
+
+#: inc/theme_metaboxes.php:97 inc/theme_metaboxes.php:512
+#: inc/theme_metaboxes.php:695 inc/theme_metaboxes.php:947
+#: inc/theme_metaboxes.php:1034 inc/theme_metaboxes.php:1109
+#: inc/theme_metaboxes.php:1199
+msgid "Custom"
+msgstr "Personalizza"
+
+#: inc/theme_options.php:101
+msgid "Custom colors selection may override the Primary and Secondary Skin colors at some places"
+msgstr "La selezione di colori personalizzati può sostituire i colori principali e secondari (interfaccia) in alcune parti"
+
+#: inc/theme_options.php:1388
+msgid "Custom CSS"
+msgstr "CSS personalizzato"
+
+#: inc/theme_metaboxes.php:435 inc/theme_metaboxes.php:826
+msgid "Custom Form"
+msgstr "Modulo personalizzato"
+
+#: inc/theme-metaboxes.php:87
+msgid "Custom Height"
+msgstr "Altezza personalizzata"
+
+#: custompost/customposts.php:92
+msgid "Custom post type for Service"
+msgstr "Tipo post personalizzato per servizio"
+
+#: custompost/customposts.php:61
+msgid "Custom post type for Spotlight"
+msgstr "Tipo post personalizzato per spotlight"
+
+#: custompost/custompost.php:30
+msgid "Custom post type for Travel"
+msgstr "Tipo post personalizzato per viaggio"
+
+#: inc/theme_metaboxes.php:224 inc/theme_metaboxes.php:515
+#: inc/theme_metaboxes.php:617 inc/theme_metaboxes.php:764
+#: inc/theme_metaboxes.php:886
+msgid "Custom Title"
+msgstr "Personalizza titolo"
+
+#: webshop.php:124
+#, fuzzy
+msgid "Customize"
+msgstr "Personalizza"
+
+#: inc/theme_options.php:583
+msgid "Customize > Site Identity > Site Icon"
+msgstr "Personalizzare > Identità del sito > Icona del sito"
+
+#: inc/theme_options.php:100
+msgid "Customize Skin"
+msgstr "Personalizza interfaccia"
+
+#: includes/customize-page.php:61 webshop.php:124
+#, fuzzy
+msgid "Customize the look of your online shop"
+msgstr "Personalizza l’aspetto del tuo E-commerce"
+
+#: includes/settings-page.php:42
+#, fuzzy
+msgid "Customize the styling for your shop"
+msgstr "Personalizza lo stile del tuo shop"
+
+#: admin/options-init.php:426
+msgid "CV Headline"
+msgstr "Intestazione CV"
+
+#: admin/options-init.php:420
+msgid "CV Name"
+msgstr "Nome CV"
+
+#: admin/options-init.php:432
+msgid "CV Summary"
+msgstr "Sommario CV"
+
+#: inc/theme_metaboxes.php:620
+msgid "Day"
+msgstr "Giorno"
+
+#: onecom-addons/onecom-inc.php:155
+#, fuzzy
+msgid "Deactivate"
+msgstr "Disattiva"
+
+#: templates/discouraged-plugin-listing.php:121
+#: templates/network/discouraged-plugin-listing.php:121
+#, fuzzy
+msgid "Deactivating a plugin can break functionality on your website."
+msgstr "Disattivando un plugin potrai compromettere la funzionalità del tuo sito."
+
+# Description displayed on the cart tile under the Online shop plugin settings.
+# ____________________________
+# Reference for developers:
+# 
+#: includes/settings-page.php:53
+msgid "Decide how the cart icon is displayed. Place it on all pages or not."
+msgstr "Selezione come e dove vuoi che venga mostrata l'icona del carrello sul tuo sito web. "
+
+#: includes/customize-page.php:268
+#, fuzzy
+msgid "Default buttons (borders)"
+msgstr "Pulsanti predefiniti (bordi)"
+
+#: inc/theme-metaboxes.php:309
+msgid "Default page title will be displayed if this field is blank."
+msgstr "Se questo campo è vuoto, verrà visualizzato il titolo di pagina predefinito."
+
+#: staging/Includes/Core/views/ajax/staging_details.php:53
+#, fuzzy
+msgid "Delete Staging"
+msgstr "Elimina allestimento"
+
+#: staging/one_staging.php:162
+#, fuzzy
+msgid "Deleting staging..."
+msgstr "Eliminazione gestione temporanea in corso..."
+
+#: option-tree/includes/ot-functions-docs-page.php:43
+#: option-tree/includes/ot-functions-docs-page.php:428
+#: option-tree/includes/ot-functions-docs-page.php:478
+#, fuzzy
+msgid "Description"
+msgstr "Descrizione"
+
+#: templates/network/theme-listing.php:90 templates/theme-listing.php:90
+#, fuzzy
+msgid "Desktop"
+msgstr "Desktop"
+
+#: templates/discouraged-plugin-listing.php:13
+#: templates/discouraged-plugin-listing.php:25
+#: templates/network/discouraged-plugin-listing.php:13
+#: templates/network/discouraged-plugin-listing.php:25
+#: templates/network/plugin-listing.php:25
+#: templates/network/recommended-plugin-listing.php:25
+#: templates/plugin-listing.php:25 templates/recommended-plugin-listing.php:25
+#, fuzzy
+msgid "Discouraged plugins"
+msgstr "Plugin sconsigliati"
+
+#: core/widgets.php:317
+msgid "Display information with icon."
+msgstr "Visualizza informazioni con icona."
+
+#: inc/widgets.php:250
+msgid "Displays a call to action banner with image."
+msgstr "Mostra un banner di invito all’azione con immagine"
+
+#: inc/widgets.php:267
+msgid "Displays an address on your site."
+msgstr "Visualizza un indirizzo sul tuo sito."
+
+#: core/widgets.php:20
+msgid "Displays social icons list."
+msgstr "Visualizza elenco icone social."
+
+#: includes/customize-page.php:207
+#, fuzzy
+msgid "Dropdown menus"
+msgstr "Menu a discesa"
+
+#: page_Travel.php:98
+#, fuzzy
+msgid "Earlier Travels"
+msgstr "Viaggi precedenti"
+
+#: custompost/custompost.php:10
+msgid "Edit Adventure"
+msgstr "Edit Viaggio"
+
+#: inc/theme_options.php:1378
+msgid "Edit Footer Widgets"
+msgstr "Modifica widget piè di pagina"
+
+#: inc/core_functions.php:449
+msgid "Edit Instructor"
+msgstr "Modifica istruttore"
+
+#: inc/core_functions.php:391
+msgid "Edit Lesson"
+msgstr "Modifica lezione"
+
+#: inc/core_functions.php:330
+msgid "Edit Recipe"
+msgstr "Modifica Ricetta"
+
+#: inc/core_functions.php:373
+msgid "Edit Recipe Type"
+msgstr "Modifica Tipo di Ricetta"
+
+#: functions.php:166
+msgid "Edit Reviews"
+msgstr "Modifica recensioni"
+
+#: custompost/customposts.php:72
+#, fuzzy
+msgid "Edit Service"
+msgstr "Modifica servizio "
+
+#: inc/core_functions.php:333
+msgid "Edit Slide"
+msgstr "Modifica immagine"
+
+#: inc/theme_options.php:782
+msgid "Edit Slides"
+msgstr "Modifica immagini"
+
+#: custompost/customposts.php:41
+msgid "Edit Spotlight"
+msgstr "Modifica spotlight"
+
+#: includes/settings-page.php:44
+#, fuzzy
+msgid "Edit styling"
+msgstr "Modifica stile"
+
+#: custompost/custompost.php:103
+msgid "Edit Testimonial"
+msgstr "Edit Testimonianza"
+
+#: custompost/customposts.php:10
+msgid "Edit Testimonials"
+msgstr "Modifica testimonianze"
+
+#: custompost/custompost.php:10
+msgid "Edit Travel"
+msgstr "Modifica viaggio"
+
+#: inc/core_functions.php:330
+msgid "Edit Tutorial"
+msgstr "Modifica tutorial"
+
+#: inc/core_functions.php:373
+msgid "Edit Tutorials Type"
+msgstr "Modifica tipo di tutorial"
+
+#: inc/core_functions.php:259
+msgid "Email "
+msgstr "E-mail"
+
+#: comments.php:70
+#, fuzzy
+msgid "Email"
+msgstr "E-mail"
+
+#: admin/options-init.php:558
+msgid "Email Address"
+msgstr "Indirizzo e-mail"
+
+#: inc/core_functions.php:325
+msgid "Email entered is not valid or empty."
+msgstr "L’indirizzo e-mail immesso non è valido o il campo Indirizzo e-mail è vuoto."
+
+#: inc/core_functions.php:237
+msgid "Email entered is not valid."
+msgstr "L’indirizzo e-mail immesso non è valido."
+
+#: inc/core_functions.php:329
+msgid "Email is too large, please use a valid email."
+msgstr "Indirizzo e-mail troppo lungo: utilizza un e-mail valido."
+
+#: inc/core_functions.php:241
+msgid "Email is too large."
+msgstr "L’indirizzo e-mail immesso è troppo lungo."
+
+#: inc/theme_metaboxes.php:806
+msgid "Email Subject"
+msgstr "Oggetto email"
+
+#: widgets/widget.php:140
+msgid "Email:"
+msgstr "E-mail:"
+
+#: inc/theme-metaboxes.php:90
+msgid "Enter banner height with unit. Example - 560px"
+msgstr "Inserisci altezza del banner con unità. Per es. - 560px"
+
+#: admin/options-init.php:470
+msgid "Enter multiple towns using comma (,) such as: Town1,Town2,Town3"
+msgstr "Digita più città separate da una virgola (,) ad es.: Città1,Città2,Città3"
+
+#: inc/theme-metaboxes.php:130
+msgid "Enter one specification per line."
+msgstr "Inserisci una cifra per riga"
+
+#: inc/theme-metaboxes.php:117
+msgid "Enter product price with unit. Example - $128.00"
+msgstr "Inserisci un prezzo per il prodotto con unità. Ad es. - $128.00"
+
+#: admin/options-init.php:504
+msgid "Enter title for full width section."
+msgstr "Digita titolo sezione intera."
+
+#: admin/options-init.php:468
+msgid "Enter Towns"
+msgstr "Digita città"
+
+#: admin/options-init.php:381
+#, fuzzy
+msgid "Enter your social profile links here:"
+msgstr "Digita qui i collegamenti ai profili social"
+
+#: 404.php:6
+msgid "Error 404 - Not Found"
+msgstr "Errore 404 - Non trovato"
+
+#: inc/theme_metaboxes.php:601
+msgid "Events"
+msgstr "Eventi"
+
+#: inc/theme_metaboxes.php:570
+msgid "Events Section"
+msgstr "Sezione eventi"
+
+#: includes/customize-page.php:88 includes/customize-page.php:103
+#: includes/customize-page.php:118 includes/customize-page.php:140
+#: includes/customize-page.php:156 includes/customize-page.php:170
+#: includes/customize-page.php:186 includes/customize-page.php:197
+#: includes/customize-page.php:212 includes/customize-page.php:223
+#: includes/customize-page.php:234 includes/customize-page.php:244
+#: includes/customize-page.php:254 includes/customize-page.php:271
+#: includes/customize-page.php:282 includes/customize-page.php:293
+#: includes/customize-page.php:304
+#, fuzzy
+msgid "Example:"
+msgstr "Esempio:"
+
+#: metabox/metabox.php:29
+msgid "Excerpt"
+msgstr "Estratto"
+
+#: templates/network/theme-listing.php:14 templates/theme-listing.php:14
+#, fuzzy
+msgid "Exclusive themes specially crafted for One.com customers."
+msgstr "Temi esclusivi appositamente creati per i clienti One.com."
+
+#: admin/options-init.php:387
+#, fuzzy
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/theme-metaboxes.php:468 inc/theme-metaboxes.php:474
+msgid "FAQ's"
+msgstr "Domande frequenti"
+
+#: core/theme-option.php:189
+#, fuzzy
+msgid "Favicon"
+msgstr "Favicon"
+
+#: admin/options-init.php:164
+#, fuzzy
+msgid "Favicon Icon"
+msgstr "Icona Favicon"
+
+#: inc/theme_metaboxes.php:129 inc/theme_metaboxes.php:536
+#: inc/theme_metaboxes.php:893 inc/theme_options.php:282
+msgid "Featured"
+msgstr "In primo piano"
+
+#: inc/theme_metaboxes.php:193
+msgid "Featured Highlighted Right Text"
+msgstr "Testo evidenziato in primo piano di destra"
+
+#: inc/theme-metaboxes.php:96
+msgid "Featured Product"
+msgstr "Prodotto in anteprima"
+
+#: inc/theme-metaboxes.php:183
+msgid "Featured Products"
+msgstr "Prodotto in anteprima"
+
+#: inc/theme_metaboxes.php:185
+msgid "Featured Right Text"
+msgstr "Testo in primo piano di destra"
+
+#: inc/theme_metaboxes.php:210
+msgid "Features"
+msgstr "Funzionalità"
+
+#: inc/theme_metaboxes.php:448
+msgid "Features Left Area"
+msgstr "Caratteristiche area sinistra"
+
+#: inc/theme_metaboxes.php:241
+msgid "Features List"
+msgstr "Elenco funzionalità"
+
+#: inc/theme_metaboxes.php:456
+msgid "Features Right Area"
+msgstr "Caratteristiche area destra"
+
+#: includes/customize-page.php:136
+#, fuzzy
+msgid "Fill color"
+msgstr "Colore riempimento"
+
+#: includes/customize-page.php:138
+#, fuzzy
+msgid "Fill color is applied to .svg icons in your shop, like the arrow on the \"Back\" button."
+msgstr "Il colore di riempimento è applicato alle icone .svg nel tuo negozio, come per la freccia per il tasto \"Back\"."
+
+#: staging/one_staging.php:160
+#, fuzzy
+msgid "Finalising..."
+msgstr "Finalizzazione…"
+
+#: staging/one_staging.php:161
+#, fuzzy
+msgid "Finished!"
+msgstr "Finito!"
+
+#: functions.php:269
+#, fuzzy
+msgid "Flight"
+msgstr "Volo"
+
+#: single.php:110
+#, fuzzy
+msgid "Flight: "
+msgstr "Volo:"
+
+# If you choose the option to have a floating cart, the cart is visible on all pages. It sort of floats above the page and stays at the same place whether you scroll up and down.
+# 
+# Use the slider to determine the vertical position of the cart on your page.
+# 
+# ____________________________
+# Reference for developers:
+# 
+#: includes/ws-cart-shortcode.php:32
+msgid "Floating cart on all pages"
+msgstr "Carrello fluttuante su tutte le pagine"
+
+#: includes/customize-page.php:165
+#, fuzzy
+msgid "Focus color"
+msgstr "Colore dello stato attivo"
+
+#: includes/customize-page.php:84
+#, fuzzy
+msgid "Font"
+msgstr "Font"
+
+#: inc/theme_options.php:626
+msgid "Font Families"
+msgstr "Famiglie di caratteri"
+
+#: option-tree/includes/ot-functions-option-types.php:2990
+#, fuzzy
+msgid "Font Family"
+msgstr "Famiglia carattere"
+
+#: option-tree/includes/ot-functions-option-types.php:3003
+#, fuzzy
+msgid "Font Size"
+msgstr "Dimensione carattere"
+
+#: option-tree/includes/ot-functions-option-types.php:3016
+#, fuzzy
+msgid "Font Style"
+msgstr "Stile Carattere"
+
+#: inc/theme_options.php:654
+msgid "Font Styles"
+msgstr "Stili carattere"
+
+#: option-tree/includes/ot-functions-option-types.php:3042
+#, fuzzy
+msgid "Font Weight"
+msgstr "Spessore carattere"
+
+#: admin/options-init.php:183
+#, fuzzy
+msgid "Footer"
+msgstr "Piè di pagina"
+
+#: functions.php:83
+msgid "Footer 1"
+msgstr "Riga a piè di pagina 1"
+
+#: functions.php:93
+msgid "Footer 2"
+msgstr "Riga a piè di pagina 2"
+
+#: functions.php:103
+msgid "Footer 3"
+msgstr "Riga a piè di pagina 3"
+
+#: functions.php:160
+msgid "Footer Area 1"
+msgstr "Area piè di pagina 1"
+
+#: functions.php:169
+msgid "Footer Area 2"
+msgstr "Area piè di pagina 2"
+
+#: functions.php:178
+msgid "Footer Area 3"
+msgstr "Area piè di pagina 3"
+
+#: admin/options-init.php:207
+#, fuzzy
+msgid "Footer background with image, color, etc."
+msgstr "Sfondo piè di pagina con immagine, colore, ecc."
+
+#: inc/theme_options.php:1358
+msgid "Footer Color"
+msgstr "Colore piè di pagina"
+
+#: inc/theme_options.php:1407
+msgid "Footer Scripts"
+msgstr "Script per piè di pagina"
+
+#: admin/options-init.php:399
+msgid "Footer Social Icon Color"
+msgstr "Colore icona social nel piè di pagina"
+
+#: inc/theme_options.php:1073
+msgid "For example: Post Author, Published Date, Post Categories"
+msgstr "Ad esempio: autore post, data di pubblicazione, categorie post"
+
+#: inc/theme_options.php:459
+msgid "Form Buttons"
+msgstr "Pulsanti Modulo "
+
+#: inc/theme_options.php:481
+msgid "Form Buttons - Border"
+msgstr "Pulsanti Modulo - Bordo"
+
+#: inc/theme_options.php:489
+msgid "Form Buttons - Border Radius"
+msgstr "Pulsanti Modulo - Raggio bordo"
+
+#: inc/theme_options.php:472
+msgid "Form Buttons - Show Border"
+msgstr "Pulsanti Modulo - Mostra bordo"
+
+#: inc/theme_metaboxes.php:445 inc/theme_metaboxes.php:835
+msgid "Form Embed Code or Shortcode"
+msgstr "Codice breve o codice di incorporamento"
+
+#: inc/theme_metaboxes.php:754
+msgid "Form Fields Labels"
+msgstr "Modulo per i campi delle etichette"
+
+#: inc/theme_metaboxes.php:731
+msgid "Form Section"
+msgstr "Sezione modulo"
+
+#: inc/theme_metaboxes.php:93 inc/theme_metaboxes.php:508
+#: inc/theme_metaboxes.php:691 inc/theme_metaboxes.php:943
+#: inc/theme_metaboxes.php:1030 inc/theme_metaboxes.php:1105
+#: inc/theme_metaboxes.php:1195
+msgid "Full Viewport"
+msgstr "Riquadro di visualizzazione completo"
+
+#: admin/options-init.php:522
+#, fuzzy
+msgid "Full width Section Background Image"
+msgstr "Immagine sfondo sezione intera"
+
+#: admin/options-init.php:494
+msgid "Full Width Section Background Image"
+msgstr "Sezione a tutta pagina con immagine di sfondo"
+
+#: admin/options-init.php:510
+msgid "Full Width Section Description"
+msgstr "Descrizione sezione intera"
+
+#: admin/options-init.php:516
+#, fuzzy
+msgid "Full Width Section Subtitle"
+msgstr "Sottotitolo sezione intera"
+
+#: core/theme-option.php:469
+#, fuzzy
+msgid "Full Width Section Text"
+msgstr "Testo sezione intera"
+
+#: admin/options-init.php:510
+#, fuzzy
+msgid "Full Width Section Title"
+msgstr "Titolo sezione intera"
+
+#: option-tree/includes/ot-functions-docs-page.php:168
+#, fuzzy
+msgid "Gallery"
+msgstr "Raccolta"
+
+#: admin/options-init.php:90
+#, fuzzy
+msgid "General"
+msgstr "Generale"
+
+#: includes/settings-page.php:31
+#, fuzzy
+msgid "Generate a shortcode and add it to any page."
+msgstr "Genera un codice breve e aggiungilo a una pagina a piacere."
+
+#: includes/ws-shortcode.php:3
+#, fuzzy
+msgid "Generate the shortcode"
+msgstr "Genera codice breve"
+
+# Description telling users what to do here. The shortcode should be copied in the page in WordPress.
+# 
+# ____________________________
+# Reference for developers:
+# 
+#: includes/ws-shortcode.php:4
+#, fuzzy
+msgid "Generate the shortcode with these settings, and copy it to the page where you want your webshop to be displayed."
+msgstr "Regolare le impostazioni qui per generare il shortcode, quindi copiare il codice nella pagina in cui si desidera che il vostro webshop venga visualizzato."
+
+#: template-parts/content-none.php:21
+#, fuzzy
+msgid "Get started here"
+msgstr "Comincia da qui"
+
+#: includes/settings-page.php:32
+#, fuzzy
+msgid "Get the shortcode"
+msgstr "Ottieni il codice breve"
+
+#: onecom-themes-plugins.php:417
+#, fuzzy
+msgid "Go to Control Panel at One.com"
+msgstr "Vai a Pannello di controllo di One.com"
+
+#: onecom-themes-plugins.php:434
+#, fuzzy
+msgid "Go to Guides & FAQ at One.com"
+msgstr "Vai a Guide e Domande frequente di One.com"
+
+#: includes/settings-page.php:21
+#, fuzzy
+msgid "Go to Products & Orders"
+msgstr "Vai a Prodotti e Ordini"
+
+#: core/theme-option.php:374
+#, fuzzy
+msgid "Google Plus"
+msgstr "Google Plus"
+
+#: admin/options-init.php:399
+#, fuzzy
+msgid "Google+"
+msgstr "Google+"
+
+#: functions.php:256
+#, fuzzy
+msgid "Group"
+msgstr "Gruppo"
+
+#: single.php:92
+#, fuzzy
+msgid "Group: "
+msgstr "Gruppo:"
+
+#: functions.php:273
+#, fuzzy
+msgid "Guide"
+msgstr "Guida"
+
+#: single.php:116
+#, fuzzy
+msgid "Guide: "
+msgstr "Guida:"
+
+#: admin/options-init.php:270
+#, fuzzy
+msgid "H1 Font Style"
+msgstr "Stile carattere H1"
+
+#: inc/theme-options.php:682
+msgid "H1 Text Color"
+msgstr "Colore testo H1"
+
+#: admin/options-init.php:288
+#, fuzzy
+msgid "H2 Font Style"
+msgstr "Stile carattere H2"
+
+#: inc/theme-options.php:689
+msgid "H2 Text Color"
+msgstr "Colore testo H2"
+
+#: admin/options-init.php:306
+#, fuzzy
+msgid "H3 Font Style"
+msgstr "Stile carattere H3"
+
+#: inc/theme-options.php:696
+msgid "H3 Text Color"
+msgstr "Colore testo H3"
+
+#: admin/options-init.php:324
+#, fuzzy
+msgid "H4 Font Style"
+msgstr "Stile carattere H4"
+
+#: inc/theme-options.php:703
+msgid "H4 Text Color"
+msgstr "Colore testo H4"
+
+#: admin/options-init.php:342
+#, fuzzy
+msgid "H5 Font Style"
+msgstr "Stile carattere H5"
+
+#: inc/theme-options.php:710
+msgid "H5 Text Color"
+msgstr "Colore testo H5"
+
+#: admin/options-init.php:360
+#, fuzzy
+msgid "H6 Font Style"
+msgstr "Stile carattere H6"
+
+#: inc/theme-options.php:717
+msgid "H6 Text Color"
+msgstr "Colore testo H6"
+
+#: inc/theme_options.php:1397
+msgid "Head Scripts"
+msgstr "Script per intestazione"
+
+#: admin/options-init.php:146
+#, fuzzy
+msgid "Header"
+msgstr "Intestazione"
+
+#: inc/theme_options.php:597
+msgid "Header Height"
+msgstr "Altezza intestazione"
+
+#: inc/theme_options.php:455
+msgid "Header Left Text"
+msgstr "Testo a sinistra dell’intestazione"
+
+#: admin/options-init.php:154
+#, fuzzy
+msgid "Header Logo"
+msgstr "Logo intestazione"
+
+#: inc/theme_options.php:694
+msgid "Header Menu Font Style"
+msgstr "Stile carattere menu intestazione"
+
+#: inc/theme_options.php:464
+msgid "Header Right Text"
+msgstr "Testo a destra dell’intestazione"
+
+#: inc/theme_options.php:473
+msgid "Header Subtitle"
+msgstr "Sottotitolo intestazione"
+
+#: inc/theme_options.php:482
+msgid "Header Tagline"
+msgstr "Slogan dell’intestazione"
+
+#: inc/theme_options.php:380 inc/theme_options.php:741
+msgid "Heading"
+msgstr "Intestazione"
+
+#: includes/customize-page.php:290
+#, fuzzy
+msgid "Headings (borders)"
+msgstr "Intestazioni (bordi)"
+
+#: inc/theme_options.php:130
+msgid "Headings Colors"
+msgstr "Colori intestazioni"
+
+#: inc/theme_metaboxes.php:231 inc/theme_metaboxes.php:390
+#: inc/theme_metaboxes.php:523 inc/theme_metaboxes.php:625
+msgid "Highlighted Text"
+msgstr "Testo evidenziato"
+
+#: metaboxes/metabox.php:40
+#, fuzzy
+msgid "Hightlight Box"
+msgstr "Evidenzia casella"
+
+#: metaboxes/metabox.php:41
+#, fuzzy
+msgid "Hightlight Content"
+msgstr "Evidenzia contenuto"
+
+#: admin/options-init.php:425
+#, fuzzy
+msgid "Home"
+msgstr "Home"
+
+#: inc/theme_options.php:883
+msgid "Homepage Banner"
+msgstr "Banner homepage"
+
+#: inc/theme_options.php:259
+msgid "Homepage Banner - Text Color"
+msgstr "Banner homepage - Colore testo"
+
+#: options-init.php:346
+msgid "Homepage Content"
+msgstr "Contenuto homepage"
+
+#: inc/theme_options.php:775
+msgid "Homepage Slider"
+msgstr "Image slider pagina iniziale"
+
+#: options-init.php:338
+msgid "Homepage Slogan"
+msgstr "Slogan homepage"
+
+#: inc/core_functions.php:56
+msgid "Hover Background Color"
+msgstr "Colore sfondo al passaggio del mouse"
+
+#: includes/customize-page.php:183
+#, fuzzy
+msgid "Hover color"
+msgstr "Colore al passaggio del mouse"
+
+#: admin/options-init.php:220
+msgid "Hover Color"
+msgstr "Colore al passaggio del mouse"
+
+#: includes/customize-page.php:251
+#, fuzzy
+msgid "Hover color (dropdown menu)"
+msgstr "Colore al passaggio del mouse (menu a discesa)"
+
+#: inc/core_functions.php:54
+msgid "Hover Text Color"
+msgstr "Colore del testo al passaggio del mouse"
+
+#: inc/theme_metaboxes.php:255
+msgid "Icon"
+msgstr "Icona"
+
+#: core/widgets.php:382
+msgid "Icon Alignment"
+msgstr "Allineamento icone"
+
+#: core/theme-option.php:390
+#, fuzzy
+msgid "Icon Background Color"
+msgstr "Colore icona sfondo"
+
+#: core/widgets.php:316
+msgid "Icon Box"
+msgstr "Casella icone"
+
+#: core/theme-option.php:381
+#, fuzzy
+msgid "Icon Color"
+msgstr "Colore icona"
+
+#: core/widgets.php:96
+msgid "Icon Hover Color"
+msgstr "Colore al passaggio del mouse sopra l'icona"
+
+#: core/widgets.php:390
+msgid "Icon Size"
+msgstr "Dimensioni icona"
+
+#: inc/widgets.php:389
+msgid "If colors are not set, skin colors will be applied."
+msgstr "Se non imposti i colori, verranno applicati i colori interfaccia."
+
+#: inc/theme_options.php:508
+msgid "If turned On, the native colors of social icons will be used."
+msgstr "Se abilitata, verranno utilizzati i colori nativi delle icone social."
+
+#: metaboxes/metabox.php:183
+#, fuzzy
+msgid "Image"
+msgstr "Immagine"
+
+#: includes/customize-page.php:194
+#, fuzzy
+msgid "Image overlay color"
+msgstr "Colore sovrapposizione immagine"
+
+#: includes/ws-shortcode.php:34
+#, fuzzy
+msgid "Image style"
+msgstr "Stile immagine"
+
+#: ../includes/ot-functions-admin.php:137
+msgid "Import"
+msgstr "Importa"
+
+#: importer/views/plugin-page.php:100 importer/views/plugin-page.php:112
+#, fuzzy
+msgid "Import Demo Data"
+msgstr "Importa dati demo"
+
+#: importer/views/plugin-page.php:14
+msgid "Import demo data"
+msgstr "Importa Dati Demo"
+
+#: importer/views/plugin-page.php:172
+#, fuzzy
+msgid "Importing, please wait!"
+msgstr "Importazione in corso! Attendere..."
+
+# This option places the cart in the header on all your pages, usually to the right of your menu. This option is only available when you are using a One.com theme. If you use another theme you get the option "Attach cart to CSS selector" instead.
+# 
+# ____________________________
+# Reference for developers:
+# 
+#: includes/ws-cart-shortcode.php:38
+msgid "In head on all pages"
+msgstr "Nella testata in tutte le pagine"
+
+# This option places the cart in the header on all your pages, usually to the right of your menu. This option is only available when you are using a One.com theme. If you use another theme you get the option "Attach cart to CSS selector" instead.
+# 
+# ____________________________
+# Reference for developers:
+# 
+#: includes/ws-cart-shortcode.php:38
+#, fuzzy
+msgid "In header on all pages"
+msgstr "Nella testata in tutte le pagine"
+
+#: inc/theme_metaboxes.php:709 inc/theme_metaboxes.php:715
+#: inc/theme_metaboxes.php:1124 inc/theme_metaboxes.php:1213
+#: inc/theme_metaboxes.php:1220
+msgid "Information Blocks"
+msgstr "Blocchi informali"
+
+#: admin/options-init.php:571
+#, fuzzy
+msgid "Insert email addresses separated by comma"
+msgstr "Inserisci indirizzi e-mail separati da una virgola"
+
+# Selecting this option only shows the cart icon inside the webshop widget, and not on any other places. It is the default setting for the cart.
+# 
+# ____________________________
+# Reference for developers:
+# 
+#: includes/ws-cart-shortcode.php:49
+msgid "Inside Webshop widget"
+msgstr "Solo all'interno del widget del negozio"
+
+#: admin/options-init.php:373
+msgid "Instagram"
+msgstr "Instagram"
+
+#: templates/network/theme-listing-loop.php:82
+#: templates/network/theme-listing.php:87 templates/theme-listing-loop.php:79
+#: templates/theme-listing.php:87
+#, fuzzy
+msgid "Install"
+msgstr "Installa"
+
+#: templates/network/plugin-listing.php:92
+#: templates/network/recommended-plugin-listing.php:102
+#: templates/plugin-listing.php:91 templates/recommended-plugin-listing.php:101
+#, fuzzy
+msgid "Install now"
+msgstr "Installa subito"
+
+#: inc/functions.php:534
+#, fuzzy
+msgid "Installing plugin"
+msgstr "Installazione del plugin in corso"
+
+#: inc/functions.php:199
+#, fuzzy
+msgid "Installing theme"
+msgstr "Installazione del tema in corso"
+
+#: inc/core_functions.php:467
+msgid "Instructor"
+msgstr "Istruttore"
+
+#: inc/core_functions.php:468
+msgid "Instructor Description"
+msgstr "Descrizione istruttore"
+
+#: inc/theme_options.php:272
+msgid "Internal Banner - Text Color"
+msgstr "Banner interni - Colore testo"
+
+#: inc/theme_options.php:949
+msgid "Internal Banner Font Style"
+msgstr "Stile carattere banner interni"
+
+#: inc/theme_metaboxes.php:519 inc/theme_metaboxes.php:703
+msgid "Internal Banner Height"
+msgstr "Altezza banner interni"
+
+#: inc/theme_options.php:942
+msgid "Internal Banners"
+msgstr "Banner interni"
+
+#: staging/Includes/Core/views/staging.php:30
+#, fuzzy
+msgid "It can take a couple of minutes for the copy to finish, so please do not close or navigate away from this page."
+msgstr "Possono essere necessari un paio di minuti per completare la copia, pertanto ti preghiamo di non chiudere o navigare su internet da questa pagina."
+
+#: importer/views/plugin-page.php:45
+#, fuzzy
+msgid "It can take a couple of minutes for the import to finish, so please click the Import button only once."
+msgstr "Il processo di importazione può durare alcuni minuti, per cui fai clic sul pulsante Importa solo una volta."
+
+#: staging/Includes/Core/views/staging.php:28
+#, fuzzy
+msgid "It is not possible to reverse this process."
+msgstr "Non è possibile invertire questo processo."
+
+#: admin/options-init.php:128
+msgid "It will display on every pages, services etc."
+msgstr "Appare in ogni pagina, servizio, ecc."
+
+#: inc/theme-metaboxes.php:164 inc/theme-metaboxes.php:213
+#: inc/theme-metaboxes.php:250 inc/theme-metaboxes.php:494
+msgid "Items"
+msgstr "Elementi"
+
+#: searchform.php:3 searchform.php:7
+msgctxt "label"
+msgid "Search for:"
+msgstr "Cerca: %s"
+
+#: includes/ws-shortcode.php:38
+#, fuzzy
+msgid "Landscape"
+msgstr "Orizzontale"
+
+#: ../includes/ot-functions-admin.php:4381
+msgid "Layout"
+msgstr "Layout"
+
+#: includes/customize-page.php:81 includes/settings-page.php:75
+#, fuzzy
+msgid "Learn more"
+msgstr "Per saperne di più"
+
+#: includes/settings-page.php:74
+#, fuzzy
+msgid "Learn more about the online shop from the guides and FAQs on our website."
+msgstr "Informati sul E-commerce leggendo le guide e le domande frequenti riportate sul nostro sito Web."
+
+#: inc/template-tags.php:65
+#, fuzzy
+msgid "Leave a Comment"
+msgstr "Lascia un commento"
+
+#: inc/theme_metaboxes.php:75
+msgid "Left"
+msgstr "Allineato a sinistra"
+
+#: core/theme-option.php:432
+#, fuzzy
+msgid "Left Section Image"
+msgstr "Immagine sezione a sinistra"
+
+#: core/theme-option.php:449
+#, fuzzy
+msgid "Left Section Text"
+msgstr "Testo sezione a sinistra"
+
+#: core/theme-option.php:442
+#, fuzzy
+msgid "Left Section Title"
+msgstr "Titolo sezione a sinistra"
+
+#: ../includes/ot-functions-admin.php:3196
+msgid "Left Sidebar"
+msgstr "Barra laterale a sinistra"
+
+#: inc/core_functions.php:409
+msgid "Lesson"
+msgstr "Lezione"
+
+#: inc/core_functions.php:410
+msgid "Lesson Description"
+msgstr "Descrizione lezione"
+
+#: option-tree/includes/ot-functions-option-types.php:3068
+#, fuzzy
+msgid "Line Height"
+msgstr "Altezza di linea"
+
+#: ../includes/ot-functions-admin.php:3262
+#: ../includes/ot-functions-admin.php:3318
+#: ../includes/ot-functions-admin.php:5506
+msgid "Link"
+msgstr "Collegamento"
+
+#: admin/options-init.php:121
+#, fuzzy
+msgid "Link Color"
+msgstr "Colore collegamenti"
+
+#: admin/options-init.php:176
+#, fuzzy
+msgid "Link Hover Color"
+msgstr "Colore al passaggio sopra i collegamenti"
+
+#: inc/theme-metaboxes.php:40 inc/theme-metaboxes.php:280
+msgid "Link Text"
+msgstr "Testo del collegamento"
+
+#: admin/options-init.php:361
+msgid "Linkedin"
+msgstr "Linkedin"
+
+#: admin/options-init.php:109
+msgid "Links Color"
+msgstr "Colore collegamenti"
+
+#: admin/options-init.php:191
+#, fuzzy
+msgid "Logo"
+msgstr "Logo"
+
+#: inc/widgets.php:99
+msgid "Logo & Description"
+msgstr "Logo e descrizione"
+
+#: inc/theme_options.php:674
+msgid "Logo Font Style"
+msgstr "Stile carattere logo"
+
+#: inc/theme_options.php:179
+msgid "Logo Text Color"
+msgstr "Colore testo logo"
+
+#: functions.php:94
+#, fuzzy
+msgid "Mainmenu Navigation"
+msgstr "Navigazione menu principale"
+
+#: inc/theme_options.php:1377
+msgid "Manage Footer Widgets"
+msgstr "Gestisci widget piè di pagina"
+
+#: inc/theme_options.php:606
+msgid "Manage Header Menu"
+msgstr "Gestisci menu intestazione"
+
+#: inc/theme_options.php:605
+msgid "Manage Logo Text"
+msgstr "Gestisci testo logo"
+
+#: inc/theme_options.php:585
+msgid "Manage Site Title"
+msgstr "Gestisci titolo sito"
+
+#: inc/theme_options.php:781
+msgid "Manage Slider"
+msgstr "Gestisci image slider"
+
+#: core/widgets.php:106
+msgid "Manage Social Icons"
+msgstr "Gestisci icone social"
+
+#: inc/theme_metaboxes.php:882
+msgid "Map Embed Code"
+msgstr "Codice incorporato mappa"
+
+#: inc/theme_metaboxes.php:853
+msgid "Map Section"
+msgstr "Sezione mappa"
+
+#: admin/options-init.php:188
+#, fuzzy
+msgid "Menu"
+msgstr "Menu"
+
+#: inc/theme_options.php:195
+msgid "Menu Background Color"
+msgstr "Colore di sfondo del menu"
+
+#: admin/options-init.php:195
+msgid "Menu Font Style"
+msgstr "Stile del font (menu)"
+
+#: inc/theme_options.php:212
+msgid "Menu Item Background Color"
+msgstr "Colore sfondo voce menu"
+
+#: inc/theme_options.php:200
+msgid "Menu Item Color"
+msgstr "Colore voce menu"
+
+#: inc/core_functions.php:268
+msgid "Message "
+msgstr "Messaggio"
+
+#: inc/theme_metaboxes.php:785 page-templates/contact-page.php:108
+msgid "Message"
+msgstr "Messaggio"
+
+#: inc/core_functions.php:249
+msgid "Message is too large, please shorten it."
+msgstr "Il messaggio è troppo lungo; abbrevialo."
+
+#: inc/core_functions.php:245
+msgid "Message text is empty or too short."
+msgstr "Il campo Testo del messaggio è vuoto o il testo del messaggio è troppo corto."
+
+# If you choose the option to have a floating cart, the cart is visible on all pages. It sort of floats above the page and stays at the same place whether you scroll up and down.
+# 
+# Use the slider to determine the vertical position of the cart on your page.
+# 
+# ____________________________
+# Reference for developers:
+# 
+#: includes/ws-cart-shortcode.php:61
+msgid "Middle"
+msgstr "A metà"
+
+#: admin/options-init.php:504
+msgid "Middle Bottom Section Content"
+msgstr "Contenuto sezione in mezzo in basso"
+
+#: admin/options-init.php:498
+msgid "Middle Bottom Section Title"
+msgstr "Titolo sezione in mezzo in basso"
+
+#: admin/options-init.php:465
+msgid "Middle Left Section Content"
+msgstr "Contenuto sezione in mezzo a sinistra"
+
+#: admin/options-init.php:459
+msgid "Middle Left Section Title"
+msgstr "Titolo sezione in mezzo a sinistra"
+
+#: admin/options-init.php:491
+msgid "Middle Right Section Content"
+msgstr "Contenuto sezione in mezzo a destra"
+
+#: admin/options-init.php:476
+msgid "Middle Right Section Image"
+msgstr "Immagine sezione in mezzo a destra"
+
+#: admin/options-init.php:484
+msgid "Middle Right Section Title"
+msgstr "Titolo sezione in mezzo a destra"
+
+#: admin/options-init.php:465
+msgid "Middle Section Content"
+msgstr "Contenuto sezione centrale"
+
+#: admin/options-init.php:476
+#, fuzzy
+msgid "Middle Section-1 Content Image"
+msgstr "Immagine contenuto sezione 1 centrale"
+
+#: admin/options-init.php:469
+#, fuzzy
+msgid "Middle Section-1 Link"
+msgstr "Collegamento sezione 1 centrale"
+
+#: admin/options-init.php:463
+#, fuzzy
+msgid "Middle Section-1 Title"
+msgstr "Titolo sezione 1 centrale"
+
+#: admin/options-init.php:497
+#, fuzzy
+msgid "Middle Section-2 Left Content"
+msgstr "Contenuto a sinistra sezione 2 centrale"
+
+#: admin/options-init.php:503
+#, fuzzy
+msgid "Middle Section-2 Right content"
+msgstr "Contenuto a destra sezione 2 centrale"
+
+#: admin/options-init.php:491
+#, fuzzy
+msgid "Middle Section-2 Title"
+msgstr "Titolo sezione 2 centrale"
+
+#: functions.php:222
+msgid "Missing Attachment"
+msgstr "Allegato mancante"
+
+#: templates/network/theme-listing.php:91 templates/theme-listing.php:91
+#, fuzzy
+msgid "Mobile"
+msgstr "Dispositivo mobile"
+
+#: inc/theme_metaboxes.php:615
+msgid "Month"
+msgstr "Mese"
+
+#: templates/network/recommended-plugin-listing.php:110
+#: templates/recommended-plugin-listing.php:109
+#, fuzzy
+msgid "More details"
+msgstr "Altri dettagli"
+
+#: includes/ws-shortcode.php:29
+#, fuzzy
+msgid "Most popular"
+msgstr "Più diffusi"
+
+#: inc/core_functions.php:263
+msgid "Name "
+msgstr "Nome"
+
+#: comments.php:67
+#, fuzzy
+msgid "Name"
+msgstr "Nome"
+
+#: inc/core_functions.php:229
+msgid "Name is empty or too short."
+msgstr "Il campo Nome è vuoto o nome troppo corto."
+
+#: inc/core_functions.php:233
+msgid "Name is too large."
+msgstr "Il nome è troppo lungo."
+
+#: staging/Includes/Core/views/ajax/staging_details.php:50
+#: staging/Includes/Core/views/live.php:51
+#: staging/Includes/Core/views/staging.php:32
+msgid "Need help?"
+msgstr "Hai bisogno di aiuto?"
+
+#: custompost/custompost.php:11
+msgid "New Adventure"
+msgstr "New Viaggio"
+
+#: inc/theme-metaboxes.php:146
+msgid "New Collections"
+msgstr "Nuove collezioni"
+
+#: inc/core_functions.php:448
+msgid "New Item"
+msgstr "Nuovo elemento"
+
+#: inc/core_functions.php:390
+msgid "New Lesson"
+msgstr "Nuova lezione"
+
+#: inc/core_functions.php:329
+msgid "New Recipe"
+msgstr "Nuova Ricetta"
+
+#: inc/core_functions.php:376
+msgid "New Recipe Type"
+msgstr "Nuovo Tipi di Ricetta"
+
+#: custompost/customposts.php:73
+#, fuzzy
+msgid "New Service"
+msgstr "Nuovo servizio"
+
+#: inc/core_functions.php:334
+msgid "New Slide"
+msgstr "Nuova immagine"
+
+#: custompost/customposts.php:42
+msgid "New Spotlight"
+msgstr "Nuovo spotlight"
+
+#: custompost/customposts.php:11
+msgid "New Testimonial"
+msgstr "Nuova testimonianza"
+
+#: custompost/custompost.php:11
+msgid "New Travel"
+msgstr "Nuovo viaggio"
+
+#: inc/core_functions.php:329
+msgid "New Tutorial"
+msgstr "Nuovo tutorial"
+
+#: inc/core_functions.php:376
+msgid "New Tutorials Type"
+msgstr "Nuovi tipi di tutorial"
+
+#: includes/ws-shortcode.php:26
+#, fuzzy
+msgid "Newest"
+msgstr "Più recenti"
+
+#: inc/theme_metaboxes.php:396
+msgid "Newsletter"
+msgstr "Newsletter"
+
+#: inc/theme-metaboxes.php:327
+msgid "Newsletter Settings"
+msgstr "Impostazioni newsletter"
+
+#: comments.php:72
+msgid "Next"
+msgstr "Avanti"
+
+#: template-parts/content-none.php:7
+msgid "No entries found!"
+msgstr "Nessuna voce trovata!"
+
+#: importer/views/plugin-page.php:43
+#, fuzzy
+msgid "No existing data will be deleted or modified, this includes posts, pages, categories, images, custom post types or any other data."
+msgstr "I dati esistenti non vengono eliminati o modificati, ad es. post, pagine, categorie, immagini, tipo di post personalizzati e qualsiasi altro dato."
+
+#: search.php:33
+msgid "No posts found. Try a different search!"
+msgstr "Impossibile trovare il post. Prova una ricerca differente!"
+
+#: inc/theme_options.php:1095 inc/theme_options.php:1121
+msgid "No Sidebar"
+msgstr "Nessuna barra laterale"
+
+#: inc/core_functions.php:338
+msgid "No Slides found"
+msgstr "Impossibile trovare immagini"
+
+#: inc/core_functions.php:339
+msgid "No Slides found in the Trash"
+msgstr "Il cestino non contiene immagini"
+
+#: index.php:33
+msgid "Not Found"
+msgstr "Nessun risultato"
+
+#: templates/discouraged-plugin-listing.php:117
+#: templates/network/discouraged-plugin-listing.php:117
+#, fuzzy
+msgid "Not right now"
+msgstr "Non al momento"
+
+#: importer/views/plugin-page.php:49
+#, fuzzy
+msgid "Note:"
+msgstr "Nota:"
+
+#: inc/theme_options.php:1148
+msgid "Note: You can override this setting on a specific page."
+msgstr "Nota: puoi sovrascrivere questa impostazione su una pagina specifica."
+
+#: inc/theme_options.php:1123
+msgid "Note: You can override this setting on a specific post."
+msgstr "Nota: puoi sovrascrivere questa impostazione su una pagina specifica."
+
+#: custompost/customposts.php:14 custompost/customposts.php:45
+#: custompost/customposts.php:76
+#, fuzzy
+msgid "Nothing found"
+msgstr "Nessun risultato"
+
+#: custompost/customposts.php:15 custompost/customposts.php:46
+#: custompost/customposts.php:77
+#, fuzzy
+msgid "Nothing found in Trash"
+msgstr "Cestino vuoto"
+
+#: admin/options-init.php:484
+#, fuzzy
+msgid "Notice Section Content"
+msgstr "Contenuto sezione di avviso"
+
+#: option-tree/includes/ot-functions-option-types.php:446
+#, fuzzy
+msgid "Offset Left"
+msgstr "Distanziata verso sinistra"
+
+#: option-tree/includes/ot-functions-option-types.php:455
+#, fuzzy
+msgid "Offset Top"
+msgstr "Distanziata in alto"
+
+#: inc/theme_metaboxes.php:463 inc/theme_options.php:869
+#: inc/theme_options.php:899 inc/theme_options.php:924
+msgid "One column with left sidebar"
+msgstr "Una colonna con barra laterale a sinistra"
+
+#: inc/theme_metaboxes.php:453 inc/theme_options.php:859
+#: inc/theme_options.php:889 inc/theme_options.php:914
+msgid "One column with right sidebar"
+msgstr "Una colonna con barra laterale"
+
+#: inc/theme_metaboxes.php:458 inc/theme_options.php:844
+#: inc/theme_options.php:894 inc/theme_options.php:919
+msgid "One column without sidebar"
+msgstr "Una colonna senza barra laterale"
+
+#: onecom-themes-plugins.php:310 onecom-themes-plugins.php:311
+#: onecom-themes-plugins.php:366 onecom-themes-plugins.php:369
+#, fuzzy
+msgid "One.com"
+msgstr "One.com"
+
+#: onecom-themes-plugins.php:414
+#, fuzzy
+msgid "One.com Control Panel"
+msgstr "Pannello di controllo di One.com"
+
+#: onecom-themes-plugins.php:431
+#, fuzzy
+msgid "One.com Guides & FAQ"
+msgstr "Guide e Domande frequenti di One.com"
+
+#: includes/settings-page.php:15
+#, fuzzy
+msgid "One.com Online Shop"
+msgstr "One.com E-commerce"
+
+#: templates/discouraged-plugin-listing.php:23
+#: templates/network/discouraged-plugin-listing.php:23
+#: templates/network/plugin-listing.php:23
+#: templates/network/recommended-plugin-listing.php:23
+#: templates/plugin-listing.php:23 templates/recommended-plugin-listing.php:23
+#, fuzzy
+msgid "One.com plugins"
+msgstr "Plugin di One.com"
+
+#: webshop.php:116
+#, fuzzy
+msgid "Online shop Settings"
+msgstr "Impostazioni E-commerce"
+
+#: staging/Includes/Core/views/ajax/staging_details.php:44
+#, fuzzy
+msgid "Only one staging version can be created for each website. When you rebuild a staging website, any existing staging site will be replaced with a new snapshot of your live website."
+msgstr "Solo una versione di allestimento può essere creata per ogni sito web. Quando ricostruisci un sito in allestimento, qualsiasi altro sito in allestimento verrà sovrascritto con una nuova istantanea del tuo sito online."
+
+#: inc/widgets.php:208
+msgid "Open in new window?"
+msgstr "Aprire in un’altra finestra?"
+
+#: option-tree/ot-loader.php:22
+#, fuzzy
+msgid "OptionTree is installed as a plugin and also embedded in your current theme. Please deactivate the plugin to load the theme dependent version of OptionTree, and remove this warning."
+msgstr "OptionTree viene installato come plugin e incorporato nel tuo tema attuale. Disattiva il plugin per caricare la versione (dipendente dal tema) di OptionTree e rimuovere questa avvertenza."
+
+#: includes/customize-page.php:279
+#, fuzzy
+msgid "Order details (borders)"
+msgstr "Dettagli ordine (bordi)"
+
+#: importer/views/plugin-page.php:50
+#, fuzzy
+msgid "Otherwise you might end up mixing the demo data with the existing content on your website."
+msgstr "Altrimenti potresti confondere i dati dimostrativi con i dati già esistenti nel tuo sito."
+
+#: includes/settings-page.php:85
+#, fuzzy
+msgid "Our chat support is open 24/7"
+msgstr "Il nostro supporto Live Chat è aperto 24/7"
+
+#: admin/options-init.php:461 admin/options-init.php:485
+#: admin/options-init.php:514
+msgid "Page content"
+msgstr "Contenuto"
+
+#: metaboxes/metabox.php:53
+msgid "Page Content"
+msgstr "Contenuto"
+
+#: metabox/metabox.php:18
+msgid "Page Description"
+msgstr "Contenuto"
+
+#: metabox/metabox.php:28
+msgid "Page Header"
+msgstr "Intestazione pagina"
+
+#: 404.php:23
+#, fuzzy
+msgid "Page Not Found"
+msgstr "Impossibile trovare la pagina"
+
+#: inc/theme_metaboxes.php:641
+msgid "Page Section"
+msgstr "Sezione pagina"
+
+#: inc/theme_metaboxes.php:25 inc/theme_metaboxes.php:461
+#: inc/theme_metaboxes.php:896 inc/theme_metaboxes.php:1060
+#: inc/theme_metaboxes.php:1142 inc/theme_options.php:285
+#: inc/theme_options.php:987
+msgid "Page Sections"
+msgstr "Sezioni della pagina"
+
+#: metabox/metabox.php:5
+#, fuzzy
+msgid "Page Settings"
+msgstr "Impostazioni pagina"
+
+#: metaboxes/metabox.php:23
+#, fuzzy
+msgid "Page Sub Title"
+msgstr "Sottotitolo pagina"
+
+#: inc/theme_metaboxes.php:991 inc/theme_metaboxes.php:1066
+#: inc/theme_metaboxes.php:1155
+msgid "Page Subtitle"
+msgstr "Sottotitolo pagina"
+
+#: inc/theme_options.php:152 inc/theme_options.php:762
+msgid "Page Title"
+msgstr "Titolo pagina"
+
+#: inc/theme_options.php:891 inc/theme_options.php:950
+msgid "Pages > Home > Banner"
+msgstr "Pagine > Home > Banner"
+
+#: single.php:80
+#, fuzzy
+msgid "Pages:"
+msgstr "Pagine:"
+
+#: inc/core_functions.php:371
+msgid "Parent Recipe Type"
+msgstr "Tipo di Ricetta Genitore"
+
+#: inc/core_functions.php:372
+msgid "Parent Recipe Type:"
+msgstr "Tipo di Ricetta Genitore:"
+
+#: inc/core_functions.php:371
+msgid "Parent Tutorials Type"
+msgstr "Tipo di tutorial genitore"
+
+#: inc/core_functions.php:372
+msgid "Parent Tutorials Type:"
+msgstr "Tipo di tutorial genitore:"
+
+#: admin/options-init.php:367
+msgid "Personal Website"
+msgstr "Sito Web personale"
+
+#: admin/options-init.php:552
+#, fuzzy
+msgid "Phone"
+msgstr "Telefono"
+
+#: widgets/widget.php:142
+msgid "Phone:"
+msgstr "Tel.:"
+
+#: front-page.php:135
+msgid "Please add / edit"
+msgstr "Aggiungi/modifica"
+
+#: inc/theme_metaboxes.php:447 inc/theme_metaboxes.php:836
+msgid "Please copy and paste the Embed Code or Shortcode of the custom form (if any). This will replace the default form."
+msgstr "Copia e incolla il codice breve o il codice di incorporamento del modulo personalizzato (se presente). Sostituirà il modulo predefinito."
+
+#: includes/ws-shortcode.php:85
+#, fuzzy
+msgid "Please enter a number between 2 and 100."
+msgstr "Immetti un numero compreso tra 2 e 100."
+
+#: template-parts/home/section-newsletter.php:31
+msgid "Please enter your email."
+msgstr "Immetti il tuo indirizzo e-mail."
+
+#: staging/Includes/Core/views/live.php:49
+#, fuzzy
+msgid "Please note"
+msgstr "Notare che"
+
+#: inc/theme_metaboxes.php:193
+msgid "Please select the courses to be diplayed."
+msgstr "Seleziona i corsi da visualizzare."
+
+#: core/theme-option.php:434 core/theme-option.php:461
+#, fuzzy
+msgid "Please upload Image."
+msgstr "Carica immagine."
+
+#: core/theme-option.php:533
+#, fuzzy
+msgid "Please upload the image ."
+msgstr "Carica immagine."
+
+#: core/theme-option.php:407 core/theme-option.php:485
+#: core/theme-option.php:509
+#, fuzzy
+msgid "Please upload the image."
+msgstr "Carica immagine."
+
+#: staging/Includes/Core/views/live.php:7
+#, fuzzy
+msgid "Please wait, while we are copying your live site to the staging site."
+msgstr "Attendere, prego, mentre effettuiamo la copia del tuo sito live nel sito in allestimento."
+
+#: staging/Includes/Core/views/live.php:15
+#, fuzzy
+msgid "Please wait, while we are updating staging site."
+msgstr "Veuillez patienter pendant la mise à jour du site de transfert."
+
+#: functions.php:119 functions.php:139
+msgid "Please wait..."
+msgstr "Attendere..."
+
+#: inc/functions.php:585
+#, fuzzy
+msgid "Plugin installed successfully"
+msgstr "Plugin correttamente installato"
+
+#: onecom-themes-plugins.php:328 onecom-themes-plugins.php:329
+#: onecom-themes-plugins.php:336 onecom-themes-plugins.php:337
+#: onecom-themes-plugins.php:344 onecom-themes-plugins.php:345
+#: onecom-themes-plugins.php:389 onecom-themes-plugins.php:392
+#: onecom-themes-plugins.php:403
+#, fuzzy
+msgid "Plugins"
+msgstr "Plugin"
+
+#: staging/Includes/Core/views/live.php:49
+#, fuzzy
+msgid "Plugins that are URL sensitive may not work as expected on the staging site."
+msgstr "I plugin che sono URL dipendenti possono non funzionare correttamente sul sito in allestimento."
+
+#: templates/network/plugin-listing.php:13 templates/plugin-listing.php:13
+#, fuzzy
+msgid "Plugins that bring the One.com experience and services to WordPress."
+msgstr "Plugin che portano l'esperienza dei servizi di One.com a WorPress."
+
+#: includes/ws-shortcode.php:39
+#, fuzzy
+msgid "Portrait"
+msgstr "Verticale"
+
+#: inc/core_functions.php:449
+msgctxt "Post Type General Name"
+msgid "Instructors"
+msgstr "Istruttore"
+
+#: inc/core_functions.php:391
+msgctxt "Post Type General Name"
+msgid "Lessons"
+msgstr "Lezione"
+
+#: inc/core_functions.php:327
+msgctxt "Post Type General Name"
+msgid "Recipes"
+msgstr "Ricette"
+
+#: inc/core_functions.php:327
+msgctxt "Post Type General Name"
+msgid "Tutorials"
+msgstr "Tutorial"
+
+#: inc/core_functions.php:450
+msgctxt "Post Type Singular Name"
+msgid "Instructor"
+msgstr "Istruttore"
+
+#: inc/core_functions.php:392
+msgctxt "Post Type Singular Name"
+msgid "Lesson"
+msgstr "Lezione"
+
+#: inc/core_functions.php:328
+msgctxt "Post Type Singular Name"
+msgid "Recipe"
+msgstr "Ricetta"
+
+#: inc/core_functions.php:328
+msgctxt "Post Type Singular Name"
+msgid "Tutorial"
+msgstr "Tutorial"
+
+#: archive.php:36
+msgid "Posted in"
+msgstr "Pubblicato in"
+
+#: importer/views/plugin-page.php:44
+#, fuzzy
+msgid "Posts, pages, images, widgets, menus and other theme settings will get imported."
+msgstr "Verranno importati post, pagine, immagini, widget, menu e altre impostazioni del tema."
+
+#: staging/one_staging.php:157
+#, fuzzy
+msgid "Preparing directories..."
+msgstr "Preparazione cartelle…"
+
+#: staging/one_staging.php:154
+#, fuzzy
+msgid "Preparing..."
+msgstr "In preparazione…"
+
+#: templates/network/recommended-plugin-listing.php:13
+#: templates/recommended-plugin-listing.php:13
+#, fuzzy
+msgid "Presenting some of our favorite WordPress plugins, curated for quality."
+msgstr "Presentiamo alcuni dei nostri plugin preferiti di WordPress di qualità assicurata."
+
+#: templates/network/theme-listing-loop.php:49
+#: templates/theme-listing-loop.php:42
+#, fuzzy
+msgid "Preview"
+msgstr "Anteprima"
+
+#: comments.php:71
+msgid "Previous"
+msgstr "Indietro"
+
+#: functions.php:261
+#, fuzzy
+msgid "Price"
+msgstr "Prezzo"
+
+#: inc/theme_metaboxes.php:697
+msgid "Price Blocks"
+msgstr "Blocco prezzi"
+
+#: single.php:98
+#, fuzzy
+msgid "Price: "
+msgstr "Prezzo:"
+
+#: includes/ws-shortcode.php:28
+#, fuzzy
+msgid "Price: High to low"
+msgstr "Prezzo: dal più alto al più basso"
+
+#: includes/ws-shortcode.php:27
+#, fuzzy
+msgid "Price: Low to high"
+msgstr "Prezzo: dal più basso al più alto"
+
+#: functions.php:225
+msgid "Primary"
+msgstr "Principale"
+
+#: functions.php:150
+msgid "Primary Navigation"
+msgstr "Navigazione primaria"
+
+#: functions.php:142
+msgid "Primary Sidebar"
+msgstr "Barra laterale principale"
+
+#: includes/ws-shortcode.php:93
+#, fuzzy
+msgid "Pro tip"
+msgstr "Suggerimento PRO"
+
+#: includes/ws-shortcode.php:65
+#, fuzzy
+msgid "Products per page"
+msgstr "Prodotti per pagina"
+
+#: includes/ws-shortcode.php:51
+#, fuzzy
+msgid "Products per row"
+msgstr "Prodotti per riga"
+
+#: admin/options-init.php:451
+msgid "Profile Image"
+msgstr "Immagine profilo"
+
+#: includes/ws-shortcode.php:69
+#, fuzzy
+msgid "Promotion label position"
+msgstr "Posizione etichetta promozione"
+
+#: inc/theme_metaboxes.php:817
+msgid "Provide email accounts where you want to receive emails from this form."
+msgstr "Immetti gli account e-mail ai quali desideri ricevere i messaggi e-mail da questo modulo."
+
+#: admin/options-init.php:572
+#, fuzzy
+msgid "Provide email ids on which you want to receive email from contact form. Example: info@one.com, contact@gmail.com"
+msgstr "Fornisci gli ID e-mail ai quali desideri ricevere e-mail dal formulario di contatto. Ad es.: info@one.com, contact@gmail.com"
+
+#: single.php:48
+#, fuzzy
+msgid "Published on: "
+msgstr "Data di pubblicazione:"
+
+#: admin/options-init.php:489
+msgid "Quote Form Description"
+msgstr "Descrizione modulo offerta"
+
+#: admin/options-init.php:482
+msgid "Quote Form Title"
+msgstr "Titolo modulo offerta"
+
+#: template-parts/content-blog.php:39
+msgid "Read More"
+msgstr "Maggiori informazioni"
+
+#: template-parts/content-none.php:21
+#, fuzzy
+msgid "Ready to publish your first post?"
+msgstr "Pronto a pubblicare il tuo primo post?"
+
+#: staging/Includes/Core/views/ajax/staging_details.php:52
+#, fuzzy
+msgid "Rebuild Staging"
+msgstr "Ricostruzione allestimento"
+
+#: inc/core_functions.php:336
+msgid "Recipe"
+msgstr "Ricetta"
+
+#: inc/core_functions.php:337
+msgid "Recipe Description"
+msgstr "Descrizione Ricetta"
+
+#: inc/core_functions.php:377
+msgid "Recipe Type"
+msgstr "Tipo di Ricetta"
+
+#: admin/options-init.php:570
+#, fuzzy
+msgid "Recipients"
+msgstr "Destinatari"
+
+#: templates/discouraged-plugin-listing.php:24
+#: templates/network/discouraged-plugin-listing.php:24
+#: templates/network/plugin-listing.php:24
+#: templates/network/recommended-plugin-listing.php:24
+#: templates/plugin-listing.php:24 templates/recommended-plugin-listing.php:24
+#, fuzzy
+msgid "Recommended plugins"
+msgstr "Plugin consigliati"
+
+#: includes/customize-page.php:69
+#, fuzzy
+msgid "Redo"
+msgstr "Ripeti"
+
+#: includes/customize-page.php:69
+#, fuzzy
+msgid "Redo last undone action"
+msgstr "Ripeti ultima azione annullata"
+
+#: inc/category-media.php:46 inc/category-media.php:85
+msgid "Remove Image"
+msgstr "Rimuovi immagine"
+
+#: comments.php:67 comments.php:70
+msgid "Required"
+msgstr "Obbligatorio"
+
+#: option-tree/includes/ot-settings-api.php:365
+#, fuzzy
+msgid "Reset Options"
+msgstr "Reimposta opzioni."
+
+#: functions.php:162 functions.php:163 functions.php:169
+msgid "Reviews"
+msgstr "Recensioni"
+
+#: inc/theme_metaboxes.php:67
+msgid "Right"
+msgstr "Allineato a destra"
+
+#: metaboxes/metabox.php:27
+#, fuzzy
+msgid "Right Main Content"
+msgstr "Contenuto principale a destra"
+
+#: ../includes/ot-functions-admin.php:3201
+msgid "Right Sidebar"
+msgstr "Barra laterale a destra"
+
+# "Cancel" and go back, or "Save" your settings.
+# 
+# ____________________________
+# Reference for developers:
+# 
+#: includes/ws-cart-shortcode.php:128
+msgid "Save"
+msgstr "Salva"
+
+#: includes/customize-page.php:7 includes/customize-page.php:68
+#, fuzzy
+msgid "Save & Publish"
+msgstr "Salva e pubblica"
+
+#: option-tree/includes/ot-functions-settings-page.php:93
+#: option-tree/includes/ot-functions-settings-page.php:132
+#, fuzzy
+msgid "Save Changes"
+msgstr "Salva Modifiche"
+
+#: includes/customize-page.php:48 includes/customize-page.php:68
+#, fuzzy
+msgid "Saved & Published"
+msgstr "Salvato e pubblicato"
+
+#: inc/theme_options.php:1408
+msgid "Scripts to be inserted after footer."
+msgstr "Script da inserire come piè di pagina."
+
+#: inc/theme_options.php:1398
+msgid "Scripts to be inserted in \"head\" tag."
+msgstr "Script da inserire nel tag \"intestazione\"."
+
+#: searchform.php:9
+msgid "Search"
+msgstr "Ricerca"
+
+#: custompost/custompost.php:13
+msgid "Search Adventures"
+msgstr "Search Viaggio"
+
+#: searchform.php:3
+msgid "Search for:"
+msgstr "Cerca:"
+
+#: inc/core_functions.php:369
+msgid "Search Recipe Types"
+msgstr "Ricerca Tipi di Ricetta"
+
+#: search.php:22
+#, fuzzy
+msgid "Search Results"
+msgstr "Risultati ricerca"
+
+#: custompost/customposts.php:75
+msgid "Search Service"
+msgstr "Cerca servizio"
+
+#: inc/core_functions.php:337
+msgid "Search Slides"
+msgstr "Cerca immagine"
+
+#: custompost/customposts.php:44
+msgid "Search Spotlight"
+msgstr "Cerca spotlight"
+
+#: custompost/custompost.php:106
+msgid "Search Testimonial"
+msgstr "Search Testimonianza"
+
+#: custompost/customposts.php:13
+msgid "Search Testimonials"
+msgstr "Cerca testimonianze"
+
+#: custompost/custompost.php:13
+msgid "Search Travel"
+msgstr "Cerca viaggio"
+
+#: inc/core_functions.php:369
+msgid "Search Tutorials Types"
+msgstr "Ricerca tipo di tutorial"
+
+#: template-parts/internal-banner.php:45
+#, php-format
+msgid "Search: %s"
+msgstr "Cerca: %s"
+
+#: inc/theme_options.php:743
+msgid "Secondary Font Family"
+msgstr "Font Secondario"
+
+#: inc/theme_metaboxes.php:141 inc/theme_metaboxes.php:168
+#: inc/theme_metaboxes.php:195
+msgid "Section"
+msgstr "Sezione"
+
+#: inc/theme_metaboxes.php:279 inc/theme_metaboxes.php:335
+#: inc/theme_metaboxes.php:387 inc/theme_metaboxes.php:562
+#: inc/theme_metaboxes.php:844
+msgid "Section Background"
+msgstr "Sfondo sezione"
+
+#: inc/theme_metaboxes.php:167 inc/theme_metaboxes.php:230
+#: inc/theme_metaboxes.php:309 inc/theme_metaboxes.php:418
+#: inc/theme_metaboxes.php:592 inc/theme_metaboxes.php:874
+msgid "Section Content"
+msgstr "Contenuto sezione"
+
+#: inc/theme_metaboxes.php:160 inc/theme_metaboxes.php:223
+#: inc/theme_metaboxes.php:302 inc/theme_metaboxes.php:359
+#: inc/theme_metaboxes.php:410 inc/theme_metaboxes.php:540
+#: inc/theme_metaboxes.php:584 inc/theme_metaboxes.php:745
+#: inc/theme_metaboxes.php:867
+msgid "Section Title"
+msgstr "Mostra titolo"
+
+#: inc/theme_options.php:994
+msgid "Section Titles Font Style"
+msgstr "Stile carattere titoli sezioni"
+
+#: option-tree/includes/ot-functions-option-types.php:3160
+#, fuzzy
+msgid "Select an image by clicking the + button"
+msgstr "Seleziona un'immagine cliccando sul pulsante +"
+
+#: admin/options-init.php:174
+#, fuzzy
+msgid "Select background color of header."
+msgstr "Seleziona colore di sfondo dell’intestazione."
+
+#: admin/options-init.php:406
+msgid "Select icon background color on footer section"
+msgstr "Seleziona colore di sfondo nella sezione piè di pagina"
+
+#: admin/options-init.php:393
+msgid "Select icon background color on main content area"
+msgstr "Seleziona il colore di sfondo per icona nell’area di contenuto principale"
+
+#: admin/options-init.php:400
+msgid "Select icon color on footer section"
+msgstr "Seleziona colore icona nella sezione piè di pagina"
+
+#: admin/options-init.php:386
+msgid "Select icon color on main content area"
+msgstr "Seleziona il colore icona nell’area di contenuto principale"
+
+#: inc/theme_metaboxes.php:120 inc/theme_metaboxes.php:332
+#: inc/theme_metaboxes.php:473
+msgid "Select Services"
+msgstr "Seleziona servizi"
+
+#: core/theme-option.php:391
+#, fuzzy
+msgid "Select social icon background color"
+msgstr "Seleziona colore sfondo dell’icona social"
+
+#: admin/options-init.php:416
+#, fuzzy
+msgid "Select social icon background color."
+msgstr "Seleziona colore sfondo dell’icona social."
+
+#: core/theme-option.php:382
+#, fuzzy
+msgid "Select social icon color"
+msgstr "Seleziona colore icona social"
+
+#: admin/options-init.php:408
+#, fuzzy
+msgid "Select social icon color."
+msgstr "Seleziona colore icona social."
+
+#: admin/options-init.php:588
+msgid "Select the button background color for contact form "
+msgstr "Seleziona il colore sfondo pulsanti per il formulario di contatto "
+
+#: admin/options-init.php:206 admin/options-init.php:226
+#: admin/options-init.php:245 admin/options-init.php:263
+#: admin/options-init.php:281 admin/options-init.php:299
+#: admin/options-init.php:317 admin/options-init.php:335
+#, fuzzy
+msgid "Select the font size, font family, color etc"
+msgstr "Seleziona dimensione carattere, famiglia di caratteri, colore, ecc."
+
+#: admin/options-init.php:256 admin/options-init.php:275
+#: admin/options-init.php:293 admin/options-init.php:311
+#: admin/options-init.php:329 admin/options-init.php:347
+#: admin/options-init.php:365
+#, fuzzy
+msgid "Select the font size, font family, color etc."
+msgstr "Seleziona dimensione del font, famiglia di font, colore, ecc."
+
+#: admin/options-init.php:200
+msgid "Select the font size, font family, color for menu"
+msgstr "Seleziona dimensione del font, famiglia di font e colore (menu)"
+
+# This text is a description explaining what checking happens when you check the option to show the checkout banner.
+# 
+# ____________________________
+# Reference for developers:
+# 
+#: includes/ws-cart-shortcode.php:111
+msgid "Select this option to show a checkout banner at the bottom of all pages of your site on mobile devices, when there is something in the cart."
+msgstr "Seleziona questa opzione per mostrare un banner per il checkout in fondo a tutte le pagine del tuo sito sui dispositivi mobili, quando c'è qualcosa nel carrello."
+
+# You have three ways that you can show the shopping cart on your site.
+# 
+# This is the header and description, after which you need to choose an option.
+# 
+# ____________________________
+# Reference for developers:
+# 
+#: includes/ws-cart-shortcode.php:25
+msgid "Select where you want the cart icon to be visible."
+msgstr "Seleziona dove vuoi che sia visibile l'icona del carrello sul tuo sito web."
+
+#: includes/customize-page.php:241
+#, fuzzy
+msgid "Selected value (dropdown)"
+msgstr "Valore selezionato (menu a tendina)"
+
+#: custompost/customposts.php:68 custompost/customposts.php:69
+#, fuzzy
+msgid "Service"
+msgstr "Servizio"
+
+#: inc/core_functions.php:342
+msgid "Service Description"
+msgstr "Descrizione servizi"
+
+#: inc/theme_metaboxes.php:378
+msgid "Service Details"
+msgstr "Dettaglio servizi"
+
+#: inc/theme_metaboxes.php:148
+msgid "Services"
+msgstr "Servizi"
+
+#: admin/options-init.php:429
+msgid "Services Button Link"
+msgstr "Collegamento pulsante servizi"
+
+#: admin/options-init.php:423
+msgid "Services Button Text"
+msgstr "Testo pulsante servizi"
+
+#: inc/theme_metaboxes.php:324
+msgid "Services Label"
+msgstr "Etichetta per servizi"
+
+#: includes/customize-page.php:154
+#, fuzzy
+msgid "Set a color for the background of your shop."
+msgstr "Imposta un colore per lo sfondo del tuo negozio."
+
+# Title and button text for the cart feature under Online Shop plugin settings.
+# 
+# ____________________________
+# Reference for developers:
+# 
+#: includes/ws-cart-shortcode.php:21
+#, fuzzy
+msgid "Set cart position and style"
+msgstr "Posizione e stile del carrello"
+
+#: option-tree/includes/ot-functions-docs-page.php:49
+#, fuzzy
+msgid "Settings"
+msgstr "Impostazioni"
+
+#: inc/theme_metaboxes.php:249 inc/theme_metaboxes.php:609
+msgid "Short Description"
+msgstr "Breve descrizione"
+
+#: includes/ws-shortcode.php:15
+#, fuzzy
+msgid "Show \"sort by\" selector"
+msgstr "Mostra selettore \"ordina per\""
+
+#: inc/theme_options.php:120 inc/theme_options.php:306
+msgid "Show Background Image"
+msgstr "Mostra Immagine di Sfondo"
+
+#: inc/theme_metaboxes.php:39
+msgid "Show banner"
+msgstr "Mostra banner"
+
+#: inc/theme_metaboxes.php:483 inc/theme_metaboxes.php:664
+#: inc/theme_metaboxes.php:918 inc/theme_metaboxes.php:1005
+#: inc/theme_metaboxes.php:1080 inc/theme_metaboxes.php:1169
+msgid "Show Banner?"
+msgstr "Mostrare il banner?"
+
+#: includes/ws-shortcode.php:9
+#, fuzzy
+msgid "Show category selector"
+msgstr "Mostra selettore di categoria"
+
+#: inc/theme_metaboxes.php:175
+msgid "Show Courses"
+msgstr "Mostra corsi"
+
+#: inc/theme_metaboxes.php:251 inc/theme_metaboxes.php:380
+#: inc/theme_metaboxes.php:416
+msgid "Show Featured Video"
+msgstr "Mostra video in primo piano"
+
+#: inc/theme_metaboxes.php:636
+msgid "Show Features"
+msgstr "Mostra caratteristiche"
+
+#: inc/theme_options.php:428
+msgid "Show Header"
+msgstr "Mostra intestazione"
+
+#: inc/theme_options.php:564
+msgid "Show Logo"
+msgstr "Mostra logo"
+
+#: inc/theme_options.php:1072
+msgid "Show Post Metadata"
+msgstr "Mostra metadati post"
+
+#: inc/theme_metaboxes.php:674
+msgid "Show Price Section"
+msgstr "Mostra sezione prezzi"
+
+#: inc/theme_metaboxes.php:153 inc/theme_metaboxes.php:216
+#: inc/theme_metaboxes.php:294 inc/theme_metaboxes.php:351
+#: inc/theme_metaboxes.php:402 inc/theme_metaboxes.php:532
+#: inc/theme_metaboxes.php:576 inc/theme_metaboxes.php:737
+#: inc/theme_metaboxes.php:859
+msgid "Show Section"
+msgstr "Mostra sezione"
+
+#: inc/theme_metaboxes.php:111 inc/theme_metaboxes.php:464
+msgid "Show Services"
+msgstr "Mostra servizi"
+
+#: inc/theme_metaboxes.php:74 inc/theme_metaboxes.php:116
+msgid "Show Slider"
+msgstr "Mostra image slider"
+
+#: inc/theme_metaboxes.php:216 inc/theme_metaboxes.php:506
+#: inc/theme_metaboxes.php:609 inc/theme_metaboxes.php:756
+#: inc/theme_metaboxes.php:878
+msgid "Show Title"
+msgstr "Mostra titolo"
+
+#: inc/theme_metaboxes.php:204
+msgid "Show Title Icon"
+msgstr "Mostra icona titolo"
+
+#: inc/theme-metaboxes.php:335
+msgid "Show/Hide Newsletter Section"
+msgstr "Mostra/nascondi sezione newsletter"
+
+#: functions.php:256
+msgid "Sidebar"
+msgstr "Barra laterale"
+
+#: inc/theme_options.php:1147
+msgid "Single Page - Page layout"
+msgstr "Pagina singola - layout pagina"
+
+#: inc/theme_options.php:1108
+msgid "Single Post - Page Layout"
+msgstr "Post singolo - layout pagina"
+
+#: admin/options-init.php:104
+#, fuzzy
+msgid "Site Description / Tagline"
+msgstr "Descrizione sito/slogan"
+
+#: admin/options-init.php:168
+msgid "Site Name"
+msgstr "Nome sito"
+
+#: inc/theme_options.php:574
+msgid "Site title"
+msgstr "Titolo sito"
+
+#: admin/options-init.php:97
+#, fuzzy
+msgid "Site Title"
+msgstr "Titolo sito"
+
+#: admin/options-init.php:221
+msgid "Site Title Font Style"
+msgstr "Stile font titolo pagina"
+
+#: inc/theme_options.php:574
+msgid "Site title will be displayed if no image uploaded."
+msgstr "Se non carichi un’immagine verrà visualizzato il titolo del sito."
+
+#: inc/theme_options.php:84
+msgid "Skin - Primary Color"
+msgstr "Interfaccia - Colore principale"
+
+#: inc/theme_options.php:92
+msgid "Skin - Secondary Color"
+msgstr "Interfaccia - Colore secondario"
+
+#: inc/core_functions.php:330
+msgid "Slide"
+msgstr "Immagine"
+
+#: option-tree/includes/ot-functions-docs-page.php:269
+#, fuzzy
+msgid "Slider"
+msgstr "Image Slider"
+
+#: inc/core_functions.php:61
+msgid "Small Text Color"
+msgstr "Colore del testo piccolo al passaggio del mouse"
+
+#: admin/options-init.php:379
+#, fuzzy
+msgid "Social"
+msgstr "Social"
+
+#: admin/options-init.php:415
+#, fuzzy
+msgid "Social Icon Background Color"
+msgstr "Colore di sfondo icona social"
+
+#: admin/options-init.php:406
+#, fuzzy
+msgid "Social Icon Color"
+msgstr "Colore icona social"
+
+#: inc/theme_options.php:507 inc/widgets.php:362
+msgid "Social Icon Default Colors"
+msgstr "Colori predefiniti icone social"
+
+#: inc/theme_options.php:499
+msgid "Social Icons"
+msgstr "Icone social"
+
+#: inc/theme_options.php:518
+msgid "Social Icons Color"
+msgstr "Colore icone social"
+
+#: option-tree/includes/ot-functions-docs-page.php:272
+#, fuzzy
+msgid "Social Links"
+msgstr "Collegamenti social"
+
+#: inc/theme_options.php:1148
+msgid "Social Profile Icon"
+msgstr "Icona profilo social"
+
+#: inc/theme_options.php:1323
+msgid "Social Profile Link"
+msgstr "Collegamento profilo social"
+
+#: admin/options-init.php:516
+msgid "Social Section Content"
+msgstr "Contenuto sezione social"
+
+#: admin/options-init.php:510
+msgid "Social Section Title"
+msgstr "Titolo sezione social"
+
+#: inc/core_functions.php:302 inc/core_functions.php:362
+msgid "Some error occurred, please reload the page and try again."
+msgstr "Si è verificato un errore: ricarica la pagina e riprova."
+
+#: functions.php:309
+msgid "Something went wrong! Please try again!"
+msgstr "Si è verificato un errore. Riprova!"
+
+#: inc/functions.php:219 inc/functions.php:553
+#, fuzzy
+msgid "Something went wrong. Please contact the support at One.com."
+msgstr "Si è verificato un errore. Contatta l’assistenza di One.com."
+
+# Error message that is currently hidden, will be used in the future.
+# ____________________________
+# Reference for developers:
+# 
+#: includes/ws-cart-shortcode.php:125
+msgid "Something went wrong. Please reload the page and try again."
+msgstr "Qualcosa è andato storto. Per favore, ricarica la pagina e riprova"
+
+#: staging/one_staging.php:150
+#, fuzzy
+msgid "Something went wrong; please try again."
+msgstr "Si è verificato un errore. Contatta l’assistenza di One.com."
+
+#: index.php:35
+msgid "Sorry, but you are looking for something that isn't here."
+msgstr "Siamo spiacenti! Ciò che stai cercando non è disponibile."
+
+#: inc/functions.php:364
+#, fuzzy
+msgid "Sorry, no compatible plugins found with your version of WordPress and PHP."
+msgstr "Impossibile trovare plugin compatibili con la versione in uso di WordPress e PHP."
+
+#: inc/functions.php:139
+#, fuzzy
+msgid "Sorry, no compatible themes found for your version of WordPress and PHP."
+msgstr "Impossibile trovare temi compatibili con la versione in uso di WordPress e PHP."
+
+#: includes/ws-shortcode.php:22
+#, fuzzy
+msgid "Sort by"
+msgstr "Ordina per"
+
+#: inc/widgets.php:215
+msgid "Space after caption (px)"
+msgstr "Spazio dopo la didascalia (px)"
+
+#: inc/theme-metaboxes.php:126
+msgid "Specifications"
+msgstr "Specifiche"
+
+#: custompost/customposts.php:37 custompost/customposts.php:38
+msgid "Spotlight"
+msgstr "Spotlight"
+
+#: admin/options-init.php:442
+msgid "Spotlight Blurb"
+msgstr "Estratto spotlight"
+
+#: front-page.php:135
+msgid "spotlight posts"
+msgstr "Post spotlight"
+
+#: admin/options-init.php:435
+msgid "Spotlight Title"
+msgstr "Titolo spotlight"
+
+#: includes/ws-shortcode.php:37
+#, fuzzy
+msgid "Square"
+msgstr "Incorniciata"
+
+#: staging/Includes/Core/views/ajax/staging_details.php:22
+#, fuzzy
+msgid "Staging Backend:"
+msgstr "Interfaccia di allestimento:"
+
+#: staging/Includes/Core/views/ajax/staging_details.php:21
+#, fuzzy
+msgid "Staging Frontend:"
+msgstr "Interfaccia di allestimento:"
+
+#: staging/Includes/Core/views/ajax/staging_details.php:15
+#, fuzzy
+msgid "Staging site broken"
+msgstr "Sito in allestimento guasto"
+
+#: option-tree/includes/ot-functions-docs-page.php:52
+#, fuzzy
+msgid "Standard"
+msgstr "Standard"
+
+#: staging/one_staging.php:155
+#, fuzzy
+msgid "Start copying..."
+msgstr "Avvio copia…"
+
+#: inc/theme-options.php:841
+msgid "Sub Footer Background"
+msgstr "Sfondo sotto piè di pagina"
+
+#: inc/theme-options.php:852
+msgid "Sub Footer Text Color"
+msgstr "Colore testo sotto piè di pagina"
+
+#: metabox/metabox.php:96
+#, fuzzy
+msgid "Sub Title"
+msgstr "Sottotitolo"
+
+#: inc/theme_options.php:238
+msgid "Submenu Item Background Color"
+msgstr "Colore di sfondo dell'oggetto del sottomenu"
+
+#: inc/theme_options.php:225
+msgid "Submenu Item Color"
+msgstr "Colore voce sottomenu"
+
+#: inc/theme-options.php:794
+msgid "Submenu Item color"
+msgstr "Sottomenu Colore dell'oggetto"
+
+#: functions.php:131 functions.php:152 template-parts/section-contact.php:103
+msgid "SUBMIT"
+msgstr "INVIA"
+
+#: comments.php:81
+msgid "Submit Comment"
+msgstr "Invia commento"
+
+#: functions.php:120 functions.php:140
+msgid "Subscribe"
+msgstr "Sottoscrivi"
+
+#: inc/core_functions.php:358
+msgid "Subscribed successfully."
+msgstr "Sottoscrizione riuscita."
+
+#: inc/widgets.php:65
+msgid "Subtext"
+msgstr "Sottotesto"
+
+#: inc/theme_metaboxes.php:1252 inc/theme_metaboxes.php:1260
+msgid "Subtitle"
+msgstr "Sottotitolo"
+
+#: templates/discouraged-plugin-listing.php:88
+#: templates/network/discouraged-plugin-listing.php:88
+#, fuzzy
+msgid "Suggested alternative"
+msgstr "Consiglia alternative"
+
+#: templates/discouraged-plugin-listing.php:88
+#: templates/network/discouraged-plugin-listing.php:88
+#, fuzzy
+msgid "Suggested alternatives"
+msgstr "Alternative consigliate"
+
+#: inc/core_functions.php:367
+msgctxt "taxonomy general name"
+msgid "Recipe Types"
+msgstr "Tipi di Ricette"
+
+#: inc/core_functions.php:368
+msgctxt "taxonomy singular name"
+msgid "Recipe Type"
+msgstr "Tipo di Ricetta"
+
+#: functions.php:103
+#, fuzzy
+msgid "Testimonial"
+msgstr "Testimonianza"
+
+#: inc/theme-options.php:367
+msgid "Testimonial Font Style"
+msgstr "Stile carattere testimoniale"
+
+#: custompost/customposts.php:6 custompost/customposts.php:7
+#, fuzzy
+msgid "Testimonials"
+msgstr "Testimonianze"
+
+#: metaboxes/metabox.php:37
+#, fuzzy
+msgid "Text"
+msgstr "Testo"
+
+#: includes/customize-page.php:98
+#, fuzzy
+msgid "Text color"
+msgstr "Colore testo"
+
+#: admin/options-init.php:152
+#, fuzzy
+msgid "Text Color"
+msgstr "Colore testo"
+
+#: includes/customize-page.php:231
+#, fuzzy
+msgid "Text color (dropdown menu)"
+msgstr "Colore testo (menu a discesa)"
+
+#: option-tree/includes/ot-functions-option-types.php:3081
+#, fuzzy
+msgid "Text Decoration"
+msgstr "Effetto testo"
+
+#: includes/customize-page.php:115
+#, fuzzy
+msgid "Text links"
+msgstr "Link testuali"
+
+#: inc/theme_options.php:930 inc/theme_options.php:969
+msgid "Text Shadow"
+msgstr "Ombreggiatura testo"
+
+#: inc/theme_metaboxes.php:242 inc/theme_metaboxes.php:1221
+msgid "The added features will be displayed in the order they are arranged here."
+msgstr "Le funzionalità aggiunte verranno visualizzate così come sono disposte qui."
+
+#: inc/theme_metaboxes.php:370 inc/theme_metaboxes.php:603
+msgid "The added testimonial will be displayed in the order they are arranged here."
+msgstr "Le testimonianze aggiunte verranno visualizzate così come sono disposte qui."
+
+#: importer/views/plugin-page.php:35
+#, fuzzy
+msgid "The easiest way to setup your theme is by importing demo data. It includes demo posts, pages, images and theme settings. This will allow you to edit the demo content, instead of creating everything from scratch."
+msgstr "Il modo migliore per configurare il tuo tema è importare i dati demo che includono: impostazioni tema, immagini pagine e post demo. Potrai modificare il contenuto demo, anziché dover ricreare ogni cosa."
+
+#: admin/options-init.php:483 admin/options-init.php:490
+msgid "The field used on service pages"
+msgstr "Il campo utilizzato nelle pagine servizi"
+
+#: staging/Includes/Core/views/ajax/staging_details.php:45
+#, fuzzy
+msgid "The login details for the staging backend are the same as for the live website."
+msgstr "Le credenziali di accesso per l’interfaccia di allestimento sono le stesse del sito online."
+
+#: inc/theme_options.php:627
+msgid "The newly added font families will appear after saving the options."
+msgstr "Le famiglie di caratteri appena aggiunte compariranno dopo aver salvato le opzioni."
+
+#: modules/notice-discouraged-plugins.php:90
+#, php-format
+#, fuzzy
+msgid "The plugin <strong>%s</strong>, that you are using, creates a lot of large temporary files causing high load on our servers and possible time-outs on your site.<br/>We strongly advise you to deactivate it. If you keep on using this plugin we may be forced to suspend your site. "
+msgstr "Il plugin <strong>%s</strong>, che stai utilizzando, crea troppi file temporanei di grandi dimensioni sottoponendo I nostri server a un carico eccessivo e provocando eventuali time-out sul tuo sito.<br/>Ti preghiamo di disattivarlo. Se continui ad utilizzare questo plugin, saremo costretti a sospendere il tuo sito. "
+
+#: inc/theme_options.php:1389
+msgid "The rules added here will be applied as additional CSS."
+msgstr "Le regole qui aggiunte verranno applicate come CCS personalizzato."
+
+#: inc/theme_metaboxes.php:194
+msgid "The selected courses/lessons will be displayed."
+msgstr "Le lezioni/i corsi selezionati verranno visualizzati."
+
+#: inc/theme_metaboxes.php:121 inc/theme_metaboxes.php:333
+#: inc/theme_metaboxes.php:474
+msgid "The selected services will be displayed."
+msgstr "Seleziona i servizi che saranno mostrati."
+
+#: staging/Includes/Core/views/live.php:48
+#, fuzzy
+msgid "The staging environment allows you to make changes to your site, without it affecting the live version of your website. When you create a staging site, it will be a snapshot of your live website."
+msgstr "L’ambiente in allestimento ti permette di apportare modifiche al tuo sito, senza che esso comporti dei cambiamenti al sito pubblicato online. Quando crei un sito in allestimento, sarà come un’istantanea del tuo sito online."
+
+#: staging/Includes/Core/views/includes/footer.php:46
+#, fuzzy
+msgid "The staging site will be lost."
+msgstr "Il sito in allestimento verrà perso."
+
+#: staging/Includes/Core/views/ajax/staging_details.php:43
+#, fuzzy
+msgid "The staging website is a copy of your live website, where you can test new plugins and themes without affecting your live website."
+msgstr "il sito in allestimento è una copia del sito online, dove puoi testare I nuovi plugin e temi senza modificare il sito online stesso."
+
+#: inc/functions.php:248
+#, fuzzy
+msgid "Theme installed successfully"
+msgstr "Tema correttamente installato."
+
+#: inc/theme_options.php:891
+msgid "Theme Options > Banners > Homepage Banner Height"
+msgstr "Opzioni tema > Banner > Altezza banner homepage"
+
+#: inc/theme_options.php:950
+msgid "Theme Options > Banners > Internal Banner Height"
+msgstr "Opzioni temas > Banner > Altezza banner interni"
+
+#: inc/theme_metaboxes.php:963
+msgid "Theme Options > Typography > Font Styles > Internal Banners"
+msgstr "Opzioni tema > Tipografia > Stili carattere> Banner interni"
+
+#: option-tree/includes/ot-functions-admin.php:57
+#: option-tree/includes/ot-functions-admin.php:127
+#: option-tree/includes/ot-functions-admin.php:221
+#, fuzzy
+msgid "Theme Options reset."
+msgstr "Opzioni tema reimpostate."
+
+#: option-tree/includes/ot-functions-admin.php:56
+#: option-tree/includes/ot-functions-admin.php:126
+#: option-tree/includes/ot-functions-admin.php:220
+#, fuzzy
+msgid "Theme Options updated."
+msgstr "Opzioni tema aggiornate."
+
+#: inc/theme_options.php:655
+msgid "Theme's default font properties can be changed from the section specific tabs given below."
+msgstr "Le proprietà carattere predefinite del tema possono essere modificate nelle sottostanti schede specifiche del prodotto."
+
+#: onecom-themes-plugins.php:320 onecom-themes-plugins.php:321
+#: onecom-themes-plugins.php:378 onecom-themes-plugins.php:381
+#, fuzzy
+msgid "Themes"
+msgstr "Temi"
+
+#: templates/discouraged-plugin-listing.php:60
+#: templates/network/discouraged-plugin-listing.php:60
+#, fuzzy
+msgid "There are also some suggestions for alternative plugins to use instead."
+msgstr "Vi sono alcuni suggerimenti per plugin alternativi da utilizzare in alternativa."
+
+#: includes/customize-page.php:82
+#, fuzzy
+msgid "These examples will help you get started with customizing the CSS."
+msgstr "Questi esempi ti forniscono le informazioni di base per personalizzare i CSS."
+
+#: inc/core_functions.php:336
+msgid "This email is already used. Please use a different email."
+msgstr "L’indirizzo e-mail immesso è già utilizzato. Immetti un indirizzo e-mail differente!"
+
+#: staging/Includes/Core/views/staging.php:22
+#, fuzzy
+msgid "This is your staging website, a snapshot of your live website. Here you can test changes without affecting your live website."
+msgstr "Questo è il tuo sito in allestimento, un’istantanea del tuo sito online. Qui puoi provare le modifiche senza che esso comporti dei cambiamenti nel tuo sito online."
+
+#: comments.php:7
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Questo post è protetto da password. Immetti la password per visualizzare i commenti."
+
+#: inc/theme_options.php:970
+msgid "This will add a shadow on the banner text"
+msgstr "Consente di aggiungere un’ombreggiatura al testo banner"
+
+#: inc/theme_options.php:931
+msgid "This will add a shadow on the text."
+msgstr "Consente di aggiungere un’ombreggiatura al testo."
+
+#: inc/theme_options.php:744
+msgid "This will change the font familiy of titles of special elements, e.g., widgets."
+msgstr "Questo modificherà il font degli elementi speciali, ad es. widget."
+
+#: inc/theme_metaboxes.php:963
+msgid "This will change the height of the banner."
+msgstr "Consente di modificare l’altezza dello banner."
+
+#: inc/theme_options.php:724
+msgid "This will change the typography of content areas only."
+msgstr "Consente di modificare solo la tipografia delle aree contenuto."
+
+#: inc/theme_options.php:891 inc/theme_options.php:911
+msgid "This will change the typography of homepage banner only."
+msgstr "Consente di modificare solo la tipografia del banner homepage."
+
+#: inc/theme_options.php:950
+msgid "This will change the typography of internal page banners only."
+msgstr "Consente di modificare solo la tipografia dei banner interni."
+
+#: inc/theme_options.php:675
+msgid "This will change the typography of logo text only."
+msgstr "Consente di modificare solo la tipografia del testo del logo."
+
+#: inc/theme_options.php:763
+msgid "This will change the typography of main titles on pages."
+msgstr "Questo cambierà la tipografia del titolo principale delle pagine."
+
+#: inc/theme_options.php:695
+msgid "This will change the typography of navigation menu in header."
+msgstr "Consente di modificare la tipografia del menu di navigazione nell’intestazione."
+
+#: inc/theme_options.php:995
+msgid "This will change the typography of section titles on pages."
+msgstr "Consente di modificare la tipografia dei titoli sezioni delle pagine."
+
+#: inc/theme_options.php:1050
+msgid "This will change the typography of the buttons."
+msgstr "Consente di modificare la tipografia del piè di pagina."
+
+#: inc/theme_options.php:1022
+msgid "This will change the typography of the Footer."
+msgstr "Consente di modificare la tipografia del piè di pagina."
+
+#: inc/theme_options.php:1083
+msgid "This will change the visibility and position of sidebar on the blog post listing pages."
+msgstr "Consente di modificare la visibilità e la posizione della barra laterale sulle pagine di presentazione post"
+
+#: inc/theme_options.php:1109
+msgid "This will change the visibility and position of sidebar on the post details pages."
+msgstr "Consente di modificare la visibilità e la posizione della barra laterale sulle pagine dettagli post."
+
+#: inc/theme_options.php:1148
+msgid "This will change the visibility and position of the sidebar on the pages."
+msgstr "Consente di modificare la visibilità e la posizione della barra laterale sulle pagine."
+
+#: staging/Includes/Core/views/includes/footer.php:64
+#, fuzzy
+msgid "This will overwrite your live website with a copy of the files and database from your staging website."
+msgstr "Questo sovrascriverà il tuo sito online con una copia dei file e del database del tuo sito in allestimento."
+
+#: staging/Includes/Core/views/includes/footer.php:16
+#, fuzzy
+msgid "This will overwrite your staging website with a copy of the files and database from your live website. All changes made in your staging website will be lost."
+msgstr "Questo sovrascriverà il tuo sito in allestimento con una copia dei file e del database del tuo sito online. Tutte I cambiamenti effettuati nel tuo sito in allestimento verranno persi."
+
+#: inc/theme_metaboxes.php:436
+msgid "This will replace the default form."
+msgstr "Sostituirà il modulo predefinito."
+
+#: inc/theme_options.php:1073
+msgid "This will show/hide the post details."
+msgstr "Consente di mostrare/nascondere i dettagli post."
+
+#: inc/theme_options.php:850
+msgid "Three columns without sidebar"
+msgstr "Tre colonne sena barra laterale"
+
+#: includes/settings-page.php:73
+#, fuzzy
+msgid "Tips & tricks?"
+msgstr "Suggerimenti e consigli?"
+
+#: includes/customize-page.php:80
+#, fuzzy
+msgid "Tips for CSS"
+msgstr "Suggerimenti per CSS"
+
+#: metaboxes/metabox.php:174
+#, fuzzy
+msgid "Title"
+msgstr "Titolo"
+
+#: inc/theme_metaboxes.php:113 inc/theme_metaboxes.php:213
+#: inc/theme_metaboxes.php:314 inc/theme_metaboxes.php:358
+msgid "Title Icon"
+msgstr "Icona titolo"
+
+#: widgets/widget.php:74 widgets/widget.php:138
+msgid "Title:"
+msgstr "Titolo:"
+
+#: inc/theme_metaboxes.php:963
+msgid "To change Banner Font Style"
+msgstr "Stile carattere banner interni"
+
+#: inc/theme_options.php:891 inc/theme_options.php:950
+msgid "To change Banner Height: "
+msgstr "Per modificare l’altezza del banner:"
+
+#: inc/theme_options.php:824
+msgid "To change Banner Height:"
+msgstr "Per modificare l’altezza del banner:"
+
+#: inc/theme_options.php:891 inc/theme_options.php:950
+msgid "To change Homepage Banner Content: "
+msgstr "Per modificare il contenuto del banner homepage:"
+
+#: inc/theme_options.php:575
+msgid "To change the font style of header"
+msgstr "Per modificare lo stile cratere dell’intestazione"
+
+#: inc/theme_options.php:564
+msgid "To change the font style of logo"
+msgstr "Per modificare lo stile carattere del logo"
+
+#: includes/settings-page.php:17
+#, fuzzy
+msgid "To manage your products and orders, click \"Go to Products & Orders\", and log in with your One.com account."
+msgstr "Per gestire i tuoi prodotti e i tuoi ordini, fai clic su \"Vai a Prodotti e Ordini\" e accedi al tuo One.com account."
+
+#: front-page.php:135
+msgid "to show this section."
+msgstr "Per mostrare questa sezione."
+
+# If you choose the option to have a floating cart, the cart is visible on all pages. It sort of floats above the page and stays at the same place whether you scroll up and down.
+# 
+# Use the slider to determine the vertical position of the cart on your page.
+# 
+# ____________________________
+# Reference for developers:
+# 
+#: includes/ws-cart-shortcode.php:60
+msgid "Top"
+msgstr "In alto"
+
+#: includes/ws-shortcode.php:73
+#, fuzzy
+msgid "Top left"
+msgstr "In alto a sinistra"
+
+#: includes/ws-shortcode.php:72
+#, fuzzy
+msgid "Top right"
+msgstr "In alto a destra"
+
+#: admin/options-init.php:446
+#, fuzzy
+msgid "Top Section Content"
+msgstr "Contenuto sezione in alto"
+
+#: admin/options-init.php:455
+#, fuzzy
+msgid "Top Section Content Image"
+msgstr "Immagine contenuto sezione in alto"
+
+#: admin/options-init.php:440
+#, fuzzy
+msgid "Top Section Subtitle"
+msgstr "Sottotitolo sezione in alto"
+
+#: admin/options-init.php:434
+#, fuzzy
+msgid "Top Section Title"
+msgstr "Titolo sezione in alto"
+
+#: functions.php:121
+#, fuzzy
+msgid "Travel"
+msgstr "Viaggio"
+
+#: template-parts/content-none.php:11
+msgid "Try a search instead"
+msgstr "Ripeti la ricerca"
+
+#: inc/functions.php:139 inc/functions.php:364
+#, fuzzy
+msgid "Try again"
+msgstr "Riprova."
+
+#: template-parts/content-none.php:9
+msgid "Try searching with a different keyword."
+msgstr "Ritenta la ricerca con una parola chiave differente."
+
+#: inc/core_functions.php:336
+msgid "Tutorial"
+msgstr "Tutorial"
+
+#: inc/core_functions.php:337
+msgid "Tutorial Description"
+msgstr "Descrizione tutorial"
+
+#: inc/core_functions.php:377
+msgid "Tutorials Type"
+msgstr "Tipo di tutorial"
+
+#: admin/options-init.php:393
+#, fuzzy
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/theme_options.php:870
+msgid "Two columns with left sidebar"
+msgstr "Due colonne con barra laterale a sinistra"
+
+#: inc/theme_options.php:860
+msgid "Two columns with right sidebar"
+msgstr "Due colonne con barra laterale a destra"
+
+#: inc/theme_options.php:845
+msgid "Two columns without sidebar"
+msgstr "Due colonne senza barra laterale"
+
+#: admin/options-init.php:244
+#, fuzzy
+msgid "Typography"
+msgstr "Tipografia"
+
+#: inc/theme_options.php:575
+msgid "Typography > Header Font Style > Header Menu Font Style"
+msgstr "Tipografia > Stile carattere intestazione > Stile carattere menu intestazione"
+
+#: inc/theme_options.php:564
+msgid "Typography > Header Font Style > Logo Font Style"
+msgstr "Tipografia > Stile carattere intestazione > Stile carattere logo"
+
+#: inc/functions.php:233 inc/functions.php:570
+#, fuzzy
+msgid "Unable to connect to the file system. Please contact the support at One.com."
+msgstr "Impossibile connettersi al file system. Contatta l’assistenza di One.com."
+
+#: includes/customize-page.php:70
+#, fuzzy
+msgid "Undo"
+msgstr "Annulla"
+
+#: includes/customize-page.php:70
+#, fuzzy
+msgid "Undo last action"
+msgstr "Annulla ultima azione"
+
+#: inc/core_functions.php:450
+msgid "Update Instructor"
+msgstr "Aggiorna istruttore"
+
+#: inc/core_functions.php:392
+msgid "Update Lesson"
+msgstr "Aggiorna lezione"
+
+#: inc/core_functions.php:331
+msgid "Update Recipe"
+msgstr "Aggiorna Ricetta"
+
+#: inc/core_functions.php:374
+msgid "Update Recipe Type"
+msgstr "Aggiorna Tipo di RIcetta"
+
+#: inc/core_functions.php:336
+msgid "Update Service"
+msgstr "Aggiorna servizio"
+
+#: includes/customize-page.php:267
+#, fuzzy
+msgid "Update the styling for borders."
+msgstr "Aggiorna lo stile dei bordi."
+
+#: inc/core_functions.php:331
+msgid "Update Tutorial"
+msgstr "Aggiorna tutorial"
+
+#: inc/core_functions.php:374
+msgid "Update Tutorials Type"
+msgstr "Aggiorna tipo di tutorial"
+
+#: staging/one_staging.php:159
+#, fuzzy
+msgid "Updating database..."
+msgstr "Aggiornamento database…"
+
+#: admin/options-init.php:495
+msgid "Upload background image."
+msgstr "Carica immagine di sfondo."
+
+#: inc/widgets.php:191
+msgid "Upload Banner"
+msgstr "Carica banner"
+
+#: admin/options-init.php:133
+#, fuzzy
+msgid "Upload banner of your website."
+msgstr "Carica banner sul tuo sito Web."
+
+#: admin/options-init.php:442
+msgid "Upload banner right text image."
+msgstr "Carica immagine testo banner a destra"
+
+#: inc/theme_options.php:616
+msgid "Upload Favicon"
+msgstr "Carica Favicon"
+
+#: admin/options-init.php:165
+#, fuzzy
+msgid "Upload favicon of your website."
+msgstr "Carica Favicon sul tuo sito Web"
+
+#: admin/options-init.php:192
+#, fuzzy
+msgid "Upload footer logo of your website."
+msgstr "Carica logo piè di pagina del tuo sito Web."
+
+#: inc/theme_options.php:445
+msgid "Upload Header Image"
+msgstr "Carica l’immagine d’intestazione"
+
+#: admin/options-init.php:397
+msgid "Upload home page banner of your website."
+msgstr "Carica banner della homepage sul tuo sito Web."
+
+#: core/widgets.php:371
+msgid "Upload Icon"
+msgstr "Carica icona"
+
+#: inc/theme_options.php:573 inc/widgets.php:59 inc/widgets.php:61
+msgid "Upload Logo"
+msgstr "Carica logo"
+
+#: admin/options-init.php:155
+#, fuzzy
+msgid "Upload logo of your website."
+msgstr "Carica logo sul tuo sito Web."
+
+# There is a checkbox before this text, checking it will enable an "easy checkout banner" on mobile.
+# 
+# ____________________________
+# Reference for developers:
+# 
+#: includes/ws-cart-shortcode.php:109
+msgid "Use easy checkout banner on mobile"
+msgstr "Utilizza il banner per il checkout sul cellulare"
+
+#: admin/options-init.php:423 admin/options-init.php:433
+#: admin/options-init.php:466 admin/options-init.php:511
+#: admin/options-init.php:520
+msgid "Use shortcodes here, if necessary."
+msgstr "Utilizza qui i codici brevi, se necessario."
+
+#: metaboxes/metabox.php:199
+#, fuzzy
+msgid "Use this image"
+msgstr "Usa questa immagine"
+
+#: includes/customize-page.php:195
+#, fuzzy
+msgid "Used as image overlay on hover."
+msgstr "Opzione utilizzata per sovrapposizione immagine al passaggio del mouse."
+
+#: includes/customize-page.php:302
+#, fuzzy
+msgid "Used for a line placed below the items on the checkout page."
+msgstr "Utilizzato per una linea posta sotto gli oggetti nella pagina di checkout."
+
+#: includes/customize-page.php:280
+#, fuzzy
+msgid "Used for border of order details."
+msgstr "Opzione utilizzata per i dettagli dei bordi degli ordini."
+
+#: includes/customize-page.php:168
+#, fuzzy
+msgid "Used for cart icon, price text, pagination, mobile slider border."
+msgstr "Opzione utilizzata per icona carrello, testo prezzo, impaginazione, bordo di scorrimento."
+
+#: includes/customize-page.php:269
+#, fuzzy
+msgid "Used for default buttons, like 'Back' and 'Return to shop'."
+msgstr "Opzione utilizzata per i pulsanti predefiniti, come “Indietro” e “Ritorna allo shop”."
+
+#: includes/customize-page.php:291
+#, fuzzy
+msgid "Used for headings on 'checkout page' and 'cart page'."
+msgstr "Opzione utilizzata per l’intestazione della “pagina completa transazione” e della “pagina carrello”."
+
+#: includes/customize-page.php:184
+#, fuzzy
+msgid "Used for hover color on cart."
+msgstr "Opzione utilizzata per il colore al passaggio del mouse sul carrello."
+
+# If you choose the option to have a floating cart, the cart is visible on all pages. It sort of floats above the page and stays at the same place whether you scroll up and down.
+# 
+# Use the slider to determine the vertical position of the cart on your page.
+# 
+# ____________________________
+# Reference for developers:
+# 
+#: includes/ws-cart-shortcode.php:54
+msgid "Vertical cart position on the page"
+msgstr "Posizione verticale del carrello nella pagina"
+
+#: inc/core_functions.php:277
+msgid "via the contact form on"
+msgstr "tramite il modulo di contatto su"
+
+#: inc/theme_metaboxes.php:260 inc/theme_metaboxes.php:389
+#: inc/theme_metaboxes.php:425
+msgid "Video URL"
+msgstr "URL video"
+
+#: custompost/custompost.php:12
+msgid "View Adventures"
+msgstr "View Viaggio"
+
+#: modules/notice-discouraged-plugins.php:104
+#, fuzzy
+msgid "View discouraged plugins"
+msgstr "Elenco dei plugin sconsigliati"
+
+#: templates/discouraged-plugin-listing.php:63
+#: templates/network/discouraged-plugin-listing.php:63
+#, fuzzy
+msgid "View full list of discouraged plugins"
+msgstr "Mostra lista completa di plugin sconsigliati"
+
+#: inc/core_functions.php:451
+msgid "View Instructor"
+msgstr "Visualizza istruttore"
+
+#: inc/core_functions.php:452
+msgid "View Instructors"
+msgstr "Visualizza istruttori"
+
+#: inc/core_functions.php:393
+msgid "View Lesson"
+msgstr "Visualizza lezione"
+
+#: inc/core_functions.php:394
+msgid "View Lessons"
+msgstr "Visualizza lezioni"
+
+#: inc/core_functions.php:332
+msgid "View Recipe"
+msgstr "Visualizza Ricetta"
+
+#: inc/core_functions.php:333
+msgid "View Recipes"
+msgstr "Visualizza Ricette"
+
+#: custompost/customposts.php:74
+#, fuzzy
+msgid "View Service"
+msgstr "Visualizza servizio"
+
+#: inc/core_functions.php:338
+msgid "View Services"
+msgstr "Mostra servizi"
+
+#: inc/core_functions.php:336
+msgid "View Slide"
+msgstr "Visualizza immagine"
+
+#: custompost/customposts.php:43
+msgid "View Spotlight"
+msgstr "Visualizza spotlight"
+
+#: custompost/custompost.php:105
+msgid "View Testimonial"
+msgstr "View Testimonianza"
+
+#: custompost/customposts.php:12
+msgid "View Testimonials"
+msgstr "Visualizza testimonianze"
+
+#: custompost/custompost.php:12
+msgid "View Travel"
+msgstr "Visualizza viaggio"
+
+#: inc/core_functions.php:332
+msgid "View Tutorial"
+msgstr "Mostra Tutorial"
+
+#: inc/core_functions.php:333
+msgid "View Tutorials"
+msgstr "Visualizza Tutorial"
+
+#: staging/Includes/Core/views/ajax/staging_details.php:27
+#, fuzzy
+msgid "We have detected that your staging site is broken due to missing database table(s) and/or directory(s)."
+msgstr "Abbiamo riscontrato che il tuo sito in allestimento è guasto a causa di tavole mancanti per il(i) database mancante(i) e/o le directory."
+
+#: includes/settings-page.php:84
+#, fuzzy
+msgid "We're here to help"
+msgstr "Siamo qui per aiutarti"
+
+#: comments.php:73
+msgid "Website"
+msgstr "Sito Web"
+
+#: inc/core_functions.php:270 template-parts/section-contact.php:35
+msgid "What styling services can we help you with today?"
+msgstr "Con quali servizi styling possiamo aiutarti oggi ?"
+
+#: staging/Includes/Core/views/staging.php:29
+#, fuzzy
+msgid "When you copy from staging to live, all data and files of your live website will be overwritten. This includes recently added posts, pages, media uploads and files."
+msgstr "Quando effettui la copia dal sito in allestimento al sito online, tutti I dati ed I file del tuo sito online verranno sovrascritti. Ciò include anche post, pagine, caricamento di media e file aggiunti di recente."
+
+#: importer/views/plugin-page.php:40
+#, fuzzy
+msgid "When you import demo data, please be aware of the following:"
+msgstr "Prima di importare i dati demo, considera quanto segue:"
+
+#: widgets/widget.php:86
+msgid "Widget to Display contact."
+msgstr "Widget di visualizzazione contatto."
+
+#: widgets/widget.php:9
+msgid "Widget to Display Testimonial."
+msgstr "Widget di visualizzazione testimonianza."
+
+#: widget/widget.php:9
+msgid "Widget to Display Travel Post."
+msgstr "Widget di visualizzazione post viaggio"
+
+#: inc/functions.php:184
+#, fuzzy
+msgid "WordPress is being upgraded. Please try again later."
+msgstr "WordPress è in aggiornamento. Si prega di riprovare più tardi."
+
+#: templates/discouraged-plugin-listing.php:117
+#: templates/network/discouraged-plugin-listing.php:117
+#, fuzzy
+msgid "Yes, deactivate plugin"
+msgstr "Si, disattiva plugin"
+
+#: templates/discouraged-plugin-listing.php:58
+#: templates/network/discouraged-plugin-listing.php:58
+#, fuzzy
+msgid "You are doing great! None of your installed plugins, are on our list of discouraged plugins."
+msgstr "Ottimo ! Nessuno dei tuoi plugin installati sono sulla lista di quelli sconsigliati."
+
+#: modules/notice-discouraged-plugins.php:101
+#, fuzzy
+msgid "You are using one or more plugins from the list of plugins we discourage. We recommend that you deactivate them, to ensure the best performance of your website. "
+msgstr "Stai utilizzando uno o più plugin dell’elenco dei plugin sconsigliati. Disattivali per garantire le migliori prestazioni del tuo sito Web."
+
+#: includes/ws-shortcode.php:93
+#, fuzzy
+msgid "You can always change settings later directly in your shortcode on the page."
+msgstr "Puoi sempre modificare le impostazioni in seguito, direttamente nel tuo codice breve sulla pagina."
+
+#: includes/ws-shortcode.php:83
+#, fuzzy
+msgid "You can have maximum 100 products per page."
+msgstr "Ogni pagina può contenere al massimo 100 prodotti."
+
+# If you select "In header on all pages", you also have the option to enter a CSS selector to place the cart somewhere else on your site, on all pages.
+# 
+# If you don't use a One.com theme, adding a CSS selector is required, if you do use a One.com theme adding a CSS selector is optional.
+# 
+# This text needs to fit both scenarios.
+# ____________________________
+# Reference for developers:
+# 
+#: includes/ws-cart-shortcode.php:69
+msgid "You can place the cart somewhere else on your site by attaching it to an HTML element. Enter a CSS selector that exists in your theme’s HTML."
+msgstr "Puoi posizionare il tuo carrello ovunque sul tuo sito collegandolo ad un elemento HTML. Inserisci un selettore CSS presente nell'HTML del tuo tema."
+
+#: option-tree/includes/ot-functions-option-types.php:1515
+#: option-tree/includes/ot-functions-option-types.php:2261
+#, fuzzy
+msgid "You can re-order with drag & drop, the order will update after saving."
+msgstr "Puoi ordinare nuovamente con drag & drop, l'ordine verrà aggiornato dopo il salvataggio."
+
+#: staging/Includes/Core/views/live.php:48
+#, fuzzy
+msgid "You can use it as a playground to test new plugins and themes. Once you are satisfied with the result, you can copy all the changes to your live website with a single click."
+msgstr "Puoi utilizzarlo come uno spazio per testare I nuovi plugin e temi. Una volta che sarai soddisfatto del risultato, potrai copiare tutte le modifiche al tuo sito online con un singolo click."
+
+#: includes/ws-shortcode.php:84
+#, fuzzy
+msgid "You need to have at least 2 products per page."
+msgstr "Ogni pagina deve contenere almeno 2 prodotti."
+
+#: inc/core_functions.php:276
+msgid "You received a new message from"
+msgstr "Hai ricevuto un messaggio da"
+
+#: importer/views/plugin-page.php:49
+#, fuzzy
+msgid "You should only import demo data when making a new website from scratch."
+msgstr "Dovresti importare dati dimostrativi solamente in fase di creazione di un sito ex novo."
+
+#: functions.php:307
+#, fuzzy
+msgid "Your message has been successfully sent."
+msgstr "Il messaggio è stato inviato."
+
+#: staging/Includes/Core/views/ajax/staging_details.php:13
+#, fuzzy
+msgid "Your staging site"
+msgstr "Il tuo sito in allestimento"
+
+#: admin/options-init.php:105
+#, fuzzy
+msgid "Your website tagline."
+msgstr "Slogan del tuo sito Web."
+
+#: admin/options-init.php:98
+#, fuzzy
+msgid "Your website title."
+msgstr "Titolo del tuo sito Web."
+
+#: templates/discouraged-plugin-listing.php:60
+#: templates/network/discouraged-plugin-listing.php:60
+#, fuzzy
+msgid "Your WordPress site should work the best possible way. We checked the plugins on your website, and listed those we don't recommended you to use."
+msgstr "Per assicurare che il tuo sito sia ottimizzato e funzionale abbiamo stilato una lista di plugin per cui non ne raccomandiamo l'utilizzo."

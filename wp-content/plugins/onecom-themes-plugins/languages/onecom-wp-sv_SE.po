@@ -1,0 +1,5180 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2019-10-17 17:43+0530\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: sv_SE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.1.1\n"
+
+#: inc/functions.php:126 inc/functions.php:338 modules/notices.php:61
+msgid "Connection timed out"
+msgstr "Tiden för anslutningen gick ut"
+
+#: inc/functions.php:151
+msgid ""
+"Sorry, no compatible themes found for your version of WordPress and PHP."
+msgstr ""
+"Tyvärr hittades inga kompatibla teman för din version av WordPress och PHP."
+
+#: inc/functions.php:151 inc/functions.php:377
+msgid "Try again"
+msgstr "Försök igen"
+
+#: inc/functions.php:197
+msgid "WordPress is being upgraded. Please try again later."
+msgstr "WordPress uppgraderas. Försök igen senare."
+
+#: inc/functions.php:212
+msgid "Installing theme"
+msgstr "Installerar temat"
+
+#: inc/functions.php:232 inc/functions.php:566
+msgid "Something went wrong. Please contact the support at One.com."
+msgstr "Något gick fel. Kontakta supporten på One.com."
+
+#: inc/functions.php:246 inc/functions.php:583
+msgid ""
+"Unable to connect to the file system. Please contact the support at One.com."
+msgstr "Kunde inte ansluta till filsystemet. Kontakta supporten på One.com."
+
+#: inc/functions.php:261
+msgid "Theme installed successfully"
+msgstr "Temat installerades utan problem"
+
+#: inc/functions.php:264 inc/functions.php:279 inc/functions.php:606
+#: inc/functions.php:608 templates/network/plugin-listing.php:87
+#: templates/network/plugin-listing.php:89
+#: templates/network/recommended-plugin-listing.php:100
+#: templates/network/theme-listing-loop.php:85
+#: templates/network/theme-listing-loop.php:87 templates/plugin-listing.php:86
+#: templates/plugin-listing.php:88 templates/recommended-plugin-listing.php:99
+#: templates/theme-listing-loop.php:82 templates/theme-listing-loop.php:84
+msgid "Activate"
+msgstr "Aktivera"
+
+#: inc/functions.php:377
+msgid ""
+"Sorry, no compatible plugins found with your version of WordPress and PHP."
+msgstr ""
+"Tyvärr hittades inga kompatibla funktioner med din version av WordPress och "
+"PHP."
+
+#: inc/functions.php:547
+msgid "Installing plugin"
+msgstr "Installerar tillägg"
+
+#: inc/functions.php:598
+msgid "Plugin installed successfully"
+msgstr "Tillägg installerades utan problem"
+
+#: inc/update.php:167
+msgid "View details"
+msgstr ""
+
+#: modules/cookie-banner/inc/functions.php:22
+#: modules/cookie-banner/inc/functions.php:23
+#: modules/cookie-banner/templates/oc_cookie_banner_admin.php:3
+msgid "Cookie Banner"
+msgstr "Cookie-banner"
+
+# This message will become visible if a user has installed our "One.com Analytics and Online Marketing" plugin, but doesn't yet have a cookie banner.
+# ___________________________________________________
+#: modules/cookie-banner/inc/functions.php:173
+msgid ""
+"Since you are using One.com Analytics plugin, we recommend that you enable a "
+"cookie banner. This banner tells your visitors about your site storing data "
+"about them."
+msgstr ""
+"Insticksprogrammet One.com Analytics and Online Marketing som du använder "
+"placerar spårningscookies på din webbplats. Vi rekommenderar att du lägger "
+"till ett cookiemeddelande för att informera besökare om detta."
+
+#: modules/cookie-banner/inc/functions.php:178
+msgid "Setup cookie banner"
+msgstr "Ställ in cookie-banner."
+
+#: modules/cookie-banner/inc/functions.php:179
+msgid "Skip setup"
+msgstr "Hoppa över konfigurationen"
+
+#: modules/cookie-banner/templates/oc_cookie_banner_admin.php:16
+msgid ""
+"This website uses cookies. By continuing to use this site, you accept our "
+"use of cookies."
+msgstr ""
+"Den här hemsidan använder cookies. Genom att fortsätta använda sidan "
+"godkänner du vår användning av cookies."
+
+#: modules/cookie-banner/templates/oc_cookie_banner_admin.php:18
+#: modules/cookie-banner/templates/oc_cookie_banner_admin.php:85
+#: modules/cookie-banner/templates/oc_cookie_banner_admin.php:101
+msgid "Learn more"
+msgstr "Lär dig mer"
+
+#: modules/cookie-banner/templates/oc_cookie_banner_admin.php:20
+#: modules/cookie-banner/templates/oc_cookie_banner_admin.php:116
+msgid "Accept"
+msgstr "Acceptera"
+
+#: modules/cookie-banner/templates/oc_cookie_banner_admin.php:75
+msgid "Enable cookie banner"
+msgstr "Aktivera cookie-banner"
+
+#: modules/cookie-banner/templates/oc_cookie_banner_admin.php:77
+msgid ""
+"Show a banner on your website to inform visitors about cookies and get their "
+"consent."
+msgstr ""
+"Visa en banner på din hemsida för att informera besökare om cookies och få "
+"deras godkännande."
+
+#: modules/cookie-banner/templates/oc_cookie_banner_admin.php:82
+msgid "Banner text"
+msgstr "Bannertext"
+
+#: modules/cookie-banner/templates/oc_cookie_banner_admin.php:83
+msgid "Add a text asking your users to accept cookies."
+msgstr "Lägg till en text som ber dina användare att acceptera cookies."
+
+#: modules/cookie-banner/templates/oc_cookie_banner_admin.php:85
+msgid ""
+"Cookie requirements vary. This default text is for general use but may not "
+"meet your particular legal requirements."
+msgstr ""
+"Cookie-krav varierar. Denna standardtext är för allmän användning men "
+"uppfyller kanske inte dina specifika juridiska krav."
+
+#: modules/cookie-banner/templates/oc_cookie_banner_admin.php:89
+msgid "Cookie policy link (Optional)"
+msgstr "Länk till cookie-policy (Valfritt)"
+
+#: modules/cookie-banner/templates/oc_cookie_banner_admin.php:92
+msgid "Add a link to your cookie policy"
+msgstr "Lägg till en länk till din cookie-policy"
+
+#: modules/cookie-banner/templates/oc_cookie_banner_admin.php:94
+msgid ""
+"Your privacy policy can contain information about which cookies you use, so "
+"visitors can read more about what you collect information about."
+msgstr ""
+"Din sekretesspolicy kan innehålla information om vilka cookies du använder. "
+"Då kan besökare läsa mer om vilken information du samlar in."
+
+#: modules/cookie-banner/templates/oc_cookie_banner_admin.php:95
+msgid "What should be included in my cookie policy?"
+msgstr "Vad bör ingå i en cookie-policy?"
+
+#: modules/cookie-banner/templates/oc_cookie_banner_admin.php:100
+msgid "Link text"
+msgstr "Länktext"
+
+#: modules/cookie-banner/templates/oc_cookie_banner_admin.php:105
+msgid "Link URL"
+msgstr "URL-länk"
+
+#: modules/cookie-banner/templates/oc_cookie_banner_admin.php:108
+msgid "You can link to any page on your website or even add an external link."
+msgstr ""
+"Du kan länka till vilken sida som helst på din webbsida eller till och med "
+"lägga till en extern länk."
+
+#: modules/cookie-banner/templates/oc_cookie_banner_admin.php:115
+msgid "Button text"
+msgstr "Knapptext"
+
+#: modules/cookie-banner/templates/oc_cookie_banner_admin.php:118
+msgid "This is the text that appears on the button that activates cookies."
+msgstr "Detta är den text som visas på knappen som aktiverar cookies."
+
+#: modules/cookie-banner/templates/oc_cookie_banner_admin.php:122
+msgid "Banner style"
+msgstr "Banner-typ"
+
+#: modules/cookie-banner/templates/oc_cookie_banner_admin.php:124
+msgid "Grey"
+msgstr "Grå"
+
+#: modules/cookie-banner/templates/oc_cookie_banner_admin.php:125
+msgid "Black"
+msgstr "Svart"
+
+#: modules/cookie-banner/templates/oc_cookie_banner_admin.php:126
+msgid "White"
+msgstr "Vit"
+
+#: modules/cookie-banner/templates/oc_cookie_banner_admin.php:140
+msgid "Tip"
+msgstr "Tips"
+
+# Message in WordPress, reminding users to empty the cache when enabling a cookie banner.
+#
+# _________________________________________________________________
+#: modules/cookie-banner/templates/oc_cookie_banner_admin.php:140
+msgid "Remember to delete cache in case you are using any caching plugin."
+msgstr ""
+"Om du använder ett insticksprogram för cachelagring måste du tömma "
+"cacheminnet."
+
+#: modules/cookie-banner/templates/oc_cookie_banner_admin.php:142
+msgid "Purge Performance Cache"
+msgstr "Töm hela cache-minnet"
+
+# "Cancel" and go back, or "Save" your settings.
+#
+# ____________________________
+# Reference for developers:
+#
+#: modules/cookie-banner/templates/oc_cookie_banner_admin.php:149
+msgid "Save"
+msgstr "Spara"
+
+# IMPORTANT!!!!
+#
+# This is the NAME of the feature. Try to keep it short and clean and to the point. If there is no good version in your language, use the English one, or a variant thereof.
+#
+# The Health Monitor checks a WordPress site for vulnerabilities and if its overall performance is good. Issues are reported, with information on how to fix it.
+# ________________________________________
+#
+#
+#: modules/health-monitor/inc/functions.php:14
+#: modules/health-monitor/inc/functions.php:15
+#: modules/health-monitor/templates/oc_sh_health_monitor.php:11
+#: onecom-themes-plugins.php:661
+msgid "Health Monitor"
+msgstr "Hälsomätare"
+
+#: modules/health-monitor/inc/functions.php:42
+#: modules/health-monitor/inc/widgets.php:43
+msgid "Scan again"
+msgstr "Skanna igen"
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# This is the part where we explain what needs to be fixed, and link to a guide with more information, or link to our chatsupport (in case the customer cannot solve it without our help).
+#
+# The text in between the place holders will be the link text -> %slinktext%s
+# ________________________________________
+#
+#
+#: modules/health-monitor/inc/functions.php:63
+#: modules/health-monitor/templates/oc_sh_health_monitor.php:93
+#, php-format
+msgid ""
+"You can disable PHP error reporting in the One.com control panel and "
+"WordPress debugging in the wp.config.php file. Check these two guides for "
+"more details on how to manage these settings: %sHow do I enable error "
+"messages for PHP?%s and %sHow do I enable debugging in WordPress?%s"
+msgstr ""
+"Du kan inaktivera PHP-felmeddelande i kontrollpanelen på One.com och "
+"WordPress debugging i wp-config.php-filen. Kontrollera dessa två guider för "
+"mer information om hur du hanterar dessa inställningar: %sHur aktiverar jag "
+"felmeddelanden för PHP?%s och %sHur aktiverar jag felsökning i WordPress?%s"
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# The message will be shown when a state is all good. It's a header, so no full stop.
+# ________________________________________
+#
+#: modules/health-monitor/inc/functions.php:70
+msgid "This is configured properly!"
+msgstr "Felrapportering och debugging är inaktiverat"
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# This is the part where we explain what needs to be fixed, and link to a guide with more information, or link to our chatsupport (in case the customer cannot solve it without our help).
+# ________________________________________
+#
+#
+#: modules/health-monitor/inc/functions.php:93
+#, php-format
+msgid ""
+"You are running an outdated version of PHP. We recommend using the latest "
+"version of PHP. %sHow do I update PHP for my WordPress site?%s"
+msgstr ""
+"Du kan uppdatera PHP-versionen via din kontrollpanel på One.com. Det gör du "
+"under PHP- & Databasinställningar. Kolla i vår guide för mer information: "
+"%sHur uppdaterar jag PHP för min WordPress?%s."
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# The message will be shown when a state is all good. It's a header, so no full stop.
+# ________________________________________
+#: modules/health-monitor/inc/functions.php:100
+msgid "You have the latest PHP version enabled!"
+msgstr "Du använder den rekommenderade PHP-versionen"
+
+#
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# This is the part where we explain what needs to be fixed, and link to a guide with more information, or link to our chatsupport (in case the customer cannot solve it without our help).
+#
+# The text in between the place holders will be the link text -> %slinktext%s
+# ________________________________________
+#
+#: modules/health-monitor/inc/functions.php:128
+#, php-format
+msgid ""
+"One or more of your plugins are outdated. Outdated plugins make your site "
+"vulnerable to security attacks. %sUpdate your Plugins to the newest version%s"
+msgstr ""
+"Uppdatera dina tillägg till den senaste versionen. Vi rekommenderar att du "
+"tar bort alla tillägg som du inte planerar att använda. Kolla den här guiden "
+"för mer instruktioner: %sHur uppdaterar jag ett CMS som WordPress?%s"
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# The message will be shown when a state is all good. It's a header, so no full stop.
+# ________________________________________
+#: modules/health-monitor/inc/functions.php:135
+msgid "All your plugins are updated"
+msgstr "Alla dina tillägg är uppdaterade"
+
+#
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# This is the part where we explain what needs to be fixed, and link to a guide with more information, or link to our chatsupport (in case the customer cannot solve it without our help).
+#
+# The text in between the place holders will be the link text -> %slinktext%s
+# ________________________________________
+#
+#: modules/health-monitor/inc/functions.php:163
+#, php-format
+msgid ""
+"One or more of your installed themes are outdated. Using outdated themes can "
+"break your site and generate potential security risks. %sUpdate your Themes "
+"to the newest version%s"
+msgstr ""
+"Uppdatera dina teman till den senaste versionen. Vi rekommenderar att du tar "
+"bort alla teman som du inte planerar att använda. Kolla den här guiden för "
+"mer instruktioner: %sHur uppdaterar jag ett CMS som WordPress?%s"
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# The message will be shown when a state is all good. It's a header, so no full stop.
+# ________________________________________
+#: modules/health-monitor/inc/functions.php:170
+msgid "All your themes are updated!"
+msgstr "Alla dina teman är uppdaterade"
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# This is the part where we explain what needs to be fixed, and link to a guide with more information, or link to our chatsupport (in case the customer cannot solve it without our help).
+# ________________________________________
+#
+#
+#: modules/health-monitor/inc/functions.php:200
+#, php-format
+msgid ""
+"Update WordPress to the latest version, especially minor updates are "
+"important because they usually include security fixes. Check this guide for "
+"more instructions:  %sHow do I update a CMS like WordPress?%s"
+msgstr ""
+"Uppdatera WordPress till den senaste versionen. Det är särskilt viktigt med "
+"mindre uppdateringar eftersom de vanligtvis är säkerhetsrelaterade. Kolla "
+"den här guiden för mer instruktioner: %sHur uppdaterar jag ett CMS som "
+"WordPress?%s"
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# The message will be shown when a state is all good. It's a header, so no full stop.
+# ________________________________________
+#: modules/health-monitor/inc/functions.php:207
+msgid "Your WordPress version is updated"
+msgstr "Du använder den senaste WordPress-versionen"
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# This is the part where we explain what needs to be fixed, and link to a guide with more information, or link to our chatsupport (in case the customer cannot solve it without our help).
+#
+# The text in between the place holders will be the link text -> %slinktext%s
+# ________________________________________
+#
+#
+#: modules/health-monitor/inc/functions.php:231
+#, php-format
+msgid ""
+"You are using default table prefix. This means that attackers can easily "
+"guess your database configuration. %sChange the table prefix for WordPress%s"
+msgstr ""
+"Du kan fixa detta genom att ändra tabellprefixet till ett annat tabellprefix "
+"du väljer själv. Vi har skapat en guide som visar hur du gör detta: %sÄndra "
+"tabellprefixet för WordPress%s"
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# The message will be shown when a state is all good. It's a header, so no full stop.
+# ________________________________________
+#
+#: modules/health-monitor/inc/functions.php:238
+msgid "You are not using default table prefix"
+msgstr "Du använder ett anpassat tabellprefix"
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# This is the part where we explain what needs to be fixed, and link to a guide with more information, or link to our chatsupport (in case the customer cannot solve it without our help).
+# ________________________________________
+#
+#
+#: modules/health-monitor/inc/functions.php:267
+#, php-format
+msgid ""
+"Wordpress core updates are disabled. This means that your site cannot be "
+"auto updated to latest minor updates of WordPress. %sEnable auto updates%s"
+msgstr ""
+"Aktivera automatiska mindre uppdateringar igen. Du kan göra det genom att "
+"antingen ändra en inställning i det tillägg du använder för att hantera "
+"uppdateringar eller genom att ändra en inställning i wp-config. Om du vill "
+"veta varför uppdateringar är så viktiga, kolla den här guiden: %sVarför du "
+"alltid bör hålla WordPress uppdaterat%s."
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# The message will be shown when a state is all good. It's a header, so no full stop.
+# ________________________________________
+#
+#: modules/health-monitor/inc/functions.php:272
+msgid "Wordpress core updates are enabled"
+msgstr "Automatisk uppdatering är aktiverad"
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# The message will be shown when a state is all good. It's a header, so no full stop.
+# ________________________________________
+#
+#: modules/health-monitor/inc/functions.php:292
+msgid "Connection to Wordpress.org was successful"
+msgstr "Anslutningen till wordpress.org lyckades"
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# The message will be shown when a state is all good. It's a header, so no full stop.
+# ________________________________________
+#
+#: modules/health-monitor/inc/functions.php:313
+msgid "File editing from WordPress admin is disabled"
+msgstr ""
+"Funktionen för att redigera filer via WordPress administrationspanel är "
+"inaktiverad"
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# This is the part where we explain what needs to be fixed, and link to a guide with more information, or link to our chatsupport (in case the customer cannot solve it without our help).
+#
+# The text in between the place holders will be the link text -> %slinktext%s
+# ________________________________________
+#
+#
+#: modules/health-monitor/inc/functions.php:321
+#, php-format
+msgid ""
+"File editing from your WordPress dashboard is allowed, meaning users with a "
+"role that has this right can edit all the core files of your site. Someone "
+"might accidentally break it, or a hacker might get access to a password. "
+"%sDisable file editing in WordPress admin%s"
+msgstr ""
+"För att fixa detta måste du lägga till en rad i din wp-config.php-fil som "
+"inaktiverar filredigering från WordPress administrationspanel. Vi har skapat "
+"en guide med steg-för-steg-instruktioner: %sInaktivera filredigering i "
+"WordPress admin%s."
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# This is the part where we explain what needs to be fixed, and link to a guide with more information, or link to our chatsupport (in case the customer cannot solve it without our help).
+# ________________________________________
+#
+#
+#: modules/health-monitor/inc/functions.php:352
+#, php-format
+msgid ""
+"One or more of your usernames is very common, like for example “admin”. "
+"These usernames are easy to guess and could be exploited by hackers. "
+"%sChange a WordPress username in PhpMyAdmin%s"
+msgstr ""
+"Ändra det vanliga användarnamnet till ett personligt, baserat på ditt namn "
+"eller smeknamn. Kolla den här guiden för att ta reda på hur du gör det: "
+"%sÄndra ett WordPress-användarnamn i PhpMyAdmin%s"
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# The message will be shown when a state is all good. It's a header, so no full stop.
+# ________________________________________
+#
+#: modules/health-monitor/inc/functions.php:359
+msgid "You are not using any common username. "
+msgstr "Du använder ett personligt användarnamn vid inloggning"
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# This is the part where we explain what needs to be fixed, and link to a guide with more information, or link to our chatsupport (in case the customer cannot solve it without our help).
+#
+# The text in between the place holders will be the link text -> %slinktext%s
+# ________________________________________
+#
+#
+#: modules/health-monitor/inc/functions.php:383
+#, php-format
+msgid ""
+"Your site isn’t using HTTPS. Visitors on your site might get a warning that "
+"your website isn’t secure and it can also have a negative effect on your SEO "
+"rating. %sContact support%s"
+msgstr ""
+"Vänligen %skontakta vår chattsupport%s så att kan vi kontrollera vad som är "
+"fel och fixa det."
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# The message will be shown when a state is all good. It's a header, so no full stop.
+# ________________________________________
+#: modules/health-monitor/inc/functions.php:390
+msgid "Your site has valid SSL certificate!"
+msgstr "Din hemsida har ett giltigt SSL-certifikat"
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# This is the part where we explain what needs to be fixed, and link to a guide with more information, or link to our chatsupport (in case the customer cannot solve it without our help).
+#
+# The text in between the place holders will be the link text -> %slinktext%s
+# ________________________________________
+#
+#
+#: modules/health-monitor/inc/functions.php:425
+#, php-format
+msgid ""
+"File execution is allowed in your uploads folder. This means that an "
+"attacker can upload malware and execute it by simply trying to access it "
+"from their browser. %sDisable file execution in the WordPress uploads folder"
+"%s"
+msgstr ""
+"Du kan inaktivera filrättigheterna genom att lägga till en bit kod i din ."
+"htaccess-fil och sedan lägga den i uploads-mappen. Du kan se hur du gör det "
+"i vår steg-för-steg-guide: %sFörhindra att filer körs i mappen wp-uploads%s"
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# The message will be shown when a state is all good. It's a header, so no full stop.
+# ________________________________________
+#
+#: modules/health-monitor/inc/functions.php:432
+msgid "File execution is blocked in \"Uploads\" folder."
+msgstr "Din uploads-mapp är skyddad mot att skadliga filer körs i den"
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# This is the part where we explain what needs to be fixed, and link to a guide with more information, or link to our chatsupport (in case the customer cannot solve it without our help).
+#
+# The text in between the place holders will be the link text -> %slinktext%s
+# ________________________________________
+#
+#
+#: modules/health-monitor/inc/functions.php:484
+#, php-format
+msgid ""
+"One or more of your plugins is on the list of plugins we advise against "
+"using. Plugins on this list have a negative effect on the performance of "
+"your site, or pose a security risk. Deactivate %sDiscouraged WordPress "
+"plugins%s"
+msgstr ""
+"Ta bort de WordPress-tillägg vi avråder från. Det finns tusentals tillägg så "
+"det bör vara lätt att hitta en ersättare med samma funktioner. Se här för en "
+"fullständig lista över tillägg som avråder från: %sWordPress-tillägg som vi "
+"avråder från%s."
+
+#: modules/health-monitor/inc/functions.php:491
+#: templates/discouraged-plugin-listing.php:58
+#: templates/network/discouraged-plugin-listing.php:58
+msgid ""
+"You are doing great! None of your installed plugins, are on our list of "
+"discouraged plugins."
+msgstr ""
+"Snyggt jobbat! Inget av tilläggen som du har installerat finns på listan "
+"över tillägg som vi avråder från."
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# This is the part where we explain what needs to be fixed, and link to a guide with more information, or link to our chatsupport (in case the customer cannot solve it without our help).
+#
+# The text in between the place holders will be the link text -> %slinktext%s
+# ________________________________________
+#
+#
+#: modules/health-monitor/inc/functions.php:523
+#, php-format
+msgid ""
+"Your file and folder permissions are not set correctly. If they are too "
+"strict you get errors on your site, if they are too loose this poses a "
+"security risk. %sChange the file permissions via an FTP client%s"
+msgstr ""
+"För att åtgärda detta måste du använda en FTP-klient och ändra "
+"behörigheterna för dina filer till 755 och dina mappar till 644. Kolla vår "
+"steg-för-steg-guide för instruktioner: %sÄndra filbehörigheterna via en FTP-"
+"klient%s"
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# The message will be shown when a state is all good. It's a header, so no full stop.
+# ________________________________________
+#
+#: modules/health-monitor/inc/functions.php:530
+msgid "Correct file permissions."
+msgstr "Filrättigheterna är korrekt inställda"
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# This is the part where we explain what needs to be fixed, and link to a guide with more information, or link to our chatsupport (in case the customer cannot solve it without our help).
+#
+# The text in between the place holders will be the link text -> %slinktext%s
+# ________________________________________
+#
+#
+#: modules/health-monitor/inc/functions.php:585
+#: modules/health-monitor/inc/functions.php:593
+msgid ""
+"Your site could not connect to wordpress.org, which means background updates "
+"may not be working properly. %Contact support%s"
+msgstr ""
+"Försök att inaktivera alla tillägg och teman. Gör därefter en ny skanning "
+"för att kontrollera om anslutningen till wordpress.org har återställts. Om "
+"detta fungerade kan du återaktivera ett tillägg åt gången för att hitta "
+"felet. Om detta inte fungerade, %svänligen kontakta vårt chattsupport%s."
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# The message will be shown when a state is all good. It's a header, so no full stop.
+# ________________________________________
+#
+#: modules/health-monitor/inc/functions.php:600
+msgid "Background updates are working properly."
+msgstr "Bakgrundsuppdateringar är aktiverade och fungerar som de ska"
+
+# IMPORTANT!!!!
+#
+# This is the NAME of the feature. Try to keep it short and clean and to the point. If there is no good version in your language, use the English one, or a variant thereof. Make sure you are consistent, there are 4 keys that have Health Monitor.
+#
+# The Health Monitor checks a WordPress site for vulnerabilities and if its overall performance is good. Issues are reported, with information on how to fix it.
+#
+#: modules/health-monitor/inc/widgets.php:12
+msgid "One.com Health Monitor"
+msgstr "One.com:s Hälsomätare"
+
+#: modules/health-monitor/inc/widgets.php:32
+msgid "Scan now"
+msgstr "Skanna nu"
+
+# Make sure that you use the same term as you used for the name. This text isn't visible yet, but it will show the percentage of health after this. 100% means no issues.
+#
+#: modules/health-monitor/inc/widgets.php:43
+msgid "Health Monitor score is"
+msgstr "Hälsomätarens procent är"
+
+# This relates to the last time that the Health Monitor scan was done. It will be followed by a date.
+#
+# ______________________________________
+#
+#: modules/health-monitor/inc/widgets.php:43
+msgid "Last checked on"
+msgstr "Senast kontrollerad"
+
+# Description of the Health Monitor feature, make sure to use the same term as for the name.
+#
+#
+# ________________________________
+#
+#: modules/health-monitor/templates/oc_sh_health_monitor.php:14
+msgid ""
+"Health Monitor lets you monitor the essential security checkpoints and fix "
+"them if needed."
+msgstr ""
+"söker igenom din hemsida efter eventuella säkerhetsrisker och kontrollerar "
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# The message will be shown when something failed, it's header so no full stop.
+# ________________________________________
+#
+#: modules/health-monitor/templates/oc_sh_health_monitor.php:25
+msgid "PHP version"
+msgstr "Du använder inte den rekommenderade PHP-versionen"
+
+#: modules/health-monitor/templates/oc_sh_health_monitor.php:29
+#: onecom-themes-plugins.php:337 onecom-themes-plugins.php:338
+#: onecom-themes-plugins.php:345 onecom-themes-plugins.php:346
+#: onecom-themes-plugins.php:353 onecom-themes-plugins.php:354
+#: onecom-themes-plugins.php:398 onecom-themes-plugins.php:401
+#: onecom-themes-plugins.php:412 onecom-themes-plugins.php:664
+msgid "Plugins"
+msgstr "Tillägg"
+
+#: modules/health-monitor/templates/oc_sh_health_monitor.php:33
+#: onecom-themes-plugins.php:329 onecom-themes-plugins.php:330
+#: onecom-themes-plugins.php:387 onecom-themes-plugins.php:390
+#: onecom-themes-plugins.php:663
+msgid "Themes"
+msgstr "Teman"
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# The message will be shown when something failed, it's header so no full stop.
+# ________________________________________
+#
+#: modules/health-monitor/templates/oc_sh_health_monitor.php:37
+msgid "WordPress version"
+msgstr "Du använder inte den senaste versionen av WordPress"
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# The message will be shown when something failed, it's header so no full stop.
+# ________________________________________
+#
+#
+#: modules/health-monitor/templates/oc_sh_health_monitor.php:41
+msgid "Connection to Wordpress.org"
+msgstr "Anslutningen till wordpress.org misslyckades"
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# The message will be shown when something failed, it's header so no full stop.
+# ________________________________________
+#
+#: modules/health-monitor/templates/oc_sh_health_monitor.php:45
+msgid "WordPress core updates"
+msgstr "Automatisk uppdatering av WordPress-filerna är inaktiverad"
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# The message will be shown when something failed, it's header so no full stop.
+# ________________________________________
+#
+#: modules/health-monitor/templates/oc_sh_health_monitor.php:49
+msgid "SSL certificate"
+msgstr "Din hemsida har inte ett fungerande SSL-certifikat"
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# The message will be shown when something failed, it's header so no full stop.
+# ________________________________________
+#
+#: modules/health-monitor/templates/oc_sh_health_monitor.php:53
+msgid "File execution in uploads"
+msgstr "Filkörning i uploads-mappen är aktiverat "
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# The message will be shown when something failed, it's header so no full stop.
+# ________________________________________
+#
+#: modules/health-monitor/templates/oc_sh_health_monitor.php:58
+msgid "WP file directory and files permissions"
+msgstr "Din hemsida har felaktiga fil- och mapp-behörigheter"
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# The message will be shown when something failed, it's header so no full stop.
+# ________________________________________
+#
+#: modules/health-monitor/templates/oc_sh_health_monitor.php:63
+msgid "Database security"
+msgstr "Din databas är sårbar och riskerar att bli utsatt för attacker"
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# The message will be shown when something failed, it's header so no full stop.
+# ________________________________________
+#
+#: modules/health-monitor/templates/oc_sh_health_monitor.php:67
+msgid "File editing from admin"
+msgstr ""
+"Funktionen för att redigera filer via WordPress administrationspanel är "
+"aktiverad"
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# The message will be shown when something failed, it's header so no full stop.
+# ________________________________________
+#
+#: modules/health-monitor/templates/oc_sh_health_monitor.php:71
+msgid "Insecure usernames"
+msgstr "Du använder ett generiskt användarnamn som är lätt att gissa"
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# The message will be shown when something failed, it's header so no full stop.
+# ________________________________________
+#
+#: modules/health-monitor/templates/oc_sh_health_monitor.php:75
+msgid "Using discouraged plugins"
+msgstr "Du använder ett eller fler tillägg som vi avråder från"
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# The message will be shown when something failed, it's header so no full stop.
+# ________________________________________
+#
+#: modules/health-monitor/templates/oc_sh_health_monitor.php:85
+#: modules/health-monitor/templates/oc_sh_health_monitor.php:103
+msgid "Debug mode/Error reporting"
+msgstr "Din sida är inställd på att visa felmeddelanden för besökare"
+
+#: modules/notice-discouraged-plugins.php:90
+#, php-format
+msgid ""
+"The plugin <strong>%s</strong>, that you are using, creates a lot of large "
+"temporary files causing high load on our servers and possible time-outs on "
+"your site.<br/>We strongly advise you to deactivate it. If you keep on using "
+"this plugin we may be forced to suspend your site. "
+msgstr ""
+"Du använder tillägget <strong>%s</strong> som skapar många stora, "
+"tillfälliga filer på ditt webbutrymme. Detta leder till hög belastning på "
+"våra servrar, vilket kan få din sida att laddas långsamt eller inte laddas "
+"alls.<br/>Vi råder dig att inaktivera detta tillägg. Om du fortsätter att "
+"använda tillägget kan vi bli tvungna att suspendera din sida. "
+
+#: modules/notice-discouraged-plugins.php:93
+#: templates/discouraged-plugin-listing.php:79
+#: templates/network/discouraged-plugin-listing.php:79
+msgid "Deactivate"
+msgstr "Inaktivera"
+
+#: modules/notice-discouraged-plugins.php:101 modules/notices.php:101
+msgid ""
+"You are using one or more plugins from the list of plugins we discourage. We "
+"recommend that you deactivate them, to ensure the best performance of your "
+"website. "
+msgstr ""
+"Du använder ett eller flera tillägg som vi avråder från. Vi rekommenderar "
+"att du inaktiverar dem för att få hemsidan att fungera optimalt."
+
+#: modules/notice-discouraged-plugins.php:104 modules/notices.php:105
+msgid "View discouraged plugins"
+msgstr "Lista över tillägg vi avråder från"
+
+#: onecom-themes-plugins.php:319 onecom-themes-plugins.php:320
+#: onecom-themes-plugins.php:375 onecom-themes-plugins.php:378
+msgid "One.com"
+msgstr "One.com"
+
+#: onecom-themes-plugins.php:409 onecom-themes-plugins.php:662
+#: staging/Includes/Core/Administrator.php:96
+#: staging/Includes/Core/Administrator.php:97
+#: staging/Includes/Core/Administrator.php:110
+#: staging/Includes/Core/Administrator.php:111
+msgid "Staging"
+msgstr ""
+
+#: onecom-themes-plugins.php:423
+msgid "One.com Control Panel"
+msgstr "One.com manöverpanel"
+
+#: onecom-themes-plugins.php:426
+msgid "Go to Control Panel at One.com"
+msgstr "Gå till manöverpanelen på One.com"
+
+#: onecom-themes-plugins.php:440
+msgid "One.com Guides & FAQ"
+msgstr "One.com guider och vanliga frågor"
+
+#: onecom-themes-plugins.php:443
+msgid "Go to Guides & FAQ at One.com"
+msgstr "Gå till guider och vanliga frågor på One.com"
+
+#: staging/Includes/Core/Jobs/Directories.php:281
+#, php-format
+msgid "Unable to open %s with mode %s"
+msgstr ""
+
+#: staging/Includes/Core/Jobs/Directories.php:300
+#, php-format
+msgid "Unable to write to: %s"
+msgstr ""
+
+#: staging/Includes/Core/Jobs/Directories.php:304
+msgid "Out of disk space."
+msgstr ""
+
+#: staging/Includes/Core/views/ajax/scan.php:2
+msgid "Staging Site Name:"
+msgstr ""
+
+#: staging/Includes/Core/views/ajax/scan.php:8
+msgid ""
+"<br>Probably not enough free disk space to create a staging site. <br> You "
+"can continue but its likely that the copying process will fail."
+msgstr ""
+
+#: staging/Includes/Core/views/ajax/scan.php:18
+msgid "DB Tables"
+msgstr ""
+
+#: staging/Includes/Core/views/ajax/scan.php:21
+msgid "Files"
+msgstr ""
+
+#: staging/Includes/Core/views/ajax/scan.php:35
+msgid "Please Deselect the tables you dont want to copy."
+msgstr ""
+
+#: staging/Includes/Core/views/ajax/scan.php:76
+msgid ""
+"Uncheck the folders you do not want to copy. Click on them for expanding!"
+msgstr ""
+
+#: staging/Includes/Core/views/ajax/scan.php:83
+msgid "Extra directories to copy"
+msgstr ""
+
+#: staging/Includes/Core/views/ajax/scan.php:91
+msgid ""
+"Enter one folder path per line.<br>Folders must start with absolute path: "
+msgstr ""
+
+#: staging/Includes/Core/views/ajax/scan.php:103
+msgid "All files will be copied to: "
+msgstr ""
+
+#: staging/Includes/Core/views/ajax/staging_details.php:13
+msgid "Your staging site"
+msgstr "Din testsida"
+
+#: staging/Includes/Core/views/ajax/staging_details.php:15
+msgid "Staging site broken"
+msgstr "Testsidan fungerar inte"
+
+#: staging/Includes/Core/views/ajax/staging_details.php:21
+msgid "Staging Frontend:"
+msgstr "Testsidans adress:"
+
+#: staging/Includes/Core/views/ajax/staging_details.php:22
+msgid "Staging Backend:"
+msgstr "Testsidans kontrollpanel:"
+
+#: staging/Includes/Core/views/ajax/staging_details.php:27
+msgid ""
+"We have detected that your staging site is broken due to missing database "
+"table(s) and/or directory(s)."
+msgstr ""
+"Vi har märkt att din testsida inte fungerar p.g.a. att vissa databastabeller "
+"och/eller filer saknas."
+
+#: staging/Includes/Core/views/ajax/staging_details.php:28
+msgid "Click on \"Rebuild Staging\" to regenerate your staging site."
+msgstr "Klicka på “Återskapa testsida” för att skapa den på nytt."
+
+#: staging/Includes/Core/views/ajax/staging_details.php:43
+msgid ""
+"The staging website is a copy of your live website, where you can test new "
+"plugins and themes without affecting your live website."
+msgstr ""
+"Testsidan är en kopia av din aktiva sida. På testsidan kan du prova på nya "
+"plugin och teman utan att det påverkar den aktiva sidan."
+
+#: staging/Includes/Core/views/ajax/staging_details.php:44
+msgid ""
+"Only one staging version can be created for each website. When you rebuild a "
+"staging website, any existing staging site will be replaced with a new "
+"snapshot of your live website."
+msgstr ""
+"Varje aktiv sida kan ha högst en testsida. Du kan “återskapa” testsidan om "
+"du vill att den ska kopiera allt innehåll från den aktiva sidan på nytt."
+
+#: staging/Includes/Core/views/ajax/staging_details.php:45
+msgid ""
+"The login details for the staging backend are the same as for the live "
+"website."
+msgstr ""
+"Inloggningsuppgifterna för testsidan är samma som för den aktiva sidan."
+
+#: staging/Includes/Core/views/ajax/staging_details.php:47
+msgid ""
+"Caution: Rebuilding will overwrite all files and the database of your "
+"existing staging website."
+msgstr ""
+"Varning: om du återskapar testsidan kommer dess nuvarande filer och databas "
+"att skrivas över."
+
+#: staging/Includes/Core/views/ajax/staging_details.php:50
+#: staging/Includes/Core/views/live.php:51
+#: staging/Includes/Core/views/staging.php:32
+msgid "Need help?"
+msgstr "Behöver du hjälp?"
+
+#: staging/Includes/Core/views/ajax/staging_details.php:52
+#: staging/Includes/Core/views/ajax/staging_details.php:53
+#: staging/Includes/Core/views/includes/footer.php:14
+#: staging/Includes/Core/views/includes/footer.php:29
+#: staging/Includes/Core/views/includes/footer.php:44
+#: staging/Includes/Core/views/includes/footer.php:62
+#: staging/Includes/Core/views/staging.php:34
+msgid "Are you sure?"
+msgstr "Är du säker?"
+
+#: staging/Includes/Core/views/ajax/staging_details.php:52
+msgid "Rebuild Staging"
+msgstr "Återskapa testsida"
+
+#: staging/Includes/Core/views/ajax/staging_details.php:53
+msgid "Delete Staging"
+msgstr "Radera testsida"
+
+#: staging/Includes/Core/views/blocked.php:14
+msgid "Staging feature not available."
+msgstr ""
+
+#: staging/Includes/Core/views/blocked.php:16
+msgid ""
+"Staging feature is not yet available for the following type of WordPress "
+"websites:"
+msgstr ""
+
+#: staging/Includes/Core/views/includes/footer.php:16
+msgid ""
+"This will overwrite your staging website with a copy of the files and "
+"database from your live website. All changes made in your staging website "
+"will be lost."
+msgstr ""
+"Filerna och databasen för den nuvarande testsidan kommer att ersättas av en "
+"ny kopia av den aktiva sidan. Alla ändringar som du har gjort på testsidan "
+"kommer att raderas."
+
+#: staging/Includes/Core/views/includes/footer.php:19
+#: staging/Includes/Core/views/includes/footer.php:34
+#: staging/Includes/Core/views/includes/footer.php:50
+#: staging/Includes/Core/views/includes/footer.php:67
+msgid "OK"
+msgstr ""
+
+# "Cancel" and go back, or "Save" your settings.
+#
+# ____________________________
+# Reference for developers:
+#
+#: staging/Includes/Core/views/includes/footer.php:20
+#: staging/Includes/Core/views/includes/footer.php:35
+#: staging/Includes/Core/views/includes/footer.php:51
+#: staging/Includes/Core/views/includes/footer.php:68
+msgid "Cancel"
+msgstr "Avbryt"
+
+#: staging/Includes/Core/views/includes/footer.php:31
+msgid ""
+"This takes a snapshot of your blog and copies it to a \"staging area\" where "
+"you can test changes without affecting your live site. There's only one "
+"staging area, so every time you click this button the old staging area is "
+"lost forever, replaced with a snapshot of your live blog."
+msgstr ""
+
+#: staging/Includes/Core/views/includes/footer.php:46
+msgid "The staging site will be lost."
+msgstr "Den nuvarande testsidan kommer att raderas."
+
+#: staging/Includes/Core/views/includes/footer.php:64
+msgid ""
+"This will overwrite your live website with a copy of the files and database "
+"from your staging website."
+msgstr ""
+"Filerna och databasen för din aktiva sida kommer att ersättas av innehållet "
+"från den nuvarande testsidan."
+
+#: staging/Includes/Core/views/includes/header.php:6
+msgid "One Staging"
+msgstr "One Testsida"
+
+#: staging/Includes/Core/views/includes/header.php:8
+msgid "This is your Staging site."
+msgstr ""
+
+#: staging/Includes/Core/views/live.php:7
+msgid "Please wait, while we are copying your live site to the staging site."
+msgstr "Var god dröj, vi kopierar din aktiva sida till testläget."
+
+#: staging/Includes/Core/views/live.php:15
+msgid "Please wait, while we are updating staging site."
+msgstr ""
+
+#: staging/Includes/Core/views/live.php:21
+msgid "Please wait, while we are deleting staging site."
+msgstr ""
+
+#: staging/Includes/Core/views/live.php:47
+msgid ""
+"Create a staging version of your site to try out new plugins, themes and "
+"customizations"
+msgstr ""
+"Skapa en testversion av din sida för att prova nya tillägg, teman och "
+"inställningar."
+
+#: staging/Includes/Core/views/live.php:48
+msgid ""
+"The staging environment allows you to make changes to your site, without it "
+"affecting the live version of your website. When you create a staging site, "
+"it will be a snapshot of your live website."
+msgstr ""
+"En testsida skapas som en kopia av den aktiva sidan. På testsidan kan du "
+"sedan göra ändringar och prova på nya funktioner utan att det påverkar den "
+"aktiva sidan."
+
+#: staging/Includes/Core/views/live.php:48
+msgid ""
+"You can use it as a playground to test new plugins and themes. Once you are "
+"satisfied with the result, you can copy all the changes to your live website "
+"with a single click."
+msgstr ""
+"Du kan använda sidan för att testa nya plugin och teman. När du är nöjd med "
+"resultatet kan du enkelt kopiera över alla ändringar till din aktiva sida."
+
+#: staging/Includes/Core/views/live.php:49
+msgid "Please note"
+msgstr "Obs"
+
+#: staging/Includes/Core/views/live.php:49
+msgid ""
+"Plugins that are URL sensitive may not work as expected on the staging site."
+msgstr ""
+"WordPress-tillägg vars inställningar påverkas av sidans URL kanske inte "
+"fungerar som förväntat på testsidan."
+
+#: staging/Includes/Core/views/live.php:54
+msgid "Create staging site"
+msgstr "Skapa en testsida"
+
+#: staging/Includes/Core/views/staging.php:6
+msgid "Please wait, while we are copying staging into live."
+msgstr ""
+
+#: staging/Includes/Core/views/staging.php:18
+msgid "Copy staging to your live site"
+msgstr "Kopiera testsidan till den aktiva sidan"
+
+#: staging/Includes/Core/views/staging.php:22
+msgid ""
+"This is your staging website, a snapshot of your live website. Here you can "
+"test changes without affecting your live website."
+msgstr ""
+"Testsidan är en kopia av din aktiva sida. På testsidan kan du göra ändringar "
+"utan att det påverkar din aktiva sida."
+
+#: staging/Includes/Core/views/staging.php:24
+msgid ""
+"When you copy from staging to live, the live website will get replaced with "
+"a snapshot of this staging website."
+msgstr ""
+
+#: staging/Includes/Core/views/staging.php:25
+msgid "Before you continue, please be aware of the following:"
+msgstr "Innan du fortsätter, tänk på följande:"
+
+#: staging/Includes/Core/views/staging.php:28
+msgid "It is not possible to reverse this process."
+msgstr "Denna ersättning går inte att ångra."
+
+#: staging/Includes/Core/views/staging.php:29
+msgid ""
+"When you copy from staging to live, all data and files of your live website "
+"will be overwritten. This includes recently added posts, pages, media "
+"uploads and files."
+msgstr ""
+"När du ersätter den aktiva sidan med testsidan kommer allt på den aktiva "
+"sidan att skrivas över. Det omfattar blogginlägg, sidor och uppladdade filer."
+
+#: staging/Includes/Core/views/staging.php:30
+msgid ""
+"It can take a couple of minutes for the copy to finish, so please do not "
+"close or navigate away from this page."
+msgstr "Kopieringen kan ta några minuter, var god stäng inte den här sidan."
+
+#: staging/Includes/Core/views/staging.php:34
+msgid "Copy staging to live"
+msgstr "Ersätt aktiv sida med testsidan"
+
+#: staging/Includes/Core/views/staging.php:39
+msgid "Live website details not found. Can not copy staging into live!"
+msgstr ""
+
+#: staging/one_staging.php:147
+msgid "Status"
+msgstr ""
+
+#: staging/one_staging.php:148
+msgid "Response"
+msgstr ""
+
+#: staging/one_staging.php:149
+msgid "Copied successfully."
+msgstr "Testsidan skapades utan problem."
+
+#: staging/one_staging.php:150
+msgid "Something went wrong; please try again."
+msgstr ""
+
+#: staging/one_staging.php:154
+msgid "Preparing..."
+msgstr "Förbereder…"
+
+#: staging/one_staging.php:155
+msgid "Start copying..."
+msgstr "Påbörjar kopieringen…"
+
+#: staging/one_staging.php:156
+msgid "Copying database..."
+msgstr "Kopierar databas…"
+
+#: staging/one_staging.php:157
+msgid "Preparing directories..."
+msgstr "Förbereder kataloger…"
+
+#: staging/one_staging.php:158
+msgid "Copying files..."
+msgstr "Kopierar filer…"
+
+#: staging/one_staging.php:159
+msgid "Updating database..."
+msgstr "Uppdaterar databas…"
+
+#: staging/one_staging.php:160
+msgid "Finalising..."
+msgstr "Avslutar…"
+
+#: staging/one_staging.php:161
+msgid "Finished!"
+msgstr "Klart!"
+
+#: staging/one_staging.php:162
+msgid "Deleting staging..."
+msgstr "Tar bort testsidan..."
+
+#: templates/discouraged-plugin-listing.php:13
+#: templates/discouraged-plugin-listing.php:25
+#: templates/network/discouraged-plugin-listing.php:13
+#: templates/network/discouraged-plugin-listing.php:25
+#: templates/network/plugin-listing.php:25
+#: templates/network/recommended-plugin-listing.php:25
+#: templates/plugin-listing.php:25 templates/recommended-plugin-listing.php:25
+msgid "Discouraged plugins"
+msgstr "Tillägg vi avråder från"
+
+#: templates/discouraged-plugin-listing.php:23
+#: templates/network/discouraged-plugin-listing.php:23
+#: templates/network/plugin-listing.php:23
+#: templates/network/recommended-plugin-listing.php:23
+#: templates/plugin-listing.php:23 templates/recommended-plugin-listing.php:23
+msgid "One.com plugins"
+msgstr "One.com tillägg"
+
+#: templates/discouraged-plugin-listing.php:24
+#: templates/network/discouraged-plugin-listing.php:24
+#: templates/network/plugin-listing.php:24
+#: templates/network/recommended-plugin-listing.php:24
+#: templates/plugin-listing.php:24 templates/recommended-plugin-listing.php:24
+msgid "Recommended plugins"
+msgstr "Rekommenderade tillägg"
+
+#: templates/discouraged-plugin-listing.php:60
+#: templates/network/discouraged-plugin-listing.php:60
+msgid ""
+"Your WordPress site should work the best possible way. We checked the "
+"plugins on your website, and listed those we don't recommended you to use."
+msgstr ""
+"Din WordPress-sida ska fungera så bra som möjligt. Vi har kontrollerar "
+"tilläggen som du har installerat, och listat dem som vi avråder från."
+
+#: templates/discouraged-plugin-listing.php:60
+#: templates/network/discouraged-plugin-listing.php:60
+msgid "There are also some suggestions for alternative plugins to use instead."
+msgstr "Det finns också några förslag på tillägg att använda istället."
+
+#: templates/discouraged-plugin-listing.php:63
+#: templates/network/discouraged-plugin-listing.php:63
+msgid "View full list of discouraged plugins"
+msgstr "Se hela listan på tillägg som vi avråder från"
+
+#: templates/discouraged-plugin-listing.php:88
+#: templates/network/discouraged-plugin-listing.php:88
+msgid "Suggested alternative"
+msgstr "Föreslaget alternativ"
+
+#: templates/discouraged-plugin-listing.php:88
+#: templates/network/discouraged-plugin-listing.php:88
+msgid "Suggested alternatives"
+msgstr "Föreslagna alternativ"
+
+#: templates/discouraged-plugin-listing.php:117
+#: templates/network/discouraged-plugin-listing.php:117
+msgid "Yes, deactivate plugin"
+msgstr "Ja, inaktivera tillägg"
+
+#: templates/discouraged-plugin-listing.php:117
+#: templates/network/discouraged-plugin-listing.php:117
+msgid "Not right now"
+msgstr "Inte just nu"
+
+#: templates/discouraged-plugin-listing.php:119
+#: templates/network/discouraged-plugin-listing.php:119
+msgid "Are you sure that you want to deactivate this plugin?"
+msgstr "Är du säker på att du vill inaktivera det här tillägget?"
+
+#: templates/discouraged-plugin-listing.php:121
+#: templates/network/discouraged-plugin-listing.php:121
+msgid "Deactivating a plugin can break functionality on your website."
+msgstr ""
+"Om du inaktiverar ett tillägg kan vissa funktioner på din webbplats sluta "
+"fungera."
+
+#: templates/network/plugin-listing.php:13 templates/plugin-listing.php:13
+msgid "Plugins that bring the One.com experience and services to WordPress."
+msgstr ""
+"Tillägg som tar upplevelserna och tjänsterna från One.com till WordPress."
+
+#: templates/network/plugin-listing.php:84
+#: templates/network/recommended-plugin-listing.php:98
+#: templates/network/theme-listing-loop.php:75 templates/plugin-listing.php:83
+#: templates/recommended-plugin-listing.php:97
+#: templates/theme-listing-loop.php:72
+msgid "Active"
+msgstr "Aktiv"
+
+#: templates/network/plugin-listing.php:92
+#: templates/network/recommended-plugin-listing.php:102
+#: templates/plugin-listing.php:91 templates/recommended-plugin-listing.php:101
+msgid "Install now"
+msgstr "Installera nu"
+
+#: templates/network/recommended-plugin-listing.php:13
+#: templates/recommended-plugin-listing.php:13
+msgid "Presenting some of our favorite WordPress plugins, curated for quality."
+msgstr ""
+"Här är några av våra favorit-tillägg för WordPress, utvalda med kvalitet i "
+"åtanke."
+
+#: templates/network/recommended-plugin-listing.php:110
+#: templates/recommended-plugin-listing.php:109
+msgid "More details"
+msgstr "Mer information"
+
+#: templates/network/recommended-plugin-listing.php:117
+#: templates/recommended-plugin-listing.php:116
+msgid "By"
+msgstr "Av"
+
+#: templates/network/theme-listing-loop.php:57
+#: templates/theme-listing-loop.php:50
+msgid "Preview"
+msgstr "Förhandsgranska"
+
+#: templates/network/theme-listing-loop.php:90
+#: templates/network/theme-listing.php:100 templates/theme-listing-loop.php:87
+#: templates/theme-listing.php:102
+msgid "Install"
+msgstr "Installera"
+
+#: templates/network/theme-listing.php:14 templates/theme-listing.php:14
+msgid "Exclusive themes specially crafted for One.com customers."
+msgstr "Exklusiva teman speciellt utformade för One.coms kunder"
+
+#: templates/network/theme-listing.php:35
+#: templates/network/theme-listing.php:37
+#: templates/network/theme-listing.php:49 templates/theme-listing.php:31
+#: templates/theme-listing.php:33 templates/theme-listing.php:45
+msgid "All"
+msgstr "Alla"
+
+#: templates/network/theme-listing.php:38
+#: templates/network/theme-listing.php:50 templates/theme-listing.php:34
+#: templates/theme-listing.php:46
+msgid "Blog"
+msgstr "Blogg"
+
+#: templates/network/theme-listing.php:39
+#: templates/network/theme-listing.php:51 templates/theme-listing.php:35
+#: templates/theme-listing.php:47
+msgid "Business & Services"
+msgstr "Företag & Tjänster"
+
+#: templates/network/theme-listing.php:40
+#: templates/network/theme-listing.php:52 templates/theme-listing.php:36
+#: templates/theme-listing.php:48
+msgid "Events"
+msgstr "Händelser"
+
+#: templates/network/theme-listing.php:41
+#: templates/network/theme-listing.php:53 templates/theme-listing.php:37
+#: templates/theme-listing.php:49
+msgid "Family & Recreation"
+msgstr "Familj & Fritid"
+
+#: templates/network/theme-listing.php:42
+#: templates/network/theme-listing.php:54 templates/theme-listing.php:38
+#: templates/theme-listing.php:50
+msgid "Food & Hospitality"
+msgstr "Mat & Gästfrihet"
+
+#: templates/network/theme-listing.php:43
+#: templates/network/theme-listing.php:55 templates/theme-listing.php:39
+#: templates/theme-listing.php:51
+msgid "Music & Art"
+msgstr "Musik & Konst"
+
+#: templates/network/theme-listing.php:44
+#: templates/network/theme-listing.php:56 templates/theme-listing.php:40
+#: templates/theme-listing.php:52
+msgid "Online Shop"
+msgstr "Webbshop"
+
+#: templates/network/theme-listing.php:45
+#: templates/network/theme-listing.php:57 templates/theme-listing.php:41
+#: templates/theme-listing.php:53
+msgid "Portfolio & CV"
+msgstr "Portfolio & CV"
+
+#: templates/network/theme-listing.php:96 templates/theme-listing.php:98
+msgid "Back to themes"
+msgstr "Tillbaka till teman"
+
+#: templates/network/theme-listing.php:103 templates/theme-listing.php:105
+msgid "Desktop"
+msgstr "Skrivbord"
+
+#: templates/network/theme-listing.php:104 templates/theme-listing.php:106
+msgid "Mobile"
+msgstr "Mobil"
+
+#, fuzzy
+#~ msgid " - Latest updates"
+#~ msgstr "- Senaste uppdateringar"
+
+#, fuzzy
+#~ msgid " Full Width Section Image"
+#~ msgstr "Helbildssektionens bild"
+
+#~ msgid ""
+#~ "%1$s%3$sThat's it, all done!%4$s%2$sThe import of demo data has finished. "
+#~ "Please check your page and make sure that everything has been imported "
+#~ "correctly.%5$s"
+#~ msgstr ""
+#~ "%1$s%3$sNu är det klart!%4$s%2$sImporteringen av demodata är färdig. "
+#~ "Kontrollera din sida för att se om allt har importerats på rätt sätt.%5$s"
+
+#~ msgid ""
+#~ "%1$sThe demo import has finished, but there were some import errors."
+#~ "%2$sMore details about the errors can be found in this %3$s%5$slog file"
+#~ "%6$s%4$s%7$s"
+#~ msgstr ""
+#~ "%1$sImporteringen av demodata är färdig, men det uppstod några problem."
+#~ "%2$sDu hittar fler detaljer om problemen i denna %3$s%5$sloggfil%6$s%4$s"
+#~ "%7$s"
+
+#~ msgid "%s <span class=\"screen-reader-text says\">says:</span>"
+#~ msgstr "%s <span class=\"screen-reader-text says\">säger:</span>"
+
+#, fuzzy
+#~ msgid "(no title)"
+#~ msgstr "Webbplatstitel"
+
+#, fuzzy
+#~ msgid "404"
+#~ msgstr "404"
+
+#~ msgid "404 Page Content"
+#~ msgstr "Innehåll på 404-sida"
+
+#~ msgid "<span class=\"screen-reader-text\">Posted on</span> %s"
+#~ msgstr "<span class=\"screen-reader-text\">Postad den</span> %s"
+
+# Error message that is shown when an Administrator user tries to login with a wrong password, explaining that they need to set a new one.
+#
+# The text in between the placeholders will become a link.
+#
+# _______________________________________
+#~ msgid ""
+#~ "<strong>ERROR</strong> If you are owner of this domain, please %s reset "
+#~ "your password%s by providing email id registered with one.com."
+#~ msgstr ""
+#~ "Lösenordet du har angett är fel. Om det är första gången du loggar in med "
+#~ "den här användaren måste du %s skapa ett nytt lösenord%s."
+
+#~ msgid "A video will override the featured image for this post."
+#~ msgstr ""
+#~ "En video kommer att visas istället för den utvalda bilden för det här "
+#~ "inlägget."
+
+#~ msgid "About"
+#~ msgstr "Information"
+
+#~ msgid "About Blog"
+#~ msgstr "Om bloggen"
+
+#~ msgid "About Me"
+#~ msgstr "Om mig"
+
+#~ msgid "About the blog"
+#~ msgstr "Om bloggen"
+
+#~ msgid "About us section"
+#~ msgstr "Bottensektionen"
+
+#~ msgid "Above the flip box"
+#~ msgstr "Ovanför flipprutan"
+
+#~ msgid "Acronym"
+#~ msgstr "Förkortning"
+
+#~ msgid "Active Color"
+#~ msgstr "Aktiv färg"
+
+#, fuzzy
+#~ msgid "Actual ratio"
+#~ msgstr "Bildförhållande"
+
+#, fuzzy
+#~ msgid "Add a custom color to text in your online shop."
+#~ msgstr "Lägg till en anpassad textfärg i din webbshop."
+
+#, fuzzy
+#~ msgid "Add a custom font for your online shop."
+#~ msgstr "Lägg till ett anpassat typsnitt för din webbshop."
+
+#~ msgid "Add Adventure"
+#~ msgstr "Add Resa"
+
+#, fuzzy
+#~ msgid "Add custom CSS to the shopfront."
+#~ msgstr "Lägg till anpassad CSS till shopens framsida."
+
+#, fuzzy
+#~ msgid ""
+#~ "Add custom CSS to your shop and read the tips to get started. You can "
+#~ "always start over, by emptying the custom CSS field below."
+#~ msgstr ""
+#~ "Lägg till anpassad CSS till din shop och läs tipsen för att komma igång. "
+#~ "Du kan alltid börja om genom att tömma fältet anpassa CSS nedan."
+
+#~ msgid "Add fonts in your website."
+#~ msgstr "Lägg till teckensnitt på din webbplats."
+
+#, fuzzy
+#~ msgid "Add Google Font"
+#~ msgstr "Lägg till Google-font"
+
+#~ msgid "Add Image"
+#~ msgstr "Lägg till bild"
+
+#, fuzzy
+#~ msgid "Add Media"
+#~ msgstr "Lägg till mediefiler"
+
+#, fuzzy
+#~ msgid "Add New"
+#~ msgstr "Lägg till nytt"
+
+#~ msgid "Add New Adventure"
+#~ msgstr "Add New Resa"
+
+#~ msgid "Add New Catalog"
+#~ msgstr "Lägg till nytt"
+
+#~ msgid "Add New Instructor"
+#~ msgstr "Lägg till ny instruktör"
+
+#~ msgid "Add New Recipe Type"
+#~ msgstr "Lägg till ny recepttyp"
+
+#~ msgid "Add New Reviews"
+#~ msgstr "Lägg till nya granskningar"
+
+#~ msgid "Add New Service"
+#~ msgstr "Lägg till ny tjänst"
+
+#~ msgid "Add New Slide"
+#~ msgstr "Lägg till ny bild"
+
+#~ msgid "Add New Spotlight"
+#~ msgstr "Lägg till ny spotlight"
+
+#~ msgid "Add New Testimonial"
+#~ msgstr "Lägg till ny rekommendation"
+
+#~ msgid "Add New Travel"
+#~ msgstr "Lägg till ny resa"
+
+#~ msgid "Add New Tutorials Type"
+#~ msgstr "Lägg till ny handledningstyp"
+
+#~ msgid "Add New User"
+#~ msgstr "Lägg till ny användare"
+
+#~ msgid "Add phone number on your website"
+#~ msgstr "Lägg till telefonnummer på din webbplats"
+
+#~ msgid "Add Reviews"
+#~ msgstr "Lägg till granskningar"
+
+#~ msgid "Add Service"
+#~ msgstr "Lägg till tjänst"
+
+#~ msgid "Add Spotlight"
+#~ msgstr "Lägg till spotlight"
+
+#~ msgid "Add Testimonial"
+#~ msgstr "Add Rekommendation"
+
+#~ msgid "Add Testimonials"
+#~ msgstr "Lägg till rekommendationer"
+
+#~ msgid "Add Travel"
+#~ msgstr "Lägg till resa"
+
+#~ msgid "Add widgets here to appear in your footer."
+#~ msgstr "Lägg till widgets som ska visas i sidfoten."
+
+#~ msgid "Add widgets here to appear in your header."
+#~ msgstr "Lägg till widgetar här för att de ska synas i ditt sidhuvud."
+
+#~ msgid "Add widgets here to appear in your sidebar."
+#~ msgstr "Lägg till widgets som ska visas i sidopanelen."
+
+#, fuzzy
+#~ msgid "Add your online shop to a page"
+#~ msgstr "Lägg till din Webbshop på en sida"
+
+#~ msgid "Address"
+#~ msgstr "Adress"
+
+#~ msgid "Address Line 1"
+#~ msgstr "Adressrad 1"
+
+#~ msgid "Address Line 2"
+#~ msgstr "Adressrad 2"
+
+# You have three ways that you can show the shopping cart on your site.
+#
+# This is the header and description, after which you need to choose an option.
+#
+# ____________________________
+# Reference for developers:
+#
+#~ msgid "Adjust cart position"
+#~ msgstr "Ställ in kundvagnens position och stil"
+
+#~ msgid "Advanced"
+#~ msgstr "Avancerat"
+
+#~ msgid "Adventure"
+#~ msgstr "Resa"
+
+#~ msgid "Adventures"
+#~ msgstr "Resa"
+
+#~ msgid "All Recipe Types"
+#~ msgstr "Alla recepttyper"
+
+#~ msgid "All Reviews"
+#~ msgstr "Alla granskningar"
+
+#~ msgid "All services button link"
+#~ msgstr "Serviceknappen länk"
+
+#~ msgid "All services button text"
+#~ msgstr "Serviceknappen text"
+
+#~ msgid "All Slides"
+#~ msgstr "Alla bilder"
+
+#~ msgid "All Tutorials Types"
+#~ msgstr "Alla handledningstyper"
+
+#~ msgid "All Users"
+#~ msgstr "Alla användare"
+
+# Checkbox option to enable a share link that is visible under each post.
+# __________________________
+#~ msgid "Allow social sharing for posts?"
+#~ msgstr "Lägg till en delningslänk under varje inlägg"
+
+#, fuzzy
+#~ msgid "Alphabetical"
+#~ msgstr "Alfabetet"
+
+#, fuzzy
+#~ msgid "Any question?"
+#~ msgstr "Någon fråga?"
+
+# This option will be available to users instead of "In head of all pages", but only when they don't use a One.com theme. The customer then needs to add a css selector in the box below.
+# ____________________________
+# Reference for developers:
+#
+#~ msgid "Attach cart to css selector"
+#~ msgstr "Fäst kundvagn vid CSS-väljare"
+
+#~ msgid "Author"
+#~ msgstr "Författare"
+
+#~ msgid "Auto"
+#~ msgstr "Auto"
+
+#, fuzzy
+#~ msgid "Background"
+#~ msgstr "Bakgrund"
+
+#, fuzzy
+#~ msgid "Background Attachment"
+#~ msgstr "Fastnålad bakgrund"
+
+#, fuzzy
+#~ msgid "Background Color"
+#~ msgstr "Bakgrundsfärg"
+
+#, fuzzy
+#~ msgid "Background color (dropdown menu)"
+#~ msgstr "Bakgrundsfärg (rullgardinsmeny)"
+
+#, fuzzy
+#~ msgid "Background color (online shop)"
+#~ msgstr "Bakgrundsfärg (webbshop)"
+
+#, fuzzy
+#~ msgid "Background Image"
+#~ msgstr "Bakgrundsbild"
+
+#, fuzzy
+#~ msgid "Background Position"
+#~ msgstr "Bakgrundsposition"
+
+#, fuzzy
+#~ msgid "Background Repeat"
+#~ msgstr "Upprepa bakgrunden"
+
+#~ msgid "Background Section"
+#~ msgstr "Bakgrundssektion"
+
+#~ msgid "Background Section - Text Color"
+#~ msgstr "Bakgrundssektion - textfärg"
+
+#, fuzzy
+#~ msgid "Background Size"
+#~ msgstr "Storlek på bakgrund"
+
+#, fuzzy
+#~ msgid "Banner"
+#~ msgstr "Banner"
+
+#~ msgid "Banner Blurb"
+#~ msgstr "Bannerns reklamtext"
+
+#~ msgid "Banner Buttons"
+#~ msgstr "Bannerknappar"
+
+#~ msgid "Banner Buttons - Border"
+#~ msgstr "Bannerknappar - kantlinje"
+
+#~ msgid "Banner Buttons - Border Radius"
+#~ msgstr "Bannerknappar - radie på kantlinje"
+
+#~ msgid "Banner Buttons - Show Border"
+#~ msgstr "Bannerknappar - visa kantlinje"
+
+#~ msgid "Banner Caption"
+#~ msgstr "Bannerbildtext"
+
+#~ msgid "Banner Caption - Content"
+#~ msgstr "Bannertext - titel"
+
+#~ msgid "Banner Caption - Subtitle"
+#~ msgstr "Bannertext - undertext"
+
+#~ msgid "Banner Caption - Title"
+#~ msgstr "Bannertext - titel"
+
+#~ msgid "Banner Content"
+#~ msgstr "Innehåll i banner"
+
+#~ msgid "Banner Custom Height"
+#~ msgstr "Anpassad höjd för banner"
+
+#~ msgid "Banner Font Style"
+#~ msgstr "Typsnitt för banner"
+
+#~ msgid "Banner Heading Font Style"
+#~ msgstr "Teckenstil för bannerrubrik"
+
+#~ msgid "Banner Height"
+#~ msgstr "Höjd på banner"
+
+#~ msgid "Banner Height (px)"
+#~ msgstr "Bannerhöjd (px)"
+
+#, fuzzy
+#~ msgid "Banner Image"
+#~ msgstr "Bannerbild"
+
+#~ msgid "Banner Right Text"
+#~ msgstr "Banner höger text"
+
+#~ msgid "Banner Right Text Image"
+#~ msgstr "Banner höger textbild"
+
+#~ msgid "Banner Setting"
+#~ msgstr "Bannerinställning"
+
+#~ msgid "Banner Settings"
+#~ msgstr "Bannerinställningar"
+
+#, fuzzy
+#~ msgid "Banner Sub-text"
+#~ msgstr "Bannerns undertiteltext"
+
+#~ msgid "Banner Subtext Font Style"
+#~ msgstr "Teckenstil för undertext i banner"
+
+#~ msgid "Banner Subtitle Text"
+#~ msgstr "Bannerns undertiteltext"
+
+#, fuzzy
+#~ msgid "Banner Text"
+#~ msgstr "Text på bannern"
+
+#~ msgid "Banner Title Text"
+#~ msgstr "Bannerns titeltext"
+
+#~ msgid "Banner Widget"
+#~ msgstr "Bannerwidget"
+
+#, fuzzy
+#~ msgid "Below the banner"
+#~ msgstr "Under bannern"
+
+#~ msgid "Below the banner."
+#~ msgstr "Under bannern."
+
+#, fuzzy
+#~ msgid "Below the full width section"
+#~ msgstr "Under helbildssektionen"
+
+#~ msgid "Big Text Color"
+#~ msgstr "Färg för stor text"
+
+#~ msgid "Blog Listing - Page Layout"
+#~ msgstr "Blogglista - sidlayout"
+
+#~ msgid "Blog Section Title"
+#~ msgstr "Bloggsektionens titel"
+
+#~ msgid "Blog Settings"
+#~ msgstr "Blogginställningar"
+
+#~ msgid "Blog settings"
+#~ msgstr "Blogginställningar"
+
+#~ msgid "Blog Sidebar"
+#~ msgstr "Blogg-sidopanel"
+
+#~ msgid "Blog Template"
+#~ msgstr "Bloggmall"
+
+#~ msgid "Body"
+#~ msgstr "Body"
+
+#, fuzzy
+#~ msgid "Body Background"
+#~ msgstr "Kroppsbakgrund"
+
+# Label to set the colour for the background of the blog.
+#
+# See screenshot for context and the corresponding colour, here the background is mint green.
+# ____________________________________________
+#~ msgid "Body Background color"
+#~ msgstr "Bakgrund"
+
+#, fuzzy
+#~ msgid "Body background with image, color, etc."
+#~ msgstr "Bakgrund i body med bild, färg etc."
+
+#, fuzzy
+#~ msgid "Body Font Style"
+#~ msgstr "Kroppens typsnitt"
+
+#~ msgid "Body Social Icon background Color"
+#~ msgstr "Bakgrundsfärg för kroppens sociala symbol"
+
+#~ msgid "Body Social Icon Color"
+#~ msgstr "Kroppens sociala symbolfärg"
+
+#, fuzzy
+#~ msgid "Body text"
+#~ msgstr "Brödtext"
+
+#~ msgid "Body Text Color"
+#~ msgstr "Textfärg för brödtext"
+
+# The colour of the text in comments
+# __________________________
+#~ msgid "Body text of comments"
+#~ msgstr "Textfärg på kommentarer"
+
+# Label to set the colour of the body text of the blog post.
+#
+# See screenshot for context and the corresponding colour, which is pink.
+# ______________________
+#~ msgid "Body text of posts"
+#~ msgstr "Textfärg på inlägg"
+
+#~ msgid "Booking Page Link"
+#~ msgstr "Länk till bokningssida"
+
+#, fuzzy
+#~ msgid "Border color (dropdown menu)"
+#~ msgstr "Gränsfärg (rullgardinsmeny)"
+
+#, fuzzy
+#~ msgid "Borders"
+#~ msgstr "Gränser"
+
+# If you choose the option to have a floating cart, the cart is visible on all pages. It sort of floats above the page and stays at the same place whether you scroll up and down.
+#
+# Use the slider to determine the vertical position of the cart on your page.
+#
+# ____________________________
+# Reference for developers:
+#
+#~ msgid "Bottom"
+#~ msgstr "Nertill"
+
+#, fuzzy
+#~ msgid "Bottom Content"
+#~ msgstr "Bottens innehåll"
+
+#, fuzzy
+#~ msgid "Bottom left"
+#~ msgstr "Nederst till vänster"
+
+#~ msgid "Bottom Left Section"
+#~ msgstr "Botten vänster sektion"
+
+#~ msgid "Bottom Left Section Content"
+#~ msgstr "Bottensektionens vänstra innehåll"
+
+#~ msgid "Bottom Left Section Title"
+#~ msgstr "Bottensektionens vänstra titel"
+
+#, fuzzy
+#~ msgid "Bottom line (borders)"
+#~ msgstr "Nedre linje (gränser)"
+
+#, fuzzy
+#~ msgid "Bottom right"
+#~ msgstr "Nederst till höger"
+
+#~ msgid "Bottom Right Section"
+#~ msgstr "Botten höger sektion"
+
+#, fuzzy
+#~ msgid "Bottom Section"
+#~ msgstr "Bottensektionen"
+
+#, fuzzy
+#~ msgid "Bottom Section Content"
+#~ msgstr "Bottensektionens innehåll"
+
+#, fuzzy
+#~ msgid "Bottom Section Image"
+#~ msgstr "Bottensektionens bild"
+
+#, fuzzy
+#~ msgid "Bottom Section Subtitle"
+#~ msgstr "Bottensektionens undertitel"
+
+#, fuzzy
+#~ msgid "Bottom Section Title"
+#~ msgstr "Bottensektionens titel"
+
+#, fuzzy
+#~ msgid "Box-1 Image"
+#~ msgstr "Ruta-1 bild"
+
+#, fuzzy
+#~ msgid "Box-1 Text"
+#~ msgstr "Ruta-1 text"
+
+#, fuzzy
+#~ msgid "Box-1 Title"
+#~ msgstr "Ruta-1 titel"
+
+#, fuzzy
+#~ msgid "Box-2 Image"
+#~ msgstr "Ruta-2 bild"
+
+#, fuzzy
+#~ msgid "Box-2 Text"
+#~ msgstr "Ruta-2 text"
+
+#, fuzzy
+#~ msgid "Box-2 Title"
+#~ msgstr "Ruta-2 titel"
+
+#, fuzzy
+#~ msgid "Box-3 Image"
+#~ msgstr "Ruta-3 bild"
+
+#, fuzzy
+#~ msgid "Box-3 Text"
+#~ msgstr "Ruta-3 text"
+
+#, fuzzy
+#~ msgid "Box-3 Title"
+#~ msgstr "Ruta-3 titel"
+
+#~ msgid "Brand description."
+#~ msgstr "Varumärkesbeskrivning."
+
+#, fuzzy
+#~ msgid "Breakfast"
+#~ msgstr "Frukost"
+
+#, fuzzy
+#~ msgid "Breakfast: "
+#~ msgstr "Frukost:"
+
+#~ msgid "Button 1 Link"
+#~ msgstr "Knapplänk"
+
+#~ msgid "Button 1 Title"
+#~ msgstr "Knapptitel"
+
+#~ msgid "Button 2 Link"
+#~ msgstr "Knapplänk"
+
+#, fuzzy
+#~ msgid "Button 2 Title"
+#~ msgstr "Knapptitel"
+
+#~ msgid "Button Background Color"
+#~ msgstr "Knappens bakgrundsfärg"
+
+#, fuzzy
+#~ msgid "Button Color"
+#~ msgstr "Knappfärg"
+
+#~ msgid "Button Label"
+#~ msgstr "Knappetikett"
+
+#~ msgid "Button label"
+#~ msgstr "Knappetikett"
+
+#~ msgid "Button Link"
+#~ msgstr "Knapplänk"
+
+#~ msgid "Button link"
+#~ msgstr "Knapplänk"
+
+#~ msgid "Button Text"
+#~ msgstr "Knapptext"
+
+#~ msgid "Button Title"
+#~ msgstr "Knapptitel"
+
+#~ msgid "Buttons"
+#~ msgstr "Knappar"
+
+#~ msgid "Buttons Font Style"
+#~ msgstr "Teckenstil för knappar"
+
+#~ msgid "Caption Alignment"
+#~ msgstr "Bildtextjustering"
+
+#, fuzzy
+#~ msgid "Car"
+#~ msgstr "Bil"
+
+#, fuzzy
+#~ msgid "Car: "
+#~ msgstr "Bil:"
+
+#, fuzzy
+#~ msgid "Cart & price (focus color)"
+#~ msgstr "Kundvagn och pris (fokusfärg)"
+
+# You can set the color of the cart. If you select the floating cart option, then you should also choose a background color, this is the little tab around the cart.
+#
+# Same for the checkout banner, the background is the blue color in the screenshot, and the cart color here is set to white.
+#
+# ____________________________
+# Reference for developers:
+#
+#~ msgid "Cart color"
+#~ msgstr "Kundvagnens färg"
+
+# Title and button text for the cart feature under Online Shop plugin settings.
+#
+# ____________________________
+# Reference for developers:
+#
+#~ msgid "Cart position and style"
+#~ msgstr "Kundvagnens position och stil"
+
+#~ msgid "Cart saved successfully."
+#~ msgstr "Kundvagnen har sparats."
+
+# You can set the color of the cart. If you select the floating cart option, then you should also choose a background color, this is the little tab around the cart.
+#
+# Same for the checkout banner, the background is the blue color in the screenshot, and the cart color here is set to white.
+#
+# ____________________________
+# Reference for developers:
+#
+#~ msgid "Cart tab background color"
+#~ msgstr "Bakgrundsfärg för kundvagnens flik"
+
+#~ msgid "Catalog Description"
+#~ msgstr "Logotyp & beskrivning"
+
+#~ msgid "Categories"
+#~ msgstr "Kategorier"
+
+#~ msgid "Category"
+#~ msgstr "Kategori"
+
+#~ msgid "Center"
+#~ msgstr "Mitt"
+
+#~ msgid "Change header background color"
+#~ msgstr "Ändra sidhuvudets bakgrundsfärg"
+
+#, fuzzy
+#~ msgid "Change the background color for dropdown menus."
+#~ msgstr "Ändra bakgrundsfärgen på rullgardinsmenyer."
+
+#, fuzzy
+#~ msgid "Change the border color for dropdown menus."
+#~ msgstr "Ändra gränsfärgen för rullgardinsmenyerna."
+
+#, fuzzy
+#~ msgid "Change the color of text for selected dropdown items."
+#~ msgstr "Ändra textfärgen på markerade objekt i rullgardinsmeny."
+
+#, fuzzy
+#~ msgid ""
+#~ "Change the color on text links, selected text and text for input fields."
+#~ msgstr "Ändra färgen på textlänkar, vald text och text för inmatningsfält."
+
+#~ msgid "Change the font for this banner"
+#~ msgstr "Ändra typsnitt för den här bannern"
+
+#~ msgid "Change the font for this internal banner"
+#~ msgstr "Ändra typsnitt för den här interna bannern"
+
+#~ msgid "Change the font style for Header Menu"
+#~ msgstr "Ändra typsnittsstil för menyn i sidhuvudet"
+
+#~ msgid "Change the font style for logo"
+#~ msgstr "Ändra typsnittsstil för logotypen"
+
+#, fuzzy
+#~ msgid "Change the hover color for the items in dropdown menu."
+#~ msgstr "Ändra svävarfärgen för punkterna i rullgardinsmenyn."
+
+#, fuzzy
+#~ msgid "Change the text color for dropdown menus."
+#~ msgstr "Ändra textfärgen på rullgardinsmenyerna."
+
+#, fuzzy
+#~ msgid "Chat with us"
+#~ msgstr "Chatta med oss"
+
+#, fuzzy
+#~ msgid "Choose or Upload an Image"
+#~ msgstr "Väl eller ladda upp en bild"
+
+#~ msgid "Click here to view the post"
+#~ msgstr "Klicka här för att se inlägget"
+
+#~ msgid "Click to Select"
+#~ msgstr "Klicka för att välja"
+
+#, fuzzy
+#~ msgid "close"
+#~ msgstr "stäng"
+
+#~ msgid "Collection Link"
+#~ msgstr "Samlingslänk"
+
+#~ msgid "Color Scheme"
+#~ msgstr "Färgschema"
+
+#~ msgid "Colors"
+#~ msgstr "Färger"
+
+#~ msgid "Comments"
+#~ msgstr "Kommentarer"
+
+#, fuzzy
+#~ msgid "Comments are closed."
+#~ msgstr "Kommentarsfältet är stängt."
+
+#~ msgid "Common Bottom Text"
+#~ msgstr "Gemensam bottentext"
+
+#, fuzzy
+#~ msgid "Contact"
+#~ msgstr "Kontakt"
+
+#~ msgid "Contact Details "
+#~ msgstr "Kontaktuppgifter"
+
+#~ msgid "Contact Details"
+#~ msgstr "Kontaktuppgifter"
+
+#~ msgid "Contact Form"
+#~ msgstr "Kontaktformulär"
+
+#~ msgid "Contact query from website"
+#~ msgstr "Förfrågan från hemsidan"
+
+#, fuzzy
+#~ msgid "Content"
+#~ msgstr "Innehåll"
+
+#~ msgid "Content Buttons"
+#~ msgstr "Innehållsknappar"
+
+#~ msgid "Content Buttons - Border"
+#~ msgstr "Innehållsknappar - kantlinje"
+
+#~ msgid "Content Buttons - Border Radius"
+#~ msgstr "Innehållsknappar - radie på kantlinje"
+
+#~ msgid "Content Buttons - Show Border"
+#~ msgstr "Innehållsknappar - visa kantlinje"
+
+#, fuzzy
+#~ msgid "Continue reading"
+#~ msgstr "Fortsätt läsa"
+
+#, fuzzy
+#~ msgid "Copied to clipboard"
+#~ msgstr "Kopierad till urklipp"
+
+#, fuzzy
+#~ msgid "Copy shortcode"
+#~ msgstr "Kopiera snabbkod"
+
+#, fuzzy
+#~ msgid "Copy this shortcode to the page"
+#~ msgstr "Kopiera denna snabbkod till sidan"
+
+#~ msgid "Copyright Background Color"
+#~ msgstr "Bakgrundsfärg för copyright"
+
+#~ msgid "Copyright Font Style"
+#~ msgstr "Typsnitt för copyright-text"
+
+#, fuzzy
+#~ msgid "Copyright Text"
+#~ msgstr "Copyrighttext"
+
+#~ msgid "Copyright Text Color"
+#~ msgstr "Textfärg för copyright"
+
+#~ msgctxt "costume-crafting"
+#~ msgid "Tutorials Type"
+#~ msgstr "Handledningstyp"
+
+#~ msgctxt "costume-crafting"
+#~ msgid "Tutorials Types"
+#~ msgstr "Handledningstyp"
+
+# These keys are terms that are used to describe elements and settings in a WordPress theme. Try to translate them as generic as possible, so they can be reused.
+#
+# _______________________________________________________________
+#~ msgid "Courses"
+#~ msgstr "Kurser"
+
+#, fuzzy
+#~ msgid "Crop images"
+#~ msgstr "Beskär bilder"
+
+#~ msgid "Custom"
+#~ msgstr "Anpassat"
+
+#~ msgid ""
+#~ "Custom colors selection may override the Primary and Secondary Skin "
+#~ "colors at some places"
+#~ msgstr ""
+#~ "Val av anpassade färger kan upphäva primär och sekundär skalfärg på vissa "
+#~ "ställen"
+
+#~ msgid "Custom CSS"
+#~ msgstr "Anpassad CSS"
+
+#~ msgid "Custom Form"
+#~ msgstr "Anpassat formulär"
+
+#~ msgid "Custom Height"
+#~ msgstr "Anpassad höjd"
+
+#~ msgid "Custom post type for Service"
+#~ msgstr "Anpassa posttyp för tjänst"
+
+#~ msgid "Custom post type for Spotlight"
+#~ msgstr "Anpassa posttyp för spotlight"
+
+#~ msgid "Custom post type for Travel"
+#~ msgstr "Anpassa posttyp för resa"
+
+#~ msgid "Custom Title"
+#~ msgstr "Titel"
+
+#, fuzzy
+#~ msgid "Customize"
+#~ msgstr "Anpassa"
+
+#~ msgid "Customize > Site Identity > Site Icon"
+#~ msgstr "Anpassa > Site Identity > Webbplats Ikon"
+
+#~ msgid "Customize Skin"
+#~ msgstr "Anpassa skal"
+
+#, fuzzy
+#~ msgid "Customize the look of your online shop"
+#~ msgstr "Anpassa utseendet på din webbshop"
+
+#, fuzzy
+#~ msgid "Customize the styling for your shop"
+#~ msgstr "Anpassa utseendet för din shop"
+
+#~ msgid "CV Headline"
+#~ msgstr "CV-rubrik"
+
+#~ msgid "CV Name"
+#~ msgstr "CV-namn"
+
+#~ msgid "CV Summary"
+#~ msgstr "CV-sammanfattning"
+
+# These keys are terms that are used to describe elements and settings in a WordPress theme. Try to translate them as generic as possible, so they can be reused.
+#
+# _______________________________________________________________
+#~ msgid "Date"
+#~ msgstr "Datum"
+
+#~ msgid "Day"
+#~ msgstr "Dag"
+
+# Description displayed on the cart tile under the Online shop plugin settings.
+# ____________________________
+# Reference for developers:
+#
+#~ msgid "Decide how the cart icon is displayed. Place it on all pages or not."
+#~ msgstr "Välj hur och var kundvagnsikonen ska visas på din webbplats. "
+
+#, fuzzy
+#~ msgid "Default buttons (borders)"
+#~ msgstr "Standardknappar (gränser)"
+
+#~ msgid "Default page title will be displayed if this field is blank."
+#~ msgstr "Den vanliga sidtiteln kommer att visas om detta fält lämnas tomt."
+
+#~ msgid "Delete"
+#~ msgstr "Radera"
+
+#, fuzzy
+#~ msgid "Description"
+#~ msgstr "Beskrivning"
+
+#~ msgid "Details"
+#~ msgstr "Kontaktuppgifter"
+
+#~ msgid "Display information with icon."
+#~ msgstr "Visa information med en ikon."
+
+#~ msgid "Display?"
+#~ msgstr "Visa?"
+
+#~ msgid "Displays a call to action banner with image."
+#~ msgstr "Visar CTA-banner med bild."
+
+#~ msgid "Displays an address on your site."
+#~ msgstr "Visar adress på webbplatsen."
+
+#~ msgid "Displays social icons list."
+#~ msgstr "Visar lista med sociala ikoner."
+
+#, fuzzy
+#~ msgid "Dropdown menus"
+#~ msgstr "Rullgardinsmenyer"
+
+#, fuzzy
+#~ msgid "Earlier Travels"
+#~ msgstr "Tidigare resor"
+
+#~ msgid "Edit"
+#~ msgstr "Redigera"
+
+#~ msgid "Edit Adventure"
+#~ msgstr "Edit Resa"
+
+#~ msgid "Edit Footer Widgets"
+#~ msgstr "Redigera widgets i sidfot"
+
+#~ msgid "Edit Instructor"
+#~ msgstr "Redigera instruktör"
+
+#~ msgid "Edit Lesson"
+#~ msgstr "Redigera lektion"
+
+#~ msgid "Edit My Profile"
+#~ msgstr "Redigera min profil"
+
+#~ msgid "Edit Recipe"
+#~ msgstr "Redigera recept"
+
+#~ msgid "Edit Recipe Type"
+#~ msgstr "Redigera recepttyp"
+
+#~ msgid "Edit Reviews"
+#~ msgstr "Redigera granskningar"
+
+#, fuzzy
+#~ msgid "Edit Service"
+#~ msgstr "Redigera tjänst"
+
+#~ msgid "Edit Slide"
+#~ msgstr "Redigera bild"
+
+#~ msgid "Edit Slides"
+#~ msgstr "Redigera bildspel"
+
+#~ msgid "Edit Spotlight"
+#~ msgstr "Redigera spotlight"
+
+#, fuzzy
+#~ msgid "Edit styling"
+#~ msgstr "Redigera utseende"
+
+#~ msgid "Edit Testimonial"
+#~ msgstr "Edit Rekommendation"
+
+#~ msgid "Edit Testimonials"
+#~ msgstr "Redigera rekommendationer"
+
+#~ msgid "Edit Travel"
+#~ msgstr "Redigera resa"
+
+#~ msgid "Edit Tutorial"
+#~ msgstr "Redigera handledning"
+
+#~ msgid "Edit Tutorials Type"
+#~ msgstr "Redigera handledningstyp"
+
+#~ msgid "Email "
+#~ msgstr "E-post"
+
+#, fuzzy
+#~ msgid "Email"
+#~ msgstr "E-post"
+
+#~ msgid "Email Address"
+#~ msgstr "E-postadress"
+
+#~ msgid "Email entered is not valid or empty."
+#~ msgstr "Den angivna e-postadressen är inte giltig eller saknas."
+
+#~ msgid "Email entered is not valid."
+#~ msgstr "E-postadressen är inte giltig."
+
+#~ msgid "Email is too large, please use a valid email."
+#~ msgstr "E-postadressen är för lång, ange en giltig e-postadress."
+
+#~ msgid "Email is too large."
+#~ msgstr "E-postadressen är för lång."
+
+#~ msgid "Email notifications"
+#~ msgstr "Besked via e-mail"
+
+#~ msgid "Email Subject"
+#~ msgstr "Mailets ämnesrad"
+
+#~ msgid "Email:"
+#~ msgstr "E-post:"
+
+#~ msgid "Enter banner height with unit. Example - 560px"
+#~ msgstr "Ange bildens höjd och en enhet, t.ex. 560px"
+
+#~ msgid "Enter multiple towns using comma (,) such as: Town1,Town2,Town3"
+#~ msgstr "Ange flera städer med hjälp av komma (,) såsom: Stad1,Stad2,Stad3"
+
+#~ msgid "Enter one specification per line."
+#~ msgstr "Ange en specifikation per rad."
+
+#~ msgid "Enter product price with unit. Example - $128.00"
+#~ msgstr "Ange produktens pris med valuta, t.ex. $128,00"
+
+#~ msgid "Enter title for full width section."
+#~ msgstr "Ange titel för helbildssektionen."
+
+#~ msgid "Enter Towns"
+#~ msgstr "Ange städer"
+
+#, fuzzy
+#~ msgid "Enter your social profile links here:"
+#~ msgstr "Ange dina länkar för sociala profiler här:"
+
+#~ msgid "Error 404 - Not Found"
+#~ msgstr "Fel 404 - Hittades inte"
+
+#~ msgid "Events Section"
+#~ msgstr "Eventsektion"
+
+#, fuzzy
+#~ msgid "Example:"
+#~ msgstr "Exempel:"
+
+#~ msgid "Excerpt"
+#~ msgstr "Utdrag"
+
+#, fuzzy
+#~ msgid "Facebook"
+#~ msgstr "Facebook"
+
+# These keys are terms that are used to describe elements and settings in a WordPress theme. Try to translate them as generic as possible, so they can be reused.
+#
+# _______________________________________________________________
+#~ msgid "Facilities"
+#~ msgstr "Faciliteter"
+
+#~ msgid "FAQ's"
+#~ msgstr "FAQ:s"
+
+#, fuzzy
+#~ msgid "Favicon"
+#~ msgstr "Favicon"
+
+#, fuzzy
+#~ msgid "Favicon Icon"
+#~ msgstr "Favicon-symbol"
+
+#~ msgid "Featured"
+#~ msgstr "Aktuellt"
+
+#~ msgid "Featured Highlighted Right Text"
+#~ msgstr "Aktuellt som framhävd text till höger"
+
+#~ msgid "Featured Product"
+#~ msgstr "Produkt i fokus"
+
+#~ msgid "Featured Products"
+#~ msgstr "Produkter i fokus"
+
+#~ msgid "Featured Right Text"
+#~ msgstr "Aktuellt i text till höger"
+
+#~ msgid "Features"
+#~ msgstr "Funktioner"
+
+#~ msgid "Features Left Area"
+#~ msgstr "Beskrivningar till vänster"
+
+#~ msgid "Features List"
+#~ msgstr "Funktionslista"
+
+#~ msgid "Features Right Area"
+#~ msgstr "Beskrivningar till höger"
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# In this text we explain what the issue is and why it's a problem that needs to be fixed.
+# ________________________________________
+#
+#
+#~ msgid ""
+#~ "File editing from your WordPress dashboard is allowed, meaning users with "
+#~ "a role that has this right can edit all the core files of your site. "
+#~ "Someone might accidentally break it, or a hacker might get access to a "
+#~ "password."
+#~ msgstr ""
+#~ "Användare med admin-rättigheter kan redigera alla WordPress-filer från "
+#~ "administrationspanelen. Det innebär att någon av misstag kan förstöra din "
+#~ "sida, och om en hackare får tillgång kan de även nå alla kärnfiler."
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# In this text we explain what the issue is and why it's a problem that needs to be fixed.
+# ________________________________________
+#
+#
+#~ msgid ""
+#~ "File execution is allowed in in your uploads folder. This means that an "
+#~ "attacker can upload malware and execute it by simply trying to access it "
+#~ "from their browser."
+#~ msgstr ""
+#~ "Det innebär att en hackare kan ladda upp malware och försöka aktivera det "
+#~ "genom att nå sidan från sin webbläsare."
+
+#, fuzzy
+#~ msgid "Fill color"
+#~ msgstr "Fyllnadsfärg"
+
+#, fuzzy
+#~ msgid ""
+#~ "Fill color is applied to .svg icons in your shop, like the arrow on the "
+#~ "\"Back\" button."
+#~ msgstr ""
+#~ "Fyllnadsfärg används på .svg-symboler i din butik, till exempel pilen på "
+#~ "\"Tillbaka\"-knappen."
+
+#~ msgid "First button link"
+#~ msgstr "Serviceknappen länk"
+
+#~ msgid "First button title"
+#~ msgstr "Knapptitel"
+
+#, fuzzy
+#~ msgid "Flight"
+#~ msgstr "Flyg"
+
+#, fuzzy
+#~ msgid "Flight: "
+#~ msgstr "Flyg:"
+
+# If you choose the option to have a floating cart, the cart is visible on all pages. It sort of floats above the page and stays at the same place whether you scroll up and down.
+#
+# Use the slider to determine the vertical position of the cart on your page.
+#
+# ____________________________
+# Reference for developers:
+#
+#~ msgid "Floating cart on all pages"
+#~ msgstr "Flytande kundvagn på alla sidor"
+
+#, fuzzy
+#~ msgid "Focus color"
+#~ msgstr "Fokusfärg"
+
+#, fuzzy
+#~ msgid "Font"
+#~ msgstr "Typsnitt"
+
+#~ msgid "Font Families"
+#~ msgstr "Teckensnittsfamiljer"
+
+#, fuzzy
+#~ msgid "Font Family"
+#~ msgstr "Typsnitt"
+
+#, fuzzy
+#~ msgid "Font Size"
+#~ msgstr "Teckenstorlek"
+
+#, fuzzy
+#~ msgid "Font Style"
+#~ msgstr "Typsnitt"
+
+#~ msgid "Font Styles"
+#~ msgstr "Teckenstilar"
+
+#, fuzzy
+#~ msgid "Font Weight"
+#~ msgstr "Teckengrovlek"
+
+#, fuzzy
+#~ msgid "Footer"
+#~ msgstr "Sidfot"
+
+#~ msgid "Footer 1"
+#~ msgstr "Sidfot 1"
+
+#~ msgid "Footer 2"
+#~ msgstr "Sidfot 2"
+
+#~ msgid "Footer 3"
+#~ msgstr "Sidfot 3"
+
+#~ msgid "Footer Area 1"
+#~ msgstr "Sidfotsområde 1"
+
+#~ msgid "Footer Area 2"
+#~ msgstr "Sidfotsområde 2"
+
+#~ msgid "Footer Area 3"
+#~ msgstr "Sidfotsområde 3"
+
+#, fuzzy
+#~ msgid "Footer background with image, color, etc."
+#~ msgstr "Sidfotsbakgrund med bild, färg, etc."
+
+#~ msgid "Footer Color"
+#~ msgstr "Färg på sidfot"
+
+#~ msgid "Footer Scripts"
+#~ msgstr "Skript i sidfot"
+
+#~ msgid "Footer Social Icon Color"
+#~ msgstr "Sidfotens sociala symbolfärg"
+
+#~ msgid "For example: Post Author, Published Date, Post Categories"
+#~ msgstr ""
+#~ "Till exempel: inläggsförfattare, publiceringsdatum, inläggskategorier"
+
+#~ msgid "Form Buttons"
+#~ msgstr "Formulärknappar"
+
+#~ msgid "Form Buttons - Border"
+#~ msgstr "Formulärknappar - kantlinje"
+
+#~ msgid "Form Buttons - Border Radius"
+#~ msgstr "Formulärknappar - radie på kantlinje"
+
+#~ msgid "Form Buttons - Show Border"
+#~ msgstr "Formulärknappar - visa kantlinje"
+
+#~ msgid "Form Description"
+#~ msgstr "Kort beskrivning"
+
+#~ msgid "Form Embed Code or Shortcode"
+#~ msgstr "Inbäddningskod eller kortkod för formulär"
+
+#~ msgid "Form Fields Labels"
+#~ msgstr "Text vid formulärfält"
+
+#~ msgid "Form Section"
+#~ msgstr "Formulärsektion"
+
+#~ msgid "Form Title"
+#~ msgstr "Citera formulärtitel"
+
+#~ msgid "Full Viewport"
+#~ msgstr "Helt visningsområde"
+
+#, fuzzy
+#~ msgid "Full width Section Background Image"
+#~ msgstr "Helbildssektionens bakgrundsbild"
+
+#~ msgid "Full Width Section Background Image"
+#~ msgstr "Helbildssektionens bakgrundsbild"
+
+#~ msgid "Full Width Section Description"
+#~ msgstr "Helbildssektionens beskrivning"
+
+#, fuzzy
+#~ msgid "Full Width Section Subtitle"
+#~ msgstr "Helbildssektionens undertitel"
+
+#, fuzzy
+#~ msgid "Full Width Section Text"
+#~ msgstr "Helbildssektionens text"
+
+#, fuzzy
+#~ msgid "Full Width Section Title"
+#~ msgstr "Helbildssektionens titel"
+
+#, fuzzy
+#~ msgid "Gallery"
+#~ msgstr "Galleri"
+
+#, fuzzy
+#~ msgid "General"
+#~ msgstr "Allmänt"
+
+#, fuzzy
+#~ msgid "Generate a shortcode and add it to any page."
+#~ msgstr "Skapa en snabbkod och lägg till den på valfri sida."
+
+#, fuzzy
+#~ msgid "Generate the shortcode"
+#~ msgstr "Skapa snabbkoden"
+
+# Description telling users what to do here. The shortcode should be copied in the page in WordPress.
+#
+# ____________________________
+# Reference for developers:
+#
+#, fuzzy
+#~ msgid ""
+#~ "Generate the shortcode with these settings, and copy it to the page where "
+#~ "you want your webshop to be displayed."
+#~ msgstr ""
+#~ "Justera inställningarna för att generera kortkoden, kopiera sedan koden "
+#~ "på sidan där du vill att din wnätbutik ska visas."
+
+#, fuzzy
+#~ msgid "Get started here"
+#~ msgstr "Kom igång här"
+
+#, fuzzy
+#~ msgid "Get the shortcode"
+#~ msgstr "Hämta snabbkoden"
+
+#, fuzzy
+#~ msgid "Go to Products & Orders"
+#~ msgstr "Gå till Produkter och Beställningar"
+
+#, fuzzy
+#~ msgid "Google Plus"
+#~ msgstr "Google Plus"
+
+#, fuzzy
+#~ msgid "Google+"
+#~ msgstr "Google+"
+
+#, fuzzy
+#~ msgid "Group"
+#~ msgstr "Grupp"
+
+#, fuzzy
+#~ msgid "Group: "
+#~ msgstr "Grupp:"
+
+#, fuzzy
+#~ msgid "Guide"
+#~ msgstr "Guide"
+
+#, fuzzy
+#~ msgid "Guide: "
+#~ msgstr "Guide:"
+
+#, fuzzy
+#~ msgid "H1 Font Style"
+#~ msgstr "H1 teckenstil"
+
+#~ msgid "H1 Text Color"
+#~ msgstr "Textfärg för rubrik 1"
+
+#, fuzzy
+#~ msgid "H2 Font Style"
+#~ msgstr "H2 teckenstil"
+
+#~ msgid "H2 Text Color"
+#~ msgstr "Textfärg för rubrik 2"
+
+#, fuzzy
+#~ msgid "H3 Font Style"
+#~ msgstr "H3 teckenstil"
+
+#~ msgid "H3 Text Color"
+#~ msgstr "Textfärg för rubrik 3"
+
+#, fuzzy
+#~ msgid "H4 Font Style"
+#~ msgstr "H4 teckenstil"
+
+#~ msgid "H4 Text Color"
+#~ msgstr "Textfärg för rubrik 4"
+
+#, fuzzy
+#~ msgid "H5 Font Style"
+#~ msgstr "H5 teckenstil"
+
+#~ msgid "H5 Text Color"
+#~ msgstr "Textfärg för rubrik 5"
+
+#, fuzzy
+#~ msgid "H6 Font Style"
+#~ msgstr "H6 teckenstil"
+
+#~ msgid "H6 Text Color"
+#~ msgstr "Textfärg för rubrik 6"
+
+#~ msgid "has added a new post"
+#~ msgstr "har lagt till ett nytt inlägg"
+
+#~ msgid "Head Scripts"
+#~ msgstr "Skript i sidhuvud"
+
+#, fuzzy
+#~ msgid "Header"
+#~ msgstr "Sidhuvud"
+
+#~ msgid "Header Height"
+#~ msgstr "Höjd på sidhuvud"
+
+#~ msgid "Header Left Text"
+#~ msgstr "Sidhuvudets text till vänster"
+
+#, fuzzy
+#~ msgid "Header Logo"
+#~ msgstr "Sidhuvudets logga"
+
+#~ msgid "Header Menu Font Style"
+#~ msgstr "Teckenstil för sidhuvudmeny"
+
+#~ msgid "Header Right Text"
+#~ msgstr "Sidhuvudets text till höger"
+
+#~ msgid "Header Subtitle"
+#~ msgstr "Sidhuvudets undertitel"
+
+#~ msgid "Header Tagline"
+#~ msgstr "Sidhuvudets slogan"
+
+#~ msgid "Heading"
+#~ msgstr "Rubrik"
+
+#, fuzzy
+#~ msgid "Headings (borders)"
+#~ msgstr "Överskrifter (gränser)"
+
+#~ msgid "Headings Colors"
+#~ msgstr "Rubrikfärger"
+
+#~ msgid ""
+#~ "Hi! This blog is being upgraded to WordPress at the moment. It will be "
+#~ "back online in a few minutes."
+#~ msgstr ""
+#~ "Hej! Denna blogg håller på att uppgraderas till WordPress just nu. Den "
+#~ "kommer att vara tillbaka online om några minuter."
+
+# This message is going to be displayed to customers during the migration of iloblogs to WordPress.
+#~ msgid ""
+#~ "Hi! Your blog is being migrated to WordPress at the moment. \n"
+#~ "A bundle of features and flexibilities is getting ready for you.\n"
+#~ "We'll send you an email when the migration will be finished."
+#~ msgstr ""
+#~ "Hej! Denna blogg håller på att uppgraderas till WordPress just nu. Den "
+#~ "kommer att vara tillbaka online om några minuter."
+
+#~ msgid "Highlighted Text"
+#~ msgstr "Framhävd text"
+
+#, fuzzy
+#~ msgid "Hightlight Box"
+#~ msgstr "Markera ruta"
+
+#, fuzzy
+#~ msgid "Hightlight Content"
+#~ msgstr "Markera innehåll"
+
+# These keys are terms that are used to describe elements and settings in a WordPress theme. Try to translate them as generic as possible, so they can be reused.
+#
+# _______________________________________________________________
+#~ msgid "History"
+#~ msgstr "Historik"
+
+#, fuzzy
+#~ msgid "Home"
+#~ msgstr "Start"
+
+#~ msgid "Homepage Banner"
+#~ msgstr "Banner på hemsida"
+
+#~ msgid "Homepage Banner - Text Color"
+#~ msgstr "Banner för hemsida - textfärg"
+
+#~ msgid "Homepage Content"
+#~ msgstr "Hemsidans innehåll"
+
+#~ msgid "Homepage Icon"
+#~ msgstr "Hemsidans slogan"
+
+#~ msgid "Homepage Slider"
+#~ msgstr "Bildspel för hemsida"
+
+#~ msgid "Homepage Slogan"
+#~ msgstr "Hemsidans slogan"
+
+#~ msgid "Hover Background Color"
+#~ msgstr "Bakgrundsfärg vid svävning"
+
+#, fuzzy
+#~ msgid "Hover color"
+#~ msgstr "Svävarfärg"
+
+#~ msgid "Hover Color"
+#~ msgstr "Svävande färg"
+
+#, fuzzy
+#~ msgid "Hover color (dropdown menu)"
+#~ msgstr "Svävarfärg (rullgardinsmeny)"
+
+#~ msgid "Hover Text Color"
+#~ msgstr "Textfärg vid svävning"
+
+#~ msgid "Icon"
+#~ msgstr "Ikon"
+
+#~ msgid "Icon Alignment"
+#~ msgstr "Ikonens justering"
+
+#, fuzzy
+#~ msgid "Icon Background Color"
+#~ msgstr "Symbolbakgrundens färg"
+
+#~ msgid "Icon Box"
+#~ msgstr "Ikonruta"
+
+#, fuzzy
+#~ msgid "Icon Color"
+#~ msgstr "Symbolfärg"
+
+#~ msgid "Icon Hover Color"
+#~ msgstr "Ikonfärg när muspekaren är ovanpå"
+
+#~ msgid "Icon Size"
+#~ msgstr "Ikonstorlek"
+
+#~ msgid "If colors are not set, skin colors will be applied."
+#~ msgstr "Om inga färger ställs in så visas temats standardfärger."
+
+#~ msgid "If turned On, the native colors of social icons will be used."
+#~ msgstr ""
+#~ "Om aktiverad kommer de sociala ikonernas ursprungliga färger att användas."
+
+#~ msgid "If you prefer not to receive updates by email, please log in to"
+#~ msgstr "Om du inte vill motta uppdateringar via e-post, logga in på"
+
+#, fuzzy
+#~ msgid "Image"
+#~ msgstr "Bild"
+
+#~ msgid "Image borders"
+#~ msgstr "Kantlinje runt bild"
+
+#, fuzzy
+#~ msgid "Image overlay color"
+#~ msgstr "Bildöverläggningsfärg"
+
+#, fuzzy
+#~ msgid "Image style"
+#~ msgstr "Bildstil"
+
+#~ msgid "Import"
+#~ msgstr "Importera"
+
+#, fuzzy
+#~ msgid "Import Demo Data"
+#~ msgstr "Importera demodata"
+
+#~ msgid "Import demo data"
+#~ msgstr "Importera demodata"
+
+#, fuzzy
+#~ msgid "Importing, please wait!"
+#~ msgstr "Importerar, var god vänta!"
+
+# This option places the cart in the header on all your pages, usually to the right of your menu. This option is only available when you are using a One.com theme. If you use another theme you get the option "Attach cart to CSS selector" instead.
+#
+# ____________________________
+# Reference for developers:
+#
+#~ msgid "In head on all pages"
+#~ msgstr "I rubriken på alla sidor"
+
+# This option places the cart in the header on all your pages, usually to the right of your menu. This option is only available when you are using a One.com theme. If you use another theme you get the option "Attach cart to CSS selector" instead.
+#
+# ____________________________
+# Reference for developers:
+#
+#, fuzzy
+#~ msgid "In header on all pages"
+#~ msgstr "I rubriken på alla sidor"
+
+#~ msgid "Information Blocks"
+#~ msgstr "Informationsblock"
+
+#, fuzzy
+#~ msgid "Insert email addresses separated by comma"
+#~ msgstr "Skriv in e-postadresser separerade med komma"
+
+# Selecting this option only shows the cart icon inside the webshop widget, and not on any other places. It is the default setting for the cart.
+#
+# ____________________________
+# Reference for developers:
+#
+#~ msgid "Inside Webshop widget"
+#~ msgstr "Bara i butikswidgeten"
+
+#~ msgid "Instagram"
+#~ msgstr "Instagram"
+
+#~ msgid "Instructor"
+#~ msgstr "Instruktör"
+
+#~ msgid "Instructor Description"
+#~ msgstr "Beskrivning av instruktör"
+
+#~ msgid "Instructors"
+#~ msgstr "Instruktör"
+
+# These keys are terms that are used to describe elements and settings in a WordPress theme. Try to translate them as generic as possible, so they can be reused.
+#
+# _______________________________________________________________
+#~ msgid "Internal Banner - Background"
+#~ msgstr "Intern banner – bakgrund"
+
+#~ msgid "Internal Banner - Text Color"
+#~ msgstr "Intern banner - textfärg"
+
+#~ msgid "Internal Banner Font Style"
+#~ msgstr "Teckensnittstil för intern banner"
+
+#~ msgid "Internal Banner Height"
+#~ msgstr "Höjd för intern banner"
+
+#~ msgid "Internal Banners"
+#~ msgstr "Interna banners"
+
+# This is an error message that becomes visible if someone cannot do their math. You are welcome to change it a bit to make it shorter, for example, "That is not correct, try again".
+# ____________________________
+#~| msgid "Something went wrong; please try again."
+#~ msgid "Invalid answer, please try again."
+#~ msgstr "Svaret är tyvärr fel. Försök igen."
+
+#, fuzzy
+#~ msgid ""
+#~ "It can take a couple of minutes for the import to finish, so please click "
+#~ "the Import button only once."
+#~ msgstr ""
+#~ "Det kan ta några minuter innan importen är klar, så det räcker med att "
+#~ "klicka på Importera-knappen en gång."
+
+# These keys are terms that are used to describe elements and settings in a WordPress theme. Try to translate them as generic as possible, so they can be reused.
+#
+# _______________________________________________________________
+#~ msgid ""
+#~ "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+#~ "searching can help."
+#~ msgstr ""
+#~ "Vi verkar inte kunna hitta vad du letar efter. Det kanske kan hjälpa att "
+#~ "leta."
+
+#~ msgid "It will display on every pages, services etc."
+#~ msgstr "Den kommer att visas på alla sidor, tjänster, etc."
+
+#~ msgid "Items"
+#~ msgstr "Objekt"
+
+#, fuzzy
+#~ msgid "Label"
+#~ msgstr "Rubrik"
+
+#~ msgctxt "label"
+#~ msgid "Search for:"
+#~ msgstr "Sök: %s"
+
+#, fuzzy
+#~ msgid "Landscape"
+#~ msgstr "Liggande"
+
+#~ msgid "Layout"
+#~ msgstr "Layout"
+
+#, fuzzy
+#~ msgid ""
+#~ "Learn more about the online shop from the guides and FAQs on our website."
+#~ msgstr ""
+#~ "Lär dig mer om webbshopen genom guiderna och vanliga frågor på vår "
+#~ "webbplats."
+
+#, fuzzy
+#~ msgid "Leave a Comment"
+#~ msgstr "Lämna en kommentar"
+
+#~ msgid "Left"
+#~ msgstr "Vänster"
+
+#, fuzzy
+#~ msgid "Left Section Image"
+#~ msgstr "Vänster sektions bild"
+
+#, fuzzy
+#~ msgid "Left Section Text"
+#~ msgstr "Vänster sektions text"
+
+#, fuzzy
+#~ msgid "Left Section Title"
+#~ msgstr "Vänster sektions titel"
+
+#~ msgid "Left Sidebar"
+#~ msgstr "Vänster sidofält"
+
+#~ msgid "Lesson"
+#~ msgstr "Lektion"
+
+#~ msgid "Lesson Description"
+#~ msgstr "Lektionsbeskrivning"
+
+#, fuzzy
+#~ msgid "Line Height"
+#~ msgstr "Linjehöjd"
+
+#~ msgid "Link"
+#~ msgstr "Länk"
+
+#, fuzzy
+#~ msgid "Link Color"
+#~ msgstr "Länkfärg"
+
+#, fuzzy
+#~ msgid "Link Hover Color"
+#~ msgstr "Länkens svävarfärg"
+
+#~ msgid "Link Text"
+#~ msgstr "Länktext"
+
+#~ msgid "Linkedin"
+#~ msgstr "Linkedin"
+
+# Label to set the colour for all links.
+#
+# See screenshot for context and the corresponding colours.
+# ____________________________
+#~ msgid "Links"
+#~ msgstr "Länkar"
+
+#~ msgid "Links Color"
+#~ msgstr "Länkfärg"
+
+#~ msgid "Log in"
+#~ msgstr "Logga in"
+
+#~ msgid "Log Out"
+#~ msgstr "Logga ut"
+
+#, fuzzy
+#~ msgid "Logo"
+#~ msgstr "Logga"
+
+#~ msgid "Logo & Description"
+#~ msgstr "Logotyp & beskrivning"
+
+#~ msgid "Logo Font Style"
+#~ msgstr "Teckenstil för logga"
+
+#, fuzzy
+#~ msgid "Logo Height"
+#~ msgstr "Linjehöjd"
+
+# These keys are terms that are used to describe elements and settings in a WordPress theme. Try to translate them as generic as possible, so they can be reused.
+#
+# _______________________________________________________________
+#~ msgid "Logo Text"
+#~ msgstr "Logotext"
+
+#~ msgid "Logo Text Color"
+#~ msgstr "Textfärg för logga"
+
+#, fuzzy
+#~ msgid "Mainmenu Navigation"
+#~ msgstr "Huvudmenyns navigering"
+
+#~ msgid "Manage Footer Widgets"
+#~ msgstr "Hantera widgets i sidfot"
+
+#~ msgid "Manage Header Menu"
+#~ msgstr "Hantera sidhuvudmeny"
+
+#~ msgid "Manage Logo Text"
+#~ msgstr "Hantera logotyptext"
+
+#~ msgid "Manage Site Title"
+#~ msgstr "Hantera webbplatstitel"
+
+#~ msgid "Manage Slider"
+#~ msgstr "Hantera bildspel"
+
+#~ msgid "Manage Social Icons"
+#~ msgstr "Hantera sociala ikoner"
+
+#~ msgid "Map Embed Code"
+#~ msgstr "Inbäddningskod för karta"
+
+#~ msgid "Map Section"
+#~ msgstr "Kartsektion"
+
+#, fuzzy
+#~ msgid "Menu"
+#~ msgstr "Meny"
+
+#~ msgid "Menu Background Color"
+#~ msgstr "Bakgrundsfärg för meny"
+
+#~ msgid "Menu Font Style"
+#~ msgstr "Menyns typsnitt"
+
+#~ msgid "Menu Item Background Color"
+#~ msgstr "Bakgrundsfärg för menyalternativ"
+
+#~ msgid "Menu Item Color"
+#~ msgstr "Färg på menyalternativ"
+
+#~ msgid "Message "
+#~ msgstr "Meddelande"
+
+#~ msgid "Message"
+#~ msgstr "Meddelande"
+
+#~ msgid "Message is too large, please shorten it."
+#~ msgstr "Meddelandet är för långt, förkorta det."
+
+#~ msgid "Message text is empty or too short."
+#~ msgstr "Meddelandetexten innehåller inget eller för kort."
+
+# If you choose the option to have a floating cart, the cart is visible on all pages. It sort of floats above the page and stays at the same place whether you scroll up and down.
+#
+# Use the slider to determine the vertical position of the cart on your page.
+#
+# ____________________________
+# Reference for developers:
+#
+#~ msgid "Middle"
+#~ msgstr "Mitt på"
+
+#~ msgid "Middle Bottom Section Content"
+#~ msgstr "Mittsektionens nedre innehåll"
+
+#~ msgid "Middle Bottom Section Title"
+#~ msgstr "Mittsektionens nedre titel"
+
+#~ msgid "Middle Left Section Content"
+#~ msgstr "Mittsektionens vänstra innehåll"
+
+#~ msgid "Middle Left Section Title"
+#~ msgstr "Mittsektionens vänstra titel"
+
+#~ msgid "Middle Right Section Content"
+#~ msgstr "Mittsektionens högra innehåll"
+
+#~ msgid "Middle Right Section Image"
+#~ msgstr "Mittsektionens högra bild"
+
+#~ msgid "Middle Right Section Title"
+#~ msgstr "Mittsektionens högra titel"
+
+#~ msgid "Middle Section Content"
+#~ msgstr "Mittsektionens innehåll"
+
+#, fuzzy
+#~ msgid "Middle Section-1 Content Image"
+#~ msgstr "Mittsektion-1 innehållsbild"
+
+#, fuzzy
+#~ msgid "Middle Section-1 Link"
+#~ msgstr "Mittsektion-1 länk"
+
+#, fuzzy
+#~ msgid "Middle Section-1 Title"
+#~ msgstr "Mittsektion-1 titel"
+
+#, fuzzy
+#~ msgid "Middle Section-2 Left Content"
+#~ msgstr "Mittsektion-2 vänster innehåll"
+
+#, fuzzy
+#~ msgid "Middle Section-2 Right content"
+#~ msgstr "Mittsektion-2 höger innehåll"
+
+#, fuzzy
+#~ msgid "Middle Section-2 Title"
+#~ msgstr "Mittsektion-2 titel"
+
+#~ msgid "Missing Attachment"
+#~ msgstr "Bilaga saknas"
+
+#~ msgid "Month"
+#~ msgstr "Månad"
+
+#, fuzzy
+#~ msgid "Most popular"
+#~ msgstr "Populära"
+
+#~ msgid "Name "
+#~ msgstr "Namn"
+
+#, fuzzy
+#~ msgid "Name"
+#~ msgstr "Namn"
+
+#~ msgid "Name is empty or too short."
+#~ msgstr "Namnet är tomt eller för kort."
+
+#~ msgid "Name is too large."
+#~ msgstr "Namnet är för stort."
+
+#~ msgid "New Adventure"
+#~ msgstr "New Resa"
+
+#~ msgid "New Collections"
+#~ msgstr "Nya samlingar"
+
+#~ msgid "New Item"
+#~ msgstr "Nytt tillägg"
+
+#~ msgid "New Lesson"
+#~ msgstr "Ny lektion"
+
+#~ msgid "New Recipe"
+#~ msgstr "Nytt recept"
+
+#~ msgid "New Recipe Type"
+#~ msgstr "Ny recepttyp"
+
+#, fuzzy
+#~ msgid "New Service"
+#~ msgstr "Ny tjänst"
+
+#~ msgid "New Slide"
+#~ msgstr "Ny bild"
+
+#~ msgid "New Spotlight"
+#~ msgstr "Ny spotlight"
+
+#~ msgid "New Testimonial"
+#~ msgstr "Ny rekommendation"
+
+#~ msgid "New Travel"
+#~ msgstr "Ny resa"
+
+#~ msgid "New Tutorial"
+#~ msgstr "Ny handledning"
+
+#~ msgid "New Tutorials Type"
+#~ msgstr "Ny handledningstyp"
+
+#, fuzzy
+#~ msgid "Newest"
+#~ msgstr "Senaste"
+
+#~ msgid "Newsletter"
+#~ msgstr "Nyhetsbrev"
+
+#~ msgid "Newsletter Settings"
+#~ msgstr "Inställningar för nyhetsbrev"
+
+#, fuzzy
+#~ msgid "Next"
+#~ msgstr "Nästa"
+
+#~ msgid "No entries found!"
+#~ msgstr "Inga poster hittades!"
+
+#, fuzzy
+#~ msgid ""
+#~ "No existing data will be deleted or modified, this includes posts, pages, "
+#~ "categories, images, custom post types or any other data."
+#~ msgstr ""
+#~ "Inga befintliga data raderas eller ändras, vilket inkluderar inlägg, "
+#~ "sidor, kategorier, bilder, anpassade inläggstyper eller andra data."
+
+#~ msgid "No posts found. Try a different search!"
+#~ msgstr "Inga poster hittade. Försök med en annan sökning!"
+
+#~ msgid "No Sidebar"
+#~ msgstr "Inget sidofält"
+
+#~ msgid "No Slides found"
+#~ msgstr "Inga bildsper hittades"
+
+#~ msgid "No Slides found in the Trash"
+#~ msgstr "Inga bilder hittades i papperskorgen"
+
+#, fuzzy
+#~ msgid "No Tags Found"
+#~ msgstr "Textutsmyckning"
+
+#~ msgid "Not Found"
+#~ msgstr "Hittades inte"
+
+#, fuzzy
+#~ msgid "Note:"
+#~ msgstr "Obs:"
+
+#~ msgid "Note: You can override this setting on a specific page."
+#~ msgstr "Obs: Denna inställning kan åsidosättas för specifika sidor."
+
+#~ msgid "Note: You can override this setting on a specific post."
+#~ msgstr "Obs: Denna inställning kan åsidosättas för specifika inlägg."
+
+#, fuzzy
+#~ msgid "Nothing found"
+#~ msgstr "Inget hittades"
+
+#, fuzzy
+#~ msgid "Nothing found in Trash"
+#~ msgstr "Inget hittades i papperskorgen"
+
+#, fuzzy
+#~ msgid "Notice Section Content"
+#~ msgstr "Notissektionens innehåll"
+
+#, fuzzy
+#~ msgid "Offset Left"
+#~ msgstr "Förskjuten mot vänster"
+
+#, fuzzy
+#~ msgid "Offset Top"
+#~ msgstr "Förskjuten mot överkant"
+
+#~ msgid "One column with left sidebar"
+#~ msgstr "En kolumn med sidofält till vänster"
+
+#~ msgid "One column with right sidebar"
+#~ msgstr "En kolumn med sidofält till höger"
+
+#~ msgid "One column without sidebar"
+#~ msgstr "En kolumn utan sidofält"
+
+#
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# In this text we explain what the issue is and why it's a problem that needs to be fixed.
+# ________________________________________
+#~ msgid ""
+#~ "One or more of your installed themes are outdated. Using outdated themes "
+#~ "can break your site and generate potential security risks."
+#~ msgstr ""
+#~ "Ett eller flera av dina installerade teman är utdaterade. Att använda "
+#~ "utdaterade teman kan förstöra din hemsida och utgöra en potentiell "
+#~ "säkerhetsrisk."
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# In this text we explain what the issue is and why it's a problem that needs to be fixed.
+# ________________________________________
+#
+#~ msgid ""
+#~ "One or more of your plugins are outdated. Outdated plugins make your site "
+#~ "vulnerable to security attacks."
+#~ msgstr ""
+#~ "Ett eller flera av dina tillägg är utdaterade. Utdaterade tillägg är ett "
+#~ "populärt mål för hackare och utgör en allvarlig säkerhetsrisk."
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# In this text we explain what the issue is and why it's a problem that needs to be fixed.
+# ________________________________________
+#
+#~ msgid ""
+#~ "One or more of your plugins is on the list of plugins we advise against "
+#~ "using. Plugins on this list have a negative effect on the performance of "
+#~ "your site, or pose a security risk."
+#~ msgstr ""
+#~ "Ett eller flera av dina tillägg finns på listan över tillägg vi avråder "
+#~ "från. Tillägg på den här listan påverkar din hemsidas prestanda negativt "
+#~ "eller utgör en säkerhetsrisk."
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# In this text we explain what the issue is and why it's a problem that needs to be fixed.
+# ________________________________________
+#
+#~ msgid ""
+#~ "One or more of your usernames is very common, like for example “admin”. "
+#~ "These usernames are easy to guess and could be exploited by hackers."
+#~ msgstr ""
+#~ "Vanliga användarnamn, som till exempel \"admin\", är enkla att gissa och "
+#~ "kan utnyttjas av hackare. De använder botar som testar miljontals olika "
+#~ "lösenord för att försöka ta sig in. Att ha ett personligt användarnamn "
+#~ "gör det mycket svårare för dem att lyckas."
+
+#~ msgid "One Reply to &ldquo;%s&rdquo;"
+#~ msgstr "Ett svar till &ldquo;%s&rdquo;"
+
+#, fuzzy
+#~ msgid "Online shop Settings"
+#~ msgstr "Webbshopinställningar"
+
+#~ msgid "Open in new window?"
+#~ msgstr "Öppna i nytt fönster?"
+
+#, fuzzy
+#~ msgid ""
+#~ "OptionTree is installed as a plugin and also embedded in your current "
+#~ "theme. Please deactivate the plugin to load the theme dependent version "
+#~ "of OptionTree, and remove this warning."
+#~ msgstr ""
+#~ "OptionTree är installerat som plugin och även inbäddat i ditt aktuella "
+#~ "tema. Avaktivera pluginen för att ladda upp den temaberoende versionen av "
+#~ "OptionTree och ta bort den här varningen."
+
+#, fuzzy
+#~ msgid "Order details (borders)"
+#~ msgstr "Orderinformation (gränser)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Otherwise you might end up mixing the demo data with the existing content "
+#~ "on your website."
+#~ msgstr ""
+#~ "Annars riskerar du att demodata blandas ihop med det existerande "
+#~ "innehållet på din sida."
+
+#, fuzzy
+#~ msgid "Our chat support is open 24/7"
+#~ msgstr "Vår support är öppen dygnet runt/året om"
+
+#~ msgid "Page content"
+#~ msgstr "Sidans innehåll"
+
+#~ msgid "Page Content"
+#~ msgstr "Sidans innehåll"
+
+#~ msgid "Page Description"
+#~ msgstr "Sidans innehåll"
+
+#~ msgid "Page Header"
+#~ msgstr "Sidhuvud"
+
+#, fuzzy
+#~ msgid "Page Not Found"
+#~ msgstr "Sidan hittades inte"
+
+#~ msgid "Page Section"
+#~ msgstr "Sidsektion"
+
+#~ msgid "Page Sections"
+#~ msgstr "Sidsektion"
+
+#, fuzzy
+#~ msgid "Page Settings"
+#~ msgstr "Sidinställningar"
+
+#, fuzzy
+#~ msgid "Page Sub Title"
+#~ msgstr "Sidans undertitel"
+
+#~ msgid "Page Subtitle"
+#~ msgstr "Underubrik för sida"
+
+#~ msgid "Page Title"
+#~ msgstr "Sidtitel"
+
+#~ msgid "Pages > Home > Banner"
+#~ msgstr "Sidor > Hem > Banner"
+
+#, fuzzy
+#~ msgid "Pages:"
+#~ msgstr "Sidor:"
+
+#~ msgid "Parent Recipe Type"
+#~ msgstr "Överordnad receptyp"
+
+#~ msgid "Parent Recipe Type:"
+#~ msgstr "Överordnad receptyp:"
+
+#~ msgid "Parent Tutorials Type"
+#~ msgstr "Moderhandledningstyp"
+
+#~ msgid "Parent Tutorials Type:"
+#~ msgstr "Moderhandledningstyp:"
+
+#~ msgid "Personal Website"
+#~ msgstr "Personlig webbplats"
+
+#, fuzzy
+#~ msgid "Phone"
+#~ msgstr "Telefon"
+
+#~ msgid "Phone "
+#~ msgstr "Telefon"
+
+#~ msgid "Phone is empty or too short."
+#~ msgstr "Namnet är tomt eller för kort."
+
+#~ msgid "Phone:"
+#~ msgstr "Telefon:"
+
+#~ msgid "Please add / edit"
+#~ msgstr "Lägg till/redigera"
+
+#~ msgid ""
+#~ "Please copy and paste the Embed Code or Shortcode of the custom form (if "
+#~ "any). This will replace the default form."
+#~ msgstr ""
+#~ "Kopiera och klistra in inbäddningskoden eller kortkoden i det anpassade "
+#~ "formuläret (om det finns något). Detta ersätter standardformuläret."
+
+#, fuzzy
+#~ msgid "Please enter a number between 2 and 100."
+#~ msgstr "Ange att antal mellan 2 och 100."
+
+#~ msgid "Please enter your email."
+#~ msgstr "Ange din e-postadress."
+
+#, fuzzy
+#~| msgid "Please select the therapies to be diplayed."
+#~ msgid "Please select services to be diplayed."
+#~ msgstr "Välj vilka kurser som ska visas."
+
+#~ msgid "Please select the courses to be diplayed."
+#~ msgstr "Välj vilka kurser som ska visas."
+
+# These keys are terms that are used to describe elements and settings in a WordPress theme. Try to translate them as generic as possible, so they can be reused.
+#
+# _______________________________________________________________
+#~ msgid "Please select the items to be displayed."
+#~ msgstr "Välj vad som ska visas."
+
+#~ msgid "Please select the services to be diplayed."
+#~ msgstr "Välj vilka kurser som ska visas."
+
+#, fuzzy
+#~| msgid "Please select the therapies to be diplayed."
+#~ msgid "Please select the services to be displayed."
+#~ msgstr "Välj vilka kurser som ska visas."
+
+#~ msgid "Please select the therapies to be diplayed."
+#~ msgstr "Välj vilka kurser som ska visas."
+
+#, fuzzy
+#~ msgid "Please upload Image."
+#~ msgstr "Ladda upp bild."
+
+#, fuzzy
+#~ msgid "Please upload the image ."
+#~ msgstr "Ladda upp bilden."
+
+#, fuzzy
+#~ msgid "Please upload the image."
+#~ msgstr "Ladda upp bilden."
+
+#~ msgid "Please wait..."
+#~ msgstr "Vänta ..."
+
+#, fuzzy
+#~ msgid "Portrait"
+#~ msgstr "Stående"
+
+#~ msgctxt "Post Type General Name"
+#~ msgid "Instructors"
+#~ msgstr "Instruktör"
+
+#~ msgctxt "Post Type General Name"
+#~ msgid "Lessons"
+#~ msgstr "Lektion"
+
+#~ msgctxt "Post Type General Name"
+#~ msgid "Recipes"
+#~ msgstr "Recept"
+
+#~ msgctxt "Post Type General Name"
+#~ msgid "Tutorials"
+#~ msgstr "Handledning"
+
+#~ msgctxt "Post Type Singular Name"
+#~ msgid "Instructor"
+#~ msgstr "Instruktör"
+
+#~ msgctxt "Post Type Singular Name"
+#~ msgid "Lesson"
+#~ msgstr "Lektion"
+
+#~ msgctxt "Post Type Singular Name"
+#~ msgid "Recipe"
+#~ msgstr "Recept"
+
+#~ msgctxt "Post Type Singular Name"
+#~ msgid "Tutorial"
+#~ msgstr "Handledning"
+
+#~ msgid "Posted by %s"
+#~ msgstr "Postad av %s"
+
+#~ msgid "Posted in"
+#~ msgstr "Postat i"
+
+#, fuzzy
+#~ msgid ""
+#~ "Posts, pages, images, widgets, menus and other theme settings will get "
+#~ "imported."
+#~ msgstr ""
+#~ "Inlägg, sidor, bilder, widgets, menyer och andra temainställningar kommer "
+#~ "att importeras."
+
+#, fuzzy
+#~ msgid "Previous"
+#~ msgstr "Föregående"
+
+#, fuzzy
+#~ msgid "Price"
+#~ msgstr "Pris"
+
+#~ msgid "Price Blocks"
+#~ msgstr "Prisrutor"
+
+#, fuzzy
+#~ msgid "Price: "
+#~ msgstr "Pris:"
+
+#, fuzzy
+#~ msgid "Price: High to low"
+#~ msgstr "Pris: Högt till lägre"
+
+#, fuzzy
+#~ msgid "Price: Low to high"
+#~ msgstr "Pris: Lågt till högre"
+
+#~ msgid "Primary"
+#~ msgstr "Primär"
+
+# These keys are terms that are used to describe elements and settings in a WordPress theme. Try to translate them as generic as possible, so they can be reused.
+#
+# _______________________________________________________________
+#~ msgid "Primary Buttons"
+#~ msgstr "Primära knappar"
+
+#~ msgid "Primary Navigation"
+#~ msgstr "Primär navigation"
+
+#~ msgid "Primary Sidebar"
+#~ msgstr "Primär sidopanel"
+
+# Settings section where you can make the blog private, so that users need to log in before they can see it.
+# __________________________
+#~ msgid "Private blog"
+#~ msgstr "Privat blogg"
+
+#, fuzzy
+#~ msgid "Pro tip"
+#~ msgstr "Bra tips"
+
+#, fuzzy
+#~ msgid "Products per page"
+#~ msgstr "Produkter per sida"
+
+#, fuzzy
+#~ msgid "Products per row"
+#~ msgstr "Produkter per rad"
+
+#~ msgid "Profile Image"
+#~ msgstr "Profilbild"
+
+#, fuzzy
+#~ msgid "Promotion label position"
+#~ msgstr "Placering för kampanjetikett"
+
+#~ msgid ""
+#~ "Provide email accounts where you want to receive emails from this form."
+#~ msgstr "Ange de e-postkonton som ska ta emot mejl från det här formuläret."
+
+#, fuzzy
+#~ msgid ""
+#~ "Provide email ids on which you want to receive email from contact form. "
+#~ "Example: info@one.com, contact@gmail.com"
+#~ msgstr ""
+#~ "Ange e-post-ID för vilka du vill ta emot e-post från kontaktformuläret. "
+#~ "Exempel: info@one.com, kontakt@gmail.com"
+
+#, fuzzy
+#~ msgid "Published on: "
+#~ msgstr "Publicerad den:"
+
+#~ msgid "Quote Form Description"
+#~ msgstr "Citera formulärbeskrivning"
+
+#~ msgid "Quote Form Title"
+#~ msgstr "Citera formulärtitel"
+
+# These keys are terms that are used to describe elements and settings in a WordPress theme. Try to translate them as generic as possible, so they can be reused.
+#
+# _______________________________________________________________
+#~ msgid "Radius"
+#~ msgstr "Radie"
+
+#~ msgid "Read More"
+#~ msgstr "Läs mer"
+
+#~ msgid "Read more button text"
+#~ msgstr "Serviceknappen text"
+
+#, fuzzy
+#~ msgid "Ready to publish your first post?"
+#~ msgstr "Klar att publicera din första post?"
+
+#~ msgid "Recent Posts"
+#~ msgstr "Nya inlägg"
+
+#~ msgid "Recently Published"
+#~ msgstr "Senast publicerade"
+
+#~ msgid "Recipe"
+#~ msgstr "Recept"
+
+#~ msgid "Recipe Description"
+#~ msgstr "Receptbeskrivning"
+
+#~ msgid "Recipe Type"
+#~ msgstr "Recepttyp"
+
+#, fuzzy
+#~ msgid "Recipients"
+#~ msgstr "Mottagare"
+
+#, fuzzy
+#~ msgid "Redo"
+#~ msgstr "Upprepa"
+
+#, fuzzy
+#~ msgid "Redo last undone action"
+#~ msgstr "Upprepa den senast ångrade åtgärden"
+
+#~ msgid "Remove Image"
+#~ msgstr "Ta bort bild"
+
+#, fuzzy
+#~ msgid "Reply"
+#~ msgstr "Svara"
+
+# Option with checkbox where you can make the blog private, so that users need to log in before they can see it.
+# __________________________
+#~ msgid "Require login credentials to view blog?"
+#~ msgstr "Kräv att besökarna loggar in för att kunna se bloggen"
+
+#~ msgid "Required"
+#~ msgstr "Krävs"
+
+#, fuzzy
+#~ msgid "Reset Options"
+#~ msgstr "Återställ alternativ"
+
+#~ msgid "Reviews"
+#~ msgstr "Granskningar"
+
+#~ msgid "Right"
+#~ msgstr "Höger"
+
+#, fuzzy
+#~ msgid "Right Main Content"
+#~ msgstr "Höger huvudinnehåll"
+
+#~ msgid "Right Sidebar"
+#~ msgstr "Höger sidofält"
+
+#, fuzzy
+#~ msgid "Save & Publish"
+#~ msgstr "Spara och publicera"
+
+#, fuzzy
+#~ msgid "Save Changes"
+#~ msgstr "Spara ändringar"
+
+#, fuzzy
+#~ msgid "Saved & Published"
+#~ msgstr "Sparad och publicerad"
+
+# These keys are terms that are used to describe elements and settings in a WordPress theme. Try to translate them as generic as possible, so they can be reused.
+#
+# _______________________________________________________________
+#~ msgid "Schedule"
+#~ msgstr "Schema"
+
+#~ msgid "Scripts to be inserted after footer."
+#~ msgstr "Skript som ska infogas efgter sidfoten."
+
+#~ msgid "Scripts to be inserted in \"head\" tag."
+#~ msgstr "Skript som ska infogas i taggen \"head\"."
+
+#~ msgid "Search"
+#~ msgstr "Sök"
+
+#~ msgid "Search Adventures"
+#~ msgstr "Search Resa"
+
+#~ msgid "Search for:"
+#~ msgstr "Sök efter:"
+
+#~ msgid "Search Recipe Types"
+#~ msgstr "Sök recepttyper"
+
+#, fuzzy
+#~ msgid "Search Results"
+#~ msgstr "Sökresultat"
+
+#~ msgid "Search Service"
+#~ msgstr "Sök tjänst"
+
+#~ msgid "Search Slides"
+#~ msgstr "Sök bilder"
+
+#~ msgid "Search Spotlight"
+#~ msgstr "Sök spotlight"
+
+#~ msgid "Search Testimonial"
+#~ msgstr "Search Rekommendation"
+
+#~ msgid "Search Testimonials"
+#~ msgstr "Sök rekommendationer"
+
+#~ msgid "Search Travel"
+#~ msgstr "Sök resa"
+
+#~ msgid "Search Tutorials Types"
+#~ msgstr "Sök handledningstyp"
+
+#~ msgid "Search: %s"
+#~ msgstr "Sök: %s"
+
+#, fuzzy
+#~ msgid "Secondary"
+#~ msgstr "Sekundär typsnittsfamilj"
+
+# These keys are terms that are used to describe elements and settings in a WordPress theme. Try to translate them as generic as possible, so they can be reused.
+#
+# _______________________________________________________________
+#~ msgid "Secondary Buttons"
+#~ msgstr "Sekundära knappar"
+
+#~ msgid "Secondary Font Family"
+#~ msgstr "Sekundär typsnittsfamilj"
+
+#~ msgid "Section"
+#~ msgstr "Sektion"
+
+#~ msgid "Section Background"
+#~ msgstr "Sektionsbakgrund"
+
+#~ msgid "Section Content"
+#~ msgstr "Sektionsinnehåll"
+
+#~ msgid "Section Image"
+#~ msgstr "Vänster sektions bild"
+
+#~ msgid "Section Sub Title"
+#~ msgstr "Sektionstitel"
+
+#~ msgid "Section Title"
+#~ msgstr "Sektionstitel"
+
+#~ msgid "Section Titles Font Style"
+#~ msgstr "Teckenstil för sektionstitlar"
+
+#, fuzzy
+#~ msgid "Select an image by clicking the + button"
+#~ msgstr "Välj en bild genom att klicka på plustecknet"
+
+#, fuzzy
+#~ msgid "Select background color of header."
+#~ msgstr "Välj bakgrundsfärg för sidhuvudet."
+
+#~ msgid "Select banner image"
+#~ msgstr "Välj tjänster"
+
+#~ msgid "Select icon background color on footer section"
+#~ msgstr "Välj symbolernas bakgrundsfärg på fotsektionen"
+
+#~ msgid "Select icon background color on main content area"
+#~ msgstr "Välj symbolernas bakgrundsfärg för innehållet på huvudområdet"
+
+#~ msgid "Select icon color on footer section"
+#~ msgstr "Välj symbolfärg på fotsektionen"
+
+#~ msgid "Select icon color on main content area"
+#~ msgstr "Välj symbolfärg för innehållet på huvudområdet"
+
+#~ msgid "Select Services"
+#~ msgstr "Välj tjänster"
+
+#, fuzzy
+#~ msgid "Select social icon background color"
+#~ msgstr "Välj socialsymbolens bakgrundsfärg"
+
+#, fuzzy
+#~ msgid "Select social icon background color."
+#~ msgstr "Välj socialsymbolens bakgrundsfärg."
+
+#, fuzzy
+#~ msgid "Select social icon color"
+#~ msgstr "Välj socialsymbolens färg"
+
+#, fuzzy
+#~ msgid "Select social icon color."
+#~ msgstr "Välj färg på socialsymbolen."
+
+#~ msgid "Select the button background color for contact form "
+#~ msgstr "Välj knappbakgrund för kontaktformuläret"
+
+#, fuzzy
+#~ msgid "Select the font size, font family, color etc"
+#~ msgstr "Välj teckenstorlek, teckensnittsfamilj, färg etc"
+
+#, fuzzy
+#~ msgid "Select the font size, font family, color etc."
+#~ msgstr "Välj typsnittsstorlek, typsnittsfamilj, färg, etc."
+
+#~ msgid "Select the font size, font family, color for menu"
+#~ msgstr "Välj typsnittsstorlek, typsnittsfamilj, färg för menyn"
+
+# This text is a description explaining what checking happens when you check the option to show the checkout banner.
+#
+# ____________________________
+# Reference for developers:
+#
+#~ msgid ""
+#~ "Select this option to show a checkout banner at the bottom of all pages "
+#~ "of your site on mobile devices, when there is something in the cart."
+#~ msgstr ""
+#~ "Välj det här alternativet för att visa en utcheckningsbanner längst ner "
+#~ "på alla sidor på din webbplats på mobila enheter när det finns något i "
+#~ "varukorgen."
+
+# You have three ways that you can show the shopping cart on your site.
+#
+# This is the header and description, after which you need to choose an option.
+#
+# ____________________________
+# Reference for developers:
+#
+#~ msgid "Select where you want the cart icon to be visible."
+#~ msgstr "Välj var du vill att kundvagnsikonen ska visas på din webbplats."
+
+#, fuzzy
+#~ msgid "Selected value (dropdown)"
+#~ msgstr "Markerat värde (rullgardinsmeny)"
+
+#, fuzzy
+#~ msgid "Service"
+#~ msgstr "Tjänst"
+
+#~ msgid "Service "
+#~ msgstr "Tjänst"
+
+#~ msgid "Service Description"
+#~ msgstr "Beskrivning av tjänst"
+
+#~ msgid "Service Details"
+#~ msgstr "Detaljer om tjänsten"
+
+#~ msgid "Services"
+#~ msgstr "Tjänster"
+
+#~ msgid "Services Button Link"
+#~ msgstr "Serviceknappen länk"
+
+#~ msgid "Services Button Text"
+#~ msgstr "Serviceknappen text"
+
+#~ msgid "Services Label"
+#~ msgstr "Tjänstens namn"
+
+#~ msgid "Services page Icon"
+#~ msgstr "Tjänstens namn"
+
+#, fuzzy
+#~ msgid "Set a color for the background of your shop."
+#~ msgstr "Välj en färg för bakgrunden på din butik."
+
+# Title and button text for the cart feature under Online Shop plugin settings.
+#
+# ____________________________
+# Reference for developers:
+#
+#, fuzzy
+#~ msgid "Set cart position and style"
+#~ msgstr "Kundvagnens position och stil"
+
+#, fuzzy
+#~ msgid "Settings"
+#~ msgstr "Inställningar"
+
+#~ msgid "Short Description"
+#~ msgstr "Kort beskrivning"
+
+#, fuzzy
+#~ msgid "Show \"sort by\" selector"
+#~ msgstr "Visa väljaren \"sortera genom\""
+
+#~ msgid "Show Background Image"
+#~ msgstr "Visa bakgrundsbild"
+
+#~ msgid "Show banner"
+#~ msgstr "Visa banner"
+
+#~ msgid "Show Banner"
+#~ msgstr "Visa banner?"
+
+#~ msgid "Show Banner?"
+#~ msgstr "Visa banner?"
+
+#, fuzzy
+#~ msgid "Show category selector"
+#~ msgstr "Visa kategoriväljare"
+
+#~ msgid "Show Courses"
+#~ msgstr "Visa kurser"
+
+#~ msgid "Show Featured Video"
+#~ msgstr "Visa aktuell video"
+
+#~ msgid "Show Features"
+#~ msgstr "Visa beskrivningar"
+
+#~ msgid "Show Header"
+#~ msgstr "Visa sidhuvud"
+
+#~ msgid "Show Logo"
+#~ msgstr "Visa logotyp"
+
+# These keys are terms that are used to describe elements and settings in a WordPress theme. Try to translate them as generic as possible, so they can be reused.
+#
+# _______________________________________________________________
+#~ msgid "Show Logo Image"
+#~ msgstr "Visa logobild"
+
+#~ msgid "Show Post Metadata"
+#~ msgstr "Visa metadata för inlägg"
+
+#~ msgid "Show Price Section"
+#~ msgstr "Visa prisrutor"
+
+#~ msgid "Show Section"
+#~ msgstr "Visa sektion"
+
+#~ msgid "Show Services"
+#~ msgstr "Visa tjänster"
+
+#~ msgid "Show Slider"
+#~ msgstr "Visa bildspel"
+
+#, fuzzy
+#~ msgid "Show Thumbnail"
+#~ msgstr "Visa titel"
+
+#~ msgid "Show Title"
+#~ msgstr "Visa titel"
+
+#~ msgid "Show Title Icon"
+#~ msgstr "Visa rubrikikon"
+
+#~ msgid "Show/Hide Newsletter Section"
+#~ msgstr "Visa/göm avdelningen om nyhetsbrev"
+
+#~ msgid "Sidebar"
+#~ msgstr "Sidopanel"
+
+#~ msgid "Single Page - Page layout"
+#~ msgstr "Enstaka sida - Sidlayout"
+
+#~ msgid "Single Post - Page Layout"
+#~ msgstr "Enkelt inlägg - sidlayout"
+
+#, fuzzy
+#~ msgid "Site Description / Tagline"
+#~ msgstr "Platsbeskrivning/tagline"
+
+#~ msgid "Site Name"
+#~ msgstr "Platsnamn"
+
+#~ msgid "Site title"
+#~ msgstr "Webbplatstitel"
+
+#, fuzzy
+#~ msgid "Site Title"
+#~ msgstr "Platstitel"
+
+#~ msgid "Site Title Font Style"
+#~ msgstr "Platstitelns typsnitt"
+
+#~ msgid "Site title will be displayed if no image uploaded."
+#~ msgstr "Sidans titel visas om ingen bild laddas upp."
+
+#~ msgid "Skin - Primary Color"
+#~ msgstr "Skal - primär färg"
+
+#~ msgid "Skin - Secondary Color"
+#~ msgstr "Skal - sekundär färg"
+
+#~ msgid "Slide"
+#~ msgstr "Bild"
+
+#, fuzzy
+#~ msgid "Slider"
+#~ msgstr "Bildspel"
+
+#~ msgid "Small Text Color"
+#~ msgstr "Färg för liten text"
+
+#, fuzzy
+#~ msgid "Social"
+#~ msgstr "Social"
+
+#, fuzzy
+#~ msgid "Social Icon Background Color"
+#~ msgstr "Bakgrundsfärg för socialsymbolen"
+
+#, fuzzy
+#~ msgid "Social Icon Color"
+#~ msgstr "Socialsymbolens färg"
+
+#~ msgid "Social Icon Default Colors"
+#~ msgstr "Standardfärg för sociala ikoner"
+
+#, fuzzy
+#~ msgid "Social Icons"
+#~ msgstr "Delningslänkar"
+
+#~ msgid "Social Icons Color"
+#~ msgstr "Färg på sociala ikoner"
+
+#, fuzzy
+#~ msgid "Social Links"
+#~ msgstr "Sociala länkar"
+
+#~ msgid "Social Profile Icon"
+#~ msgstr "Ikon för social profil"
+
+#~ msgid "Social Profile Link"
+#~ msgstr "Länk för social profil"
+
+#~ msgid "Social Section Content"
+#~ msgstr "Sociala sektionens innehåll"
+
+#~ msgid "Social Section Title"
+#~ msgstr "Sociala sektionens titel"
+
+#~ msgid "Some error occurred, please reload the page and try again."
+#~ msgstr "Ett fel uppstod, ladda om sidan och försök igen."
+
+#~ msgid "Something went wrong! Please try again!"
+#~ msgstr "Något gick fel! Försök igen!"
+
+# Error message that is currently hidden, will be used in the future.
+# ____________________________
+# Reference for developers:
+#
+#~ msgid "Something went wrong. Please reload the page and try again."
+#~ msgstr "Något blev fel. Ladda om sidan och försök igen."
+
+#~ msgid "Sorry, but you are looking for something that isn't here."
+#~ msgstr "Tyvärr så letar du efter något som inte finns här."
+
+#, fuzzy
+#~ msgid "Sort by"
+#~ msgstr "Sortera genom"
+
+#~ msgid "Space after caption (px)"
+#~ msgstr "Utrymme efter bildtext (px)"
+
+#~ msgid "Specifications"
+#~ msgstr "Specifikationer"
+
+#~ msgid "Spotlight"
+#~ msgstr "Spotlight"
+
+#~ msgid "Spotlight Blurb"
+#~ msgstr "Spotlightens reklamtext"
+
+#~ msgid "spotlight posts"
+#~ msgstr "spotlightposter"
+
+#~ msgid "Spotlight Title"
+#~ msgstr "Spotlight-titel"
+
+#, fuzzy
+#~ msgid "Square"
+#~ msgstr "Kvadrat"
+
+#, fuzzy
+#~ msgid "Standard"
+#~ msgstr "Standard"
+
+# These keys are terms that are used to describe elements and settings in a WordPress theme. Try to translate them as generic as possible, so they can be reused.
+#
+# _______________________________________________________________
+#~ msgid "Stats"
+#~ msgstr "Statistik"
+
+#~ msgid "Sub Footer Background"
+#~ msgstr "Övre sidfotens bakgrundsfärg"
+
+#~ msgid "Sub Footer Text Color"
+#~ msgstr "Övre sidfotens textfärg"
+
+#, fuzzy
+#~ msgid "Sub Title"
+#~ msgstr "Undertitel"
+
+#~ msgid "Submenu Item Background Color"
+#~ msgstr "Bakgrundsfärg i undermenyer"
+
+#~ msgid "Submenu Item Color"
+#~ msgstr "Färg på unndermenyalternativ"
+
+#~ msgid "Submenu Item color"
+#~ msgstr "Undermeny Artikelfärg"
+
+#~ msgid "SUBMIT"
+#~ msgstr "SKICKA"
+
+#~ msgid "Submit Comment"
+#~ msgstr "Skicka in kommentar"
+
+#~ msgid "Subscribe"
+#~ msgstr "Prenumerera"
+
+#~ msgid "Subscribed successfully."
+#~ msgstr "Prenumerationen aktiverad."
+
+#~ msgid "Subtext"
+#~ msgstr "Undertext"
+
+#~ msgid "Subtitle"
+#~ msgstr "Undertitel"
+
+#~ msgctxt "taxonomy general name"
+#~ msgid "Recipe Types"
+#~ msgstr "Recepttyper"
+
+#~ msgctxt "taxonomy singular name"
+#~ msgid "Recipe Type"
+#~ msgstr "Recepttyp"
+
+# These keys are terms that are used to describe elements and settings in a WordPress theme. Try to translate them as generic as possible, so they can be reused.
+#
+# _______________________________________________________________
+#~ msgid "Team"
+#~ msgstr "Team"
+
+#, fuzzy
+#~ msgid "Testimonial"
+#~ msgstr "Rekommendation"
+
+#~ msgid "Testimonial Font Style"
+#~ msgstr "Typsnitt för rekommendationer"
+
+#, fuzzy
+#~ msgid "Testimonials"
+#~ msgstr "Omdömen"
+
+#, fuzzy
+#~ msgid "Text"
+#~ msgstr "Text"
+
+#, fuzzy
+#~ msgid "Text color"
+#~ msgstr "Textfärg"
+
+#, fuzzy
+#~ msgid "Text Color"
+#~ msgstr "Textfärg"
+
+#, fuzzy
+#~ msgid "Text color (dropdown menu)"
+#~ msgstr "Textfärg (rullgardinsmeny)"
+
+#, fuzzy
+#~ msgid "Text Decoration"
+#~ msgstr "Text dekoration"
+
+#, fuzzy
+#~ msgid "Text links"
+#~ msgstr "Textlänkar"
+
+#~ msgid "Text Shadow"
+#~ msgstr "Textskugga"
+
+#~ msgid ""
+#~ "The added features will be displayed in the order they are arranged here."
+#~ msgstr "De tillagda funktionerna visas i den ordning de sorteras här."
+
+#~ msgid ""
+#~ "The added plans will be displayed in the order they are arranged here."
+#~ msgstr "De tillagda funktionerna visas i den ordning de sorteras här."
+
+#~ msgid ""
+#~ "The added testimonial will be displayed in the order they are arranged "
+#~ "here."
+#~ msgstr ""
+#~ "Den tillagda recensionerna kommer att visas i den ordning de sorteras här."
+
+#, fuzzy
+#~ msgid ""
+#~ "The easiest way to setup your theme is by importing demo data. It "
+#~ "includes demo posts, pages, images and theme settings. This will allow "
+#~ "you to edit the demo content, instead of creating everything from scratch."
+#~ msgstr ""
+#~ "Det enklaste sättet att konfigurera ditt tema är att importera demodata. "
+#~ "Det innehåller demoinlägg, sidor, bilder och temainställningar. Det gör "
+#~ "att du kan redigera innehållet i demon istället för starta från början."
+
+#~ msgid "The field used on service pages"
+#~ msgstr "Fältet används på servicesidor"
+
+#~ msgid "The newly added font families will appear after saving the options."
+#~ msgstr ""
+#~ "De tillagda teckensnittsfamiljerna kommer att visas efter att du sparat "
+#~ "alternativen."
+
+#~ msgid "The rules added here will be applied as additional CSS."
+#~ msgstr "Regler som läggs till här kommer att tillämpas som ytterligare CSS."
+
+#~ msgid "The selected courses/lessons will be displayed."
+#~ msgstr "De markerade kurserna/lektionerna kommer att visas."
+
+#~ msgid "The selected services will be displayed."
+#~ msgstr "De valda tjänsterna kommer att visas."
+
+#~ msgid "The selected therapies will be displayed."
+#~ msgstr "De valda tjänsterna kommer att visas."
+
+#~ msgid "Theme Options > Banners > Homepage Banner Height"
+#~ msgstr "Temaalternativ > Banners > Höjd på banner på hemsidan"
+
+#~ msgid "Theme Options > Banners > Internal Banner Height"
+#~ msgstr "Temaalternativ > Banners > Höjd på intern banner"
+
+#~ msgid "Theme Options > Typography > Font Styles > Internal Banners"
+#~ msgstr "Temaalternativ > Typografi > Teckenstilar > Interna banners"
+
+#, fuzzy
+#~ msgid "Theme Options reset."
+#~ msgstr "Temaalternativ återställda."
+
+#, fuzzy
+#~ msgid "Theme Options updated."
+#~ msgstr "Temaalternativ uppdaterade."
+
+#~ msgid ""
+#~ "Theme's default font properties can be changed from the section specific "
+#~ "tabs given below."
+#~ msgstr ""
+#~ "Temats standardegenskaper för tecken kan ändras från de avsnittsspecifika "
+#~ "flikarna nedan."
+
+#, fuzzy
+#~ msgid "These examples will help you get started with customizing the CSS."
+#~ msgstr "Dessa exempel hjälper dig att komma igång med att anpassa CSS."
+
+#~ msgid "This email is already used. Please use a different email."
+#~ msgstr "Den här e-postadressen har redan använts. Använd en annan adress."
+
+#~ msgid ""
+#~ "This post is password protected. Enter the password to view comments."
+#~ msgstr ""
+#~ "Denna post är skyddad av lösenord. Ange lösenordet för att se kommentarer."
+
+#~ msgid "This will add a shadow on the banner text"
+#~ msgstr "Detta lägger till en skugga på bannertexten."
+
+#~ msgid "This will add a shadow on the text."
+#~ msgstr "Detta lägger till en skugga på texten."
+
+#, fuzzy
+#~ msgid "This will be displayed in Listing Page section"
+#~ msgstr "Sidans titel visas om ingen bild laddas upp."
+
+#~ msgid ""
+#~ "This will change the font familiy of titles of special elements, e.g., "
+#~ "widgets."
+#~ msgstr "Typsnittsfamilj för rubriker i speciella element, t.ex. widgets."
+
+#~ msgid "This will change the height of the banner."
+#~ msgstr "Detta ändra höjden på bannern."
+
+#~ msgid "This will change the typography of content areas only."
+#~ msgstr "Detta ändrar bara typografin i innehållsområden."
+
+#~ msgid "This will change the typography of homepage banner only."
+#~ msgstr "Detta ändrar bara typografin för banner på hemsida."
+
+#~ msgid "This will change the typography of internal page banners only."
+#~ msgstr "Detta ändrar bara typografin för intern banner på sida."
+
+#~ msgid "This will change the typography of logo text only."
+#~ msgstr "Detta ändrar bara utseendet på logotypens text."
+
+#~ msgid "This will change the typography of main titles on pages."
+#~ msgstr "Detta kommer ändra typografin på sidans huvudtitel."
+
+#~ msgid "This will change the typography of navigation menu in header."
+#~ msgstr "Detta ändrar utseendet på texten i navigeringsmenyn."
+
+#~ msgid "This will change the typography of section titles on pages."
+#~ msgstr "Detta ändrar utseendet på texten i sektionstitlar på sidor."
+
+#~ msgid "This will change the typography of the buttons."
+#~ msgstr "Detta ändrar typografin i knappar."
+
+#~ msgid "This will change the typography of the Footer."
+#~ msgstr "Detta ändrar typografin i sidfoten."
+
+#~ msgid ""
+#~ "This will change the visibility and position of sidebar on the blog post "
+#~ "listing pages."
+#~ msgstr ""
+#~ "Detta ändrar synligheten och placeringen av sidofältet på sidor med "
+#~ "blogginläggslistor."
+
+#~ msgid ""
+#~ "This will change the visibility and position of sidebar on the post "
+#~ "details pages."
+#~ msgstr ""
+#~ "Detta ändrar synligheten och placeringen av sidofältet på sidor med "
+#~ "inläggsdetaljer."
+
+#~ msgid ""
+#~ "This will change the visibility and position of the sidebar on the pages."
+#~ msgstr "Detta ändrar sidopanelens synlighet och placering på sidorna."
+
+# Warning that if you set a background colour, this will override any background images you may have.
+#
+# See screenshot for context and the corresponding colours.
+# ____________________________
+#~ msgid "This will override the body background image."
+#~ msgstr "Färgen som anges kommer att visas istället för bakgrundsbilden."
+
+#~ msgid "This will replace the default form."
+#~ msgstr "Detta ersätter standardformuläret."
+
+#, fuzzy
+#~ msgid "This will show/hide the featured images on archive pages."
+#~ msgstr ""
+#~ "En video kommer att visas istället för den utvalda bilden för det här "
+#~ "inlägget."
+
+#~ msgid "This will show/hide the post details."
+#~ msgstr "Detta visar/gömmer inläggsinformation."
+
+#~ msgid "Three columns without sidebar"
+#~ msgstr "Tre kolumner utan sidofält"
+
+# These keys are terms that are used to describe elements and settings in a WordPress theme. Try to translate them as generic as possible, so they can be reused.
+#
+# _______________________________________________________________
+#~ msgid "Timeline"
+#~ msgstr "Tidslinje"
+
+#, fuzzy
+#~ msgid "Tips & tricks?"
+#~ msgstr "Tips & tricks?"
+
+#, fuzzy
+#~ msgid "Tips for CSS"
+#~ msgstr "Tips för CSS"
+
+#, fuzzy
+#~ msgid "Title"
+#~ msgstr "Titel"
+
+#~ msgid "Title Icon"
+#~ msgstr "Rubrikikon"
+
+# Label to set the colour of the title of the sections for category, recent posts, previous posts, etc.
+#
+# See screenshot for context and the corresponding colours.
+# ____________________________
+#~ msgid "Title of \"Category\" and \"Previous posts\""
+#~ msgstr "Textfärg för \"Kategori\" och\"Tidigare inlägg\""
+
+# Label to set the colour of the post title.
+#
+# See screenshot for context and the corresponding colours.
+# ____________________________
+#~ msgid "Title of posts"
+#~ msgstr "Textfärg för inläggsrubrik"
+
+# Label to set the colour blog titkle.
+#
+# See screenshot for context and the corresponding colour, purple in this case.
+# __________________________
+#~ msgid "Title of the blog"
+#~ msgstr "Textfärg för bloggtitel"
+
+#~ msgid "Title:"
+#~ msgstr "Titel:"
+
+#~ msgid "To change Banner Font Style"
+#~ msgstr "Teckensnittstil för intern banner"
+
+#~ msgid "To change Banner Height: "
+#~ msgstr "För att ändra bannerhöjd:"
+
+#~ msgid "To change Banner Height:"
+#~ msgstr "För att ändra bannerhöjd:"
+
+#~ msgid "To change Homepage Banner Content: "
+#~ msgstr "Så här ändrar du webbsidans bannerinnehåll:"
+
+#~ msgid "To change Homepage Banner Content:"
+#~ msgstr "Så här ändrar du webbsidans bannerinnehåll:"
+
+#~ msgid "To change the font style of header"
+#~ msgstr "För att ändra teckensnitt för sidhuvudet"
+
+#~ msgid "To change the font style of logo"
+#~ msgstr "För att ändra teckensnitt för logotypen"
+
+#, fuzzy
+#~ msgid ""
+#~ "To manage your products and orders, click \"Go to Products & Orders\", "
+#~ "and log in with your One.com account."
+#~ msgstr ""
+#~ "För att hantera dina produkter och beställningar klickar du på \"Gå till "
+#~ "Produkter och Beställningar\" och loggar in med ditt One.com-konto."
+
+#~ msgid "to show this section."
+#~ msgstr "för att visa denna sektion."
+
+# If you choose the option to have a floating cart, the cart is visible on all pages. It sort of floats above the page and stays at the same place whether you scroll up and down.
+#
+# Use the slider to determine the vertical position of the cart on your page.
+#
+# ____________________________
+# Reference for developers:
+#
+#~ msgid "Top"
+#~ msgstr "Upptill"
+
+#, fuzzy
+#~ msgid "Top left"
+#~ msgstr "Överst till vänster"
+
+#, fuzzy
+#~ msgid "Top right"
+#~ msgstr "Överst till höger"
+
+#, fuzzy
+#~ msgid "Top Section Content"
+#~ msgstr "Toppsektionens innehåll"
+
+#, fuzzy
+#~ msgid "Top Section Content Image"
+#~ msgstr "Toppsektionens innehållsbild"
+
+#, fuzzy
+#~ msgid "Top Section Subtitle"
+#~ msgstr "Toppsektionens undertitel"
+
+#, fuzzy
+#~ msgid "Top Section Title"
+#~ msgstr "Toppsektionens titel"
+
+#, fuzzy
+#~ msgid "Travel"
+#~ msgstr "Resa"
+
+#~ msgid "Treatment Settings"
+#~ msgstr "Sidinställningar"
+
+#~ msgid "Try a search instead"
+#~ msgstr "Försök söka istället"
+
+#~ msgid "Try searching with a different keyword."
+#~ msgstr "Försök söka med ett annat sökord."
+
+#~ msgid "Tutorial"
+#~ msgstr "Handledning"
+
+#~ msgid "Tutorial Description"
+#~ msgstr "Handledningsbeskrivning"
+
+#~ msgid "Tutorials Type"
+#~ msgstr "Handledningstyp"
+
+#, fuzzy
+#~ msgid "Twitter"
+#~ msgstr "Twitter"
+
+#~ msgid "Two columns with left sidebar"
+#~ msgstr "Två kolumner med sidofält till vänster"
+
+#~ msgid "Two columns with right sidebar"
+#~ msgstr "Två kolumner med sidofält till höger"
+
+#~ msgid "Two columns without sidebar"
+#~ msgstr "Två kolumner utan sidofält"
+
+#
+# Label for CAPTCHA. If the translation becomes too long, leave out "below" or just stick to "Type in the answer".
+#
+# _________________________________
+#~ msgid "Type in the answer to the sum below:"
+#~ msgstr "Ange svaret nedan:"
+
+#, fuzzy
+#~ msgid "Typography"
+#~ msgstr "Typografi"
+
+#~ msgid "Typography > Header Font Style > Header Menu Font Style"
+#~ msgstr "Typografi > Teckenstil för sidhuvud > Teckenstil för sidhuvudmeny"
+
+#~ msgid "Typography > Header Font Style > Logo Font Style"
+#~ msgstr "Typografi > Teckenstil för sidhuvud > Teckenstil för logotyp"
+
+#, fuzzy
+#~ msgid "Undo"
+#~ msgstr "Ångra"
+
+#, fuzzy
+#~ msgid "Undo last action"
+#~ msgstr "Ångra senaste åtgärden"
+
+# These keys are terms that are used to describe elements and settings in a WordPress theme. Try to translate them as generic as possible, so they can be reused.
+#
+# _______________________________________________________________
+#~ msgid "Update Event"
+#~ msgstr "Uppdatera evenemang"
+
+#~ msgid "Update Instructor"
+#~ msgstr "Uppdatera instruktör"
+
+#~ msgid "Update Lesson"
+#~ msgstr "Uppdatera lektion"
+
+#~ msgid "Update Recipe"
+#~ msgstr "Uppdatera recept"
+
+#~ msgid "Update Recipe Type"
+#~ msgstr "Uppdatera recepttyp"
+
+#~ msgid "Update Service"
+#~ msgstr "Uppdatera tjänst"
+
+#, fuzzy
+#~ msgid "Update the styling for borders."
+#~ msgstr "Uppdatera utseendet för gränserna."
+
+#~ msgid "Update Tutorial"
+#~ msgstr "Uppdatera handledning"
+
+#~ msgid "Update Tutorials Type"
+#~ msgstr "Uppdatera handledningstyp"
+
+#~ msgid "Upload background image."
+#~ msgstr "Ladda upp bakgrundsbilden."
+
+#~ msgid "Upload Banner"
+#~ msgstr "Ladda upp banner"
+
+#, fuzzy
+#~ msgid "Upload banner of your website."
+#~ msgstr "Ladda upp din webbsidas banner."
+
+#~ msgid "Upload banner right text image."
+#~ msgstr "Ladda upp banner höger textbild."
+
+#~ msgid "Upload Favicon"
+#~ msgstr "Ladda upp favicon"
+
+#, fuzzy
+#~ msgid "Upload favicon of your website."
+#~ msgstr "Ladda upp din webbsidas favicon."
+
+#, fuzzy
+#~ msgid "Upload footer logo of your website."
+#~ msgstr "Ladda upp sidfotens logga för din webbsida."
+
+#~ msgid "Upload Header Image"
+#~ msgstr "Ladda upp bild till sidhuvud"
+
+#~ msgid "Upload home page banner of your website."
+#~ msgstr "Ladda upp din webbsidas hemsidebanner."
+
+#~ msgid "Upload Icon"
+#~ msgstr "Ladda upp ikon"
+
+#~ msgid "Upload Logo"
+#~ msgstr "Ladda upp logotyp"
+
+#, fuzzy
+#~ msgid "Upload logo of your website."
+#~ msgstr "Ladda upp din webbsidas logga."
+
+# There is a checkbox before this text, checking it will enable an "easy checkout banner" on mobile.
+#
+# ____________________________
+# Reference for developers:
+#
+#~ msgid "Use easy checkout banner on mobile"
+#~ msgstr "Använd en utcheckningsbanner på mobila enheter"
+
+#~ msgid "Use shortcodes here, if necessary."
+#~ msgstr "Använd kortkoder här om det behövs."
+
+#, fuzzy
+#~ msgid "Use this image"
+#~ msgstr "Använd denna bild"
+
+#, fuzzy
+#~ msgid "Used as image overlay on hover."
+#~ msgstr "Används som bildöverlägg på svävare."
+
+#, fuzzy
+#~ msgid "Used for a line placed below the items on the checkout page."
+#~ msgstr "Används för en linje som placeras under objekten i kassan."
+
+#, fuzzy
+#~ msgid "Used for border of order details."
+#~ msgstr "Används för orderinformationens gränser."
+
+#, fuzzy
+#~ msgid "Used for cart icon, price text, pagination, mobile slider border."
+#~ msgstr ""
+#~ "Används för kundvagnssymbolen, pristext, sidnumrering, gräns för rörligt "
+#~ "skjutreglage."
+
+#, fuzzy
+#~ msgid "Used for default buttons, like 'Back' and 'Return to shop'."
+#~ msgstr ""
+#~ "Används för standardknappar såsom ”Tillbaka” och ”Återgå till shopen”."
+
+#, fuzzy
+#~ msgid "Used for headings on 'checkout page' and 'cart page'."
+#~ msgstr ""
+#~ "Används för överskrifter på ”utcheckningssidan” och ”kundvagnssidan”"
+
+#, fuzzy
+#~ msgid "Used for hover color on cart."
+#~ msgstr "Används för svävarfärg på kundvagnen."
+
+# If you choose the option to have a floating cart, the cart is visible on all pages. It sort of floats above the page and stays at the same place whether you scroll up and down.
+#
+# Use the slider to determine the vertical position of the cart on your page.
+#
+# ____________________________
+# Reference for developers:
+#
+#~ msgid "Vertical cart position on the page"
+#~ msgstr "Vertikal kundvagn på sidan"
+
+#~ msgid "via the contact form on"
+#~ msgstr "via kontaktformuläret på"
+
+#~ msgid "Video URL"
+#~ msgstr "Video-URL"
+
+#~ msgid "View Adventures"
+#~ msgstr "View Resa"
+
+# These keys are terms that are used to describe elements and settings in a WordPress theme. Try to translate them as generic as possible, so they can be reused.
+#
+# _______________________________________________________________
+#~ msgid "View Events"
+#~ msgstr "Visa evenemang"
+
+#~ msgid "View Instructor"
+#~ msgstr "Visa instruktör"
+
+#~ msgid "View Instructors"
+#~ msgstr "Visa instruktörer"
+
+#~ msgid "View Lesson"
+#~ msgstr "Visa lektion"
+
+#~ msgid "View Lessons"
+#~ msgstr "Visa lektioner"
+
+#~ msgid "View Recipe"
+#~ msgstr "Visa recept"
+
+#~ msgid "View Recipes"
+#~ msgstr "Visa recept"
+
+#, fuzzy
+#~ msgid "View Service"
+#~ msgstr "Visa tjänst"
+
+#~ msgid "View Slide"
+#~ msgstr "Visa bild"
+
+#~ msgid "View Spotlight"
+#~ msgstr "Visa spotlight"
+
+#~ msgid "View Testimonial"
+#~ msgstr "View Rekommendation"
+
+#~ msgid "View Testimonials"
+#~ msgstr "Visa rekommendationer"
+
+#~ msgid "View Travel"
+#~ msgstr "Visa resa"
+
+#~ msgid "View Tutorial"
+#~ msgstr "Visa handledning"
+
+#~ msgid "View Tutorials"
+#~ msgstr "Visa handledningar"
+
+#, fuzzy
+#~ msgid "We're here to help"
+#~ msgstr "Vi finns här för att hjälpa dig"
+
+#~ msgid "Website"
+#~ msgstr "Webbplats"
+
+#~ msgid "What styling services can we help you with today?"
+#~ msgstr "Vilka tjänster kan vi hjälpa dig med idag?"
+
+#, fuzzy
+#~ msgid "When you import demo data, please be aware of the following:"
+#~ msgstr "När du importerar demodata, tänk på följande:"
+
+#~ msgid "Widget to Display contact."
+#~ msgstr "Widget för att visa kontakt."
+
+#~ msgid "Widget to Display Testimonial."
+#~ msgstr "Widget för att visa rekommendation."
+
+#~ msgid "Widget to Display Travel Post."
+#~ msgstr "Widget för att visa resepost."
+
+# These keys are terms that are used to describe elements and settings in a WordPress theme. Try to translate them as generic as possible, so they can be reused.
+#
+# _______________________________________________________________
+#~ msgid "Width"
+#~ msgstr "Bredd"
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# In this text we explain what the issue is and why it's a problem that needs to be fixed.
+# ________________________________________
+#
+#~ msgid ""
+#~ "Wordpress core updates are disabled. This means that your site cannot be "
+#~ "auto updated to latest minor updates of WordPress"
+#~ msgstr ""
+#~ "Detta innebär att mindre uppdateringar inte installeras automatiskt. "
+#~ "Denna typ av uppdateringar är oftast säkerhetsrelaterade. Det innebär att "
+#~ "din hemsida blir sårbar för attacker om du inte installerar dem."
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# In this text we explain what the issue is and why it's a problem that needs to be fixed.
+# ________________________________________
+#
+#~ msgid ""
+#~ "You are running an outdated version of PHP. We recommend using the latest "
+#~ "version of PHP."
+#~ msgstr ""
+#~ "Den rekommenderade PHP-versionen är den mest stabila och fungerar bäst "
+#~ "med de senaste WordPress-versionerna. Det bästa för din sida är att "
+#~ "uppdatera din PHP-version regelbundet."
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# In this text we explain what the issue is and why it's a problem that needs to be fixed.
+# ________________________________________
+#
+#~ msgid ""
+#~ "You are using an outdated version of WordPress. Using an outdated version "
+#~ "of Wordpress can cause multiple problems, including security risks"
+#~ msgstr ""
+#~ "Vi rekommenderar att du alltid uppdaterar till den senaste versionen av "
+#~ "WordPress. Det är den säkraste versionen och har de senaste funktionerna."
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# In this text we explain what the issue is and why it's a problem that needs to be fixed.
+# ________________________________________
+#
+#~ msgid ""
+#~ "You are using default table prefix. This means that attackers can easily "
+#~ "guess your database configuration."
+#~ msgstr ""
+#~ "Du använder standardtabellprefixet för WordPress, d.v.s. wp_. Hackare "
+#~ "riktar sig aktivt mot WordPress-databaser, och att använda wp_ som ditt "
+#~ "tabellprefix gör dessa mer sårbara."
+
+#, fuzzy
+#~ msgid ""
+#~ "You can always change settings later directly in your shortcode on the "
+#~ "page."
+#~ msgstr ""
+#~ "Du kan alltid ändra inställningarna senare, direkt i din snabbkod på "
+#~ "sidan."
+
+#, fuzzy
+#~ msgid "You can have maximum 100 products per page."
+#~ msgstr "Du kan ha maximalt 100 produkter per sida."
+
+# If you select "In header on all pages", you also have the option to enter a CSS selector to place the cart somewhere else on your site, on all pages.
+#
+# If you don't use a One.com theme, adding a CSS selector is required, if you do use a One.com theme adding a CSS selector is optional.
+#
+# This text needs to fit both scenarios.
+# ____________________________
+# Reference for developers:
+#
+#~ msgid ""
+#~ "You can place the cart somewhere else on your site by attaching it to an "
+#~ "HTML element. Enter a CSS selector that exists in your theme’s HTML."
+#~ msgstr ""
+#~ "Du kan placera kundvagnen var som helst på din webbplats genom att fästa "
+#~ "den på ett HTML-element. Ange en CSS-väljare som finns i ditt temas HTML."
+
+#, fuzzy
+#~ msgid ""
+#~ "You can re-order with drag & drop, the order will update after saving."
+#~ msgstr ""
+#~ "Du kan ändra ordningen genom att dra och släppa med musen. Glöm inte att "
+#~ "spara."
+
+#, fuzzy
+#~ msgid "You need to have at least 2 products per page."
+#~ msgstr "Du behöver ha minst 2 produkter per sida."
+
+#~ msgid "You received a new message from"
+#~ msgstr "Du har fått ett nytt meddelande från"
+
+#, fuzzy
+#~ msgid ""
+#~ "You should only import demo data when making a new website from scratch."
+#~ msgstr "Importera bara demodata när du gör en ny sida helt från början."
+
+#~ msgid "Your comment is awaiting moderation."
+#~ msgstr "Din kommentar väntar på moderering."
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# In this text we explain what the issue is and why it's a problem that needs to be fixed.
+# ________________________________________
+#
+#~ msgid ""
+#~ "Your file and folder permissions are not set correctly. If they are too "
+#~ "strict you get errors on your site, if they are too loose this poses a "
+#~ "security risk."
+#~ msgstr ""
+#~ "Med fil- och mappbehörigheter bestämmer du vem som kan göra vad på din "
+#~ "hemsida. Behörigheter som är inställda för strikt orsakar fel vid åtkomst "
+#~ "och körning av filer, men om de är för fria kan de utnyttjas av hackare."
+
+#, fuzzy
+#~ msgid "Your message has been successfully sent."
+#~ msgstr "Ditt meddelande har skickats."
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# In this text we explain what the issue is and why it's a problem that needs to be fixed.
+# ________________________________________
+#
+#~ msgid ""
+#~ "Your site could not connect to wordpress.org, which means background "
+#~ "updates may not be working properly."
+#~ msgstr ""
+#~ "Din hemsida kunde inte ansluta till wordpress.org vilket innebär att "
+#~ "bakgrundsuppdateringar inte fungerar korrekt. Detta kan orsakas av ett "
+#~ "tillägg eller ett tema."
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# In this text we explain what the issue is and why it's a problem that needs to be fixed.
+# ________________________________________
+#
+#~ msgid ""
+#~ "Your site is configured to display errors to the visitors! This can "
+#~ "reveal sensitive information to attackers."
+#~ msgstr ""
+#~ "Om din hemsida visar felmeddelanden betyder det antingen att  PHP-"
+#~ "felmeddelande, WordPress debugging eller båda är aktiverade. Såvida du "
+#~ "inte felsöker föreslår vi att felmeddelanden inaktiveras. De är störande "
+#~ "för dina besökare och kan avslöja sårbarheter för hackare."
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# In this text we explain what the issue is and why it's a problem that needs to be fixed.
+# ________________________________________
+#
+#~ msgid ""
+#~ "Your site isn’t using HTTPS. Visitors on your site might get a warning "
+#~ "that your website isn’t secure and it can also have a negative effect on "
+#~ "your SEO rating."
+#~ msgstr ""
+#~ "Din hemsida har inte ett fungerande SSL-certifikat. Eftersom alla domäner "
+#~ "hos One.com automatiskt får ett SSL-certifikat betyder det att något är "
+#~ "fel i inställningarna."
+
+#, fuzzy
+#~ msgid "Your website tagline."
+#~ msgstr "Din webbplats tagline."
+
+#, fuzzy
+#~ msgid "Your website title."
+#~ msgstr "Din webbplats titel."

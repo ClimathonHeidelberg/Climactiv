@@ -1,0 +1,142 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+body {
+  background-color: #E6EEEF !important;
+}
+
+hr {
+  border-color: black !important;
+}
+
+#oct-site-footer p {
+    font-size: 12px !important;
+}
+
+.btn-info {
+    color: #fff;
+    background-color: #4CB944 !important;
+    border-color: #4CB944 !important;
+}
+
+.border-light {
+    border-color: #E6EEEF !important;
+}
+
+#sticky_menu li.current_page_item>a {
+    background-color: #4CB944;
+    font-weight: 700;
+}
+
+.current-menu-parent>a, ul.menu li.current-menu-item a, ul.menu>li a:hover {
+    background-image: none;
+    background-color: #4CB944;
+    color: rgba(255,255,255,1);
+}
+
+.mobile-title, .oct-header-menu {
+    background-color: #E6EEEF !important;
+}
+
+.custom-select {
+	height: calc(2.25rem + 12px) !important;
+}
+
+.card {
+font-weight: 400;
+    border: 0;
+    box-shadow: 0 2px 5px 0 rgba(0,0,0,.16), 0 2px 10px 0 rgba(0,0,0,.12);
+  overflow: hidden;
+  margin-bottom: 20px;
+}
+
+.event-map {
+  width:100%;
+  padding: 0 !important;
+}
+
+.nopad {
+  padding: 0 !important;
+}
+
+a.event-btn {
+  color:white;
+  float:right;
+  margin-bottom: 40px;
+}
+.card-footer:last-child {
+    border-radius: 0 0 calc(.25rem - 1px) calc(.25rem - 1px);
+    bottom: 0;
+    position: absolute;
+    width: 100%;
+}
+
+  
+  .card-header {
+    padding-right: 20px;
+  }
+  
+  .card-body {
+    padding-right: 20px;
+  }
+  
+  .card-footer {
+    padding-right: 20px;
+  }
+
+@media screen and (max-width: 500px) {
+  
+  .card-header {
+    padding-left: 20px;
+  }
+  
+  .card-body {
+    padding-left: 20px;
+    margin-bottom: 40px;
+  }
+  
+  .card-footer {
+    padding-left: 20px;
+  }
+  
+  .value {
+    font-size: 45px !important;
+  }
+  
+  .value-span {
+  
+    position: absolute; 
+    top: 0px; 
+    z-index: 3; 
+    top: 30%; 
+    right: 40px;
+    
+  }
+  
+}
+
+@media screen and (min-width: 500px) {
+  
+  .value {
+    font-size: 45px !important;
+  }
+  
+  .value-span {
+  
+    position: absolute; 
+    top: 0px; 
+    z-index: 3; 
+    top: 40%; 
+    right: 35px;
+    
+  }
+  
+}
+
+
+.centered-overlay {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}</style>
+<!-- end Simple Custom CSS and JS -->

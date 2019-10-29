@@ -1,0 +1,951 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: One.com WP\n"
+"POT-Creation-Date: 2019-10-17 17:43+0530\n"
+"PO-Revision-Date: 2017-02-14 16:53+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.1.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.css\n"
+"X-Poedit-SearchPathExcluded-1: *.js\n"
+
+#: inc/functions.php:126 inc/functions.php:338 modules/notices.php:61
+msgid "Connection timed out"
+msgstr ""
+
+#: inc/functions.php:151
+msgid "Sorry, no compatible themes found for your version of WordPress and PHP."
+msgstr ""
+
+#: inc/functions.php:151 inc/functions.php:377
+msgid "Try again"
+msgstr ""
+
+#: inc/functions.php:197
+msgid "WordPress is being upgraded. Please try again later."
+msgstr ""
+
+#: inc/functions.php:212
+msgid "Installing theme"
+msgstr ""
+
+#: inc/functions.php:232 inc/functions.php:566
+msgid "Something went wrong. Please contact the support at One.com."
+msgstr ""
+
+#: inc/functions.php:246 inc/functions.php:583
+msgid "Unable to connect to the file system. Please contact the support at One.com."
+msgstr ""
+
+#: inc/functions.php:261
+msgid "Theme installed successfully"
+msgstr ""
+
+#: inc/functions.php:264 inc/functions.php:279 inc/functions.php:606
+#: inc/functions.php:608 templates/network/plugin-listing.php:87
+#: templates/network/plugin-listing.php:89
+#: templates/network/recommended-plugin-listing.php:100
+#: templates/network/theme-listing-loop.php:85
+#: templates/network/theme-listing-loop.php:87 templates/plugin-listing.php:86
+#: templates/plugin-listing.php:88 templates/recommended-plugin-listing.php:99
+#: templates/theme-listing-loop.php:82 templates/theme-listing-loop.php:84
+msgid "Activate"
+msgstr ""
+
+#: inc/functions.php:377
+msgid "Sorry, no compatible plugins found with your version of WordPress and PHP."
+msgstr ""
+
+#: inc/functions.php:547
+msgid "Installing plugin"
+msgstr ""
+
+#: inc/functions.php:598
+msgid "Plugin installed successfully"
+msgstr ""
+
+#: inc/update.php:167
+msgid "View details"
+msgstr ""
+
+#: modules/cookie-banner/inc/functions.php:22
+#: modules/cookie-banner/inc/functions.php:23
+#: modules/cookie-banner/templates/oc_cookie_banner_admin.php:3
+msgid "Cookie Banner"
+msgstr ""
+
+#: modules/cookie-banner/inc/functions.php:173
+msgid "Since you are using One.com Analytics plugin, we recommend that you enable a cookie banner. This banner tells your visitors about your site storing data about them."
+msgstr ""
+
+#: modules/cookie-banner/inc/functions.php:178
+msgid "Setup cookie banner"
+msgstr ""
+
+#: modules/cookie-banner/inc/functions.php:179
+msgid "Skip setup"
+msgstr ""
+
+#: modules/cookie-banner/templates/oc_cookie_banner_admin.php:16
+msgid "This website uses cookies. By continuing to use this site, you accept our use of cookies."
+msgstr ""
+
+#: modules/cookie-banner/templates/oc_cookie_banner_admin.php:18
+#: modules/cookie-banner/templates/oc_cookie_banner_admin.php:85
+#: modules/cookie-banner/templates/oc_cookie_banner_admin.php:101
+msgid "Learn more"
+msgstr ""
+
+#: modules/cookie-banner/templates/oc_cookie_banner_admin.php:20
+#: modules/cookie-banner/templates/oc_cookie_banner_admin.php:116
+msgid "Accept"
+msgstr ""
+
+#: modules/cookie-banner/templates/oc_cookie_banner_admin.php:75
+msgid "Enable cookie banner"
+msgstr ""
+
+#: modules/cookie-banner/templates/oc_cookie_banner_admin.php:77
+msgid "Show a banner on your website to inform visitors about cookies and get their consent."
+msgstr ""
+
+#: modules/cookie-banner/templates/oc_cookie_banner_admin.php:82
+msgid "Banner text"
+msgstr ""
+
+#: modules/cookie-banner/templates/oc_cookie_banner_admin.php:83
+msgid "Add a text asking your users to accept cookies."
+msgstr ""
+
+#: modules/cookie-banner/templates/oc_cookie_banner_admin.php:85
+msgid "Cookie requirements vary. This default text is for general use but may not meet your particular legal requirements."
+msgstr ""
+
+#: modules/cookie-banner/templates/oc_cookie_banner_admin.php:89
+msgid "Cookie policy link (Optional)"
+msgstr ""
+
+#: modules/cookie-banner/templates/oc_cookie_banner_admin.php:92
+msgid "Add a link to your cookie policy"
+msgstr ""
+
+#: modules/cookie-banner/templates/oc_cookie_banner_admin.php:94
+msgid "Your privacy policy can contain information about which cookies you use, so visitors can read more about what you collect information about."
+msgstr ""
+
+#: modules/cookie-banner/templates/oc_cookie_banner_admin.php:95
+msgid "What should be included in my cookie policy?"
+msgstr ""
+
+#: modules/cookie-banner/templates/oc_cookie_banner_admin.php:100
+msgid "Link text"
+msgstr ""
+
+#: modules/cookie-banner/templates/oc_cookie_banner_admin.php:105
+msgid "Link URL"
+msgstr ""
+
+#: modules/cookie-banner/templates/oc_cookie_banner_admin.php:108
+msgid "You can link to any page on your website or even add an external link."
+msgstr ""
+
+#: modules/cookie-banner/templates/oc_cookie_banner_admin.php:115
+msgid "Button text"
+msgstr ""
+
+#: modules/cookie-banner/templates/oc_cookie_banner_admin.php:118
+msgid "This is the text that appears on the button that activates cookies."
+msgstr ""
+
+#: modules/cookie-banner/templates/oc_cookie_banner_admin.php:122
+msgid "Banner style"
+msgstr ""
+
+#: modules/cookie-banner/templates/oc_cookie_banner_admin.php:124
+msgid "Grey"
+msgstr ""
+
+#: modules/cookie-banner/templates/oc_cookie_banner_admin.php:125
+msgid "Black"
+msgstr ""
+
+#: modules/cookie-banner/templates/oc_cookie_banner_admin.php:126
+msgid "White"
+msgstr ""
+
+#: modules/cookie-banner/templates/oc_cookie_banner_admin.php:140
+msgid "Tip"
+msgstr ""
+
+#: modules/cookie-banner/templates/oc_cookie_banner_admin.php:140
+msgid "Remember to delete cache in case you are using any caching plugin."
+msgstr ""
+
+#: modules/cookie-banner/templates/oc_cookie_banner_admin.php:142
+msgid "Purge Performance Cache"
+msgstr ""
+
+#: modules/cookie-banner/templates/oc_cookie_banner_admin.php:149
+msgid "Save"
+msgstr ""
+
+#: modules/health-monitor/inc/functions.php:14
+#: modules/health-monitor/inc/functions.php:15
+#: modules/health-monitor/templates/oc_sh_health_monitor.php:11
+#: onecom-themes-plugins.php:661
+msgid "Health Monitor"
+msgstr ""
+
+#: modules/health-monitor/inc/functions.php:42
+#: modules/health-monitor/inc/widgets.php:43
+msgid "Scan again"
+msgstr ""
+
+#: modules/health-monitor/inc/functions.php:63
+#: modules/health-monitor/templates/oc_sh_health_monitor.php:93
+#, php-format
+msgid "You can disable PHP error reporting in the One.com control panel and WordPress debugging in the wp.config.php file. Check these two guides for more details on how to manage these settings: %sHow do I enable error messages for PHP?%s and %sHow do I enable debugging in WordPress?%s"
+msgstr ""
+
+#: modules/health-monitor/inc/functions.php:70
+msgid "This is configured properly!"
+msgstr ""
+
+#: modules/health-monitor/inc/functions.php:93
+#, php-format
+msgid "You are running an outdated version of PHP. We recommend using the latest version of PHP. %sHow do I update PHP for my WordPress site?%s"
+msgstr ""
+
+#: modules/health-monitor/inc/functions.php:100
+msgid "You have the latest PHP version enabled!"
+msgstr ""
+
+#: modules/health-monitor/inc/functions.php:128
+#, php-format
+msgid "One or more of your plugins are outdated. Outdated plugins make your site vulnerable to security attacks. %sUpdate your Plugins to the newest version%s"
+msgstr ""
+
+#: modules/health-monitor/inc/functions.php:135
+msgid "All your plugins are updated"
+msgstr ""
+
+#: modules/health-monitor/inc/functions.php:163
+#, php-format
+msgid "One or more of your installed themes are outdated. Using outdated themes can break your site and generate potential security risks. %sUpdate your Themes to the newest version%s"
+msgstr ""
+
+#: modules/health-monitor/inc/functions.php:170
+msgid "All your themes are updated!"
+msgstr ""
+
+#: modules/health-monitor/inc/functions.php:200
+#, php-format
+msgid "Update WordPress to the latest version, especially minor updates are important because they usually include security fixes. Check this guide for more instructions:  %sHow do I update a CMS like WordPress?%s"
+msgstr ""
+
+#: modules/health-monitor/inc/functions.php:207
+msgid "Your WordPress version is updated"
+msgstr ""
+
+#: modules/health-monitor/inc/functions.php:231
+#, php-format
+msgid "You are using default table prefix. This means that attackers can easily guess your database configuration. %sChange the table prefix for WordPress%s"
+msgstr ""
+
+#: modules/health-monitor/inc/functions.php:238
+msgid "You are not using default table prefix"
+msgstr ""
+
+#: modules/health-monitor/inc/functions.php:267
+#, php-format
+msgid "Wordpress core updates are disabled. This means that your site cannot be auto updated to latest minor updates of WordPress. %sEnable auto updates%s"
+msgstr ""
+
+#: modules/health-monitor/inc/functions.php:272
+msgid "Wordpress core updates are enabled"
+msgstr ""
+
+#: modules/health-monitor/inc/functions.php:292
+msgid "Connection to Wordpress.org was successful"
+msgstr ""
+
+#: modules/health-monitor/inc/functions.php:313
+msgid "File editing from WordPress admin is disabled"
+msgstr ""
+
+#: modules/health-monitor/inc/functions.php:321
+#, php-format
+msgid "File editing from your WordPress dashboard is allowed, meaning users with a role that has this right can edit all the core files of your site. Someone might accidentally break it, or a hacker might get access to a password. %sDisable file editing in WordPress admin%s"
+msgstr ""
+
+#: modules/health-monitor/inc/functions.php:352
+#, php-format
+msgid "One or more of your usernames is very common, like for example “admin”. These usernames are easy to guess and could be exploited by hackers. %sChange a WordPress username in PhpMyAdmin%s"
+msgstr ""
+
+#: modules/health-monitor/inc/functions.php:359
+msgid "You are not using any common username. "
+msgstr ""
+
+#: modules/health-monitor/inc/functions.php:383
+#, php-format
+msgid "Your site isn’t using HTTPS. Visitors on your site might get a warning that your website isn’t secure and it can also have a negative effect on your SEO rating. %sContact support%s"
+msgstr ""
+
+#: modules/health-monitor/inc/functions.php:390
+msgid "Your site has valid SSL certificate!"
+msgstr ""
+
+#: modules/health-monitor/inc/functions.php:425
+#, php-format
+msgid "File execution is allowed in your uploads folder. This means that an attacker can upload malware and execute it by simply trying to access it from their browser. %sDisable file execution in the WordPress uploads folder%s"
+msgstr ""
+
+#: modules/health-monitor/inc/functions.php:432
+msgid "File execution is blocked in \"Uploads\" folder."
+msgstr ""
+
+#: modules/health-monitor/inc/functions.php:484
+#, php-format
+msgid "One or more of your plugins is on the list of plugins we advise against using. Plugins on this list have a negative effect on the performance of your site, or pose a security risk. Deactivate %sDiscouraged WordPress plugins%s"
+msgstr ""
+
+#: modules/health-monitor/inc/functions.php:491
+#: templates/discouraged-plugin-listing.php:58
+#: templates/network/discouraged-plugin-listing.php:58
+msgid "You are doing great! None of your installed plugins, are on our list of discouraged plugins."
+msgstr ""
+
+#: modules/health-monitor/inc/functions.php:523
+#, php-format
+msgid "Your file and folder permissions are not set correctly. If they are too strict you get errors on your site, if they are too loose this poses a security risk. %sChange the file permissions via an FTP client%s"
+msgstr ""
+
+#: modules/health-monitor/inc/functions.php:530
+msgid "Correct file permissions."
+msgstr ""
+
+#: modules/health-monitor/inc/functions.php:585
+#: modules/health-monitor/inc/functions.php:593
+msgid "Your site could not connect to wordpress.org, which means background updates may not be working properly. %Contact support%s"
+msgstr ""
+
+#: modules/health-monitor/inc/functions.php:600
+msgid "Background updates are working properly."
+msgstr ""
+
+#: modules/health-monitor/inc/widgets.php:12
+msgid "One.com Health Monitor"
+msgstr ""
+
+#: modules/health-monitor/inc/widgets.php:32
+msgid "Scan now"
+msgstr ""
+
+#: modules/health-monitor/inc/widgets.php:43
+msgid "Health Monitor score is"
+msgstr ""
+
+#: modules/health-monitor/inc/widgets.php:43
+msgid "Last checked on"
+msgstr ""
+
+#: modules/health-monitor/templates/oc_sh_health_monitor.php:14
+msgid "Health Monitor lets you monitor the essential security checkpoints and fix them if needed."
+msgstr ""
+
+#: modules/health-monitor/templates/oc_sh_health_monitor.php:25
+msgid "PHP version"
+msgstr ""
+
+#: modules/health-monitor/templates/oc_sh_health_monitor.php:29
+#: onecom-themes-plugins.php:337 onecom-themes-plugins.php:338
+#: onecom-themes-plugins.php:345 onecom-themes-plugins.php:346
+#: onecom-themes-plugins.php:353 onecom-themes-plugins.php:354
+#: onecom-themes-plugins.php:398 onecom-themes-plugins.php:401
+#: onecom-themes-plugins.php:412 onecom-themes-plugins.php:664
+msgid "Plugins"
+msgstr ""
+
+#: modules/health-monitor/templates/oc_sh_health_monitor.php:33
+#: onecom-themes-plugins.php:329 onecom-themes-plugins.php:330
+#: onecom-themes-plugins.php:387 onecom-themes-plugins.php:390
+#: onecom-themes-plugins.php:663
+msgid "Themes"
+msgstr ""
+
+#: modules/health-monitor/templates/oc_sh_health_monitor.php:37
+msgid "WordPress version"
+msgstr ""
+
+#: modules/health-monitor/templates/oc_sh_health_monitor.php:41
+msgid "Connection to Wordpress.org"
+msgstr ""
+
+#: modules/health-monitor/templates/oc_sh_health_monitor.php:45
+msgid "WordPress core updates"
+msgstr ""
+
+#: modules/health-monitor/templates/oc_sh_health_monitor.php:49
+msgid "SSL certificate"
+msgstr ""
+
+#: modules/health-monitor/templates/oc_sh_health_monitor.php:53
+msgid "File execution in uploads"
+msgstr ""
+
+#: modules/health-monitor/templates/oc_sh_health_monitor.php:58
+msgid "WP file directory and files permissions"
+msgstr ""
+
+#: modules/health-monitor/templates/oc_sh_health_monitor.php:63
+msgid "Database security"
+msgstr ""
+
+#: modules/health-monitor/templates/oc_sh_health_monitor.php:67
+msgid "File editing from admin"
+msgstr ""
+
+#: modules/health-monitor/templates/oc_sh_health_monitor.php:71
+msgid "Insecure usernames"
+msgstr ""
+
+#: modules/health-monitor/templates/oc_sh_health_monitor.php:75
+msgid "Using discouraged plugins"
+msgstr ""
+
+#: modules/health-monitor/templates/oc_sh_health_monitor.php:85
+#: modules/health-monitor/templates/oc_sh_health_monitor.php:103
+msgid "Debug mode/Error reporting"
+msgstr ""
+
+#: modules/notice-discouraged-plugins.php:90
+#, php-format
+msgid "The plugin <strong>%s</strong>, that you are using, creates a lot of large temporary files causing high load on our servers and possible time-outs on your site.<br/>We strongly advise you to deactivate it. If you keep on using this plugin we may be forced to suspend your site. "
+msgstr ""
+
+#: modules/notice-discouraged-plugins.php:93
+#: templates/discouraged-plugin-listing.php:79
+#: templates/network/discouraged-plugin-listing.php:79
+msgid "Deactivate"
+msgstr ""
+
+#: modules/notice-discouraged-plugins.php:101 modules/notices.php:101
+msgid "You are using one or more plugins from the list of plugins we discourage. We recommend that you deactivate them, to ensure the best performance of your website. "
+msgstr ""
+
+#: modules/notice-discouraged-plugins.php:104 modules/notices.php:105
+msgid "View discouraged plugins"
+msgstr ""
+
+#: onecom-themes-plugins.php:319 onecom-themes-plugins.php:320
+#: onecom-themes-plugins.php:375 onecom-themes-plugins.php:378
+msgid "One.com"
+msgstr ""
+
+#: onecom-themes-plugins.php:409 onecom-themes-plugins.php:662
+#: staging/Includes/Core/Administrator.php:96
+#: staging/Includes/Core/Administrator.php:97
+#: staging/Includes/Core/Administrator.php:110
+#: staging/Includes/Core/Administrator.php:111
+msgid "Staging"
+msgstr ""
+
+#: onecom-themes-plugins.php:423
+msgid "One.com Control Panel"
+msgstr ""
+
+#: onecom-themes-plugins.php:426
+msgid "Go to Control Panel at One.com"
+msgstr ""
+
+#: onecom-themes-plugins.php:440
+msgid "One.com Guides & FAQ"
+msgstr ""
+
+#: onecom-themes-plugins.php:443
+msgid "Go to Guides & FAQ at One.com"
+msgstr ""
+
+#: staging/Includes/Core/Jobs/Directories.php:281
+#, php-format
+msgid "Unable to open %s with mode %s"
+msgstr ""
+
+#: staging/Includes/Core/Jobs/Directories.php:300
+#, php-format
+msgid "Unable to write to: %s"
+msgstr ""
+
+#: staging/Includes/Core/Jobs/Directories.php:304
+msgid "Out of disk space."
+msgstr ""
+
+#: staging/Includes/Core/views/ajax/scan.php:2
+msgid "Staging Site Name:"
+msgstr ""
+
+#: staging/Includes/Core/views/ajax/scan.php:8
+msgid "<br>Probably not enough free disk space to create a staging site. <br> You can continue but its likely that the copying process will fail."
+msgstr ""
+
+#: staging/Includes/Core/views/ajax/scan.php:18
+msgid "DB Tables"
+msgstr ""
+
+#: staging/Includes/Core/views/ajax/scan.php:21
+msgid "Files"
+msgstr ""
+
+#: staging/Includes/Core/views/ajax/scan.php:35
+msgid "Please Deselect the tables you dont want to copy."
+msgstr ""
+
+#: staging/Includes/Core/views/ajax/scan.php:76
+msgid "Uncheck the folders you do not want to copy. Click on them for expanding!"
+msgstr ""
+
+#: staging/Includes/Core/views/ajax/scan.php:83
+msgid "Extra directories to copy"
+msgstr ""
+
+#: staging/Includes/Core/views/ajax/scan.php:91
+msgid "Enter one folder path per line.<br>Folders must start with absolute path: "
+msgstr ""
+
+#: staging/Includes/Core/views/ajax/scan.php:103
+msgid "All files will be copied to: "
+msgstr ""
+
+#: staging/Includes/Core/views/ajax/staging_details.php:13
+msgid "Your staging site"
+msgstr ""
+
+#: staging/Includes/Core/views/ajax/staging_details.php:15
+msgid "Staging site broken"
+msgstr ""
+
+#: staging/Includes/Core/views/ajax/staging_details.php:21
+msgid "Staging Frontend:"
+msgstr ""
+
+#: staging/Includes/Core/views/ajax/staging_details.php:22
+msgid "Staging Backend:"
+msgstr ""
+
+#: staging/Includes/Core/views/ajax/staging_details.php:27
+msgid "We have detected that your staging site is broken due to missing database table(s) and/or directory(s)."
+msgstr ""
+
+#: staging/Includes/Core/views/ajax/staging_details.php:28
+msgid "Click on \"Rebuild Staging\" to regenerate your staging site."
+msgstr ""
+
+#: staging/Includes/Core/views/ajax/staging_details.php:43
+msgid "The staging website is a copy of your live website, where you can test new plugins and themes without affecting your live website."
+msgstr ""
+
+#: staging/Includes/Core/views/ajax/staging_details.php:44
+msgid "Only one staging version can be created for each website. When you rebuild a staging website, any existing staging site will be replaced with a new snapshot of your live website."
+msgstr ""
+
+#: staging/Includes/Core/views/ajax/staging_details.php:45
+msgid "The login details for the staging backend are the same as for the live website."
+msgstr ""
+
+#: staging/Includes/Core/views/ajax/staging_details.php:47
+msgid "Caution: Rebuilding will overwrite all files and the database of your existing staging website."
+msgstr ""
+
+#: staging/Includes/Core/views/ajax/staging_details.php:50
+#: staging/Includes/Core/views/live.php:51
+#: staging/Includes/Core/views/staging.php:32
+msgid "Need help?"
+msgstr ""
+
+#: staging/Includes/Core/views/ajax/staging_details.php:52
+#: staging/Includes/Core/views/ajax/staging_details.php:53
+#: staging/Includes/Core/views/includes/footer.php:14
+#: staging/Includes/Core/views/includes/footer.php:29
+#: staging/Includes/Core/views/includes/footer.php:44
+#: staging/Includes/Core/views/includes/footer.php:62
+#: staging/Includes/Core/views/staging.php:34
+msgid "Are you sure?"
+msgstr ""
+
+#: staging/Includes/Core/views/ajax/staging_details.php:52
+msgid "Rebuild Staging"
+msgstr ""
+
+#: staging/Includes/Core/views/ajax/staging_details.php:53
+msgid "Delete Staging"
+msgstr ""
+
+#: staging/Includes/Core/views/blocked.php:14
+msgid "Staging feature not available."
+msgstr ""
+
+#: staging/Includes/Core/views/blocked.php:16
+msgid "Staging feature is not yet available for the following type of WordPress websites:"
+msgstr ""
+
+#: staging/Includes/Core/views/includes/footer.php:16
+msgid "This will overwrite your staging website with a copy of the files and database from your live website. All changes made in your staging website will be lost."
+msgstr ""
+
+#: staging/Includes/Core/views/includes/footer.php:19
+#: staging/Includes/Core/views/includes/footer.php:34
+#: staging/Includes/Core/views/includes/footer.php:50
+#: staging/Includes/Core/views/includes/footer.php:67
+msgid "OK"
+msgstr ""
+
+#: staging/Includes/Core/views/includes/footer.php:20
+#: staging/Includes/Core/views/includes/footer.php:35
+#: staging/Includes/Core/views/includes/footer.php:51
+#: staging/Includes/Core/views/includes/footer.php:68
+msgid "Cancel"
+msgstr ""
+
+#: staging/Includes/Core/views/includes/footer.php:31
+msgid "This takes a snapshot of your blog and copies it to a \"staging area\" where you can test changes without affecting your live site. There's only one staging area, so every time you click this button the old staging area is lost forever, replaced with a snapshot of your live blog."
+msgstr ""
+
+#: staging/Includes/Core/views/includes/footer.php:46
+msgid "The staging site will be lost."
+msgstr ""
+
+#: staging/Includes/Core/views/includes/footer.php:64
+msgid "This will overwrite your live website with a copy of the files and database from your staging website."
+msgstr ""
+
+#: staging/Includes/Core/views/includes/header.php:6
+msgid "One Staging"
+msgstr ""
+
+#: staging/Includes/Core/views/includes/header.php:8
+msgid "This is your Staging site."
+msgstr ""
+
+#: staging/Includes/Core/views/live.php:7
+msgid "Please wait, while we are copying your live site to the staging site."
+msgstr ""
+
+#: staging/Includes/Core/views/live.php:15
+msgid "Please wait, while we are updating staging site."
+msgstr ""
+
+#: staging/Includes/Core/views/live.php:21
+msgid "Please wait, while we are deleting staging site."
+msgstr ""
+
+#: staging/Includes/Core/views/live.php:47
+msgid "Create a staging version of your site to try out new plugins, themes and customizations"
+msgstr ""
+
+#: staging/Includes/Core/views/live.php:48
+msgid "The staging environment allows you to make changes to your site, without it affecting the live version of your website. When you create a staging site, it will be a snapshot of your live website."
+msgstr ""
+
+#: staging/Includes/Core/views/live.php:48
+msgid "You can use it as a playground to test new plugins and themes. Once you are satisfied with the result, you can copy all the changes to your live website with a single click."
+msgstr ""
+
+#: staging/Includes/Core/views/live.php:49
+msgid "Please note"
+msgstr ""
+
+#: staging/Includes/Core/views/live.php:49
+msgid "Plugins that are URL sensitive may not work as expected on the staging site."
+msgstr ""
+
+#: staging/Includes/Core/views/live.php:54
+msgid "Create staging site"
+msgstr ""
+
+#: staging/Includes/Core/views/staging.php:6
+msgid "Please wait, while we are copying staging into live."
+msgstr ""
+
+#: staging/Includes/Core/views/staging.php:18
+msgid "Copy staging to your live site"
+msgstr ""
+
+#: staging/Includes/Core/views/staging.php:22
+msgid "This is your staging website, a snapshot of your live website. Here you can test changes without affecting your live website."
+msgstr ""
+
+#: staging/Includes/Core/views/staging.php:24
+msgid "When you copy from staging to live, the live website will get replaced with a snapshot of this staging website."
+msgstr ""
+
+#: staging/Includes/Core/views/staging.php:25
+msgid "Before you continue, please be aware of the following:"
+msgstr ""
+
+#: staging/Includes/Core/views/staging.php:28
+msgid "It is not possible to reverse this process."
+msgstr ""
+
+#: staging/Includes/Core/views/staging.php:29
+msgid "When you copy from staging to live, all data and files of your live website will be overwritten. This includes recently added posts, pages, media uploads and files."
+msgstr ""
+
+#: staging/Includes/Core/views/staging.php:30
+msgid "It can take a couple of minutes for the copy to finish, so please do not close or navigate away from this page."
+msgstr ""
+
+#: staging/Includes/Core/views/staging.php:34
+msgid "Copy staging to live"
+msgstr ""
+
+#: staging/Includes/Core/views/staging.php:39
+msgid "Live website details not found. Can not copy staging into live!"
+msgstr ""
+
+#: staging/one_staging.php:147
+msgid "Status"
+msgstr ""
+
+#: staging/one_staging.php:148
+msgid "Response"
+msgstr ""
+
+#: staging/one_staging.php:149
+msgid "Copied successfully."
+msgstr ""
+
+#: staging/one_staging.php:150
+msgid "Something went wrong; please try again."
+msgstr ""
+
+#: staging/one_staging.php:154
+msgid "Preparing..."
+msgstr ""
+
+#: staging/one_staging.php:155
+msgid "Start copying..."
+msgstr ""
+
+#: staging/one_staging.php:156
+msgid "Copying database..."
+msgstr ""
+
+#: staging/one_staging.php:157
+msgid "Preparing directories..."
+msgstr ""
+
+#: staging/one_staging.php:158
+msgid "Copying files..."
+msgstr ""
+
+#: staging/one_staging.php:159
+msgid "Updating database..."
+msgstr ""
+
+#: staging/one_staging.php:160
+msgid "Finalising..."
+msgstr ""
+
+#: staging/one_staging.php:161
+msgid "Finished!"
+msgstr ""
+
+#: staging/one_staging.php:162
+msgid "Deleting staging..."
+msgstr ""
+
+#: templates/discouraged-plugin-listing.php:13
+#: templates/discouraged-plugin-listing.php:25
+#: templates/network/discouraged-plugin-listing.php:13
+#: templates/network/discouraged-plugin-listing.php:25
+#: templates/network/plugin-listing.php:25
+#: templates/network/recommended-plugin-listing.php:25
+#: templates/plugin-listing.php:25 templates/recommended-plugin-listing.php:25
+msgid "Discouraged plugins"
+msgstr ""
+
+#: templates/discouraged-plugin-listing.php:23
+#: templates/network/discouraged-plugin-listing.php:23
+#: templates/network/plugin-listing.php:23
+#: templates/network/recommended-plugin-listing.php:23
+#: templates/plugin-listing.php:23 templates/recommended-plugin-listing.php:23
+msgid "One.com plugins"
+msgstr ""
+
+#: templates/discouraged-plugin-listing.php:24
+#: templates/network/discouraged-plugin-listing.php:24
+#: templates/network/plugin-listing.php:24
+#: templates/network/recommended-plugin-listing.php:24
+#: templates/plugin-listing.php:24 templates/recommended-plugin-listing.php:24
+msgid "Recommended plugins"
+msgstr ""
+
+#: templates/discouraged-plugin-listing.php:60
+#: templates/network/discouraged-plugin-listing.php:60
+msgid "Your WordPress site should work the best possible way. We checked the plugins on your website, and listed those we don't recommended you to use."
+msgstr ""
+
+#: templates/discouraged-plugin-listing.php:60
+#: templates/network/discouraged-plugin-listing.php:60
+msgid "There are also some suggestions for alternative plugins to use instead."
+msgstr ""
+
+#: templates/discouraged-plugin-listing.php:63
+#: templates/network/discouraged-plugin-listing.php:63
+msgid "View full list of discouraged plugins"
+msgstr ""
+
+#: templates/discouraged-plugin-listing.php:88
+#: templates/network/discouraged-plugin-listing.php:88
+msgid "Suggested alternative"
+msgstr ""
+
+#: templates/discouraged-plugin-listing.php:88
+#: templates/network/discouraged-plugin-listing.php:88
+msgid "Suggested alternatives"
+msgstr ""
+
+#: templates/discouraged-plugin-listing.php:117
+#: templates/network/discouraged-plugin-listing.php:117
+msgid "Yes, deactivate plugin"
+msgstr ""
+
+#: templates/discouraged-plugin-listing.php:117
+#: templates/network/discouraged-plugin-listing.php:117
+msgid "Not right now"
+msgstr ""
+
+#: templates/discouraged-plugin-listing.php:119
+#: templates/network/discouraged-plugin-listing.php:119
+msgid "Are you sure that you want to deactivate this plugin?"
+msgstr ""
+
+#: templates/discouraged-plugin-listing.php:121
+#: templates/network/discouraged-plugin-listing.php:121
+msgid "Deactivating a plugin can break functionality on your website."
+msgstr ""
+
+#: templates/network/plugin-listing.php:13 templates/plugin-listing.php:13
+msgid "Plugins that bring the One.com experience and services to WordPress."
+msgstr ""
+
+#: templates/network/plugin-listing.php:84
+#: templates/network/recommended-plugin-listing.php:98
+#: templates/network/theme-listing-loop.php:75 templates/plugin-listing.php:83
+#: templates/recommended-plugin-listing.php:97
+#: templates/theme-listing-loop.php:72
+msgid "Active"
+msgstr ""
+
+#: templates/network/plugin-listing.php:92
+#: templates/network/recommended-plugin-listing.php:102
+#: templates/plugin-listing.php:91 templates/recommended-plugin-listing.php:101
+msgid "Install now"
+msgstr ""
+
+#: templates/network/recommended-plugin-listing.php:13
+#: templates/recommended-plugin-listing.php:13
+msgid "Presenting some of our favorite WordPress plugins, curated for quality."
+msgstr ""
+
+#: templates/network/recommended-plugin-listing.php:110
+#: templates/recommended-plugin-listing.php:109
+msgid "More details"
+msgstr ""
+
+#: templates/network/recommended-plugin-listing.php:117
+#: templates/recommended-plugin-listing.php:116
+msgid "By"
+msgstr ""
+
+#: templates/network/theme-listing-loop.php:57
+#: templates/theme-listing-loop.php:50
+msgid "Preview"
+msgstr ""
+
+#: templates/network/theme-listing-loop.php:90
+#: templates/network/theme-listing.php:100 templates/theme-listing-loop.php:87
+#: templates/theme-listing.php:102
+msgid "Install"
+msgstr ""
+
+#: templates/network/theme-listing.php:14 templates/theme-listing.php:14
+msgid "Exclusive themes specially crafted for One.com customers."
+msgstr ""
+
+#: templates/network/theme-listing.php:35
+#: templates/network/theme-listing.php:37
+#: templates/network/theme-listing.php:49 templates/theme-listing.php:31
+#: templates/theme-listing.php:33 templates/theme-listing.php:45
+msgid "All"
+msgstr ""
+
+#: templates/network/theme-listing.php:38
+#: templates/network/theme-listing.php:50 templates/theme-listing.php:34
+#: templates/theme-listing.php:46
+msgid "Blog"
+msgstr ""
+
+#: templates/network/theme-listing.php:39
+#: templates/network/theme-listing.php:51 templates/theme-listing.php:35
+#: templates/theme-listing.php:47
+msgid "Business & Services"
+msgstr ""
+
+#: templates/network/theme-listing.php:40
+#: templates/network/theme-listing.php:52 templates/theme-listing.php:36
+#: templates/theme-listing.php:48
+msgid "Events"
+msgstr ""
+
+#: templates/network/theme-listing.php:41
+#: templates/network/theme-listing.php:53 templates/theme-listing.php:37
+#: templates/theme-listing.php:49
+msgid "Family & Recreation"
+msgstr ""
+
+#: templates/network/theme-listing.php:42
+#: templates/network/theme-listing.php:54 templates/theme-listing.php:38
+#: templates/theme-listing.php:50
+msgid "Food & Hospitality"
+msgstr ""
+
+#: templates/network/theme-listing.php:43
+#: templates/network/theme-listing.php:55 templates/theme-listing.php:39
+#: templates/theme-listing.php:51
+msgid "Music & Art"
+msgstr ""
+
+#: templates/network/theme-listing.php:44
+#: templates/network/theme-listing.php:56 templates/theme-listing.php:40
+#: templates/theme-listing.php:52
+msgid "Online Shop"
+msgstr ""
+
+#: templates/network/theme-listing.php:45
+#: templates/network/theme-listing.php:57 templates/theme-listing.php:41
+#: templates/theme-listing.php:53
+msgid "Portfolio & CV"
+msgstr ""
+
+#: templates/network/theme-listing.php:96 templates/theme-listing.php:98
+msgid "Back to themes"
+msgstr ""
+
+#: templates/network/theme-listing.php:103 templates/theme-listing.php:105
+msgid "Desktop"
+msgstr ""
+
+#: templates/network/theme-listing.php:104 templates/theme-listing.php:106
+msgid "Mobile"
+msgstr ""

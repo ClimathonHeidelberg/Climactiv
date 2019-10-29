@@ -1,0 +1,42 @@
+v0.0.17 - Jun 20, 2019
+* disabled wp-cron during installation
+
+v0.0.16 - Apr 16, 2019
+* Favicon added
+* Buttons alignment fixed
+
+v0.0.15 - Jan 30, 2019
+* Help link added
+
+v0.0.14 - July 25, 2018
+* Geo stats update
+
+v0.0.13 - December 20, 2017
+* Fixed resources are not loading if subdomain treated as directory
+
+v0.0.12 - December 5, 2017
+* Domain metadata over GO requests
+
+v0.0.11 - November 21, 2017
+* Error messages are not showing if page scrolled down
+
+v0.0.10 - November 08, 2017
+* VC by default deactivated
+* Removed cookie OnecomWPAuth
+* Install button on preview
+
+v0.0.9 - September 27, 2017
+* Stats fixes wrong log requests
+
+v0.0.8 - September 02, 2017
+* Timeout fixes for downloading plugins and themes
+
+v0.0.7 - August 28, 2017
+* Fixed user information displayed on console
+
+v0.0.6 - August 22, 2017
+* Auto import parameter for fresh installs
+
+v0.0.5 - August 2, 2017
+* Item count set to 48 for initial request as pagination affect
+* Email address not accepting for different TLD

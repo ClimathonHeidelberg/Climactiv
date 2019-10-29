@@ -1,0 +1,1120 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2019-08-21 10:38+0530\n"
+"PO-Revision-Date: 2017-01-09 12:20+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.1.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: core/ReduxCore\n"
+"X-Poedit-SearchPathExcluded-1: *.js\n"
+"X-Poedit-SearchPathExcluded-2: *.css\n"
+"X-Poedit-SearchPathExcluded-3: importer/inc/OneClickDemoImport.php\n"
+"X-Poedit-SearchPathExcluded-4: importer/inc/WidgetImporter.php\n"
+"X-Poedit-SearchPathExcluded-5: importer/inc/Downloader.php\n"
+"X-Poedit-SearchPathExcluded-6: importer/inc/Helpers.php\n"
+"X-Poedit-SearchPathExcluded-7: importer/vendor/proteusthemes/wp-content-"
+"importer-v2/src/WXRImporter.php\n"
+"X-Poedit-SearchPathExcluded-8: option-tree\n"
+
+#: comments.php:18
+#, php-format
+msgid "One Reply to &ldquo;%s&rdquo;"
+msgstr ""
+
+#: comments.php:37
+msgid "Reply"
+msgstr ""
+
+#: comments.php:46 home.php:58 index.php:56 page.php:61
+msgid "Previous"
+msgstr ""
+
+#: comments.php:47 home.php:59 index.php:57 page.php:62
+msgid "Next"
+msgstr ""
+
+#: comments.php:56
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:63 inc/theme_metaboxes.php:487
+#: page-templates/contact-page.php:56
+msgid "Name"
+msgstr ""
+
+#: comments.php:64 inc/theme_metaboxes.php:507
+#: page-templates/contact-page.php:76
+msgid "Email"
+msgstr ""
+
+#: functions.php:142 functions.php:169
+msgid "Please wait..."
+msgstr ""
+
+#: functions.php:143 functions.php:170
+msgid "Subscribe"
+msgstr ""
+
+#: functions.php:144 functions.php:171
+msgid "SUBMIT"
+msgstr ""
+
+#: functions.php:277
+msgid "Missing Attachment"
+msgstr ""
+
+#: functions.php:321
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:323
+msgid "Add widgets here to appear in your sidebar."
+msgstr ""
+
+#: functions.php:332 inc/theme_options.php:60 inc/theme_options.php:170
+#: inc/theme_options.php:517
+msgid "Header"
+msgstr ""
+
+#: functions.php:334
+msgid "Add widgets here to appear in your header."
+msgstr ""
+
+#: functions.php:343 functions.php:352 functions.php:361
+#: inc/theme_options.php:64 inc/theme_options.php:342
+#: inc/theme_options.php:722
+msgid "Footer"
+msgstr ""
+
+#: functions.php:345 functions.php:354 functions.php:363
+msgid "Add widgets here to appear in your footer."
+msgstr ""
+
+#: importer/views/plugin-page.php:35
+msgid ""
+"The easiest way to setup your theme is by importing demo data. It "
+"includes demo posts, pages, images and theme settings. This will allow "
+"you to edit the demo content, instead of creating everything from "
+"scratch."
+msgstr ""
+
+#: importer/views/plugin-page.php:40
+msgid "When you import demo data, please be aware of the following:"
+msgstr ""
+
+#: importer/views/plugin-page.php:43
+msgid ""
+"No existing data will be deleted or modified, this includes posts, "
+"pages, categories, images, custom post types or any other data."
+msgstr ""
+
+#: importer/views/plugin-page.php:44
+msgid ""
+"Posts, pages, images, widgets, menus and other theme settings will get "
+"imported."
+msgstr ""
+
+#: importer/views/plugin-page.php:45
+msgid ""
+"It can take a couple of minutes for the import to finish, so please "
+"click the Import button only once."
+msgstr ""
+
+#: importer/views/plugin-page.php:50
+msgid "Note:"
+msgstr ""
+
+#: importer/views/plugin-page.php:50
+msgid ""
+"You should only import demo data when making a new website from scratch."
+msgstr ""
+
+#: importer/views/plugin-page.php:51
+msgid ""
+"Otherwise you might end up mixing the demo data with the existing "
+"content on your website."
+msgstr ""
+
+#: importer/views/plugin-page.php:101 importer/views/plugin-page.php:113
+msgid "Import Demo Data"
+msgstr ""
+
+#: importer/views/plugin-page.php:173
+msgid "Importing, please wait!"
+msgstr ""
+
+#: inc/core_functions.php:53 inc/theme_options.php:270
+msgid "Text Color"
+msgstr ""
+
+#: inc/core_functions.php:54
+msgid "Hover Text Color"
+msgstr ""
+
+#: inc/core_functions.php:55 inc/core_functions.php:62
+msgid "Background Color"
+msgstr ""
+
+#: inc/core_functions.php:56
+msgid "Hover Background Color"
+msgstr ""
+
+#: inc/core_functions.php:60
+msgid "Big Text Color"
+msgstr ""
+
+#: inc/core_functions.php:61
+msgid "Small Text Color"
+msgstr ""
+
+#: inc/core_functions.php:256
+msgid "Name is empty or too short."
+msgstr ""
+
+#: inc/core_functions.php:265
+msgid "Phone is empty or too short."
+msgstr ""
+
+#: inc/core_functions.php:270
+msgid "Name is too large."
+msgstr ""
+
+#: inc/core_functions.php:276
+msgid "Email entered is not valid."
+msgstr ""
+
+#: inc/core_functions.php:281
+msgid "Email is too large."
+msgstr ""
+
+#: inc/core_functions.php:287
+msgid "Message text is empty or too short."
+msgstr ""
+
+#: inc/core_functions.php:294
+msgid "Message is too large, please shorten it."
+msgstr ""
+
+#: inc/core_functions.php:307
+msgid "Email "
+msgstr ""
+
+#: inc/core_functions.php:311
+msgid "Name "
+msgstr ""
+
+#: inc/core_functions.php:316
+msgid "Message "
+msgstr ""
+
+#: inc/core_functions.php:320
+msgid "Phone "
+msgstr ""
+
+#: inc/core_functions.php:325
+msgid "Service "
+msgstr ""
+
+#: inc/core_functions.php:332
+msgid "Contact query from website"
+msgstr ""
+
+#: inc/core_functions.php:340
+msgid "Contact Details "
+msgstr ""
+
+#: inc/core_functions.php:367
+msgid "Your message has been successfully sent."
+msgstr ""
+
+#: inc/core_functions.php:373 inc/core_functions.php:448
+#: inc/core_functions.php:523
+msgid "Some error occurred, please reload the page and try again."
+msgstr ""
+
+#: inc/core_functions.php:399
+msgid "Email entered is not valid or empty."
+msgstr ""
+
+#: inc/core_functions.php:406
+msgid "Email is too large, please use a valid email."
+msgstr ""
+
+#: inc/core_functions.php:416
+msgid "This email is already used. Please use a different email."
+msgstr ""
+
+#: inc/core_functions.php:440
+msgid "Subscribed successfully."
+msgstr ""
+
+#: inc/core_functions.php:470 inc/theme_metaboxes.php:130
+#: inc/theme_metaboxes.php:549
+msgid "Services"
+msgstr ""
+
+#: inc/core_functions.php:471 inc/core_functions.php:479
+msgid "Service"
+msgstr ""
+
+#: inc/core_functions.php:472
+msgid "New Service"
+msgstr ""
+
+#: inc/core_functions.php:473
+msgid "Edit Service"
+msgstr ""
+
+#: inc/core_functions.php:474
+msgid "Update Service"
+msgstr ""
+
+#: inc/core_functions.php:475 inc/core_functions.php:476
+msgid "View Service"
+msgstr ""
+
+#: inc/core_functions.php:480
+msgid "Service Description"
+msgstr ""
+
+#: inc/core_functions.php:514
+msgid "Invalid answer, please try again."
+msgstr ""
+
+#: inc/core_functions.php:557
+msgid "Type in the answer to the sum below:"
+msgstr ""
+
+#: inc/theme_metaboxes.php:26 inc/theme_metaboxes.php:684
+#: inc/theme_metaboxes.php:1128
+msgid "Page Sections"
+msgstr ""
+
+#: inc/theme_metaboxes.php:35 inc/theme_metaboxes.php:1160
+msgid "Banner"
+msgstr ""
+
+#: inc/theme_metaboxes.php:40 inc/theme_metaboxes.php:408
+#: inc/theme_metaboxes.php:768 inc/theme_metaboxes.php:999
+#: inc/theme_metaboxes.php:1071
+msgid "Show Banner"
+msgstr ""
+
+#: inc/theme_metaboxes.php:48 inc/theme_metaboxes.php:710
+#: inc/theme_metaboxes.php:1314
+msgid "Banner Image"
+msgstr ""
+
+#: inc/theme_metaboxes.php:55
+msgid "Caption Alignment"
+msgstr ""
+
+#: inc/theme_metaboxes.php:64
+msgid "Right"
+msgstr ""
+
+#: inc/theme_metaboxes.php:68
+msgid "Center"
+msgstr ""
+
+#: inc/theme_metaboxes.php:72
+msgid "Left"
+msgstr ""
+
+#: inc/theme_metaboxes.php:77
+msgid "Banner Height"
+msgstr ""
+
+#: inc/theme_metaboxes.php:78
+msgid "Change the font for this banner"
+msgstr ""
+
+#: inc/theme_metaboxes.php:85
+msgid "Auto"
+msgstr ""
+
+#: inc/theme_metaboxes.php:89
+msgid "Full Viewport"
+msgstr ""
+
+#: inc/theme_metaboxes.php:93
+msgid "Custom"
+msgstr ""
+
+#: inc/theme_metaboxes.php:100
+msgid "Banner Custom Height"
+msgstr ""
+
+#: inc/theme_metaboxes.php:108
+msgid "Banner Caption - Content"
+msgstr ""
+
+#: inc/theme_metaboxes.php:116
+msgid "Button Label"
+msgstr ""
+
+#: inc/theme_metaboxes.php:123 inc/theme_metaboxes.php:223
+#: inc/theme_metaboxes.php:834
+msgid "Button Link"
+msgstr ""
+
+#: inc/theme_metaboxes.php:135 inc/theme_metaboxes.php:194
+#: inc/theme_metaboxes.php:235 inc/theme_metaboxes.php:304
+#: inc/theme_metaboxes.php:363 inc/theme_metaboxes.php:454
+#: inc/theme_metaboxes.php:631 inc/theme_metaboxes.php:651
+#: inc/theme_metaboxes.php:723 inc/theme_metaboxes.php:794
+#: inc/theme_metaboxes.php:846 inc/theme_metaboxes.php:903
+#: inc/theme_metaboxes.php:954 inc/theme_metaboxes.php:1026
+#: inc/theme_metaboxes.php:1255
+msgid "Show Section"
+msgstr ""
+
+#: inc/theme_metaboxes.php:142 inc/theme_metaboxes.php:201
+#: inc/theme_metaboxes.php:242 inc/theme_metaboxes.php:311
+#: inc/theme_metaboxes.php:370 inc/theme_metaboxes.php:658
+#: inc/theme_metaboxes.php:730 inc/theme_metaboxes.php:1033
+#: inc/theme_metaboxes.php:1262
+msgid "Section Title"
+msgstr ""
+
+#: inc/theme_metaboxes.php:149 inc/theme_metaboxes.php:208
+#: inc/theme_metaboxes.php:256 inc/theme_metaboxes.php:318
+#: inc/theme_metaboxes.php:377 inc/theme_metaboxes.php:665
+#: inc/theme_metaboxes.php:737 inc/theme_metaboxes.php:1040
+#: inc/theme_metaboxes.php:1269
+msgid "Section Content"
+msgstr ""
+
+#: inc/theme_metaboxes.php:157
+msgid "Please select the therapies to be diplayed."
+msgstr ""
+
+#: inc/theme_metaboxes.php:158
+msgid "The selected therapies will be displayed."
+msgstr ""
+
+#: inc/theme_metaboxes.php:167
+msgid "Read more button text"
+msgstr ""
+
+#: inc/theme_metaboxes.php:175
+msgid "All services button text"
+msgstr ""
+
+#: inc/theme_metaboxes.php:183
+msgid "All services button link"
+msgstr ""
+
+#: inc/theme_metaboxes.php:189 inc/theme_metaboxes.php:814
+#: inc/theme_metaboxes.php:1225 inc/theme_metaboxes.php:1230
+msgid "Features"
+msgstr ""
+
+#: inc/theme_metaboxes.php:216 inc/theme_metaboxes.php:828
+#: inc/theme_metaboxes.php:871 inc/theme_options.php:784
+msgid "Button Title"
+msgstr ""
+
+#: inc/theme_metaboxes.php:230
+msgid "About us section"
+msgstr ""
+
+#: inc/theme_metaboxes.php:249
+msgid "Section Sub Title"
+msgstr ""
+
+#: inc/theme_metaboxes.php:263
+msgid "Button 1 Title"
+msgstr ""
+
+#: inc/theme_metaboxes.php:270
+msgid "Button 1 Link"
+msgstr ""
+
+#: inc/theme_metaboxes.php:277 inc/theme_metaboxes.php:1219
+msgid "Button 2 Title"
+msgstr ""
+
+#: inc/theme_metaboxes.php:284
+msgid "Button 2 Link"
+msgstr ""
+
+#: inc/theme_metaboxes.php:291
+msgid "Section Image"
+msgstr ""
+
+#: inc/theme_metaboxes.php:299 inc/theme_metaboxes.php:326
+#: inc/theme_metaboxes.php:334
+msgid "Price"
+msgstr ""
+
+#: inc/theme_metaboxes.php:327
+msgid ""
+"The added plans will be displayed in the order they are arranged here."
+msgstr ""
+
+#: inc/theme_metaboxes.php:339 inc/theme_metaboxes.php:429
+#: inc/theme_metaboxes.php:617 inc/theme_metaboxes.php:807
+#: inc/theme_metaboxes.php:820 inc/theme_metaboxes.php:862
+#: inc/theme_metaboxes.php:916 inc/theme_metaboxes.php:934
+#: inc/theme_metaboxes.php:968 inc/theme_metaboxes.php:1241
+msgid "Content"
+msgstr ""
+
+#: inc/theme_metaboxes.php:348
+msgid "Button label"
+msgstr ""
+
+#: inc/theme_metaboxes.php:353
+msgid "Button link"
+msgstr ""
+
+#: inc/theme_metaboxes.php:358 inc/theme_metaboxes.php:386
+#: inc/theme_metaboxes.php:646 inc/theme_metaboxes.php:674
+#: inc/theme_metaboxes.php:718 inc/theme_metaboxes.php:746
+#: inc/theme_metaboxes.php:949 inc/theme_metaboxes.php:977
+#: inc/theme_metaboxes.php:987 inc/theme_metaboxes.php:1021
+#: inc/theme_metaboxes.php:1049 inc/theme_metaboxes.php:1250
+#: inc/theme_metaboxes.php:1278
+msgid "Gallery"
+msgstr ""
+
+#: inc/theme_metaboxes.php:396
+msgid "Page Section"
+msgstr ""
+
+#: inc/theme_metaboxes.php:403 inc/theme_metaboxes.php:691
+#: inc/theme_metaboxes.php:763 inc/theme_metaboxes.php:994
+#: inc/theme_metaboxes.php:1066 inc/theme_metaboxes.php:1295
+msgid "Banner Settings"
+msgstr ""
+
+#: inc/theme_metaboxes.php:415 inc/theme_metaboxes.php:775
+#: inc/theme_metaboxes.php:1006 inc/theme_metaboxes.php:1078
+msgid "Select banner image"
+msgstr ""
+
+#: inc/theme_metaboxes.php:422 inc/theme_metaboxes.php:782
+#: inc/theme_metaboxes.php:1013 inc/theme_metaboxes.php:1085
+msgid "Page Subtitle"
+msgstr ""
+
+#: inc/theme_metaboxes.php:434
+msgid "Show Title"
+msgstr ""
+
+#: inc/theme_metaboxes.php:442
+msgid "Custom Title"
+msgstr ""
+
+#: inc/theme_metaboxes.php:449
+msgid "Form Section"
+msgstr ""
+
+#: inc/theme_metaboxes.php:462
+msgid "Form Title"
+msgstr ""
+
+#: inc/theme_metaboxes.php:469
+msgid "Form Description"
+msgstr ""
+
+#: inc/theme_metaboxes.php:477
+msgid "Form Fields Labels"
+msgstr ""
+
+#: inc/theme_metaboxes.php:497 page-templates/contact-page.php:66
+msgid "Phone"
+msgstr ""
+
+#: inc/theme_metaboxes.php:518 page-templates/contact-page.php:105
+msgid "Message"
+msgstr ""
+
+#: inc/theme_metaboxes.php:528
+msgid "Button Text"
+msgstr ""
+
+#: inc/theme_metaboxes.php:538
+msgid "Choose Service category"
+msgstr ""
+
+#: inc/theme_metaboxes.php:557
+msgid "Value"
+msgstr ""
+
+#: inc/theme_metaboxes.php:565
+msgid "Email Subject"
+msgstr ""
+
+#: inc/theme_metaboxes.php:574
+msgid "Recipients"
+msgstr ""
+
+#: inc/theme_metaboxes.php:575
+msgid ""
+"Provide email accounts where you want to receive emails from this form."
+msgstr ""
+
+#: inc/theme_metaboxes.php:583 inc/theme_metaboxes.php:879
+msgid "Custom Form"
+msgstr ""
+
+#: inc/theme_metaboxes.php:591 inc/theme_metaboxes.php:889
+msgid "Form Embed Code or Shortcode"
+msgstr ""
+
+#: inc/theme_metaboxes.php:592 inc/theme_metaboxes.php:891
+msgid ""
+"Please copy and paste the Embed Code or Shortcode of the custom form "
+"(if any). This will replace the default form."
+msgstr ""
+
+#: inc/theme_metaboxes.php:599
+msgid "Section Background"
+msgstr ""
+
+#: inc/theme_metaboxes.php:606 inc/theme_metaboxes.php:611
+msgid "Information Blocks"
+msgstr ""
+
+#: inc/theme_metaboxes.php:626
+msgid "Map Section"
+msgstr ""
+
+#: inc/theme_metaboxes.php:638
+msgid "Map Embed Code"
+msgstr ""
+
+#: inc/theme_metaboxes.php:696 inc/theme_metaboxes.php:1140
+#: inc/theme_metaboxes.php:1300
+msgid "Show Banner?"
+msgstr ""
+
+#: inc/theme_metaboxes.php:703 inc/theme_metaboxes.php:1307
+msgid "Banner Text"
+msgstr ""
+
+#: inc/theme_metaboxes.php:756 inc/theme_metaboxes.php:1059
+msgid "Banner Setting"
+msgstr ""
+
+#: inc/theme_metaboxes.php:789
+msgid "Treatment Settings"
+msgstr ""
+
+#: inc/theme_metaboxes.php:801 inc/theme_metaboxes.php:854
+#: inc/theme_metaboxes.php:910 inc/theme_metaboxes.php:961
+#: inc/widgets.php:183
+msgid "Title"
+msgstr ""
+
+#: inc/theme_metaboxes.php:840
+msgid "Newsletter"
+msgstr ""
+
+#: inc/theme_metaboxes.php:880
+msgid "This will replace the default form."
+msgstr ""
+
+#: inc/theme_metaboxes.php:898 inc/theme_metaboxes.php:923
+msgid "Instructors"
+msgstr ""
+
+#: inc/theme_metaboxes.php:928 inc/theme_metaboxes.php:1153
+#: inc/theme_metaboxes.php:1190 inc/theme_metaboxes.php:1288
+msgid "Subtitle"
+msgstr ""
+
+#: inc/theme_metaboxes.php:940 inc/theme_metaboxes.php:1147
+#: inc/theme_metaboxes.php:1165 inc/theme_metaboxes.php:1170
+#: inc/theme_metaboxes.php:1183 inc/theme_metaboxes.php:1235
+msgid "Image"
+msgstr ""
+
+#: inc/theme_metaboxes.php:1095 inc/theme_options.php:73
+msgid "Layout"
+msgstr ""
+
+#: inc/theme_metaboxes.php:1109 inc/theme_options.php:800
+#: inc/theme_options.php:825 inc/theme_options.php:850
+msgid "One column with right sidebar"
+msgstr ""
+
+#: inc/theme_metaboxes.php:1114 inc/theme_options.php:805
+#: inc/theme_options.php:830 inc/theme_options.php:855
+msgid "One column without sidebar"
+msgstr ""
+
+#: inc/theme_metaboxes.php:1119 inc/theme_options.php:810
+#: inc/theme_options.php:835 inc/theme_options.php:860
+msgid "One column with left sidebar"
+msgstr ""
+
+#: inc/theme_metaboxes.php:1135
+msgid "Internal Banners"
+msgstr ""
+
+#: inc/theme_metaboxes.php:1178
+msgid "Listing"
+msgstr ""
+
+#: inc/theme_metaboxes.php:1194 inc/theme_metaboxes.php:1201
+msgid "This will be displayed in Listing Page section"
+msgstr ""
+
+#: inc/theme_metaboxes.php:1197
+msgid "Introduction"
+msgstr ""
+
+#: inc/theme_metaboxes.php:1204 inc/theme_options.php:291
+#: inc/theme_options.php:696
+msgid "Buttons"
+msgstr ""
+
+#: inc/theme_metaboxes.php:1209
+msgid "First button title"
+msgstr ""
+
+#: inc/theme_metaboxes.php:1214
+msgid "First button link"
+msgstr ""
+
+#: inc/theme_metaboxes.php:1222
+msgid "This button will open detailed page"
+msgstr ""
+
+#: inc/theme_options.php:69
+msgid "Blog"
+msgstr ""
+
+#: inc/theme_options.php:77
+msgid "Social"
+msgstr ""
+
+#: inc/theme_options.php:81
+msgid "Typography"
+msgstr ""
+
+#: inc/theme_options.php:85
+msgid "Color Scheme"
+msgstr ""
+
+#: inc/theme_options.php:89
+msgid "Advanced"
+msgstr ""
+
+#: inc/theme_options.php:93 inc/theme_options.php:1103
+msgid "Import"
+msgstr ""
+
+#: inc/theme_options.php:101
+msgid "Skin - Primary Color"
+msgstr ""
+
+#: inc/theme_options.php:108
+msgid "Customize Skin"
+msgstr ""
+
+#: inc/theme_options.php:109
+msgid ""
+"Custom colors selection may override the Primary and Secondary Skin "
+"colors at some places"
+msgstr ""
+
+#: inc/theme_options.php:117 inc/theme_options.php:561
+#: inc/theme_options.php:567
+msgid "Body"
+msgstr ""
+
+#: inc/theme_options.php:123 inc/theme_options.php:177
+#: inc/theme_options.php:281 inc/theme_options.php:349
+msgid "Background"
+msgstr ""
+
+#: inc/theme_options.php:124
+msgid "Body background with image, color, etc."
+msgstr ""
+
+#: inc/theme_options.php:134
+msgid "Body Text Color"
+msgstr ""
+
+#: inc/theme_options.php:142
+msgid "Headings Colors"
+msgstr ""
+
+#: inc/theme_options.php:157 inc/theme_options.php:375
+msgid "Link Color"
+msgstr ""
+
+#: inc/theme_options.php:187
+msgid "Logo Text Color"
+msgstr ""
+
+#: inc/theme_options.php:198
+msgid "Menu"
+msgstr ""
+
+#: inc/theme_options.php:205
+msgid "Menu Background Color"
+msgstr ""
+
+#: inc/theme_options.php:215
+msgid "Menu Item Color"
+msgstr ""
+
+#: inc/theme_options.php:227
+msgid "Menu Item Background Color"
+msgstr ""
+
+#: inc/theme_options.php:239
+msgid "Submenu Item Color"
+msgstr ""
+
+#: inc/theme_options.php:251
+msgid "Submenu Item Background Color"
+msgstr ""
+
+#: inc/theme_options.php:263
+msgid "Slider"
+msgstr ""
+
+#: inc/theme_options.php:299 inc/theme_options.php:702
+msgid "Content Buttons"
+msgstr ""
+
+#: inc/theme_options.php:312
+msgid "Content Buttons - Show Border"
+msgstr ""
+
+#: inc/theme_options.php:320
+msgid "Content Buttons - Border"
+msgstr ""
+
+#: inc/theme_options.php:333
+msgid "Content Buttons - Border Radius"
+msgstr ""
+
+#: inc/theme_options.php:359 inc/theme_options.php:728
+msgid "Heading"
+msgstr ""
+
+#: inc/theme_options.php:367 inc/theme_options.php:747
+msgid "Text"
+msgstr ""
+
+#: inc/theme_options.php:388
+msgid "Copyright Background Color"
+msgstr ""
+
+#: inc/theme_options.php:398
+msgid "Copyright Text Color"
+msgstr ""
+
+#: inc/theme_options.php:409
+msgid "Show Logo"
+msgstr ""
+
+#: inc/theme_options.php:417
+msgid "Upload Logo"
+msgstr ""
+
+#: inc/theme_options.php:418
+msgid "Site title will be displayed if no image uploaded."
+msgstr ""
+
+#: inc/theme_options.php:418
+msgid "Site title"
+msgstr ""
+
+#: inc/theme_options.php:428
+msgid "Logo Height"
+msgstr ""
+
+#: inc/theme_options.php:435
+msgid "Manage Site Title"
+msgstr ""
+
+#: inc/theme_options.php:436 inc/theme_options.php:446
+msgid "Manage Logo Text"
+msgstr ""
+
+#: inc/theme_options.php:436
+msgid "To change the font style of logo"
+msgstr ""
+
+#: inc/theme_options.php:436
+msgid "Typography > Header Font Style > Logo Font Style"
+msgstr ""
+
+#: inc/theme_options.php:447
+msgid "Manage Header Menu"
+msgstr ""
+
+#: inc/theme_options.php:447
+msgid "To change the font style of header"
+msgstr ""
+
+#: inc/theme_options.php:447
+msgid "Typography > Header Font Style > Header Menu Font Style"
+msgstr ""
+
+#: inc/theme_options.php:455
+msgid "Upload Favicon"
+msgstr ""
+
+#: inc/theme_options.php:455
+msgid "Upload favicon of your website."
+msgstr ""
+
+#: inc/theme_options.php:455
+msgid "Customize > Site Identity > Site Icon"
+msgstr ""
+
+#: inc/theme_options.php:464
+msgid "Font Families"
+msgstr ""
+
+#: inc/theme_options.php:465
+msgid "Add fonts in your website."
+msgstr ""
+
+#: inc/theme_options.php:465
+msgid ""
+"The newly added font families will appear after saving the options."
+msgstr ""
+
+#: inc/theme_options.php:500
+msgid "Font Styles"
+msgstr ""
+
+#: inc/theme_options.php:501
+msgid ""
+"Theme's default font properties can be changed from the section "
+"specific tabs given below."
+msgstr ""
+
+#: inc/theme_options.php:523
+msgid "Logo Font Style"
+msgstr ""
+
+#: inc/theme_options.php:524
+msgid "This will change the typography of logo text only."
+msgstr ""
+
+#: inc/theme_options.php:541
+msgid "Header Menu Font Style"
+msgstr ""
+
+#: inc/theme_options.php:542
+msgid "This will change the typography of navigation menu in header."
+msgstr ""
+
+#: inc/theme_options.php:568
+msgid "This will change the typography of content areas only."
+msgstr ""
+
+#: inc/theme_options.php:587
+msgid "H1 Font Style"
+msgstr ""
+
+#: inc/theme_options.php:605
+msgid "H2 Font Style"
+msgstr ""
+
+#: inc/theme_options.php:623
+msgid "H3 Font Style"
+msgstr ""
+
+#: inc/theme_options.php:641
+msgid "H4 Font Style"
+msgstr ""
+
+#: inc/theme_options.php:659
+msgid "H5 Font Style"
+msgstr ""
+
+#: inc/theme_options.php:677
+msgid "H6 Font Style"
+msgstr ""
+
+#: inc/theme_options.php:729
+msgid "This will change the typography of the Footer."
+msgstr ""
+
+#: inc/theme_options.php:766
+msgid "Show Post Metadata"
+msgstr ""
+
+#: inc/theme_options.php:767
+msgid "This will show/hide the post details."
+msgstr ""
+
+#: inc/theme_options.php:767
+msgid "For example: Post Author, Published Date, Post Categories"
+msgstr ""
+
+#: inc/theme_options.php:775
+msgid "Show Thumbnail"
+msgstr ""
+
+#: inc/theme_options.php:776
+msgid "This will show/hide the featured images on archive pages."
+msgstr ""
+
+#: inc/theme_options.php:792
+msgid "Blog Listing - Page Layout"
+msgstr ""
+
+#: inc/theme_options.php:793
+msgid ""
+"This will change the visibility and position of sidebar on the blog "
+"post listing pages."
+msgstr ""
+
+#: inc/theme_options.php:817
+msgid "Single Post - Page Layout"
+msgstr ""
+
+#: inc/theme_options.php:818
+msgid ""
+"This will change the visibility and position of sidebar on the post "
+"details pages."
+msgstr ""
+
+#: inc/theme_options.php:818
+msgid "Note: You can override this setting on a specific post."
+msgstr ""
+
+#: inc/theme_options.php:842
+msgid "Single Page - Page layout"
+msgstr ""
+
+#: inc/theme_options.php:843
+msgid ""
+"This will change the visibility and position of the sidebar on the "
+"pages."
+msgstr ""
+
+#: inc/theme_options.php:843
+msgid "Note: You can override this setting on a specific page."
+msgstr ""
+
+#: inc/theme_options.php:868
+msgid "Social Links"
+msgstr ""
+
+#: inc/theme_options.php:869
+msgid "Enter your social profile links here:"
+msgstr ""
+
+#: inc/theme_options.php:881
+msgid "Social Profile Icon"
+msgstr ""
+
+#: inc/theme_options.php:1035
+msgid "Social Profile Link"
+msgstr ""
+
+#: inc/theme_options.php:1045
+msgid "Footer Color"
+msgstr ""
+
+#: inc/theme_options.php:1053
+msgid "Copyright Text"
+msgstr ""
+
+#: inc/theme_options.php:1060
+msgid "Manage Footer Widgets"
+msgstr ""
+
+#: inc/theme_options.php:1061
+msgid "Edit Footer Widgets"
+msgstr ""
+
+#: inc/theme_options.php:1070
+msgid "Custom CSS"
+msgstr ""
+
+#: inc/theme_options.php:1071
+msgid "The rules added here will be applied as additional CSS."
+msgstr ""
+
+#: inc/theme_options.php:1078
+msgid "Head Scripts"
+msgstr ""
+
+#: inc/theme_options.php:1079
+msgid "Scripts to be inserted in \"head\" tag."
+msgstr ""
+
+#: inc/theme_options.php:1087
+msgid "Footer Scripts"
+msgstr ""
+
+#: inc/theme_options.php:1088
+msgid "Scripts to be inserted after footer."
+msgstr ""
+
+#: inc/theme_options.php:1096
+msgid "404 Page Content"
+msgstr ""
+
+#: inc/widgets.php:16
+msgid "Recent Posts"
+msgstr ""
+
+#: inc/widgets.php:32
+msgid "(no title)"
+msgstr ""
+
+#: inc/widgets.php:119
+msgid "Social Icons"
+msgstr ""
+
+#: inc/widgets.php:120
+msgid "Displays social icons list."
+msgstr ""
+
+#: inc/widgets.php:188
+msgid "Social Icon Default Colors"
+msgstr ""
+
+#: inc/widgets.php:192
+msgid "Icon Color"
+msgstr ""
+
+#: inc/widgets.php:196
+msgid "Icon Hover Color"
+msgstr ""
+
+#: inc/widgets.php:201
+msgid "If colors are not set, skin colors will be applied."
+msgstr ""
+
+#: inc/widgets.php:206
+msgid "Manage Social Icons"
+msgstr ""
+
+#: page-templates/about-us.php:90
+msgid "Please enter your email."
+msgstr ""
+
+#: page-templates/contact-page.php:88
+msgid "Choose service category"
+msgstr ""
+
+#: page-templates/contact-page.php:139
+msgid "SEND MESSAGE"
+msgstr ""

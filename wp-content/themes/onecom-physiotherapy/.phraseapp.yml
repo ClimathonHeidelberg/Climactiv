@@ -1,0 +1,26 @@
+phraseapp:
+  project_id: a442f264c41bee70e40736df8693c713
+  file_format: gettext
+  push:
+    sources:
+      - file: ./languages/en_US.po
+      - file: ./option-tree/languages/en_US.po
+        params:
+          locale_id: 718c737e76dd3a0a2c4d6f52fb7612b9
+          update_translations: true
+          update_descriptions: true
+          tags: wp.theme.physiotherapy
+          skip_unverification: false
+
+      - file: ./languages/*.po
+      - file: ./option-tree/languages/*.po
+
+
+  pull:
+    targets:
+      - file: ./languages/<locale_name>.po
+      - file: ./languages/<locale_name>.mo
+      - file: ./option-tree/languages/<locale_name>.po
+      - file: ./option-tree/languages/<locale_name>.mo
+        params:
+          file_format: gettext_mo

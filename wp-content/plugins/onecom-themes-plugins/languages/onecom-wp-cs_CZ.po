@@ -1,0 +1,4917 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2019-10-17 17:43+0530\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: cs_CZ\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Poedit 2.1.1\n"
+
+#: inc/functions.php:126 inc/functions.php:338 modules/notices.php:61
+msgid "Connection timed out"
+msgstr "Vypršel časový limit připojení"
+
+#: inc/functions.php:151
+msgid ""
+"Sorry, no compatible themes found for your version of WordPress and PHP."
+msgstr ""
+"Je nám líto, ale nebyla nalezena žádná kompatibilní témata pro vaši verzi "
+"aplikace WordPress a PHP."
+
+#: inc/functions.php:151 inc/functions.php:377
+msgid "Try again"
+msgstr "Zkuste to znovu"
+
+#: inc/functions.php:197
+msgid "WordPress is being upgraded. Please try again later."
+msgstr "WordPress se upgraduje. Zkuste to znovu později."
+
+#: inc/functions.php:212
+msgid "Installing theme"
+msgstr "Instalace tématu"
+
+#: inc/functions.php:232 inc/functions.php:566
+msgid "Something went wrong. Please contact the support at One.com."
+msgstr "Něco se pokazilo. Kontaktujte podporu One.com."
+
+#: inc/functions.php:246 inc/functions.php:583
+msgid ""
+"Unable to connect to the file system. Please contact the support at One.com."
+msgstr "Nelze se připojit k systému souborů. Kontaktujte podporu One.com."
+
+#: inc/functions.php:261
+msgid "Theme installed successfully"
+msgstr "Téma bylo úspěšně nainstalováno"
+
+#: inc/functions.php:264 inc/functions.php:279 inc/functions.php:606
+#: inc/functions.php:608 templates/network/plugin-listing.php:87
+#: templates/network/plugin-listing.php:89
+#: templates/network/recommended-plugin-listing.php:100
+#: templates/network/theme-listing-loop.php:85
+#: templates/network/theme-listing-loop.php:87 templates/plugin-listing.php:86
+#: templates/plugin-listing.php:88 templates/recommended-plugin-listing.php:99
+#: templates/theme-listing-loop.php:82 templates/theme-listing-loop.php:84
+msgid "Activate"
+msgstr "Aktivovat"
+
+#: inc/functions.php:377
+msgid ""
+"Sorry, no compatible plugins found with your version of WordPress and PHP."
+msgstr ""
+"Je nám líto, ale nebyly nalezeny žádné kompatibilní moduly plug-in pro vaši "
+"verzi aplikace WordPress a PHP."
+
+#: inc/functions.php:547
+msgid "Installing plugin"
+msgstr "Instaluje se modul plug-in"
+
+#: inc/functions.php:598
+msgid "Plugin installed successfully"
+msgstr "Modul plug-in byl úspěšně nainstalován"
+
+#: inc/update.php:167
+msgid "View details"
+msgstr ""
+
+#: modules/cookie-banner/inc/functions.php:22
+#: modules/cookie-banner/inc/functions.php:23
+#: modules/cookie-banner/templates/oc_cookie_banner_admin.php:3
+msgid "Cookie Banner"
+msgstr "Banner s informací o cookies"
+
+# This message will become visible if a user has installed our "One.com Analytics and Online Marketing" plugin, but doesn't yet have a cookie banner.
+# ___________________________________________________
+#: modules/cookie-banner/inc/functions.php:173
+msgid ""
+"Since you are using One.com Analytics plugin, we recommend that you enable a "
+"cookie banner. This banner tells your visitors about your site storing data "
+"about them."
+msgstr ""
+"Plugin Analytics a Online Marketing na One.com, který používáte, dodává na "
+"vaše stránky tracking cookies. Doporučujeme použít cookie banner a o cookies "
+"návštěvníky vašich stránek informovat."
+
+#: modules/cookie-banner/inc/functions.php:178
+msgid "Setup cookie banner"
+msgstr "Nakonfigurovat banner s informací o cookies"
+
+#: modules/cookie-banner/inc/functions.php:179
+msgid "Skip setup"
+msgstr "Přeskočit konfiguraci"
+
+#: modules/cookie-banner/templates/oc_cookie_banner_admin.php:16
+msgid ""
+"This website uses cookies. By continuing to use this site, you accept our "
+"use of cookies."
+msgstr ""
+"Tento web používá soubory cookie. Pokračováním na našich stránkách s tím "
+"souhlasíte."
+
+#: modules/cookie-banner/templates/oc_cookie_banner_admin.php:18
+#: modules/cookie-banner/templates/oc_cookie_banner_admin.php:85
+#: modules/cookie-banner/templates/oc_cookie_banner_admin.php:101
+msgid "Learn more"
+msgstr "Zjistit více informací"
+
+#: modules/cookie-banner/templates/oc_cookie_banner_admin.php:20
+#: modules/cookie-banner/templates/oc_cookie_banner_admin.php:116
+msgid "Accept"
+msgstr "Přijmout"
+
+#: modules/cookie-banner/templates/oc_cookie_banner_admin.php:75
+msgid "Enable cookie banner"
+msgstr "Aktivovat banner s informací o cookies"
+
+#: modules/cookie-banner/templates/oc_cookie_banner_admin.php:77
+msgid ""
+"Show a banner on your website to inform visitors about cookies and get their "
+"consent."
+msgstr ""
+"Zobrazte na svém webu banner, který bude informovat návštěvníky o cookies a "
+"umožní jim potvrdit souhlas."
+
+#: modules/cookie-banner/templates/oc_cookie_banner_admin.php:82
+msgid "Banner text"
+msgstr "Text banneru"
+
+#: modules/cookie-banner/templates/oc_cookie_banner_admin.php:83
+msgid "Add a text asking your users to accept cookies."
+msgstr "Přidejte text s výzvou k odsouhlasení souborů cookie pro návštěvníky."
+
+#: modules/cookie-banner/templates/oc_cookie_banner_admin.php:85
+msgid ""
+"Cookie requirements vary. This default text is for general use but may not "
+"meet your particular legal requirements."
+msgstr ""
+"Požadavky na soubory cookie mohou být různé. Tento výchozí text je "
+"univerzálně použitelný, ale nemusí vyhovovat vašim konkrétním zákonným "
+"požadavkům."
+
+#: modules/cookie-banner/templates/oc_cookie_banner_admin.php:89
+msgid "Cookie policy link (Optional)"
+msgstr "Odkaz na zásady používání souborů cookie (nepovinné)"
+
+#: modules/cookie-banner/templates/oc_cookie_banner_admin.php:92
+msgid "Add a link to your cookie policy"
+msgstr "Přidejte odkaz na své zásady používání souborů cookie"
+
+#: modules/cookie-banner/templates/oc_cookie_banner_admin.php:94
+msgid ""
+"Your privacy policy can contain information about which cookies you use, so "
+"visitors can read more about what you collect information about."
+msgstr ""
+"Vaše zásady ochrany osobních údajů mohou obsahovat informace o tom, které "
+"soubory cookie používáte, aby návštěvníci mohli zjistit, které údaje "
+"shromažďujete a za jakým účelem."
+
+#: modules/cookie-banner/templates/oc_cookie_banner_admin.php:95
+msgid "What should be included in my cookie policy?"
+msgstr "Jak vytvořit základy ochrany osobních údajů"
+
+#: modules/cookie-banner/templates/oc_cookie_banner_admin.php:100
+msgid "Link text"
+msgstr "Text odkazu"
+
+#: modules/cookie-banner/templates/oc_cookie_banner_admin.php:105
+msgid "Link URL"
+msgstr "URL odkazu"
+
+#: modules/cookie-banner/templates/oc_cookie_banner_admin.php:108
+msgid "You can link to any page on your website or even add an external link."
+msgstr ""
+"Můžete odkazovat na libovolnou stránku na svém webu, dokonce i přidat "
+"externí odkaz."
+
+#: modules/cookie-banner/templates/oc_cookie_banner_admin.php:115
+msgid "Button text"
+msgstr "Text tlačítka"
+
+#: modules/cookie-banner/templates/oc_cookie_banner_admin.php:118
+msgid "This is the text that appears on the button that activates cookies."
+msgstr "Tento text se objeví na tlačítku, kterým se aktivují soubory cookie."
+
+#: modules/cookie-banner/templates/oc_cookie_banner_admin.php:122
+msgid "Banner style"
+msgstr "Styl banneru"
+
+#: modules/cookie-banner/templates/oc_cookie_banner_admin.php:124
+msgid "Grey"
+msgstr "Šedá"
+
+#: modules/cookie-banner/templates/oc_cookie_banner_admin.php:125
+msgid "Black"
+msgstr "Černý"
+
+#: modules/cookie-banner/templates/oc_cookie_banner_admin.php:126
+msgid "White"
+msgstr "Bílá"
+
+#: modules/cookie-banner/templates/oc_cookie_banner_admin.php:140
+msgid "Tip"
+msgstr "Tip"
+
+# Message in WordPress, reminding users to empty the cache when enabling a cookie banner.
+#
+# _________________________________________________________________
+#: modules/cookie-banner/templates/oc_cookie_banner_admin.php:140
+msgid "Remember to delete cache in case you are using any caching plugin."
+msgstr "Pokud používáte cachovací plugin, nezapomeňte cache vyprázdnit."
+
+#: modules/cookie-banner/templates/oc_cookie_banner_admin.php:142
+msgid "Purge Performance Cache"
+msgstr "Vyčistit Performance Cache"
+
+# "Cancel" and go back, or "Save" your settings.
+#
+# ____________________________
+# Reference for developers:
+#
+#: modules/cookie-banner/templates/oc_cookie_banner_admin.php:149
+msgid "Save"
+msgstr "Uložit"
+
+# IMPORTANT!!!!
+#
+# This is the NAME of the feature. Try to keep it short and clean and to the point. If there is no good version in your language, use the English one, or a variant thereof.
+#
+# The Health Monitor checks a WordPress site for vulnerabilities and if its overall performance is good. Issues are reported, with information on how to fix it.
+# ________________________________________
+#
+#
+#: modules/health-monitor/inc/functions.php:14
+#: modules/health-monitor/inc/functions.php:15
+#: modules/health-monitor/templates/oc_sh_health_monitor.php:11
+#: onecom-themes-plugins.php:661
+msgid "Health Monitor"
+msgstr "Monitor stavu"
+
+#: modules/health-monitor/inc/functions.php:42
+#: modules/health-monitor/inc/widgets.php:43
+msgid "Scan again"
+msgstr "Skenovat znovu"
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# This is the part where we explain what needs to be fixed, and link to a guide with more information, or link to our chatsupport (in case the customer cannot solve it without our help).
+#
+# The text in between the place holders will be the link text -> %slinktext%s
+# ________________________________________
+#
+#
+#: modules/health-monitor/inc/functions.php:63
+#: modules/health-monitor/templates/oc_sh_health_monitor.php:93
+#, php-format
+msgid ""
+"You can disable PHP error reporting in the One.com control panel and "
+"WordPress debugging in the wp.config.php file. Check these two guides for "
+"more details on how to manage these settings: %sHow do I enable error "
+"messages for PHP?%s and %sHow do I enable debugging in WordPress?%s"
+msgstr ""
+"Hlášení chyb PHP můžete deaktivovat v ovládacím panelu One.com a ladění "
+"WordPress v souboru wp.config.php. Podívejte se na tyto dva průvodce, kde "
+"jsou uvedeny další informace o správě tohoto nastavení: %sJak aktivuji "
+"chybová hlášení pro PHP?%s a %sJak aktivuji ladění v systému WordPress?%s"
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# The message will be shown when a state is all good. It's a header, so no full stop.
+# ________________________________________
+#
+#: modules/health-monitor/inc/functions.php:70
+msgid "This is configured properly!"
+msgstr "Hlášení chyb a režim ladění jsou neaktivní"
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# This is the part where we explain what needs to be fixed, and link to a guide with more information, or link to our chatsupport (in case the customer cannot solve it without our help).
+# ________________________________________
+#
+#
+#: modules/health-monitor/inc/functions.php:93
+#, php-format
+msgid ""
+"You are running an outdated version of PHP. We recommend using the latest "
+"version of PHP. %sHow do I update PHP for my WordPress site?%s"
+msgstr ""
+"PHP můžete aktualizovat z ovládacího panelu One.com v části PHP a databáze – "
+"MariaDB. Další informace uvádí náš průvodce: %sJak aktualizuji PHP pro svůj "
+"web WordPress?%s."
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# The message will be shown when a state is all good. It's a header, so no full stop.
+# ________________________________________
+#: modules/health-monitor/inc/functions.php:100
+msgid "You have the latest PHP version enabled!"
+msgstr "Používáte doporučenou verzi PHP"
+
+#
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# This is the part where we explain what needs to be fixed, and link to a guide with more information, or link to our chatsupport (in case the customer cannot solve it without our help).
+#
+# The text in between the place holders will be the link text -> %slinktext%s
+# ________________________________________
+#
+#: modules/health-monitor/inc/functions.php:128
+#, php-format
+msgid ""
+"One or more of your plugins are outdated. Outdated plugins make your site "
+"vulnerable to security attacks. %sUpdate your Plugins to the newest version%s"
+msgstr ""
+"Aktualizujte si pluginy na nejnovější verzi. Doporučujeme odebrat všechny "
+"pluginy, které neplánujete používat. Další pokyny uvádí tento průvodce:  "
+"%sJak aktualizuji CMS, jako je WordPress?%s"
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# The message will be shown when a state is all good. It's a header, so no full stop.
+# ________________________________________
+#: modules/health-monitor/inc/functions.php:135
+msgid "All your plugins are updated"
+msgstr "Všechny pluginy máte aktuální"
+
+#
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# This is the part where we explain what needs to be fixed, and link to a guide with more information, or link to our chatsupport (in case the customer cannot solve it without our help).
+#
+# The text in between the place holders will be the link text -> %slinktext%s
+# ________________________________________
+#
+#: modules/health-monitor/inc/functions.php:163
+#, php-format
+msgid ""
+"One or more of your installed themes are outdated. Using outdated themes can "
+"break your site and generate potential security risks. %sUpdate your Themes "
+"to the newest version%s"
+msgstr ""
+"Aktualizujte si motivy na nejnovější verzi. Doporučujeme odebrat všechny "
+"motivy, které neplánujete používat. Další pokyny uvádí tento průvodce:  "
+"%sJak aktualizuji CMS, jako je WordPress?%s"
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# The message will be shown when a state is all good. It's a header, so no full stop.
+# ________________________________________
+#: modules/health-monitor/inc/functions.php:170
+msgid "All your themes are updated!"
+msgstr "Všechny motivy máte aktuální"
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# This is the part where we explain what needs to be fixed, and link to a guide with more information, or link to our chatsupport (in case the customer cannot solve it without our help).
+# ________________________________________
+#
+#
+#: modules/health-monitor/inc/functions.php:200
+#, php-format
+msgid ""
+"Update WordPress to the latest version, especially minor updates are "
+"important because they usually include security fixes. Check this guide for "
+"more instructions:  %sHow do I update a CMS like WordPress?%s"
+msgstr ""
+"Aktualizujte systém WordPress na nejnovější verzi. Důležité jsou zejména "
+"menší aktualizace, protože obvykle zahrnují bezpečnostní opravy. Další "
+"pokyny uvádí tento průvodce:  %sJak aktualizuji CMS, jako je WordPress?%s"
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# The message will be shown when a state is all good. It's a header, so no full stop.
+# ________________________________________
+#: modules/health-monitor/inc/functions.php:207
+msgid "Your WordPress version is updated"
+msgstr "Používáte nejnovější verzi platformy WordPress"
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# This is the part where we explain what needs to be fixed, and link to a guide with more information, or link to our chatsupport (in case the customer cannot solve it without our help).
+#
+# The text in between the place holders will be the link text -> %slinktext%s
+# ________________________________________
+#
+#
+#: modules/health-monitor/inc/functions.php:231
+#, php-format
+msgid ""
+"You are using default table prefix. This means that attackers can easily "
+"guess your database configuration. %sChange the table prefix for WordPress%s"
+msgstr ""
+"Je možná oprava změnou předpony tabulky na předponu podle vlastního výběru. "
+"Sestavili jsme pro vás průvodce, který uvádí příslušný postup: %sZměna "
+"předpony tabulky WordPress%s"
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# The message will be shown when a state is all good. It's a header, so no full stop.
+# ________________________________________
+#
+#: modules/health-monitor/inc/functions.php:238
+msgid "You are not using default table prefix"
+msgstr "Používáte vlastní předponu tabulky"
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# This is the part where we explain what needs to be fixed, and link to a guide with more information, or link to our chatsupport (in case the customer cannot solve it without our help).
+# ________________________________________
+#
+#
+#: modules/health-monitor/inc/functions.php:267
+#, php-format
+msgid ""
+"Wordpress core updates are disabled. This means that your site cannot be "
+"auto updated to latest minor updates of WordPress. %sEnable auto updates%s"
+msgstr ""
+"Znovu aktivujte menší aktualizace jádra, buď změnou nastavení v pluginu, "
+"který používáte pro správu aktualizací, nebo změnou nastavení v soboru wp-"
+"config. Chcete-li vědět, proč jsou aktualizace tak důležité, podívejte se na "
+"tohoto průvodce: %sProč je vhodné vždy aktualizovat WordPress%s"
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# The message will be shown when a state is all good. It's a header, so no full stop.
+# ________________________________________
+#
+#: modules/health-monitor/inc/functions.php:272
+msgid "Wordpress core updates are enabled"
+msgstr "Automatické aktualizace jádra jsou aktivní"
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# The message will be shown when a state is all good. It's a header, so no full stop.
+# ________________________________________
+#
+#: modules/health-monitor/inc/functions.php:292
+msgid "Connection to Wordpress.org was successful"
+msgstr "Připojení k serveru wordpress.org bylo úspěšné"
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# The message will be shown when a state is all good. It's a header, so no full stop.
+# ________________________________________
+#
+#: modules/health-monitor/inc/functions.php:313
+msgid "File editing from WordPress admin is disabled"
+msgstr "Upravování souborů správcem WordPress je neaktivní"
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# This is the part where we explain what needs to be fixed, and link to a guide with more information, or link to our chatsupport (in case the customer cannot solve it without our help).
+#
+# The text in between the place holders will be the link text -> %slinktext%s
+# ________________________________________
+#
+#
+#: modules/health-monitor/inc/functions.php:321
+#, php-format
+msgid ""
+"File editing from your WordPress dashboard is allowed, meaning users with a "
+"role that has this right can edit all the core files of your site. Someone "
+"might accidentally break it, or a hacker might get access to a password. "
+"%sDisable file editing in WordPress admin%s"
+msgstr ""
+"Je možná oprava přidáním řádku do souboru wp-config.php, který deaktivuje "
+"možnosti úprav z ovládacího panelu. Sestavili jsme průvodce s podrobnými "
+"pokyny: %sDeaktivujte úpravy souborů správcem WordPress%s."
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# This is the part where we explain what needs to be fixed, and link to a guide with more information, or link to our chatsupport (in case the customer cannot solve it without our help).
+# ________________________________________
+#
+#
+#: modules/health-monitor/inc/functions.php:352
+#, php-format
+msgid ""
+"One or more of your usernames is very common, like for example “admin”. "
+"These usernames are easy to guess and could be exploited by hackers. "
+"%sChange a WordPress username in PhpMyAdmin%s"
+msgstr ""
+"Změňte běžné uživatelské jméno na osobní, podle svého jména nebo přezdívky. "
+"Postup uvádí tento průvodce: %sZměna uživatelského jména WordPress ve správě "
+"PhpMyAdmin%s"
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# The message will be shown when a state is all good. It's a header, so no full stop.
+# ________________________________________
+#
+#: modules/health-monitor/inc/functions.php:359
+msgid "You are not using any common username. "
+msgstr "K přihlášení používáte vlastní uživatelská jména"
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# This is the part where we explain what needs to be fixed, and link to a guide with more information, or link to our chatsupport (in case the customer cannot solve it without our help).
+#
+# The text in between the place holders will be the link text -> %slinktext%s
+# ________________________________________
+#
+#
+#: modules/health-monitor/inc/functions.php:383
+#, php-format
+msgid ""
+"Your site isn’t using HTTPS. Visitors on your site might get a warning that "
+"your website isn’t secure and it can also have a negative effect on your SEO "
+"rating. %sContact support%s"
+msgstr ""
+"%sKontaktujte naši podporu%s, abychom se mohli podívat, kde je problém, a "
+"opravit jej."
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# The message will be shown when a state is all good. It's a header, so no full stop.
+# ________________________________________
+#: modules/health-monitor/inc/functions.php:390
+msgid "Your site has valid SSL certificate!"
+msgstr "Váš web má platný certifikát SSL"
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# This is the part where we explain what needs to be fixed, and link to a guide with more information, or link to our chatsupport (in case the customer cannot solve it without our help).
+#
+# The text in between the place holders will be the link text -> %slinktext%s
+# ________________________________________
+#
+#
+#: modules/health-monitor/inc/functions.php:425
+#, php-format
+msgid ""
+"File execution is allowed in your uploads folder. This means that an "
+"attacker can upload malware and execute it by simply trying to access it "
+"from their browser. %sDisable file execution in the WordPress uploads folder"
+"%s"
+msgstr ""
+"Spuštění souboru můžete deaktivovat přidáním fragmentu kódu do souboru ."
+"htaccess a jeho umístěním do složky s nahranými soubory. Podrobné pokyny "
+"uvádí tento průvodce: %sDeaktivace spouštění souborů ve složce WordPress s "
+"nahranými soubory%s"
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# The message will be shown when a state is all good. It's a header, so no full stop.
+# ________________________________________
+#
+#: modules/health-monitor/inc/functions.php:432
+msgid "File execution is blocked in \"Uploads\" folder."
+msgstr ""
+"Složku s nahranými soubory máte chráněnou proti spouštění škodlivých souborů"
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# This is the part where we explain what needs to be fixed, and link to a guide with more information, or link to our chatsupport (in case the customer cannot solve it without our help).
+#
+# The text in between the place holders will be the link text -> %slinktext%s
+# ________________________________________
+#
+#
+#: modules/health-monitor/inc/functions.php:484
+#, php-format
+msgid ""
+"One or more of your plugins is on the list of plugins we advise against "
+"using. Plugins on this list have a negative effect on the performance of "
+"your site, or pose a security risk. Deactivate %sDiscouraged WordPress "
+"plugins%s"
+msgstr ""
+"Odebrete nedoporučené pluginy z instalace WordPress. Pluginů jsou tisíce, "
+"takže náhradu se stejnými funkcemi byste neměli hledat dlouho. Zde najdete "
+"úplný seznam pluginů, které nedoporučujeme: %sNedoporučené pluginy WordPress"
+"%s. "
+
+#: modules/health-monitor/inc/functions.php:491
+#: templates/discouraged-plugin-listing.php:58
+#: templates/network/discouraged-plugin-listing.php:58
+msgid ""
+"You are doing great! None of your installed plugins, are on our list of "
+"discouraged plugins."
+msgstr ""
+"Vedete si skvěle! Žádný z vašich nainstalovaných modulů plug-in se nenachází "
+"na našem seznamu nedoporučovaných modulů."
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# This is the part where we explain what needs to be fixed, and link to a guide with more information, or link to our chatsupport (in case the customer cannot solve it without our help).
+#
+# The text in between the place holders will be the link text -> %slinktext%s
+# ________________________________________
+#
+#
+#: modules/health-monitor/inc/functions.php:523
+#, php-format
+msgid ""
+"Your file and folder permissions are not set correctly. If they are too "
+"strict you get errors on your site, if they are too loose this poses a "
+"security risk. %sChange the file permissions via an FTP client%s"
+msgstr ""
+"Je možná oprava změnou oprávnění pro soubory na 755 a pro složky na 644 "
+"pomocí klienta FTP. Podrobné pokyny uvádí tento průvodce:  %sZměna oprávnění "
+"k souborům pomocí klienta FTP%s"
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# The message will be shown when a state is all good. It's a header, so no full stop.
+# ________________________________________
+#
+#: modules/health-monitor/inc/functions.php:530
+msgid "Correct file permissions."
+msgstr "Oprávnění pro soubory jsou nastavena správně"
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# This is the part where we explain what needs to be fixed, and link to a guide with more information, or link to our chatsupport (in case the customer cannot solve it without our help).
+#
+# The text in between the place holders will be the link text -> %slinktext%s
+# ________________________________________
+#
+#
+#: modules/health-monitor/inc/functions.php:585
+#: modules/health-monitor/inc/functions.php:593
+msgid ""
+"Your site could not connect to wordpress.org, which means background updates "
+"may not be working properly. %Contact support%s"
+msgstr ""
+"Můžete deaktivovat všechny pluginy a motivy a provést nové skenování, a "
+"zjistit tak, zda bylo připojení k serveru wordpress.org obnoveno. Pokud ano, "
+"aktivujte pluginy jeden po druhém. Najdete tak příčinu problémů. Pokud ne, "
+"%skontaktujte naši podporu na chatu%s."
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# The message will be shown when a state is all good. It's a header, so no full stop.
+# ________________________________________
+#
+#: modules/health-monitor/inc/functions.php:600
+msgid "Background updates are working properly."
+msgstr "Aktualizace na pozadí jsou aktivní a fungují správně"
+
+# IMPORTANT!!!!
+#
+# This is the NAME of the feature. Try to keep it short and clean and to the point. If there is no good version in your language, use the English one, or a variant thereof. Make sure you are consistent, there are 4 keys that have Health Monitor.
+#
+# The Health Monitor checks a WordPress site for vulnerabilities and if its overall performance is good. Issues are reported, with information on how to fix it.
+#
+#: modules/health-monitor/inc/widgets.php:12
+msgid "One.com Health Monitor"
+msgstr "Monitor stavu One.com"
+
+#: modules/health-monitor/inc/widgets.php:32
+msgid "Scan now"
+msgstr "Skenovat"
+
+# Make sure that you use the same term as you used for the name. This text isn't visible yet, but it will show the percentage of health after this. 100% means no issues.
+#
+#: modules/health-monitor/inc/widgets.php:43
+msgid "Health Monitor score is"
+msgstr "Skóre Monitoru stavu je"
+
+# This relates to the last time that the Health Monitor scan was done. It will be followed by a date.
+#
+# ______________________________________
+#
+#: modules/health-monitor/inc/widgets.php:43
+msgid "Last checked on"
+msgstr "Poslední kontrola"
+
+# Description of the Health Monitor feature, make sure to use the same term as for the name.
+#
+#
+# ________________________________
+#
+#: modules/health-monitor/templates/oc_sh_health_monitor.php:14
+msgid ""
+"Health Monitor lets you monitor the essential security checkpoints and fix "
+"them if needed."
+msgstr ""
+"Monitor stavu vyhledává na vašem webu potenciální bezpečnostní problémy a "
+"kontroluje jeho celkový stav. "
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# The message will be shown when something failed, it's header so no full stop.
+# ________________________________________
+#
+#: modules/health-monitor/templates/oc_sh_health_monitor.php:25
+msgid "PHP version"
+msgstr "Nepoužíváte doporučenou verzi PHP"
+
+#: modules/health-monitor/templates/oc_sh_health_monitor.php:29
+#: onecom-themes-plugins.php:337 onecom-themes-plugins.php:338
+#: onecom-themes-plugins.php:345 onecom-themes-plugins.php:346
+#: onecom-themes-plugins.php:353 onecom-themes-plugins.php:354
+#: onecom-themes-plugins.php:398 onecom-themes-plugins.php:401
+#: onecom-themes-plugins.php:412 onecom-themes-plugins.php:664
+msgid "Plugins"
+msgstr "Moduly plug-in"
+
+#: modules/health-monitor/templates/oc_sh_health_monitor.php:33
+#: onecom-themes-plugins.php:329 onecom-themes-plugins.php:330
+#: onecom-themes-plugins.php:387 onecom-themes-plugins.php:390
+#: onecom-themes-plugins.php:663
+msgid "Themes"
+msgstr "Témata"
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# The message will be shown when something failed, it's header so no full stop.
+# ________________________________________
+#
+#: modules/health-monitor/templates/oc_sh_health_monitor.php:37
+msgid "WordPress version"
+msgstr "Nepoužíváte doporučenou verzi platformy WordPress"
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# The message will be shown when something failed, it's header so no full stop.
+# ________________________________________
+#
+#
+#: modules/health-monitor/templates/oc_sh_health_monitor.php:41
+msgid "Connection to Wordpress.org"
+msgstr "Připojení k serveru wordpress.org se nezdařilo"
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# The message will be shown when something failed, it's header so no full stop.
+# ________________________________________
+#
+#: modules/health-monitor/templates/oc_sh_health_monitor.php:45
+msgid "WordPress core updates"
+msgstr "Automatické aktualizace jádra WordPress jsou neaktivní"
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# The message will be shown when something failed, it's header so no full stop.
+# ________________________________________
+#
+#: modules/health-monitor/templates/oc_sh_health_monitor.php:49
+msgid "SSL certificate"
+msgstr "Váš web nemá funkční certifikát SSL"
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# The message will be shown when something failed, it's header so no full stop.
+# ________________________________________
+#
+#: modules/health-monitor/templates/oc_sh_health_monitor.php:53
+msgid "File execution in uploads"
+msgstr "Spouštění souborů ve složce nahraných souborů je aktivní"
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# The message will be shown when something failed, it's header so no full stop.
+# ________________________________________
+#
+#: modules/health-monitor/templates/oc_sh_health_monitor.php:58
+msgid "WP file directory and files permissions"
+msgstr "Váš web má nesprávná oprávnění pro soubory a složky"
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# The message will be shown when something failed, it's header so no full stop.
+# ________________________________________
+#
+#: modules/health-monitor/templates/oc_sh_health_monitor.php:63
+msgid "Database security"
+msgstr "Vaše databáze je zranitelná vůči útokům"
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# The message will be shown when something failed, it's header so no full stop.
+# ________________________________________
+#
+#: modules/health-monitor/templates/oc_sh_health_monitor.php:67
+msgid "File editing from admin"
+msgstr "Úpravy souborů správcem WordPress jsou aktivní"
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# The message will be shown when something failed, it's header so no full stop.
+# ________________________________________
+#
+#: modules/health-monitor/templates/oc_sh_health_monitor.php:71
+msgid "Insecure usernames"
+msgstr "Používáte obecné uživatelské jméno, které lze snadno uhodnout"
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# The message will be shown when something failed, it's header so no full stop.
+# ________________________________________
+#
+#: modules/health-monitor/templates/oc_sh_health_monitor.php:75
+msgid "Using discouraged plugins"
+msgstr "Používáte nejméně jeden plugin, který nedoporučujeme"
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# The message will be shown when something failed, it's header so no full stop.
+# ________________________________________
+#
+#: modules/health-monitor/templates/oc_sh_health_monitor.php:85
+#: modules/health-monitor/templates/oc_sh_health_monitor.php:103
+msgid "Debug mode/Error reporting"
+msgstr "Váš web je nakonfigurován, aby zobrazoval chyby návštěvníkům"
+
+#: modules/notice-discouraged-plugins.php:90
+#, php-format
+msgid ""
+"The plugin <strong>%s</strong>, that you are using, creates a lot of large "
+"temporary files causing high load on our servers and possible time-outs on "
+"your site.<br/>We strongly advise you to deactivate it. If you keep on using "
+"this plugin we may be forced to suspend your site. "
+msgstr ""
+"Modul plug-in <strong>%s</strong>, který používáte, vytváří mnoho velkých "
+"dočasných souborů, které zatěžují naše servery a mohou způsobovat výpadky "
+"vašeho webu.<br/>Důrazně proto doporučujeme jej deaktivovat. Pokud budete "
+"tento modul plug-in nadále používat, budeme nuceni váš web pozastavit. "
+
+#: modules/notice-discouraged-plugins.php:93
+#: templates/discouraged-plugin-listing.php:79
+#: templates/network/discouraged-plugin-listing.php:79
+msgid "Deactivate"
+msgstr "Deaktivovat"
+
+#: modules/notice-discouraged-plugins.php:101 modules/notices.php:101
+msgid ""
+"You are using one or more plugins from the list of plugins we discourage. We "
+"recommend that you deactivate them, to ensure the best performance of your "
+"website. "
+msgstr ""
+"Používáte minimálně jeden modul plug-in ze seznamu modulů plug-in, které "
+"nedoporučujeme používat. Abyste si zajistili optimální fungování webu, "
+"raději tyto moduly plug-in deaktivujte. "
+
+#: modules/notice-discouraged-plugins.php:104 modules/notices.php:105
+msgid "View discouraged plugins"
+msgstr "Zobrazit nedoporučované moduly plug-in"
+
+#: onecom-themes-plugins.php:319 onecom-themes-plugins.php:320
+#: onecom-themes-plugins.php:375 onecom-themes-plugins.php:378
+msgid "One.com"
+msgstr "One.com"
+
+#: onecom-themes-plugins.php:409 onecom-themes-plugins.php:662
+#: staging/Includes/Core/Administrator.php:96
+#: staging/Includes/Core/Administrator.php:97
+#: staging/Includes/Core/Administrator.php:110
+#: staging/Includes/Core/Administrator.php:111
+msgid "Staging"
+msgstr ""
+
+#: onecom-themes-plugins.php:423
+msgid "One.com Control Panel"
+msgstr "Ovládací panel One.com"
+
+#: onecom-themes-plugins.php:426
+msgid "Go to Control Panel at One.com"
+msgstr "Přejít k ovládacímu panelu One.com"
+
+#: onecom-themes-plugins.php:440
+msgid "One.com Guides & FAQ"
+msgstr "One.com – průvodci a často kladené dotazy"
+
+#: onecom-themes-plugins.php:443
+msgid "Go to Guides & FAQ at One.com"
+msgstr "Přejít do sekce Průvodci a často kladené dotazy na One.com"
+
+#: staging/Includes/Core/Jobs/Directories.php:281
+#, php-format
+msgid "Unable to open %s with mode %s"
+msgstr ""
+
+#: staging/Includes/Core/Jobs/Directories.php:300
+#, php-format
+msgid "Unable to write to: %s"
+msgstr ""
+
+#: staging/Includes/Core/Jobs/Directories.php:304
+msgid "Out of disk space."
+msgstr ""
+
+#: staging/Includes/Core/views/ajax/scan.php:2
+msgid "Staging Site Name:"
+msgstr ""
+
+#: staging/Includes/Core/views/ajax/scan.php:8
+msgid ""
+"<br>Probably not enough free disk space to create a staging site. <br> You "
+"can continue but its likely that the copying process will fail."
+msgstr ""
+
+#: staging/Includes/Core/views/ajax/scan.php:18
+msgid "DB Tables"
+msgstr ""
+
+#: staging/Includes/Core/views/ajax/scan.php:21
+msgid "Files"
+msgstr ""
+
+#: staging/Includes/Core/views/ajax/scan.php:35
+msgid "Please Deselect the tables you dont want to copy."
+msgstr ""
+
+#: staging/Includes/Core/views/ajax/scan.php:76
+msgid ""
+"Uncheck the folders you do not want to copy. Click on them for expanding!"
+msgstr ""
+
+#: staging/Includes/Core/views/ajax/scan.php:83
+msgid "Extra directories to copy"
+msgstr ""
+
+#: staging/Includes/Core/views/ajax/scan.php:91
+msgid ""
+"Enter one folder path per line.<br>Folders must start with absolute path: "
+msgstr ""
+
+#: staging/Includes/Core/views/ajax/scan.php:103
+msgid "All files will be copied to: "
+msgstr ""
+
+#: staging/Includes/Core/views/ajax/staging_details.php:13
+msgid "Your staging site"
+msgstr "Váš pracovní web"
+
+#: staging/Includes/Core/views/ajax/staging_details.php:15
+msgid "Staging site broken"
+msgstr "Pracovní web je nefunkční"
+
+#: staging/Includes/Core/views/ajax/staging_details.php:21
+msgid "Staging Frontend:"
+msgstr "Pracovní frontend:"
+
+#: staging/Includes/Core/views/ajax/staging_details.php:22
+msgid "Staging Backend:"
+msgstr "Pracovní backend:"
+
+#: staging/Includes/Core/views/ajax/staging_details.php:27
+msgid ""
+"We have detected that your staging site is broken due to missing database "
+"table(s) and/or directory(s)."
+msgstr ""
+"Zjistili jsme, že váš pracovní web je nefunkční kvůli chybějícím databázovým "
+"tabulkám a/nebo adresářům."
+
+#: staging/Includes/Core/views/ajax/staging_details.php:28
+msgid "Click on \"Rebuild Staging\" to regenerate your staging site."
+msgstr ""
+"Kliknutím na „Rebuild staging“ (Aktualizovat pracovní verzi) obnovíte "
+"pracovní web."
+
+#: staging/Includes/Core/views/ajax/staging_details.php:43
+msgid ""
+"The staging website is a copy of your live website, where you can test new "
+"plugins and themes without affecting your live website."
+msgstr ""
+"Pracovní web je kopie ostré verze vašich stránek, v níž můžete testovat nové "
+"moduly plug-in a motivy, aniž by to ovlivnilo ostrou verzi vašeho webu."
+
+#: staging/Includes/Core/views/ajax/staging_details.php:44
+msgid ""
+"Only one staging version can be created for each website. When you rebuild a "
+"staging website, any existing staging site will be replaced with a new "
+"snapshot of your live website."
+msgstr ""
+"Pro každý web je možné vytvořit pouze jednu pracovní verzi. Když resetujete "
+"pracovní verzi webu, stávající pracovní verze bude nahrazena novým snímkem "
+"ostré verze webu."
+
+#: staging/Includes/Core/views/ajax/staging_details.php:45
+msgid ""
+"The login details for the staging backend are the same as for the live "
+"website."
+msgstr ""
+"Přihlašovací údaje pro pracovní backend jsou shodné s údaji pro ostrou verzi "
+"webu."
+
+#: staging/Includes/Core/views/ajax/staging_details.php:47
+msgid ""
+"Caution: Rebuilding will overwrite all files and the database of your "
+"existing staging website."
+msgstr ""
+"Pozor: Při resetu se přepíší všechny soubory a databáze vašeho stávajícího "
+"pracovního webu."
+
+#: staging/Includes/Core/views/ajax/staging_details.php:50
+#: staging/Includes/Core/views/live.php:51
+#: staging/Includes/Core/views/staging.php:32
+msgid "Need help?"
+msgstr "Potřebovat pomoc?"
+
+#: staging/Includes/Core/views/ajax/staging_details.php:52
+#: staging/Includes/Core/views/ajax/staging_details.php:53
+#: staging/Includes/Core/views/includes/footer.php:14
+#: staging/Includes/Core/views/includes/footer.php:29
+#: staging/Includes/Core/views/includes/footer.php:44
+#: staging/Includes/Core/views/includes/footer.php:62
+#: staging/Includes/Core/views/staging.php:34
+msgid "Are you sure?"
+msgstr "Jste si jist/a?"
+
+#: staging/Includes/Core/views/ajax/staging_details.php:52
+msgid "Rebuild Staging"
+msgstr "Resetovat pracovní verzi"
+
+#: staging/Includes/Core/views/ajax/staging_details.php:53
+msgid "Delete Staging"
+msgstr "Vymazat pracovní verzi"
+
+#: staging/Includes/Core/views/blocked.php:14
+msgid "Staging feature not available."
+msgstr ""
+
+#: staging/Includes/Core/views/blocked.php:16
+msgid ""
+"Staging feature is not yet available for the following type of WordPress "
+"websites:"
+msgstr ""
+
+#: staging/Includes/Core/views/includes/footer.php:16
+msgid ""
+"This will overwrite your staging website with a copy of the files and "
+"database from your live website. All changes made in your staging website "
+"will be lost."
+msgstr ""
+"Dojde k přepsání vaší pracovní verze webu kopií souborů a databáze z ostré "
+"verze. Veškeré změny provedené v pracovní verzi webu se ztratí."
+
+#: staging/Includes/Core/views/includes/footer.php:19
+#: staging/Includes/Core/views/includes/footer.php:34
+#: staging/Includes/Core/views/includes/footer.php:50
+#: staging/Includes/Core/views/includes/footer.php:67
+msgid "OK"
+msgstr ""
+
+# "Cancel" and go back, or "Save" your settings.
+#
+# ____________________________
+# Reference for developers:
+#
+#: staging/Includes/Core/views/includes/footer.php:20
+#: staging/Includes/Core/views/includes/footer.php:35
+#: staging/Includes/Core/views/includes/footer.php:51
+#: staging/Includes/Core/views/includes/footer.php:68
+msgid "Cancel"
+msgstr "Zrušit"
+
+#: staging/Includes/Core/views/includes/footer.php:31
+msgid ""
+"This takes a snapshot of your blog and copies it to a \"staging area\" where "
+"you can test changes without affecting your live site. There's only one "
+"staging area, so every time you click this button the old staging area is "
+"lost forever, replaced with a snapshot of your live blog."
+msgstr ""
+
+#: staging/Includes/Core/views/includes/footer.php:46
+msgid "The staging site will be lost."
+msgstr "Přijdete o pracovní verzi webu."
+
+#: staging/Includes/Core/views/includes/footer.php:64
+msgid ""
+"This will overwrite your live website with a copy of the files and database "
+"from your staging website."
+msgstr ""
+"Dojde k přepsání vaší ostré verze webu kopií souborů a databáze z pracovní "
+"verze."
+
+#: staging/Includes/Core/views/includes/header.php:6
+msgid "One Staging"
+msgstr "One Staging"
+
+#: staging/Includes/Core/views/includes/header.php:8
+msgid "This is your Staging site."
+msgstr ""
+
+#: staging/Includes/Core/views/live.php:7
+msgid "Please wait, while we are copying your live site to the staging site."
+msgstr ""
+"Počkejte prosím, kopírujeme ostrou verzi vašeho webu do pracovní verze."
+
+#: staging/Includes/Core/views/live.php:15
+msgid "Please wait, while we are updating staging site."
+msgstr "Prosím, počkejte, když aktualizujeme stránku stagingu."
+
+#: staging/Includes/Core/views/live.php:21
+msgid "Please wait, while we are deleting staging site."
+msgstr ""
+
+#: staging/Includes/Core/views/live.php:47
+msgid ""
+"Create a staging version of your site to try out new plugins, themes and "
+"customizations"
+msgstr ""
+"Vytvořte si pracovní verzi svého webu a vyzkoušejte na ní nové moduly plug-"
+"in, motivy a přizpůsobení"
+
+#: staging/Includes/Core/views/live.php:48
+msgid ""
+"The staging environment allows you to make changes to your site, without it "
+"affecting the live version of your website. When you create a staging site, "
+"it will be a snapshot of your live website."
+msgstr ""
+"Pracovní prostředí vám umožňuje provádět na webu změny, aniž by to ovlivnilo "
+"ostrou verzi webu. Když vytvoříte pracovní web, stane se z něj snímek ostré "
+"verze webu."
+
+#: staging/Includes/Core/views/live.php:48
+msgid ""
+"You can use it as a playground to test new plugins and themes. Once you are "
+"satisfied with the result, you can copy all the changes to your live website "
+"with a single click."
+msgstr ""
+"Můžete jej používat jako „hřiště“ pro testování nových modulů plug-in a "
+"motivů. Až budete spokojeni s výsledkem, můžete veškeré provedené změny "
+"nakopírovat jedním kliknutím do ostré verze webu."
+
+#: staging/Includes/Core/views/live.php:49
+msgid "Please note"
+msgstr "Please note"
+
+#: staging/Includes/Core/views/live.php:49
+msgid ""
+"Plugins that are URL sensitive may not work as expected on the staging site."
+msgstr ""
+"Moduly plug-in, které rozlišují URL adresy, nemusí na pracovním webu správně "
+"fungovat."
+
+#: staging/Includes/Core/views/live.php:54
+msgid "Create staging site"
+msgstr "Vytvořit pracovní web"
+
+#: staging/Includes/Core/views/staging.php:6
+msgid "Please wait, while we are copying staging into live."
+msgstr ""
+
+#: staging/Includes/Core/views/staging.php:18
+msgid "Copy staging to your live site"
+msgstr "Kopírovat pracovní verzi do ostré verze webu"
+
+#: staging/Includes/Core/views/staging.php:22
+msgid ""
+"This is your staging website, a snapshot of your live website. Here you can "
+"test changes without affecting your live website."
+msgstr ""
+"Toto je vaše pracovní verze webu, tj. snímek ostré verze. Můžete zde "
+"testovat různé změny, aniž by to mělo vliv na ostrou verzi webu."
+
+#: staging/Includes/Core/views/staging.php:24
+msgid ""
+"When you copy from staging to live, the live website will get replaced with "
+"a snapshot of this staging website."
+msgstr ""
+
+#: staging/Includes/Core/views/staging.php:25
+msgid "Before you continue, please be aware of the following:"
+msgstr "Než budete pokračovat, mějte na paměti následující:"
+
+#: staging/Includes/Core/views/staging.php:28
+msgid "It is not possible to reverse this process."
+msgstr "Tento proces je nevratný."
+
+#: staging/Includes/Core/views/staging.php:29
+msgid ""
+"When you copy from staging to live, all data and files of your live website "
+"will be overwritten. This includes recently added posts, pages, media "
+"uploads and files."
+msgstr ""
+"When you copy from staging to live, all data and files of your live website "
+"will be overwritten. This includes recently added posts, pages, media "
+"uploads and files."
+
+#: staging/Includes/Core/views/staging.php:30
+msgid ""
+"It can take a couple of minutes for the copy to finish, so please do not "
+"close or navigate away from this page."
+msgstr ""
+"Dokončení kopírování může trvat několik minut, proto tuto stránku "
+"nezavírejte, ani z ní neodcházejte."
+
+#: staging/Includes/Core/views/staging.php:34
+msgid "Copy staging to live"
+msgstr "Kopírovat pracovní verzi do ostré verze webu"
+
+#: staging/Includes/Core/views/staging.php:39
+msgid "Live website details not found. Can not copy staging into live!"
+msgstr ""
+
+#: staging/one_staging.php:147
+msgid "Status"
+msgstr ""
+
+#: staging/one_staging.php:148
+msgid "Response"
+msgstr ""
+
+#: staging/one_staging.php:149
+msgid "Copied successfully."
+msgstr "Pracovní verze byla úspěšně vytvořena."
+
+#: staging/one_staging.php:150
+msgid "Something went wrong; please try again."
+msgstr "Něco se pokazilo. Kontaktujte podporu One.com."
+
+#: staging/one_staging.php:154
+msgid "Preparing..."
+msgstr "Probíhá příprava…"
+
+#: staging/one_staging.php:155
+msgid "Start copying..."
+msgstr "Zahájení kopírování…"
+
+#: staging/one_staging.php:156
+msgid "Copying database..."
+msgstr "Kopíruje se databáze…"
+
+#: staging/one_staging.php:157
+msgid "Preparing directories..."
+msgstr "Připravují se adresáře…"
+
+#: staging/one_staging.php:158
+msgid "Copying files..."
+msgstr "Kopírují se soubory…"
+
+#: staging/one_staging.php:159
+msgid "Updating database..."
+msgstr "Aktualizuje se databáze…"
+
+#: staging/one_staging.php:160
+msgid "Finalising..."
+msgstr "Finalising…"
+
+#: staging/one_staging.php:161
+msgid "Finished!"
+msgstr "Hotovo!"
+
+#: staging/one_staging.php:162
+msgid "Deleting staging..."
+msgstr "Odstraňuje se přípravný web…"
+
+#: templates/discouraged-plugin-listing.php:13
+#: templates/discouraged-plugin-listing.php:25
+#: templates/network/discouraged-plugin-listing.php:13
+#: templates/network/discouraged-plugin-listing.php:25
+#: templates/network/plugin-listing.php:25
+#: templates/network/recommended-plugin-listing.php:25
+#: templates/plugin-listing.php:25 templates/recommended-plugin-listing.php:25
+msgid "Discouraged plugins"
+msgstr "Nedoporučované moduly plug-in"
+
+#: templates/discouraged-plugin-listing.php:23
+#: templates/network/discouraged-plugin-listing.php:23
+#: templates/network/plugin-listing.php:23
+#: templates/network/recommended-plugin-listing.php:23
+#: templates/plugin-listing.php:23 templates/recommended-plugin-listing.php:23
+msgid "One.com plugins"
+msgstr "One.com – moduly plug-in"
+
+#: templates/discouraged-plugin-listing.php:24
+#: templates/network/discouraged-plugin-listing.php:24
+#: templates/network/plugin-listing.php:24
+#: templates/network/recommended-plugin-listing.php:24
+#: templates/plugin-listing.php:24 templates/recommended-plugin-listing.php:24
+msgid "Recommended plugins"
+msgstr "Doporučené moduly plug-in"
+
+#: templates/discouraged-plugin-listing.php:60
+#: templates/network/discouraged-plugin-listing.php:60
+msgid ""
+"Your WordPress site should work the best possible way. We checked the "
+"plugins on your website, and listed those we don't recommended you to use."
+msgstr ""
+"Váš web ve WordPressu by měl fungovat optimálně. Zkontrolovali jsme moduly "
+"plug-in na vašem webu a ve výpisu najdete ty, které nedoporučujeme používat."
+
+#: templates/discouraged-plugin-listing.php:60
+#: templates/network/discouraged-plugin-listing.php:60
+msgid "There are also some suggestions for alternative plugins to use instead."
+msgstr "Jsou zde uvedeny i alternativní doporučené moduly plug-in."
+
+#: templates/discouraged-plugin-listing.php:63
+#: templates/network/discouraged-plugin-listing.php:63
+msgid "View full list of discouraged plugins"
+msgstr "Zobrazit celý seznam nedoporučovaných modulů plug-in"
+
+#: templates/discouraged-plugin-listing.php:88
+#: templates/network/discouraged-plugin-listing.php:88
+msgid "Suggested alternative"
+msgstr "Doporučená alternativa"
+
+#: templates/discouraged-plugin-listing.php:88
+#: templates/network/discouraged-plugin-listing.php:88
+msgid "Suggested alternatives"
+msgstr "Doporučené alternativy"
+
+#: templates/discouraged-plugin-listing.php:117
+#: templates/network/discouraged-plugin-listing.php:117
+msgid "Yes, deactivate plugin"
+msgstr "Ano, deaktivovat modul plug-in"
+
+#: templates/discouraged-plugin-listing.php:117
+#: templates/network/discouraged-plugin-listing.php:117
+msgid "Not right now"
+msgstr "Teď ne"
+
+#: templates/discouraged-plugin-listing.php:119
+#: templates/network/discouraged-plugin-listing.php:119
+msgid "Are you sure that you want to deactivate this plugin?"
+msgstr "Opravdu chcete tento modul plug-in deaktivovat?"
+
+#: templates/discouraged-plugin-listing.php:121
+#: templates/network/discouraged-plugin-listing.php:121
+msgid "Deactivating a plugin can break functionality on your website."
+msgstr ""
+"Při deaktivaci modulu plug-in mohou některé součásti vašich stránek přestat "
+"fungovat."
+
+#: templates/network/plugin-listing.php:13 templates/plugin-listing.php:13
+msgid "Plugins that bring the One.com experience and services to WordPress."
+msgstr ""
+"Moduly plug-in, které propojují prostředí a služby One.com s WordPressem."
+
+#: templates/network/plugin-listing.php:84
+#: templates/network/recommended-plugin-listing.php:98
+#: templates/network/theme-listing-loop.php:75 templates/plugin-listing.php:83
+#: templates/recommended-plugin-listing.php:97
+#: templates/theme-listing-loop.php:72
+msgid "Active"
+msgstr "Aktivní"
+
+#: templates/network/plugin-listing.php:92
+#: templates/network/recommended-plugin-listing.php:102
+#: templates/plugin-listing.php:91 templates/recommended-plugin-listing.php:101
+msgid "Install now"
+msgstr "Nainstalovat nyní"
+
+#: templates/network/recommended-plugin-listing.php:13
+#: templates/recommended-plugin-listing.php:13
+msgid "Presenting some of our favorite WordPress plugins, curated for quality."
+msgstr ""
+"Představujeme některé z našich oblíbených modulů plug-in pro Wordpress, u "
+"kterých garantujeme kvalitu."
+
+#: templates/network/recommended-plugin-listing.php:110
+#: templates/recommended-plugin-listing.php:109
+msgid "More details"
+msgstr "Více detailů"
+
+#: templates/network/recommended-plugin-listing.php:117
+#: templates/recommended-plugin-listing.php:116
+msgid "By"
+msgstr "Autor"
+
+#: templates/network/theme-listing-loop.php:57
+#: templates/theme-listing-loop.php:50
+msgid "Preview"
+msgstr "Náhled"
+
+#: templates/network/theme-listing-loop.php:90
+#: templates/network/theme-listing.php:100 templates/theme-listing-loop.php:87
+#: templates/theme-listing.php:102
+msgid "Install"
+msgstr "Instalovat"
+
+#: templates/network/theme-listing.php:14 templates/theme-listing.php:14
+msgid "Exclusive themes specially crafted for One.com customers."
+msgstr "Exkluzivní témata navržená speciálně na míru zákazníkům One.com."
+
+#: templates/network/theme-listing.php:35
+#: templates/network/theme-listing.php:37
+#: templates/network/theme-listing.php:49 templates/theme-listing.php:31
+#: templates/theme-listing.php:33 templates/theme-listing.php:45
+msgid "All"
+msgstr "Vše"
+
+#: templates/network/theme-listing.php:38
+#: templates/network/theme-listing.php:50 templates/theme-listing.php:34
+#: templates/theme-listing.php:46
+msgid "Blog"
+msgstr "Blog"
+
+#: templates/network/theme-listing.php:39
+#: templates/network/theme-listing.php:51 templates/theme-listing.php:35
+#: templates/theme-listing.php:47
+msgid "Business & Services"
+msgstr "Obchod a služby"
+
+#: templates/network/theme-listing.php:40
+#: templates/network/theme-listing.php:52 templates/theme-listing.php:36
+#: templates/theme-listing.php:48
+msgid "Events"
+msgstr "Události"
+
+#: templates/network/theme-listing.php:41
+#: templates/network/theme-listing.php:53 templates/theme-listing.php:37
+#: templates/theme-listing.php:49
+msgid "Family & Recreation"
+msgstr "Rodina a rekreace"
+
+#: templates/network/theme-listing.php:42
+#: templates/network/theme-listing.php:54 templates/theme-listing.php:38
+#: templates/theme-listing.php:50
+msgid "Food & Hospitality"
+msgstr "Jídlo a pohostinství"
+
+#: templates/network/theme-listing.php:43
+#: templates/network/theme-listing.php:55 templates/theme-listing.php:39
+#: templates/theme-listing.php:51
+msgid "Music & Art"
+msgstr "Hudba a umění"
+
+#: templates/network/theme-listing.php:44
+#: templates/network/theme-listing.php:56 templates/theme-listing.php:40
+#: templates/theme-listing.php:52
+msgid "Online Shop"
+msgstr "Webshop"
+
+#: templates/network/theme-listing.php:45
+#: templates/network/theme-listing.php:57 templates/theme-listing.php:41
+#: templates/theme-listing.php:53
+msgid "Portfolio & CV"
+msgstr "Portfolio a CV"
+
+#: templates/network/theme-listing.php:96 templates/theme-listing.php:98
+msgid "Back to themes"
+msgstr "Zpět na témata"
+
+#: templates/network/theme-listing.php:103 templates/theme-listing.php:105
+msgid "Desktop"
+msgstr "Plocha počítače"
+
+#: templates/network/theme-listing.php:104 templates/theme-listing.php:106
+msgid "Mobile"
+msgstr "Mobilní"
+
+#, fuzzy
+#~ msgid " - Latest updates"
+#~ msgstr "– Nejnovější aktualizace"
+
+#, fuzzy
+#~ msgid " Full Width Section Image"
+#~ msgstr "Obrázek sekce s plnou šířkou"
+
+#~ msgid ""
+#~ "%1$s%3$sThat's it, all done!%4$s%2$sThe import of demo data has finished. "
+#~ "Please check your page and make sure that everything has been imported "
+#~ "correctly.%5$s"
+#~ msgstr ""
+#~ "%1$s%3$sA to je vše - hotovo!%4$s%2$sImport ukázkových dat byl dokončen. "
+#~ "Prohlédněte si svou stránku a zkontrolujte, zda bylo všechno "
+#~ "naimportováno správně.%5$s"
+
+#~ msgid ""
+#~ "%1$sThe demo import has finished, but there were some import errors."
+#~ "%2$sMore details about the errors can be found in this %3$s%5$slog file"
+#~ "%6$s%4$s%7$s"
+#~ msgstr ""
+#~ "%1$sImport ukázkových dat byl dokončen, ale nastaly při něm nějaké chyby."
+#~ "%2$sDalší podrobnosti o těchto chybách najdete v tomto %3$s"
+#~ "%5$sprotokolovém souboru%6$s%4$s%7$s"
+
+#~ msgid "%s <span class=\"screen-reader-text says\">says:</span>"
+#~ msgstr "%s <span class=\"screen-reader-text says\">říká:</span>"
+
+#, fuzzy
+#~ msgid "(no title)"
+#~ msgstr "Název webu"
+
+#, fuzzy
+#~ msgid "404"
+#~ msgstr "404"
+
+#~ msgid "404 Page Content"
+#~ msgstr "Obsah stránky 404"
+
+#~ msgid "<span class=\"screen-reader-text\">Posted on</span> %s"
+#~ msgstr "<span class=\"screen-reader-text\">Publikováno</span> %s"
+
+# Error message that is shown when an Administrator user tries to login with a wrong password, explaining that they need to set a new one.
+#
+# The text in between the placeholders will become a link.
+#
+# _______________________________________
+#~ msgid ""
+#~ "<strong>ERROR</strong> If you are owner of this domain, please %s reset "
+#~ "your password%s by providing email id registered with one.com."
+#~ msgstr ""
+#~ "Zadané heslo je chybné. Jedná-li se o první přihlášení tohoto uživatele, "
+#~ "je potřeba %s nastavit nové heslo %s."
+
+#~ msgid "About"
+#~ msgstr "O uživateli"
+
+#~ msgid "About Blog"
+#~ msgstr "O blogu"
+
+#~ msgid "About Me"
+#~ msgstr "O mně"
+
+#~ msgid "About the blog"
+#~ msgstr "O blogu"
+
+#~ msgid "About us section"
+#~ msgstr "Dolní sekce"
+
+#~ msgid "Above the flip box"
+#~ msgstr "Nad překlápěcím polem"
+
+#~ msgid "Acronym"
+#~ msgstr "Zkratka"
+
+#, fuzzy
+#~ msgid "Activating a Layout"
+#~ msgstr "Výpis příspěvků na blogu – rozvržení stránky"
+
+#~ msgid "Active Color"
+#~ msgstr "Aktivní barva"
+
+#, fuzzy
+#~ msgid "Actual ratio"
+#~ msgstr "Aktuální poměr"
+
+#, fuzzy
+#~ msgid "Add a custom color to text in your online shop."
+#~ msgstr "Přidejte vlastní barvu písma textu pro váš internetový obchod."
+
+#, fuzzy
+#~ msgid "Add a custom font for your online shop."
+#~ msgstr "Přidejte vlastní písmo pro svůj internetový obchod."
+
+#~ msgid "Add Adventure"
+#~ msgstr "Add Cesta"
+
+#, fuzzy
+#~ msgid "Add custom CSS to the shopfront."
+#~ msgstr "Přidejte vlastní šablony stylů CSS k úvodní prezentaci obchodu."
+
+#, fuzzy
+#~ msgid ""
+#~ "Add custom CSS to your shop and read the tips to get started. You can "
+#~ "always start over, by emptying the custom CSS field below."
+#~ msgstr ""
+#~ "Přidejte vlastní šablony stylů CSS a přečtěte si tipy, jak začít. Po "
+#~ "vyprázdnění níže uvedeného vlastního pole CSS můžete vždy začít znovu."
+
+#~ msgid "Add fonts in your website."
+#~ msgstr "Přidejte do svého webu písma."
+
+#, fuzzy
+#~ msgid "Add Google Font"
+#~ msgstr "Přidat písmo Google Font"
+
+#, fuzzy
+#~ msgid "Add Media"
+#~ msgstr "Přidat média"
+
+#, fuzzy
+#~ msgid "Add New"
+#~ msgstr "Přidat novou položku"
+
+#~ msgid "Add New Adventure"
+#~ msgstr "Add New Cesta"
+
+#~ msgid "Add New Catalog"
+#~ msgstr "Přidat novou položku"
+
+#~ msgid "Add New Instructor"
+#~ msgstr "Přidat nového instruktora"
+
+#~ msgid "Add New Reviews"
+#~ msgstr "Přidat nové recenze"
+
+#~ msgid "Add New Service"
+#~ msgstr "Přidat novou službu"
+
+#~ msgid "Add New Spotlight"
+#~ msgstr "Přidat nový spotlight"
+
+#~ msgid "Add New Testimonial"
+#~ msgstr "Přidat nové svědectví"
+
+#~ msgid "Add New Travel"
+#~ msgstr "Přidat novou cestu"
+
+#~ msgid "Add New User"
+#~ msgstr "Přidat nového uživatele"
+
+#~ msgid "Add phone number on your website"
+#~ msgstr "Přidejte na svůj web telefonní číslo"
+
+#~ msgid "Add Reviews"
+#~ msgstr "Přidat recenze"
+
+#~ msgid "Add Service"
+#~ msgstr "Přidat službu"
+
+#~ msgid "Add Spotlight"
+#~ msgstr "Přidat spotlight"
+
+#~ msgid "Add Testimonial"
+#~ msgstr "Add Svědectví"
+
+#~ msgid "Add Testimonials"
+#~ msgstr "Přidat svědectví"
+
+#~ msgid "Add Travel"
+#~ msgstr "Přidat cestu"
+
+#, fuzzy
+#~ msgid "Add your online shop to a page"
+#~ msgstr "Přidejte svůj internetový obchod na stránku"
+
+#~ msgid "Address"
+#~ msgstr "Adresa"
+
+#~ msgid "Address Line 1"
+#~ msgstr "Řádek adresy 1"
+
+#~ msgid "Address Line 2"
+#~ msgstr "Řádek adresy 2"
+
+# You have three ways that you can show the shopping cart on your site.
+#
+# This is the header and description, after which you need to choose an option.
+#
+# ____________________________
+# Reference for developers:
+#
+#~ msgid "Adjust cart position"
+#~ msgstr "Nastavení umístění a stylu košíku"
+
+#~ msgid "Advanced"
+#~ msgstr "Rozšířené"
+
+#~ msgid "Adventure"
+#~ msgstr "Cesta"
+
+#~ msgid "All Reviews"
+#~ msgstr "Všechny recenze"
+
+#~ msgid "All services button link"
+#~ msgstr "Odkaz tlačítka služeb"
+
+#~ msgid "All services button text"
+#~ msgstr "Text tlačítka služeb"
+
+#~ msgid "All Users"
+#~ msgstr "Všichni uživatelé"
+
+# Checkbox option to enable a share link that is visible under each post.
+# __________________________
+#~ msgid "Allow social sharing for posts?"
+#~ msgstr "Přídat pod každý příspěvek odkaz ke sdílení"
+
+#, fuzzy
+#~ msgid "Alphabetical"
+#~ msgstr "Abecedně"
+
+#, fuzzy
+#~ msgid "Any question?"
+#~ msgstr "Máte dotaz?"
+
+# This option will be available to users instead of "In head of all pages", but only when they don't use a One.com theme. The customer then needs to add a css selector in the box below.
+# ____________________________
+# Reference for developers:
+#
+#, fuzzy
+#~ msgid "Attach cart to css selector"
+#~ msgstr "Zobrazit selektor kategorie"
+
+#~ msgid "Author"
+#~ msgstr "Autor"
+
+#~ msgid "Auto"
+#~ msgstr "Automaticky"
+
+#, fuzzy
+#~ msgid "Background"
+#~ msgstr "Pozadí"
+
+#, fuzzy
+#~ msgid "Background Attachment"
+#~ msgstr "Fixace pozadí"
+
+#, fuzzy
+#~ msgid "Background Color"
+#~ msgstr "Barva pozadí"
+
+#, fuzzy
+#~ msgid "Background color (dropdown menu)"
+#~ msgstr "Barva pozadí (rozevírací nabídka)"
+
+#, fuzzy
+#~ msgid "Background color (online shop)"
+#~ msgstr "Barva pozadí (webshop)"
+
+#, fuzzy
+#~ msgid "Background Image"
+#~ msgstr "Obrázek pozadí"
+
+#, fuzzy
+#~ msgid "Background Position"
+#~ msgstr "Pozice pozadí"
+
+#, fuzzy
+#~ msgid "Background Repeat"
+#~ msgstr "Opakování pozadí"
+
+#~ msgid "Background Section"
+#~ msgstr "Sekce pozadí"
+
+#~ msgid "Background Section - Text Color"
+#~ msgstr "Sekce pozadí – barva textu"
+
+#, fuzzy
+#~ msgid "Background Size"
+#~ msgstr "Velikost pozadí"
+
+#, fuzzy
+#~ msgid "Banner"
+#~ msgstr "Prapor"
+
+#~ msgid "Banner Blurb"
+#~ msgstr "Výňatek z banneru"
+
+#~ msgid "Banner Buttons"
+#~ msgstr "Tlačítka banneru"
+
+#~ msgid "Banner Buttons - Border"
+#~ msgstr "Tlačítka banneru – ohraničení"
+
+#~ msgid "Banner Buttons - Border Radius"
+#~ msgstr "Tlačítka banneru – poloměr zakulacení rohů"
+
+#~ msgid "Banner Buttons - Show Border"
+#~ msgstr "Tlačítka banneru – zobrazit ohraničení"
+
+#~ msgid "Banner Caption"
+#~ msgstr "Popisek banneru"
+
+#~ msgid "Banner Caption - Content"
+#~ msgstr "Popisek banneru – titulek"
+
+#~ msgid "Banner Caption - Subtitle"
+#~ msgstr "Popisek banneru – podtitulek"
+
+#~ msgid "Banner Caption - Title"
+#~ msgstr "Popisek banneru – titulek"
+
+#~ msgid "Banner Custom Height"
+#~ msgstr "Vlastní výška banneru"
+
+#~ msgid "Banner Font Style"
+#~ msgstr "Styl písma banneru"
+
+#~ msgid "Banner Heading Font Style"
+#~ msgstr "Styl písma nadpisu banneru"
+
+#~ msgid "Banner Height"
+#~ msgstr "Výška banneru"
+
+#~ msgid "Banner Height (px)"
+#~ msgstr "Výška banneru (px)"
+
+#, fuzzy
+#~ msgid "Banner Image"
+#~ msgstr "Obrázek na banneru"
+
+#~ msgid "Banner Right Text"
+#~ msgstr "Text banneru vpravo"
+
+#~ msgid "Banner Right Text Image"
+#~ msgstr "Obrázek textu banneru vpravo"
+
+#~ msgid "Banner Setting"
+#~ msgstr "Nastavení banneru"
+
+#~ msgid "Banner Settings"
+#~ msgstr "Nastavení banneru"
+
+#, fuzzy
+#~ msgid "Banner Sub-text"
+#~ msgstr "Vedlejší text banneru"
+
+#~ msgid "Banner Subtext Font Style"
+#~ msgstr "Styl písma subtextu banneru"
+
+#~ msgid "Banner Subtitle Text"
+#~ msgstr "Text podtitulu banneru"
+
+#, fuzzy
+#~ msgid "Banner Text"
+#~ msgstr "Text banneru"
+
+#~ msgid "Banner Title Text"
+#~ msgstr "Text nadpisu banneru"
+
+#~ msgid "Banner Widget"
+#~ msgstr "Widget banneru"
+
+#, fuzzy
+#~ msgid "Below the banner"
+#~ msgstr "Pod bannerem"
+
+#~ msgid "Below the banner."
+#~ msgstr "Pod bannerem."
+
+#, fuzzy
+#~ msgid "Below the full width section"
+#~ msgstr "Pod sekcí s plnou šířkou"
+
+#~ msgid "Big Text Color"
+#~ msgstr "Barva velkého textu"
+
+#~ msgid "Blog Listing - Page Layout"
+#~ msgstr "Výpis příspěvků na blogu – rozvržení stránky"
+
+#~ msgid "Blog Section Title"
+#~ msgstr "Nadpis sekce blogu"
+
+#~ msgid "Blog Settings"
+#~ msgstr "Nastavení blogu"
+
+#~ msgid "Blog settings"
+#~ msgstr "Nastavení blogu"
+
+#~ msgid "Blog Sidebar"
+#~ msgstr "Boční panel blogu"
+
+#~ msgid "Blog Template"
+#~ msgstr "Šablona blogu"
+
+#~ msgid "Body"
+#~ msgstr "Tělo"
+
+#, fuzzy
+#~ msgid "Body Background"
+#~ msgstr "Pozadí těla stránky"
+
+# Label to set the colour for the background of the blog.
+#
+# See screenshot for context and the corresponding colour, here the background is mint green.
+# ____________________________________________
+#~ msgid "Body Background color"
+#~ msgstr "Pozadí"
+
+#, fuzzy
+#~ msgid "Body background with image, color, etc."
+#~ msgstr "Pozadí těla s obrázkem, barvou atd."
+
+#, fuzzy
+#~ msgid "Body Font Style"
+#~ msgstr "Styl písma těla"
+
+#~ msgid "Body Social Icon background Color"
+#~ msgstr "Barva pozadí ikony sociální sítě v těle stránky"
+
+#~ msgid "Body Social Icon Color"
+#~ msgstr "Barva ikony sociální sítě v těle stránky"
+
+#, fuzzy
+#~ msgid "Body text"
+#~ msgstr "Základní text"
+
+#~ msgid "Body Text Color"
+#~ msgstr "Barva těla textu"
+
+# The colour of the text in comments
+# __________________________
+#~ msgid "Body text of comments"
+#~ msgstr "Text komentáře"
+
+# Label to set the colour of the body text of the blog post.
+#
+# See screenshot for context and the corresponding colour, which is pink.
+# ______________________
+#~ msgid "Body text of posts"
+#~ msgstr "Text příspěvku"
+
+#~ msgid "Booking Page Link"
+#~ msgstr "Odkaz na rezervační stránku"
+
+#, fuzzy
+#~ msgid "Border color (dropdown menu)"
+#~ msgstr "Barva ohraničení (rozevírací nabídka)"
+
+#, fuzzy
+#~ msgid "Borders"
+#~ msgstr "Ohraničení"
+
+# If you choose the option to have a floating cart, the cart is visible on all pages. It sort of floats above the page and stays at the same place whether you scroll up and down.
+#
+# Use the slider to determine the vertical position of the cart on your page.
+#
+# ____________________________
+# Reference for developers:
+#
+#, fuzzy
+#~ msgid "Bottom"
+#~ msgstr "Vlevo dole"
+
+#, fuzzy
+#~ msgid "Bottom Content"
+#~ msgstr "Obsah dolní sekce"
+
+#, fuzzy
+#~ msgid "Bottom left"
+#~ msgstr "Vlevo dole"
+
+#~ msgid "Bottom Left Section"
+#~ msgstr "Dolní levá sekce"
+
+#~ msgid "Bottom Left Section Content"
+#~ msgstr "Obsah dolní levé sekce"
+
+#~ msgid "Bottom Left Section Title"
+#~ msgstr "Nadpis dolní levé sekce"
+
+#, fuzzy
+#~ msgid "Bottom line (borders)"
+#~ msgstr "Spodní čára (ohraničení)"
+
+#, fuzzy
+#~ msgid "Bottom right"
+#~ msgstr "Vpravo dole"
+
+#~ msgid "Bottom Right Section"
+#~ msgstr "Dolní pravá sekce"
+
+#, fuzzy
+#~ msgid "Bottom Section"
+#~ msgstr "Dolní sekce"
+
+#, fuzzy
+#~ msgid "Bottom Section Content"
+#~ msgstr "Obsah dolní sekce"
+
+#, fuzzy
+#~ msgid "Bottom Section Image"
+#~ msgstr "Obrázek dolní sekce"
+
+#, fuzzy
+#~ msgid "Bottom Section Subtitle"
+#~ msgstr "Podtitul dolní sekce"
+
+#, fuzzy
+#~ msgid "Bottom Section Title"
+#~ msgstr "Nadpis dolní sekce"
+
+#, fuzzy
+#~ msgid "Box Shadow"
+#~ msgstr "Stín textu"
+
+#, fuzzy
+#~ msgid "Box-1 Image"
+#~ msgstr "Obrázek pole 1"
+
+#, fuzzy
+#~ msgid "Box-1 Text"
+#~ msgstr "Text pole 1"
+
+#, fuzzy
+#~ msgid "Box-1 Title"
+#~ msgstr "Nadpis pole 1"
+
+#, fuzzy
+#~ msgid "Box-2 Image"
+#~ msgstr "Obrázek pole 2"
+
+#, fuzzy
+#~ msgid "Box-2 Text"
+#~ msgstr "Text pole 2"
+
+#, fuzzy
+#~ msgid "Box-2 Title"
+#~ msgstr "Nadpis pole 2"
+
+#, fuzzy
+#~ msgid "Box-3 Image"
+#~ msgstr "Obrázek pole 3"
+
+#, fuzzy
+#~ msgid "Box-3 Text"
+#~ msgstr "Text pole 3"
+
+#, fuzzy
+#~ msgid "Box-3 Title"
+#~ msgstr "Nadpis pole 3"
+
+#~ msgid "Brand description."
+#~ msgstr "Popis značky."
+
+#, fuzzy
+#~ msgid "Breakfast"
+#~ msgstr "Snídaně"
+
+#, fuzzy
+#~ msgid "Breakfast: "
+#~ msgstr "Snídaně:"
+
+#~ msgid "Button 1 Link"
+#~ msgstr "Odkaz tlačítka"
+
+#~ msgid "Button 1 Title"
+#~ msgstr "Titulek tlačítka"
+
+#~ msgid "Button 2 Link"
+#~ msgstr "Odkaz tlačítka"
+
+#, fuzzy
+#~ msgid "Button 2 Title"
+#~ msgstr "Titulek tlačítka"
+
+#~ msgid "Button Background Color"
+#~ msgstr "Barva pozadí tlačítka"
+
+#, fuzzy
+#~ msgid "Button Color"
+#~ msgstr "Barva tlačítka"
+
+#~ msgid "Button Label"
+#~ msgstr "Text na tlačítku"
+
+#~ msgid "Button label"
+#~ msgstr "Text na tlačítku"
+
+#~ msgid "Button Link"
+#~ msgstr "Odkaz tlačítka"
+
+#~ msgid "Button link"
+#~ msgstr "Odkaz tlačítka"
+
+#~ msgid "Button Text"
+#~ msgstr "Text tlačítka"
+
+#~ msgid "Button Title"
+#~ msgstr "Titulek tlačítka"
+
+#~ msgid "Buttons"
+#~ msgstr "Tlačítka"
+
+#~ msgid "Buttons Font Style"
+#~ msgstr "Styl písma tlačítek"
+
+#~ msgid "Caption Alignment"
+#~ msgstr "Zarovnání popisku"
+
+#, fuzzy
+#~ msgid "Car"
+#~ msgstr "Vozidlo"
+
+#, fuzzy
+#~ msgid "Car: "
+#~ msgstr "Vozidlo:"
+
+#, fuzzy
+#~ msgid "Cart & price (focus color)"
+#~ msgstr "Nákupní košík a cena (barva zvýraznění)"
+
+# You can set the color of the cart. If you select the floating cart option, then you should also choose a background color, this is the little tab around the cart.
+#
+# Same for the checkout banner, the background is the blue color in the screenshot, and the cart color here is set to white.
+#
+# ____________________________
+# Reference for developers:
+#
+#, fuzzy
+#~ msgid "Cart color"
+#~ msgstr "Barva textu"
+
+# Title and button text for the cart feature under Online Shop plugin settings.
+#
+# ____________________________
+# Reference for developers:
+#
+#~ msgid "Cart position and style"
+#~ msgstr "Umístění a styl košíku"
+
+#, fuzzy
+#~ msgid "Cart saved successfully."
+#~ msgstr "Pracovní verze byla úspěšně vytvořena."
+
+# You can set the color of the cart. If you select the floating cart option, then you should also choose a background color, this is the little tab around the cart.
+#
+# Same for the checkout banner, the background is the blue color in the screenshot, and the cart color here is set to white.
+#
+# ____________________________
+# Reference for developers:
+#
+#~ msgid "Cart tab background color"
+#~ msgstr "Barva pozadí karty košíku"
+
+#~ msgid "Catalog Description"
+#~ msgstr "Logo a popis"
+
+#~ msgid "Categories"
+#~ msgstr "Kategorie"
+
+#~ msgid "Center"
+#~ msgstr "Na střed"
+
+#~ msgid "Change header background color"
+#~ msgstr "Změňte barvu pozadí záhlaví"
+
+#, fuzzy
+#~ msgid "Change the background color for dropdown menus."
+#~ msgstr "Změňte barvu pozadí pro rozevírací nabídky."
+
+#, fuzzy
+#~ msgid "Change the border color for dropdown menus."
+#~ msgstr "Změňte barvu ohraničení pro rozevírací nabídky."
+
+#, fuzzy
+#~ msgid "Change the color of text for selected dropdown items."
+#~ msgstr "Změňte barvu textu pro položky vybrané z rozevírací nabídky."
+
+#, fuzzy
+#~ msgid ""
+#~ "Change the color on text links, selected text and text for input fields."
+#~ msgstr ""
+#~ "Změňte barvu odkazů na text, vybraného textu a textu pro vstupní pole."
+
+#~ msgid "Change the font for this banner"
+#~ msgstr "Změnit písmo pro tento banner"
+
+#~ msgid "Change the font for this internal banner"
+#~ msgstr "Změnit písmo pro tento interní banner"
+
+#~ msgid "Change the font style for Header Menu"
+#~ msgstr "Změnit styl písma pro menu záhlaví"
+
+#~ msgid "Change the font style for logo"
+#~ msgstr "Změnit styl písma pro logo"
+
+#, fuzzy
+#~ msgid "Change the hover color for the items in dropdown menu."
+#~ msgstr "Změňte barvu při přechodu myší pro položky v rozevírací nabídce."
+
+#, fuzzy
+#~ msgid "Change the text color for dropdown menus."
+#~ msgstr "Změňte barvu textu pro rozevírací nabídky."
+
+#, fuzzy
+#~ msgid "Chat with us"
+#~ msgstr "Chatujte s námi"
+
+#, fuzzy
+#~ msgid "Choose or Upload an Image"
+#~ msgstr "Vyberte nebo nahrajte obrázek"
+
+#~ msgid "Click here to view the post"
+#~ msgstr "Příspěvek zobrazíte kliknutím sem"
+
+#~ msgid "Click to Select"
+#~ msgstr "Vyberte kliknutím"
+
+#, fuzzy
+#~ msgid "close"
+#~ msgstr "zavřít"
+
+#~ msgid "Collection Link"
+#~ msgstr "Odkaz na kolekci"
+
+#~ msgid "Color Scheme"
+#~ msgstr "Barevné schéma"
+
+#, fuzzy
+#~ msgid "Colorpicker"
+#~ msgstr "Barevné schéma"
+
+#~ msgid "Colors"
+#~ msgstr "Barvy"
+
+#~ msgid "Comments"
+#~ msgstr "Poznámky"
+
+#, fuzzy
+#~ msgid "Comments are closed."
+#~ msgstr "Komentáře jsou uzavřeny."
+
+#~ msgid "Common Bottom Text"
+#~ msgstr "Obecný dolní text"
+
+#, fuzzy
+#~ msgid "Contact"
+#~ msgstr "Kontakt"
+
+#~ msgid "Contact Details "
+#~ msgstr "Kontaktní údaje"
+
+#~ msgid "Contact Form"
+#~ msgstr "Kontaktní formulář"
+
+#~ msgid "Contact query from website"
+#~ msgstr "Dotaz na kontakt z webu"
+
+#, fuzzy
+#~ msgid "Content"
+#~ msgstr "Obsah"
+
+#~ msgid "Content Buttons"
+#~ msgstr "Tlačítka obsahu"
+
+#~ msgid "Content Buttons - Border"
+#~ msgstr "Tlačítka obsahu – ohraničení"
+
+#~ msgid "Content Buttons - Border Radius"
+#~ msgstr "Tlačítka obsahu – poloměr zakulacení rohů"
+
+#~ msgid "Content Buttons - Show Border"
+#~ msgstr "Tlačítka obsahu – zobrazit ohraničení"
+
+#, fuzzy
+#~ msgid "Continue reading"
+#~ msgstr "Pokračovat ve čtení"
+
+#, fuzzy
+#~ msgid "Copied to clipboard"
+#~ msgstr "Zkopírováno do schránky"
+
+#, fuzzy
+#~ msgid "Copy shortcode"
+#~ msgstr "Zkopírovat zkrácený kód"
+
+#, fuzzy
+#~ msgid "Copy this shortcode to the page"
+#~ msgstr "Tento zkrácený kód zkopírujte na stránku"
+
+#~ msgid "Copyright Background Color"
+#~ msgstr "Barva pozadí prohlášení o autorských právech"
+
+#~ msgid "Copyright Font Style"
+#~ msgstr "Styl písma prohlášení o autorských právech"
+
+#, fuzzy
+#~ msgid "Copyright Text"
+#~ msgstr "Text prohlášení o autorských právech"
+
+#~ msgid "Copyright Text Color"
+#~ msgstr "Barva textu prohlášení o autorských právech"
+
+# These keys are terms that are used to describe elements and settings in a WordPress theme. Try to translate them as generic as possible, so they can be reused.
+#
+# _______________________________________________________________
+#~ msgid "Courses"
+#~ msgstr "Kurzy"
+
+#, fuzzy
+#~ msgid "Creating a Layout"
+#~ msgstr "Výpis příspěvků na blogu – rozvržení stránky"
+
+#, fuzzy
+#~ msgid "Crop images"
+#~ msgstr "Oříznout obrázky"
+
+#~ msgid "Custom"
+#~ msgstr "Vlastní"
+
+#~ msgid ""
+#~ "Custom colors selection may override the Primary and Secondary Skin "
+#~ "colors at some places"
+#~ msgstr ""
+#~ "Výběr vlastních barev může na některých místech potlačit primární "
+#~ "a sekundární barvu skinu"
+
+#~ msgid "Custom CSS"
+#~ msgstr "Vlastní CSS"
+
+#~ msgid "Custom Form"
+#~ msgstr "Vlastní formulář"
+
+#~ msgid "Custom Height"
+#~ msgstr "Vlastní výška"
+
+#~ msgid "Custom post type for Service"
+#~ msgstr "Typ vlastního příspěvku pro službu"
+
+#~ msgid "Custom post type for Spotlight"
+#~ msgstr "Typ vlastního příspěvku pro spotlight"
+
+#~ msgid "Custom post type for Travel"
+#~ msgstr "Typ vlastního příspěvku pro cestu"
+
+#~ msgid "Custom Title"
+#~ msgstr "Přizpůsobit"
+
+#, fuzzy
+#~ msgid "Customize"
+#~ msgstr "Přizpůsobit"
+
+#~ msgid "Customize > Site Identity > Site Icon"
+#~ msgstr "Přizpůsobte > Identita webu > Ikona webu"
+
+#~ msgid "Customize Skin"
+#~ msgstr "Upravit skin"
+
+#, fuzzy
+#~ msgid "Customize the look of your online shop"
+#~ msgstr "Přizpůsobte vzhled svého internetového obchodu"
+
+#, fuzzy
+#~ msgid "Customize the styling for your shop"
+#~ msgstr "Přizpůsobte styl svého internetového obchodu"
+
+#~ msgid "CV Headline"
+#~ msgstr "Titulek CV"
+
+#~ msgid "CV Name"
+#~ msgstr "Název CV"
+
+#~ msgid "CV Summary"
+#~ msgstr "Shrnutí CV"
+
+# These keys are terms that are used to describe elements and settings in a WordPress theme. Try to translate them as generic as possible, so they can be reused.
+#
+# _______________________________________________________________
+#~ msgid "Date"
+#~ msgstr "Datum"
+
+#~ msgid "Day"
+#~ msgstr "Den"
+
+# Description displayed on the cart tile under the Online shop plugin settings.
+# ____________________________
+# Reference for developers:
+#
+#~ msgid "Decide how the cart icon is displayed. Place it on all pages or not."
+#~ msgstr ""
+#~ "Vyberte, jak a kde se bude na vašem webu zobrazovat ikona nákupního "
+#~ "košíku. "
+
+#, fuzzy
+#~ msgid "Default buttons (borders)"
+#~ msgstr "Výchozí tlačítka (ohraničení)"
+
+#~ msgid "Default page title will be displayed if this field is blank."
+#~ msgstr "Je-li toto pole prázdné, zobrazí se výchozí nadpis stránky."
+
+#~ msgid "Delete"
+#~ msgstr "Odstranit"
+
+#, fuzzy
+#~ msgid "Deleting a Layout"
+#~ msgstr "Výpis příspěvků na blogu – rozvržení stránky"
+
+#, fuzzy
+#~ msgid "Description"
+#~ msgstr "Popis"
+
+#~ msgid "Details"
+#~ msgstr "Více detailů"
+
+#~ msgid "Display information with icon."
+#~ msgstr "Zobrazí informace u ikony."
+
+#~ msgid "Display?"
+#~ msgstr "Zobrazit?"
+
+#~ msgid "Displays a call to action banner with image."
+#~ msgstr "Zobrazí banner s výzvou a obrázkem."
+
+#~ msgid "Displays an address on your site."
+#~ msgstr "Zobrazí adresu vašich stránek."
+
+#~ msgid "Displays social icons list."
+#~ msgstr "Zobrazí seznam ikon pro sociální sítě."
+
+#, fuzzy
+#~ msgid "Dropdown menus"
+#~ msgstr "Rozevírací nabídky"
+
+#, fuzzy
+#~ msgid "Earlier Travels"
+#~ msgstr "Dřívější cesty"
+
+#~ msgid "Edit"
+#~ msgstr "Upravit"
+
+#~ msgid "Edit Adventure"
+#~ msgstr "Edit Cesta"
+
+#~ msgid "Edit Footer Widgets"
+#~ msgstr "Upravit widgety zápatí"
+
+#~ msgid "Edit Instructor"
+#~ msgstr "Upravit instruktora"
+
+#~ msgid "Edit Lesson"
+#~ msgstr "Upravit lekci"
+
+#~ msgid "Edit My Profile"
+#~ msgstr "Upravit profil"
+
+#~ msgid "Edit Reviews"
+#~ msgstr "Upravit recenze"
+
+#, fuzzy
+#~ msgid "Edit Service"
+#~ msgstr "Upravit službu"
+
+#, fuzzy
+#~ msgid "Edit Slides"
+#~ msgstr "Upravit službu"
+
+#~ msgid "Edit Spotlight"
+#~ msgstr "Upravit spotlight"
+
+#, fuzzy
+#~ msgid "Edit styling"
+#~ msgstr "Upravit použití stylů"
+
+#~ msgid "Edit Testimonial"
+#~ msgstr "Edit Svědectví"
+
+#~ msgid "Edit Testimonials"
+#~ msgstr "Upravit svědectví"
+
+#~ msgid "Edit Travel"
+#~ msgstr "Upravit cestu"
+
+#~ msgid "Email "
+#~ msgstr "E-mail"
+
+#, fuzzy
+#~ msgid "Email"
+#~ msgstr "E-mail"
+
+#~ msgid "Email Address"
+#~ msgstr "E-mailová adresa"
+
+#~ msgid "Email entered is not valid or empty."
+#~ msgstr "Zadaný e-mail není platný nebo je prázdný."
+
+#~ msgid "Email entered is not valid."
+#~ msgstr "Zadaný e-mail není platný."
+
+#~ msgid "Email is too large, please use a valid email."
+#~ msgstr "E-mail je příliš dlouhý, zadejte platný e-mail."
+
+#~ msgid "Email is too large."
+#~ msgstr "E-mail je příliš dlouhý."
+
+#~ msgid "Email notifications"
+#~ msgstr "E-mailová oznámení"
+
+#~ msgid "Email Subject"
+#~ msgstr "Předmět e-mailu"
+
+#~ msgid "Email:"
+#~ msgstr "E-mail:"
+
+#~ msgid "Enter banner height with unit. Example - 560px"
+#~ msgstr "Zadejte výšku banneru s jednotkami. Například 560 px"
+
+#~ msgid "Enter multiple towns using comma (,) such as: Town1,Town2,Town3"
+#~ msgstr ""
+#~ "Zadejte více měst oddělených čárkami (,) – např. Město1, Město2, Město3"
+
+#~ msgid "Enter one specification per line."
+#~ msgstr "Zadejte do každého řádku jednu specifikaci."
+
+#~ msgid "Enter product price with unit. Example - $128.00"
+#~ msgstr "Zadejte cenu produktu s jednotkami. Například 128,00 USD."
+
+#~ msgid "Enter title for full width section."
+#~ msgstr "Zadejte nadpis pro sekci s plnou šířkou."
+
+#~ msgid "Enter Towns"
+#~ msgstr "Zadejte města"
+
+#, fuzzy
+#~ msgid "Enter your social profile links here:"
+#~ msgstr "Sem zadejte odkazy na své sociální sítě:"
+
+#~ msgid "Error 404 - Not Found"
+#~ msgstr "Chyba 404 – Nenalezeno"
+
+#~ msgid "Events Section"
+#~ msgstr "Sekce událostí"
+
+#, fuzzy
+#~ msgid "Example:"
+#~ msgstr "Příklad:"
+
+#~ msgid "Excerpt"
+#~ msgstr "Výňatek"
+
+#, fuzzy
+#~ msgid "Facebook"
+#~ msgstr "Facebook"
+
+# These keys are terms that are used to describe elements and settings in a WordPress theme. Try to translate them as generic as possible, so they can be reused.
+#
+# _______________________________________________________________
+#~ msgid "Facilities"
+#~ msgstr "Služby"
+
+#~ msgid "FAQ's"
+#~ msgstr "Časté dotazy"
+
+#, fuzzy
+#~ msgid "Favicon"
+#~ msgstr "Ikona stránky"
+
+#, fuzzy
+#~ msgid "Favicon Icon"
+#~ msgstr "Ikona stránky"
+
+#~ msgid "Featured Product"
+#~ msgstr "Doporučovaný produkt"
+
+#~ msgid "Featured Products"
+#~ msgstr "Doporučované produkty"
+
+#~ msgid "Features"
+#~ msgstr "Funkce"
+
+#~ msgid "Features List"
+#~ msgstr "Seznam funkcí"
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# In this text we explain what the issue is and why it's a problem that needs to be fixed.
+# ________________________________________
+#
+#
+#~ msgid ""
+#~ "File editing from your WordPress dashboard is allowed, meaning users with "
+#~ "a role that has this right can edit all the core files of your site. "
+#~ "Someone might accidentally break it, or a hacker might get access to a "
+#~ "password."
+#~ msgstr ""
+#~ "Uživatelé s rolí správce mohou upravovat všechny soubory jádra vašeho "
+#~ "webu z ovládacího panelu WordPress. Někdo by tak mohl neúmyslně poškodit "
+#~ "váš web a pokud by se do něj proboural hacker, měl by snadný přístup ke "
+#~ "všem souborům jádra. "
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# In this text we explain what the issue is and why it's a problem that needs to be fixed.
+# ________________________________________
+#
+#
+#~ msgid ""
+#~ "File execution is allowed in in your uploads folder. This means that an "
+#~ "attacker can upload malware and execute it by simply trying to access it "
+#~ "from their browser."
+#~ msgstr ""
+#~ "Znamená to, že útočník může nahrát malware a spustit jej pouhým přístupem "
+#~ "ze svého prohlížeče."
+
+#, fuzzy
+#~ msgid "Fill color"
+#~ msgstr "Barva výplně"
+
+#, fuzzy
+#~ msgid ""
+#~ "Fill color is applied to .svg icons in your shop, like the arrow on the "
+#~ "\"Back\" button."
+#~ msgstr ""
+#~ "Barva výplně se použije na ikony .svg ve vašem obchodě, například na "
+#~ "šipku na tlačítku „Zpět“."
+
+#~ msgid "First button link"
+#~ msgstr "Odkaz tlačítka služeb"
+
+#~ msgid "First button title"
+#~ msgstr "Titulek tlačítka"
+
+#, fuzzy
+#~ msgid "Flight"
+#~ msgstr "Let"
+
+#, fuzzy
+#~ msgid "Flight: "
+#~ msgstr "Let:"
+
+# If you choose the option to have a floating cart, the cart is visible on all pages. It sort of floats above the page and stays at the same place whether you scroll up and down.
+#
+# Use the slider to determine the vertical position of the cart on your page.
+#
+# ____________________________
+# Reference for developers:
+#
+#~ msgid "Floating cart on all pages"
+#~ msgstr "Plovoucí košík na všech stránkách"
+
+#, fuzzy
+#~ msgid "Focus color"
+#~ msgstr "Barva zvýraznění"
+
+#, fuzzy
+#~ msgid "Font"
+#~ msgstr "Písmo"
+
+#~ msgid "Font Families"
+#~ msgstr "Písma"
+
+#, fuzzy
+#~ msgid "Font Family"
+#~ msgstr "Rodina písem"
+
+#, fuzzy
+#~ msgid "Font Size"
+#~ msgstr "Velikost Písma"
+
+#, fuzzy
+#~ msgid "Font Style"
+#~ msgstr "Styl písma"
+
+#~ msgid "Font Styles"
+#~ msgstr "Styly písma"
+
+#, fuzzy
+#~ msgid "Font Weight"
+#~ msgstr "Tloušťka písma"
+
+#, fuzzy
+#~ msgid "Footer"
+#~ msgstr "Zápatí"
+
+#~ msgid "Footer 1"
+#~ msgstr "Zápatí 1"
+
+#~ msgid "Footer 2"
+#~ msgstr "Zápatí 2"
+
+#~ msgid "Footer 3"
+#~ msgstr "Zápatí 3"
+
+#~ msgid "Footer Area 1"
+#~ msgstr "Oblast zápatí 1"
+
+#~ msgid "Footer Area 2"
+#~ msgstr "Oblast zápatí 2"
+
+#~ msgid "Footer Area 3"
+#~ msgstr "Oblast zápatí 3"
+
+#, fuzzy
+#~ msgid "Footer background with image, color, etc."
+#~ msgstr "Pozadí zápatí s obrázkem, barvou atd."
+
+#~ msgid "Footer Color"
+#~ msgstr "Barva zápatí"
+
+#~ msgid "Footer Scripts"
+#~ msgstr "Skripty zápatí"
+
+#~ msgid "Footer Social Icon Color"
+#~ msgstr "Barva ikony sociální sítě v zápatí"
+
+#~ msgid "For example: Post Author, Published Date, Post Categories"
+#~ msgstr "Příklad: autor příspěvku, datum zveřejnění, kategorie příspěvku"
+
+#~ msgid "Form Buttons"
+#~ msgstr "Tlačítka formuláře"
+
+#~ msgid "Form Buttons - Border"
+#~ msgstr "Tlačítka formuláře – ohraničení"
+
+#~ msgid "Form Buttons - Border Radius"
+#~ msgstr "Tlačítka formuláře – poloměr zakulacení rohů"
+
+#~ msgid "Form Buttons - Show Border"
+#~ msgstr "Tlačítka formuláře – zobrazit ohraničení"
+
+#~ msgid "Form Description"
+#~ msgstr "Stručný popis"
+
+#~ msgid "Form Embed Code or Shortcode"
+#~ msgstr "Vytvoření vloženého kódu nebo krátkého kódu"
+
+#~ msgid "Form Fields Labels"
+#~ msgstr "Popisky polí formuláře"
+
+#~ msgid "Form Section"
+#~ msgstr "Sekce formuláře"
+
+#~ msgid "Form Title"
+#~ msgstr "Nadpis formuláře cenové nabídky"
+
+#~ msgid "Full Viewport"
+#~ msgstr "Plný výřez"
+
+#, fuzzy
+#~ msgid "Full width Section Background Image"
+#~ msgstr "Obrázek na pozadí sekce s plnou šířkou"
+
+#~ msgid "Full Width Section Background Image"
+#~ msgstr "Obrázek na pozadí sekce s plnou šířkou"
+
+#~ msgid "Full Width Section Description"
+#~ msgstr "Nadpis sekce s plnou šířkou"
+
+#, fuzzy
+#~ msgid "Full Width Section Subtitle"
+#~ msgstr "Podtitul sekce s plnou šířkou"
+
+#, fuzzy
+#~ msgid "Full Width Section Text"
+#~ msgstr "Text sekce s plnou šířkou"
+
+#, fuzzy
+#~ msgid "Full Width Section Title"
+#~ msgstr "Nadpis sekce s plnou šířkou"
+
+#, fuzzy
+#~ msgid "Gallery"
+#~ msgstr "Galerie"
+
+#, fuzzy
+#~ msgid "General"
+#~ msgstr "Obecné"
+
+#, fuzzy
+#~ msgid "Generate a shortcode and add it to any page."
+#~ msgstr "Vygenerujte si zkrácený kód a přidejte jej na libovolnou stránku."
+
+#, fuzzy
+#~ msgid "Generate the shortcode"
+#~ msgstr "Vygenerovat zkrácený kód"
+
+# Description telling users what to do here. The shortcode should be copied in the page in WordPress.
+#
+# ____________________________
+# Reference for developers:
+#
+#, fuzzy
+#~ msgid ""
+#~ "Generate the shortcode with these settings, and copy it to the page where "
+#~ "you want your webshop to be displayed."
+#~ msgstr ""
+#~ "Pokud chcete vygenerovat zkrácený kód, upravte zde nastavení, a potom "
+#~ "zkopírujte kód na stránku, na které má být e-shop zobrazen."
+
+#, fuzzy
+#~ msgid "Get started here"
+#~ msgstr "Začněte zde"
+
+#, fuzzy
+#~ msgid "Get the shortcode"
+#~ msgstr "Získat zkrácený kód"
+
+#, fuzzy
+#~ msgid "Go to Products & Orders"
+#~ msgstr "Přejít k produktům a objednávkám"
+
+#, fuzzy
+#~ msgid "Google Fonts"
+#~ msgstr "Přidat písmo Google Font"
+
+#, fuzzy
+#~ msgid "Google Plus"
+#~ msgstr "Google Plus"
+
+#, fuzzy
+#~ msgid "Google+"
+#~ msgstr "Google+"
+
+#, fuzzy
+#~ msgid "Group"
+#~ msgstr "Skupina"
+
+#, fuzzy
+#~ msgid "Group: "
+#~ msgstr "Skupina:"
+
+#, fuzzy
+#~ msgid "Guide"
+#~ msgstr "Průvodce"
+
+#, fuzzy
+#~ msgid "Guide: "
+#~ msgstr "Průvodce:"
+
+#, fuzzy
+#~ msgid "H1 Font Style"
+#~ msgstr "Styl písma H1"
+
+#~ msgid "H1 Text Color"
+#~ msgstr "Barva textu H1"
+
+#, fuzzy
+#~ msgid "H2 Font Style"
+#~ msgstr "Styl písma H2"
+
+#~ msgid "H2 Text Color"
+#~ msgstr "Barva textu H2"
+
+#, fuzzy
+#~ msgid "H3 Font Style"
+#~ msgstr "Styl písma H3"
+
+#~ msgid "H3 Text Color"
+#~ msgstr "Barva textu H3"
+
+#, fuzzy
+#~ msgid "H4 Font Style"
+#~ msgstr "Styl písma H4"
+
+#~ msgid "H4 Text Color"
+#~ msgstr "Barva textu H4"
+
+#, fuzzy
+#~ msgid "H5 Font Style"
+#~ msgstr "Styl písma H5"
+
+#~ msgid "H5 Text Color"
+#~ msgstr "Barva textu H5"
+
+#, fuzzy
+#~ msgid "H6 Font Style"
+#~ msgstr "Styl písma H6"
+
+#~ msgid "H6 Text Color"
+#~ msgstr "Barva textu H6"
+
+#~ msgid "has added a new post"
+#~ msgstr "přidal(a) nový příspěvek"
+
+#~ msgid "Head Scripts"
+#~ msgstr "Skripty hlavičky"
+
+#, fuzzy
+#~ msgid "Header"
+#~ msgstr "Záhlaví"
+
+#~ msgid "Header Height"
+#~ msgstr "Výška záhlaví"
+
+#, fuzzy
+#~ msgid "Header Logo"
+#~ msgstr "Logo v záhlaví"
+
+#~ msgid "Header Menu Font Style"
+#~ msgstr "Styl písma menu záhlaví"
+
+#~ msgid "Heading"
+#~ msgstr "Záhlaví"
+
+#, fuzzy
+#~ msgid "Headings (borders)"
+#~ msgstr "Záhlaví (ohraničení)"
+
+#~ msgid "Headings Colors"
+#~ msgstr "Barvy nadpisů"
+
+#~ msgid ""
+#~ "Hi! This blog is being upgraded to WordPress at the moment. It will be "
+#~ "back online in a few minutes."
+#~ msgstr ""
+#~ "Ahoj! Tento blog je momentálně aktualizován na WordPress. Za pár minut "
+#~ "bude opět online."
+
+# This message is going to be displayed to customers during the migration of iloblogs to WordPress.
+#~ msgid ""
+#~ "Hi! Your blog is being migrated to WordPress at the moment. \n"
+#~ "A bundle of features and flexibilities is getting ready for you.\n"
+#~ "We'll send you an email when the migration will be finished."
+#~ msgstr ""
+#~ "Ahoj! Tento blog je momentálně aktualizován na WordPress. Za pár minut "
+#~ "bude opět online."
+
+#, fuzzy
+#~ msgid "Hightlight Box"
+#~ msgstr "Zvýrazněné pole"
+
+#, fuzzy
+#~ msgid "Hightlight Content"
+#~ msgstr "Zvýrazněný obsah"
+
+# These keys are terms that are used to describe elements and settings in a WordPress theme. Try to translate them as generic as possible, so they can be reused.
+#
+# _______________________________________________________________
+#~ msgid "History"
+#~ msgstr "Historie"
+
+#, fuzzy
+#~ msgid "Home"
+#~ msgstr "Hlavní stránka"
+
+#~ msgid "Homepage Banner"
+#~ msgstr "Banner domovské stránky"
+
+#~ msgid "Homepage Banner - Text Color"
+#~ msgstr "Banner domovské stránky – barva textu"
+
+#~ msgid "Homepage Content"
+#~ msgstr "Obsah hlavní stránky"
+
+#~ msgid "Homepage Icon"
+#~ msgstr "Slogan hlavní stránky"
+
+#, fuzzy
+#~ msgid "Homepage Slider"
+#~ msgstr "Slogan hlavní stránky"
+
+#~ msgid "Homepage Slogan"
+#~ msgstr "Slogan hlavní stránky"
+
+#~ msgid "Hover"
+#~ msgstr "Při přejetí myší"
+
+#~ msgid "Hover Background Color"
+#~ msgstr "Barva pozadí při přejetí myší"
+
+#, fuzzy
+#~ msgid "Hover color"
+#~ msgstr "Barva při přechodu myší"
+
+#~ msgid "Hover Color"
+#~ msgstr "Barva při přejetí myší"
+
+#, fuzzy
+#~ msgid "Hover color (dropdown menu)"
+#~ msgstr "Barva při přechodu myší (rozevírací nabídka)"
+
+#~ msgid "Hover Text Color"
+#~ msgstr "Barva textu při přejetí myší"
+
+#~ msgid "Icon"
+#~ msgstr "Ikona"
+
+#~ msgid "Icon Alignment"
+#~ msgstr "Zarovnání ikon"
+
+#, fuzzy
+#~ msgid "Icon Background Color"
+#~ msgstr "Barva pozadí ikony"
+
+#~ msgid "Icon Box"
+#~ msgstr "Pole ikony"
+
+#, fuzzy
+#~ msgid "Icon Color"
+#~ msgstr "Barva ikony"
+
+#~ msgid "Icon Hover Color"
+#~ msgstr "Barva ikony při přejetí myší"
+
+#~ msgid "Icon Size"
+#~ msgstr "Velikost ikony"
+
+#~ msgid "If colors are not set, skin colors will be applied."
+#~ msgstr "Pokud nejsou barvy nastaveny, použijí se výchozí barvy."
+
+#~ msgid "If turned On, the native colors of social icons will be used."
+#~ msgstr ""
+#~ "Je-li tato možnost zapnuta, použijí se vlastní barvy ikon sociálních sítí."
+
+#~ msgid "If you prefer not to receive updates by email, please log in to"
+#~ msgstr "Pokud aktuality e-mailem dostávat nechcete, přihlaste se na adrese"
+
+#, fuzzy
+#~ msgid "Image"
+#~ msgstr "Obrázek"
+
+#~ msgid "Image borders"
+#~ msgstr "Hranice obrázku"
+
+#, fuzzy
+#~ msgid "Image overlay color"
+#~ msgstr "Barva překryvu obrázku"
+
+#, fuzzy
+#~ msgid "Image style"
+#~ msgstr "Styl obrázku"
+
+#~ msgid "Import"
+#~ msgstr "Import"
+
+#, fuzzy
+#~ msgid "Import Demo Data"
+#~ msgstr "Importovat ukázková data"
+
+#~ msgid "Import demo data"
+#~ msgstr "Import ukázkových dat"
+
+#, fuzzy
+#~ msgid "Importing, please wait!"
+#~ msgstr "Probíhá import, čekejte prosím!"
+
+# This option places the cart in the header on all your pages, usually to the right of your menu. This option is only available when you are using a One.com theme. If you use another theme you get the option "Attach cart to CSS selector" instead.
+#
+# ____________________________
+# Reference for developers:
+#
+#~ msgid "In head on all pages"
+#~ msgstr "V záhlaví na všech stránkách"
+
+# This option places the cart in the header on all your pages, usually to the right of your menu. This option is only available when you are using a One.com theme. If you use another theme you get the option "Attach cart to CSS selector" instead.
+#
+# ____________________________
+# Reference for developers:
+#
+#, fuzzy
+#~ msgid "In header on all pages"
+#~ msgstr "V záhlaví na všech stránkách"
+
+#~ msgid "Information Blocks"
+#~ msgstr "Bloky informací"
+
+#, fuzzy
+#~ msgid "Insert email addresses separated by comma"
+#~ msgstr "Zadejte e-mailové adresy oddělené čárkami"
+
+# Selecting this option only shows the cart icon inside the webshop widget, and not on any other places. It is the default setting for the cart.
+#
+# ____________________________
+# Reference for developers:
+#
+#~ msgid "Inside Webshop widget"
+#~ msgstr "Pouze ve widgetu nakupování"
+
+#~ msgid "Instagram"
+#~ msgstr "Instagram"
+
+#~ msgid "Instructor"
+#~ msgstr "Instruktor"
+
+#~ msgid "Instructor Description"
+#~ msgstr "Popis instruktora"
+
+#~ msgid "Instructors"
+#~ msgstr "Instruktoři"
+
+# These keys are terms that are used to describe elements and settings in a WordPress theme. Try to translate them as generic as possible, so they can be reused.
+#
+# _______________________________________________________________
+#~ msgid "Internal Banner - Background"
+#~ msgstr "Vniřní banner - pozadí"
+
+#~ msgid "Internal Banner - Text Color"
+#~ msgstr "Interní banner – barva textu"
+
+#~ msgid "Internal Banner Font Style"
+#~ msgstr "Styl písma interního banneru"
+
+#~ msgid "Internal Banner Height"
+#~ msgstr "Výška interního banneru"
+
+#~ msgid "Internal Banners"
+#~ msgstr "Interní bannery"
+
+# This is an error message that becomes visible if someone cannot do their math. You are welcome to change it a bit to make it shorter, for example, "That is not correct, try again".
+# ____________________________
+#~| msgid "Something went wrong; please try again."
+#~ msgid "Invalid answer, please try again."
+#~ msgstr "Odpověď není správná, zkuste to prosím znovu."
+
+#, fuzzy
+#~ msgid ""
+#~ "It can take a couple of minutes for the import to finish, so please click "
+#~ "the Import button only once."
+#~ msgstr ""
+#~ "Než se import dokončí, může to trvat i několik minut. Klikněte na "
+#~ "tlačítko Import pouze jednou."
+
+# These keys are terms that are used to describe elements and settings in a WordPress theme. Try to translate them as generic as possible, so they can be reused.
+#
+# _______________________________________________________________
+#~ msgid ""
+#~ "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+#~ "searching can help."
+#~ msgstr "Nepodařilo se nám najít, co hledáte. Možná pomůže vyhledávání."
+
+#~ msgid "It will display on every pages, services etc."
+#~ msgstr "Zobrazí se na jednotlivých stránkách, ve službách atd."
+
+#~ msgid "Items"
+#~ msgstr "Položky"
+
+#, fuzzy
+#~ msgid "JavaScript"
+#~ msgstr "Skripty hlavičky"
+
+#, fuzzy
+#~ msgid "Label"
+#~ msgstr "Popisek"
+
+#~ msgctxt "label"
+#~ msgid "Search for:"
+#~ msgstr "Hledat:"
+
+#, fuzzy
+#~ msgid "Landscape"
+#~ msgstr "Na šířku"
+
+#~ msgid "Layout"
+#~ msgstr "Rozvržení"
+
+#, fuzzy
+#~ msgid ""
+#~ "Learn more about the online shop from the guides and FAQs on our website."
+#~ msgstr ""
+#~ "Další informace o internetovém obchodě získáte v příručkách a častých "
+#~ "otázkách na našem webu."
+
+#, fuzzy
+#~ msgid "Leave a Comment"
+#~ msgstr "Přidat komentář"
+
+#~ msgid "Left"
+#~ msgstr "Doleva"
+
+#, fuzzy
+#~ msgid "Left Section Image"
+#~ msgstr "Obrázek levé sekce"
+
+#, fuzzy
+#~ msgid "Left Section Text"
+#~ msgstr "Text levé sekce"
+
+#, fuzzy
+#~ msgid "Left Section Title"
+#~ msgstr "Nadpis levé sekce"
+
+#~ msgid "Left Sidebar"
+#~ msgstr "Levý postranní panel"
+
+#~ msgid "Lesson"
+#~ msgstr "Lekce"
+
+#~ msgid "Lesson Description"
+#~ msgstr "Popis lekce"
+
+#, fuzzy
+#~ msgid "Line Height"
+#~ msgstr "Výška Řádku"
+
+#~ msgid "Link"
+#~ msgstr "Odkaz"
+
+#, fuzzy
+#~ msgid "Link Color"
+#~ msgstr "Barva odkazu"
+
+#, fuzzy
+#~ msgid "Link Hover Color"
+#~ msgstr "Barva odkazu při přejetí myší"
+
+#~ msgid "Link Text"
+#~ msgstr "Text odkazu"
+
+#~ msgid "Linkedin"
+#~ msgstr "LinkedIn"
+
+# Label to set the colour for all links.
+#
+# See screenshot for context and the corresponding colours.
+# ____________________________
+#~ msgid "Links"
+#~ msgstr "Odkazy"
+
+#~ msgid "Links Color"
+#~ msgstr "Barva odkazů"
+
+#~ msgid "Log in"
+#~ msgstr "Přihlásit se"
+
+#~ msgid "Log Out"
+#~ msgstr "Odhlášení"
+
+#, fuzzy
+#~ msgid "Logo"
+#~ msgstr "Logo"
+
+#~ msgid "Logo & Description"
+#~ msgstr "Logo a popis"
+
+#~ msgid "Logo Font Style"
+#~ msgstr "Styl písma loga"
+
+#, fuzzy
+#~ msgid "Logo Height"
+#~ msgstr "Výška Řádku"
+
+# These keys are terms that are used to describe elements and settings in a WordPress theme. Try to translate them as generic as possible, so they can be reused.
+#
+# _______________________________________________________________
+#~ msgid "Logo Text"
+#~ msgstr "Text loga"
+
+#~ msgid "Logo Text Color"
+#~ msgstr "Barva textu loga"
+
+#, fuzzy
+#~ msgid "Mainmenu Navigation"
+#~ msgstr "Navigace v hlavní nabídce"
+
+#~ msgid "Manage Footer Widgets"
+#~ msgstr "Spravovat widgety zápatí"
+
+#~ msgid "Manage Header Menu"
+#~ msgstr "Spravovat menu záhlaví"
+
+#~ msgid "Manage Logo Text"
+#~ msgstr "Spravovat text loga"
+
+#~ msgid "Manage Site Title"
+#~ msgstr "Spravovat název webu"
+
+#, fuzzy
+#~ msgid "Manage Slider"
+#~ msgstr "Spravovat název webu"
+
+#~ msgid "Manage Social Icons"
+#~ msgstr "Správa ikon pro sociální sítě"
+
+#~ msgid "Map Embed Code"
+#~ msgstr "Vložený kód mapy"
+
+#~ msgid "Map Section"
+#~ msgstr "Sekce mapy"
+
+#, fuzzy
+#~ msgid "Menu"
+#~ msgstr "Menu"
+
+#, fuzzy
+#~ msgid "Menu Background Color"
+#~ msgstr "Barva pozadí položky menu"
+
+#~ msgid "Menu Font Style"
+#~ msgstr "Styl písma nabídky"
+
+#~ msgid "Menu Item Background Color"
+#~ msgstr "Barva pozadí položky menu"
+
+#~ msgid "Menu Item Color"
+#~ msgstr "Barva položky menu"
+
+#~ msgid "Message "
+#~ msgstr "Zpráva"
+
+#~ msgid "Message"
+#~ msgstr "Zpráva"
+
+#~ msgid "Message is too large, please shorten it."
+#~ msgstr "Zpráva je příliš dlouhá, zkraťte ji."
+
+#~ msgid "Message text is empty or too short."
+#~ msgstr "Text zprávy je prázdný nebo příliš krátký."
+
+# If you choose the option to have a floating cart, the cart is visible on all pages. It sort of floats above the page and stays at the same place whether you scroll up and down.
+#
+# Use the slider to determine the vertical position of the cart on your page.
+#
+# ____________________________
+# Reference for developers:
+#
+#~ msgid "Middle"
+#~ msgstr "Uprostřed"
+
+#~ msgid "Middle Bottom Section Content"
+#~ msgstr "Obsah střední dolní sekce"
+
+#~ msgid "Middle Bottom Section Title"
+#~ msgstr "Nadpis střední dolní sekce"
+
+#~ msgid "Middle Left Section Content"
+#~ msgstr "Obsah střední levé sekce"
+
+#~ msgid "Middle Left Section Title"
+#~ msgstr "Nadpis střední levé sekce"
+
+#~ msgid "Middle Right Section Content"
+#~ msgstr "Obsah střední pravé sekce"
+
+#~ msgid "Middle Right Section Image"
+#~ msgstr "Obrázek střední pravé sekce"
+
+#~ msgid "Middle Right Section Title"
+#~ msgstr "Nadpis střední pravé sekce"
+
+#~ msgid "Middle Section Content"
+#~ msgstr "Obsah střední sekce"
+
+#, fuzzy
+#~ msgid "Middle Section-1 Content Image"
+#~ msgstr "Obrázek obsahu střední sekce 1"
+
+#, fuzzy
+#~ msgid "Middle Section-1 Link"
+#~ msgstr "Odkaz střední sekce 1"
+
+#, fuzzy
+#~ msgid "Middle Section-1 Title"
+#~ msgstr "Nadpis střední sekce 1"
+
+#, fuzzy
+#~ msgid "Middle Section-2 Left Content"
+#~ msgstr "Obsah střední sekce 2 vlevo"
+
+#, fuzzy
+#~ msgid "Middle Section-2 Right content"
+#~ msgstr "Obsah střední sekce 2 vpravo"
+
+#, fuzzy
+#~ msgid "Middle Section-2 Title"
+#~ msgstr "Nadpis střední sekce 2"
+
+#, fuzzy
+#~ msgid "Missing Attachment"
+#~ msgstr "Fixace pozadí"
+
+#~ msgid "Month"
+#~ msgstr "Měsíc"
+
+#, fuzzy
+#~ msgid "Most popular"
+#~ msgstr "Nejpopulárnější"
+
+#~ msgid "Name "
+#~ msgstr "Jméno"
+
+#, fuzzy
+#~ msgid "Name"
+#~ msgstr "Jméno"
+
+#~ msgid "Name is empty or too short."
+#~ msgstr "Název je prázdný nebo příliš krátký."
+
+#~ msgid "Name is too large."
+#~ msgstr "Název je příliš dlouhý."
+
+#~ msgid "New Adventure"
+#~ msgstr "New Cesta"
+
+#~ msgid "New Collections"
+#~ msgstr "Nové kolekce"
+
+#~ msgid "New Item"
+#~ msgstr "Nová položka"
+
+#~ msgid "New Lesson"
+#~ msgstr "Nová lekce"
+
+#, fuzzy
+#~ msgid "New Service"
+#~ msgstr "Nová služba"
+
+#~ msgid "New Spotlight"
+#~ msgstr "Nový spotlight"
+
+#~ msgid "New Testimonial"
+#~ msgstr "Nové svědectví"
+
+#~ msgid "New Travel"
+#~ msgstr "Nová cesta"
+
+#, fuzzy
+#~ msgid "Newest"
+#~ msgstr "Od nejnovějšího"
+
+#~ msgid "Newsletter"
+#~ msgstr "Zpravodaj"
+
+#~ msgid "Newsletter Settings"
+#~ msgstr "Nastavení zpravodaje"
+
+#, fuzzy
+#~ msgid "Next"
+#~ msgstr "Další"
+
+#~ msgid "No entries found!"
+#~ msgstr "Nebyly nalezeny žádné záznamy!"
+
+#, fuzzy
+#~ msgid ""
+#~ "No existing data will be deleted or modified, this includes posts, pages, "
+#~ "categories, images, custom post types or any other data."
+#~ msgstr ""
+#~ "Žádná stávající data se nevymažou ani nezmění – to platí pro příspěvky, "
+#~ "stránky, kategorie, obrázky, vlastní typy příspěvků a jiná data."
+
+#~ msgid "No posts found. Try a different search!"
+#~ msgstr "Nebyly nalezeny žádné příspěvky. Zkuste hledat něco jiného!"
+
+#~ msgid "No Sidebar"
+#~ msgstr "Žádný postranní panel"
+
+#~ msgid "Not Found"
+#~ msgstr "Nenalezeno"
+
+#~ msgid "Note: You can override this setting on a specific page."
+#~ msgstr "Poznámka: Toto nastavení můžete přepsat na konkrétní stránce."
+
+#~ msgid "Note: You can override this setting on a specific post."
+#~ msgstr "Poznámka: Toto nastavení můžete přepsat na konkrétní příspěvek."
+
+#, fuzzy
+#~ msgid "Nothing found"
+#~ msgstr "Nic nenalezeno"
+
+#, fuzzy
+#~ msgid "Nothing found in Trash"
+#~ msgstr "V koši nebylo nic nalezeno"
+
+#, fuzzy
+#~ msgid "Notice Section Content"
+#~ msgstr "Obsah sekce s oznámením"
+
+#, fuzzy
+#~ msgid "Offset Left"
+#~ msgstr "Posun vlevo"
+
+#, fuzzy
+#~ msgid "Offset Top"
+#~ msgstr "Posun nahoře"
+
+#
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# In this text we explain what the issue is and why it's a problem that needs to be fixed.
+# ________________________________________
+#~ msgid ""
+#~ "One or more of your installed themes are outdated. Using outdated themes "
+#~ "can break your site and generate potential security risks."
+#~ msgstr ""
+#~ "Máte nainstalovaný nejméně jeden neaktuální motiv. Používání neaktuálních "
+#~ "motivů může způsobit poruchu webu a představuje potenciální bezpečnostní "
+#~ "riziko."
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# In this text we explain what the issue is and why it's a problem that needs to be fixed.
+# ________________________________________
+#
+#~ msgid ""
+#~ "One or more of your plugins are outdated. Outdated plugins make your site "
+#~ "vulnerable to security attacks."
+#~ msgstr ""
+#~ "Máte nejméně jeden neaktuální plugin. Neaktuální pluginy jsou oblíbeným "
+#~ "cílem hackerů a představují vážné bezpečnostní riziko.  "
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# In this text we explain what the issue is and why it's a problem that needs to be fixed.
+# ________________________________________
+#
+#~ msgid ""
+#~ "One or more of your plugins is on the list of plugins we advise against "
+#~ "using. Plugins on this list have a negative effect on the performance of "
+#~ "your site, or pose a security risk."
+#~ msgstr ""
+#~ "Nejméně jeden z vašich pluginů je na seznamu těch, které nedoporučujeme. "
+#~ "Pluginy na tomto seznamu mají nepříznivý vliv na výkon vašeho webu nebo "
+#~ "představují bezpečnostní riziko."
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# In this text we explain what the issue is and why it's a problem that needs to be fixed.
+# ________________________________________
+#
+#~ msgid ""
+#~ "One or more of your usernames is very common, like for example “admin”. "
+#~ "These usernames are easy to guess and could be exploited by hackers."
+#~ msgstr ""
+#~ "Obvyklá uživatelská jména jako „admin” lze snadno uhodnout a mohou je "
+#~ "využít hackeři. O průlom se pokoušejí pomocí robotů, kteří zkoušejí "
+#~ "miliony hesel. Máte-li nastavené vlastní uživatelské jméno, je pro ně "
+#~ "průlom mnohem obtížnější."
+
+#~ msgid "One Reply to &ldquo;%s&rdquo;"
+#~ msgstr "Jedna odpověď na příspěvek &ldquo;%s&rdquo;"
+
+#, fuzzy
+#~ msgid "Online shop Settings"
+#~ msgstr "Nastavení internetového obchodu"
+
+#~ msgid "Open in new window?"
+#~ msgstr "Otevřít v novém okně?"
+
+#, fuzzy
+#~ msgid "OptionTree"
+#~ msgstr "Možnosti tématu resetovány"
+
+#, fuzzy
+#~ msgid ""
+#~ "OptionTree is installed as a plugin and also embedded in your current "
+#~ "theme. Please deactivate the plugin to load the theme dependent version "
+#~ "of OptionTree, and remove this warning."
+#~ msgstr ""
+#~ "OptionTree je nainstalován jako modul plug-in a je rovněž vložen do "
+#~ "vašeho aktuálního tématu. Nejprve deaktivujte modul plug-in, abyste si "
+#~ "mohli načíst verzi OptionTree dle tématu, a poté vymažte toto varování."
+
+#, fuzzy
+#~ msgid "Order details (borders)"
+#~ msgstr "Detaily objednávky (ohraničení)"
+
+#, fuzzy
+#~ msgid "Our chat support is open 24/7"
+#~ msgstr "Naše podpora na chatu funguje 24 hodin denně, 7 dnů v týdnu"
+
+#, fuzzy
+#~ msgid "Page Checkbox"
+#~ msgstr "Sekce stránky"
+
+#~ msgid "Page content"
+#~ msgstr "Obsah stránky"
+
+#~ msgid "Page Content"
+#~ msgstr "Obsah stránky"
+
+#~ msgid "Page Description"
+#~ msgstr "Obsah stránky"
+
+#~ msgid "Page Header"
+#~ msgstr "Záhlaví stránky"
+
+#, fuzzy
+#~ msgid "Page Not Found"
+#~ msgstr "Stránka nenalezena"
+
+#~ msgid "Page Section"
+#~ msgstr "Sekce stránky"
+
+#~ msgid "Page Sections"
+#~ msgstr "Sekce stránky"
+
+#, fuzzy
+#~ msgid "Page Select"
+#~ msgstr "Sekce stránky"
+
+#, fuzzy
+#~ msgid "Page Settings"
+#~ msgstr "Nastavení stránky"
+
+#, fuzzy
+#~ msgid "Page Sub Title"
+#~ msgstr "Podtitul stránky"
+
+#~ msgid "Page Subtitle"
+#~ msgstr "Podtitulek stránky"
+
+#~ msgid "Page Title"
+#~ msgstr "Podtitulek"
+
+#~ msgid "Pages > Home > Banner"
+#~ msgstr "Stránky > Domovská > Banner"
+
+#, fuzzy
+#~ msgid "Pages:"
+#~ msgstr "Stránky:"
+
+#~ msgid "Personal Website"
+#~ msgstr "Osobní web"
+
+#, fuzzy
+#~ msgid "Phone"
+#~ msgstr "Telefon"
+
+#~ msgid "Phone "
+#~ msgstr "Telefon"
+
+#~ msgid "Phone is empty or too short."
+#~ msgstr "Název je prázdný nebo příliš krátký."
+
+#~ msgid "Phone:"
+#~ msgstr "Telefon:"
+
+#~ msgid "Please add / edit"
+#~ msgstr "Přidejte/upravte"
+
+#~ msgid ""
+#~ "Please copy and paste the Embed Code or Shortcode of the custom form (if "
+#~ "any). This will replace the default form."
+#~ msgstr ""
+#~ "Zkopírujte a vložte vložený kód nebo krátký kód vlastního formuláře "
+#~ "(pokud existuje). Tím nahradíte výchozí formulář."
+
+#, fuzzy
+#~ msgid "Please enter a number between 2 and 100."
+#~ msgstr "Zadejte číslo od 2 do 100."
+
+#~ msgid "Please enter your email."
+#~ msgstr "Zadejte svůj e-mail."
+
+#, fuzzy
+#~| msgid "Please select the therapies to be diplayed."
+#~ msgid "Please select services to be diplayed."
+#~ msgstr "Vyberte kurzy, které chcete zobrazit."
+
+#~ msgid "Please select the courses to be diplayed."
+#~ msgstr "Vyberte kurzy, které chcete zobrazit."
+
+# These keys are terms that are used to describe elements and settings in a WordPress theme. Try to translate them as generic as possible, so they can be reused.
+#
+# _______________________________________________________________
+#~ msgid "Please select the items to be displayed."
+#~ msgstr "Vyberte si položky, které chcete zobrazit."
+
+#~ msgid "Please select the services to be diplayed."
+#~ msgstr "Vyberte kurzy, které chcete zobrazit."
+
+#, fuzzy
+#~| msgid "Please select the therapies to be diplayed."
+#~ msgid "Please select the services to be displayed."
+#~ msgstr "Vyberte kurzy, které chcete zobrazit."
+
+#~ msgid "Please select the therapies to be diplayed."
+#~ msgstr "Vyberte kurzy, které chcete zobrazit."
+
+#, fuzzy
+#~ msgid "Please upload Image."
+#~ msgstr "Nahrajte obrázek."
+
+#, fuzzy
+#~ msgid "Please upload the image ."
+#~ msgstr "Nahrajte obrázek."
+
+#, fuzzy
+#~ msgid "Please upload the image."
+#~ msgstr "Nahrajte obrázek."
+
+#~ msgid "Please wait..."
+#~ msgstr "Počkejte prosím..."
+
+#, fuzzy
+#~ msgid "Portrait"
+#~ msgstr "Na výšku"
+
+#~ msgctxt "Post Type General Name"
+#~ msgid "Instructors"
+#~ msgstr "Instruktoři"
+
+#~ msgctxt "Post Type General Name"
+#~ msgid "Lessons"
+#~ msgstr "Lekce"
+
+#~ msgctxt "Post Type Singular Name"
+#~ msgid "Instructor"
+#~ msgstr "Instruktor"
+
+#~ msgctxt "Post Type Singular Name"
+#~ msgid "Lesson"
+#~ msgstr "Lekce"
+
+#~ msgid "Posted by %s"
+#~ msgstr "Publikoval(a) %s"
+
+#~ msgid "Posted in"
+#~ msgstr "Publikováno dne/v"
+
+#, fuzzy
+#~ msgid ""
+#~ "Posts, pages, images, widgets, menus and other theme settings will get "
+#~ "imported."
+#~ msgstr ""
+#~ "Příspěvky, stránky, obrázky, widgety, menu a další nastavení témat se "
+#~ "naimportují."
+
+#, fuzzy
+#~ msgid "Previous"
+#~ msgstr "Předchozí"
+
+#, fuzzy
+#~ msgid "Price"
+#~ msgstr "Cena"
+
+#, fuzzy
+#~ msgid "Price: "
+#~ msgstr "Cena:"
+
+#, fuzzy
+#~ msgid "Price: High to low"
+#~ msgstr "Cena: od nejvyšší po nejnižší"
+
+#, fuzzy
+#~ msgid "Price: Low to high"
+#~ msgstr "Cena: od nejnižší po nejvyšší"
+
+#~ msgid "Primary"
+#~ msgstr "Primární"
+
+# These keys are terms that are used to describe elements and settings in a WordPress theme. Try to translate them as generic as possible, so they can be reused.
+#
+# _______________________________________________________________
+#~ msgid "Primary Buttons"
+#~ msgstr "Hlavní tlačítka"
+
+#~ msgid "Primary Navigation"
+#~ msgstr "Hlavní navigace"
+
+#~ msgid "Primary Sidebar"
+#~ msgstr "Primární boční panel"
+
+# Settings section where you can make the blog private, so that users need to log in before they can see it.
+# __________________________
+#~ msgid "Private blog"
+#~ msgstr "Soukromý blog"
+
+#, fuzzy
+#~ msgid "Pro tip"
+#~ msgstr "Tip:"
+
+#, fuzzy
+#~ msgid "Products per page"
+#~ msgstr "Počet produktů na stránce"
+
+#, fuzzy
+#~ msgid "Products per row"
+#~ msgstr "Počet produktů v řádku"
+
+#~ msgid "Profile Image"
+#~ msgstr "Profilový obrázek"
+
+#, fuzzy
+#~ msgid "Promotion label position"
+#~ msgstr "Poloha propagačního popisku"
+
+#~ msgid ""
+#~ "Provide email accounts where you want to receive emails from this form."
+#~ msgstr ""
+#~ "Zadejte e-mailové účty, na které chcete dostávat e-maily z tohoto "
+#~ "formuláře."
+
+#, fuzzy
+#~ msgid ""
+#~ "Provide email ids on which you want to receive email from contact form. "
+#~ "Example: info@one.com, contact@gmail.com"
+#~ msgstr ""
+#~ "Zadejte e-maily, na které chcete dostávat zprávy z kontaktního formuláře. "
+#~ "Příklad: info@one.com, contact@gmail.com"
+
+#, fuzzy
+#~ msgid "Published on: "
+#~ msgstr "Publikováno dne:"
+
+#~ msgid "Quote Form Description"
+#~ msgstr "Popis formuláře cenové nabídky"
+
+#~ msgid "Quote Form Title"
+#~ msgstr "Nadpis formuláře cenové nabídky"
+
+#, fuzzy
+#~ msgid "Radio Image"
+#~ msgstr "Obrázek na banneru"
+
+# These keys are terms that are used to describe elements and settings in a WordPress theme. Try to translate them as generic as possible, so they can be reused.
+#
+# _______________________________________________________________
+#~ msgid "Radius"
+#~ msgstr "Okruh"
+
+#~ msgid "Read more button text"
+#~ msgstr "Text tlačítka služeb"
+
+#, fuzzy
+#~ msgid "Ready to publish your first post?"
+#~ msgstr "Jste připraveni publikovat první příspěvek?"
+
+#~ msgid "Recently Published"
+#~ msgstr "Nedávno publikované"
+
+#, fuzzy
+#~ msgid "Recipients"
+#~ msgstr "Příjemci"
+
+#, fuzzy
+#~ msgid "Redo"
+#~ msgstr "Opakovat"
+
+#, fuzzy
+#~ msgid "Redo last undone action"
+#~ msgstr "Opakovat poslední vrácenou akci"
+
+#, fuzzy
+#~ msgid "Reply"
+#~ msgstr "Odpovědět"
+
+# Option with checkbox where you can make the blog private, so that users need to log in before they can see it.
+# __________________________
+#~ msgid "Require login credentials to view blog?"
+#~ msgstr ""
+#~ "Vyžadovat po uživatelích, aby se přihlásili, aby si mohli zobrazit blog"
+
+#~ msgid "Required"
+#~ msgstr "Povinné"
+
+#, fuzzy
+#~ msgid "Reset Options"
+#~ msgstr "Možnosti resetování"
+
+#~ msgid "Reviews"
+#~ msgstr "Recenze"
+
+#~ msgid "Right"
+#~ msgstr "Doprava"
+
+#, fuzzy
+#~ msgid "Right Main Content"
+#~ msgstr "Hlavní obsah vpravo"
+
+#~ msgid "Right Sidebar"
+#~ msgstr "Pravý postranní panel"
+
+#, fuzzy
+#~ msgid "Save & Publish"
+#~ msgstr "Uložit a publikovat"
+
+#, fuzzy
+#~ msgid "Save Changes"
+#~ msgstr "Uložit změny"
+
+#, fuzzy
+#~ msgid "Saved & Published"
+#~ msgstr "Uloženo a publikováno"
+
+# These keys are terms that are used to describe elements and settings in a WordPress theme. Try to translate them as generic as possible, so they can be reused.
+#
+# _______________________________________________________________
+#~ msgid "Schedule"
+#~ msgstr "Rozvrh"
+
+#~ msgid "Scripts to be inserted after footer."
+#~ msgstr "Skripty, které budou vloženy za zápatí."
+
+#~ msgid "Scripts to be inserted in \"head\" tag."
+#~ msgstr "Skripty, které budou vloženy do tagu \"head\"."
+
+#~ msgid "Search"
+#~ msgstr "Hledání"
+
+#~ msgid "Search Adventures"
+#~ msgstr "Search Cesta"
+
+#~ msgid "Search Event"
+#~ msgstr "Searc "
+
+#, fuzzy
+#~ msgid "Search Results"
+#~ msgstr "Výsledky hledání"
+
+#~ msgid "Search Service"
+#~ msgstr "Hledat službu"
+
+#~ msgid "Search Spotlight"
+#~ msgstr "Hledat spotlight"
+
+#~ msgid "Search Testimonial"
+#~ msgstr "Search Svědectví"
+
+#~ msgid "Search Testimonials"
+#~ msgstr "Hledat svědectví"
+
+#~ msgid "Search Travel"
+#~ msgstr "Hledat cestu"
+
+#~ msgid "Search: %s"
+#~ msgstr "Hledání: %s"
+
+#, fuzzy
+#~ msgid "Secondary"
+#~ msgstr "Sekundární rodina písma"
+
+# These keys are terms that are used to describe elements and settings in a WordPress theme. Try to translate them as generic as possible, so they can be reused.
+#
+# _______________________________________________________________
+#~ msgid "Secondary Buttons"
+#~ msgstr "Druhotná tlačítka"
+
+#~ msgid "Secondary Font Family"
+#~ msgstr "Sekundární rodina písma"
+
+#~ msgid "Section Background"
+#~ msgstr "Pozadí sekce"
+
+#~ msgid "Section Content"
+#~ msgstr "Obsah sekce"
+
+#~ msgid "Section Image"
+#~ msgstr "Obrázek levé sekce"
+
+#~ msgid "Section Sub Title"
+#~ msgstr "Nadpis sekce"
+
+#~ msgid "Section Title"
+#~ msgstr "Nadpis sekce"
+
+#~ msgid "Section Titles Font Style"
+#~ msgstr "Styl písma nadpisů sekcí"
+
+#, fuzzy
+#~ msgid "Select an image by clicking the + button"
+#~ msgstr "Vyberte obrázek kliknutím na tlačítko +"
+
+#, fuzzy
+#~ msgid "Select background color of header."
+#~ msgstr "Vyberte barvu pozadí záhlaví."
+
+#~ msgid "Select banner image"
+#~ msgstr "Obrázek na banneru"
+
+#~ msgid "Select icon background color on footer section"
+#~ msgstr "Vyberte barvu pozadí ikony v oblasti zápatí"
+
+#~ msgid "Select icon background color on main content area"
+#~ msgstr "Vyberte barvu pozadí ikony v oblasti hlavního obsahu"
+
+#~ msgid "Select icon color on footer section"
+#~ msgstr "Vyberte barvu ikony v oblasti zápatí"
+
+#~ msgid "Select icon color on main content area"
+#~ msgstr "Vyberte barvu ikony v oblasti hlavního obsahu"
+
+#, fuzzy
+#~ msgid "Select social icon background color"
+#~ msgstr "Vyberte barvu pozadí ikony sociální sítě"
+
+#, fuzzy
+#~ msgid "Select social icon background color."
+#~ msgstr "Vyberte barvu pozadí ikony sociální sítě."
+
+#, fuzzy
+#~ msgid "Select social icon color"
+#~ msgstr "Vyberte barvu ikony sociální sítě"
+
+#, fuzzy
+#~ msgid "Select social icon color."
+#~ msgstr "Vyberte barvu ikony sociální sítě."
+
+#~ msgid "Select the button background color for contact form "
+#~ msgstr "Vyberte barvu pozadí tlačítka pro kontaktní formulář"
+
+#, fuzzy
+#~ msgid "Select the font size, font family, color etc"
+#~ msgstr "Slouží k výběru velikosti písma, typu písma, barvy atd."
+
+#, fuzzy
+#~ msgid "Select the font size, font family, color etc."
+#~ msgstr "Vyberte velikost písma, druh písma, barvu atd."
+
+#~ msgid "Select the font size, font family, color for menu"
+#~ msgstr "Vyberte velikost písma, druh písma a barvu pro nabídku"
+
+# This text is a description explaining what checking happens when you check the option to show the checkout banner.
+#
+# ____________________________
+# Reference for developers:
+#
+#~ msgid ""
+#~ "Select this option to show a checkout banner at the bottom of all pages "
+#~ "of your site on mobile devices, when there is something in the cart."
+#~ msgstr ""
+#~ "Tuto možnost vyberte, chcete-li zobrazovat banner pokladny v dolní části "
+#~ "všech stránek svého webu na mobilních zařízeních, pokud v košíku něco je."
+
+# You have three ways that you can show the shopping cart on your site.
+#
+# This is the header and description, after which you need to choose an option.
+#
+# ____________________________
+# Reference for developers:
+#
+#~ msgid "Select where you want the cart icon to be visible."
+#~ msgstr "Vyberte, kde se má ikona košíku na vašem webu zobrazovat."
+
+#, fuzzy
+#~ msgid "Selected value (dropdown)"
+#~ msgstr "Vybraná hodnota (rozevírací nabídka)"
+
+#, fuzzy
+#~ msgid "Service"
+#~ msgstr "Služba"
+
+#~ msgid "Service "
+#~ msgstr "Služba"
+
+#, fuzzy
+#~ msgid "Service Description"
+#~ msgstr "Stručný popis"
+
+#~ msgid "Services"
+#~ msgstr "Služby"
+
+#~ msgid "Services Button Link"
+#~ msgstr "Odkaz tlačítka služeb"
+
+#~ msgid "Services Button Text"
+#~ msgstr "Text tlačítka služeb"
+
+#~ msgid "Services page Icon"
+#~ msgstr "Služby"
+
+#, fuzzy
+#~ msgid "Set a color for the background of your shop."
+#~ msgstr "Nastavte barvu pozadí svého obchodu."
+
+# Title and button text for the cart feature under Online Shop plugin settings.
+#
+# ____________________________
+# Reference for developers:
+#
+#, fuzzy
+#~ msgid "Set cart position and style"
+#~ msgstr "Umístění a styl košíku"
+
+#, fuzzy
+#~ msgid "Settings"
+#~ msgstr "Nastavení"
+
+#~ msgid "Short Description"
+#~ msgstr "Stručný popis"
+
+#, fuzzy
+#~ msgid "Show \"sort by\" selector"
+#~ msgstr "Zobrazit selektor \"seřadit podle\""
+
+#~ msgid "Show Banner"
+#~ msgstr "Zobrazit banner?"
+
+#~ msgid "Show Banner?"
+#~ msgstr "Zobrazit banner?"
+
+#, fuzzy
+#~ msgid "Show category selector"
+#~ msgstr "Zobrazit selektor kategorie"
+
+#~ msgid "Show Courses"
+#~ msgstr "Zobrazit kurzy"
+
+#~ msgid "Show Logo"
+#~ msgstr "Zobrazit logo"
+
+# These keys are terms that are used to describe elements and settings in a WordPress theme. Try to translate them as generic as possible, so they can be reused.
+#
+# _______________________________________________________________
+#~ msgid "Show Logo Image"
+#~ msgstr "Ukázat logo"
+
+#~ msgid "Show Post Metadata"
+#~ msgstr "Zobrazit metadata příspěvku"
+
+#~ msgid "Show Section"
+#~ msgstr "Zobrazit sekci"
+
+#, fuzzy
+#~ msgid "Show Thumbnail"
+#~ msgstr "Titulek"
+
+#~ msgid "Show Title"
+#~ msgstr "Titulek"
+
+#~ msgid "Show/Hide Newsletter Section"
+#~ msgstr "Zobrazit/skrýt sekci zpravodaje"
+
+#, fuzzy
+#~ msgid "Sidebar"
+#~ msgstr "Žádný postranní panel"
+
+#~ msgid "Single Page - Page layout"
+#~ msgstr "Jedna stránka - rozvržení stránky"
+
+#~ msgid "Single Post - Page Layout"
+#~ msgstr "Jeden příspěvek – rozvržení stránky"
+
+#, fuzzy
+#~ msgid "Site Description / Tagline"
+#~ msgstr "Popis webu / Motto"
+
+#~ msgid "Site Name"
+#~ msgstr "Název webu"
+
+#~ msgid "Site title"
+#~ msgstr "Název webu"
+
+#, fuzzy
+#~ msgid "Site Title"
+#~ msgstr "Nadpis webu"
+
+#~ msgid "Site Title Font Style"
+#~ msgstr "Styl písma pro nadpis webu"
+
+#~ msgid "Site title will be displayed if no image uploaded."
+#~ msgstr "Není-li nahrán obrázek, zobrazí se název webu."
+
+#~ msgid "Skin - Primary Color"
+#~ msgstr "Skin – primární barva"
+
+#~ msgid "Skin - Secondary Color"
+#~ msgstr "Skin – sekundární barva"
+
+#~ msgid "Small Text Color"
+#~ msgstr "Barva malého textu"
+
+#, fuzzy
+#~ msgid "Social"
+#~ msgstr "Sociální sítě"
+
+#, fuzzy
+#~ msgid "Social Icon Background Color"
+#~ msgstr "Barva pozadí ikony sociální sítě"
+
+#, fuzzy
+#~ msgid "Social Icon Color"
+#~ msgstr "Barva ikony sociální sítě"
+
+#~ msgid "Social Icon Default Colors"
+#~ msgstr "Výchozí barvy ikon sociálních sítí"
+
+#, fuzzy
+#~ msgid "Social Icons"
+#~ msgstr "Odkazy ke sdílení"
+
+#~ msgid "Social Icons Color"
+#~ msgstr "Barva ikon sociálních sítí"
+
+#, fuzzy
+#~ msgid "Social Links"
+#~ msgstr "Odkazy na sociální sítě"
+
+#~ msgid "Social Profile Icon"
+#~ msgstr "Ikona profilu na sociální síti"
+
+#~ msgid "Social Profile Link"
+#~ msgstr "Odkaz na profil na sociální síti"
+
+#~ msgid "Social Section Content"
+#~ msgstr "Obsah sekce sociálních sítí"
+
+#~ msgid "Social Section Title"
+#~ msgstr "Nadpis sekce sociálních sítí"
+
+#~ msgid "Some error occurred, please reload the page and try again."
+#~ msgstr "Došlo k chybě. Obnovte stránku a zkuste to znovu."
+
+#~ msgid "Something went wrong! Please try again!"
+#~ msgstr "Něco se nepovedlo! Zkuste to znovu!"
+
+# Error message that is currently hidden, will be used in the future.
+# ____________________________
+# Reference for developers:
+#
+#~ msgid "Something went wrong. Please reload the page and try again."
+#~ msgstr "Něco se nepovedlo. Obnovte stránku a opakujte akci."
+
+#~ msgid "Sorry, but you are looking for something that isn't here."
+#~ msgstr "Je nám líto, ale hledáte něco, co tady není."
+
+#, fuzzy
+#~ msgid "Sort by"
+#~ msgstr "Seřadit podle"
+
+#~ msgid "Space after caption (px)"
+#~ msgstr "Prostor za popiskem (px)"
+
+#~ msgid "Specifications"
+#~ msgstr "Specifikace"
+
+#~ msgid "Spotlight"
+#~ msgstr "Spotlight"
+
+#~ msgid "Spotlight Blurb"
+#~ msgstr "Výňatek ze spotlightu"
+
+#~ msgid "spotlight posts"
+#~ msgstr "příspěvky typu Spotlight,"
+
+#~ msgid "Spotlight Title"
+#~ msgstr "Nadpis spotlightu"
+
+#, fuzzy
+#~ msgid "Square"
+#~ msgstr "Čtverec"
+
+#, fuzzy
+#~ msgid "Standard"
+#~ msgstr "Standardní"
+
+# These keys are terms that are used to describe elements and settings in a WordPress theme. Try to translate them as generic as possible, so they can be reused.
+#
+# _______________________________________________________________
+#~ msgid "Stats"
+#~ msgstr "Statistiky"
+
+#~ msgid "Sub Footer Background"
+#~ msgstr "Pozadí části zápatí"
+
+#~ msgid "Sub Footer Text Color"
+#~ msgstr "Barva textu části zápatí"
+
+#, fuzzy
+#~ msgid "Sub Title"
+#~ msgstr "Podtitul"
+
+#~ msgid "Submenu Item Background Color"
+#~ msgstr "Barva pozadí položky podmenu"
+
+#~ msgid "Submenu Item Color"
+#~ msgstr "Barva položky podmenu"
+
+#~ msgid "Submenu Item color"
+#~ msgstr "Podnabídka položek barva"
+
+#~ msgid "Submit Comment"
+#~ msgstr "Odeslat komentář"
+
+#~ msgid "Subscribe"
+#~ msgstr "Přihlásit odběr"
+
+#~ msgid "Subscribed successfully."
+#~ msgstr "Odběr úspěšně přihlášen."
+
+#~ msgid "Subtext"
+#~ msgstr "Subtext"
+
+#~ msgid "Subtitle"
+#~ msgstr "Podtitulek"
+
+# These keys are terms that are used to describe elements and settings in a WordPress theme. Try to translate them as generic as possible, so they can be reused.
+#
+# _______________________________________________________________
+#~ msgid "Team"
+#~ msgstr "Tým"
+
+#, fuzzy
+#~ msgid "Testimonial"
+#~ msgstr "Svědectví"
+
+#~ msgid "Testimonial Font Style"
+#~ msgstr "Styl písma reference"
+
+#, fuzzy
+#~ msgid "Testimonials"
+#~ msgstr "Reference"
+
+#, fuzzy
+#~ msgid "Text"
+#~ msgstr "Text"
+
+#, fuzzy
+#~ msgid "Text color"
+#~ msgstr "Barva textu"
+
+#, fuzzy
+#~ msgid "Text Color"
+#~ msgstr "Barva textu"
+
+#, fuzzy
+#~ msgid "Text color (dropdown menu)"
+#~ msgstr "Barva textu (rozevírací nabídka)"
+
+#, fuzzy
+#~ msgid "Text Decoration"
+#~ msgstr "Text s ozdobnými efekty"
+
+#, fuzzy
+#~ msgid "Text links"
+#~ msgstr "Odkazy na text"
+
+#~ msgid "Text Shadow"
+#~ msgstr "Stín textu"
+
+#, fuzzy
+#~ msgid "Textblock"
+#~ msgstr "Barva textu"
+
+#, fuzzy
+#~ msgid "Textblock Titled"
+#~ msgstr "Nadpis sekce"
+
+#~ msgid ""
+#~ "The added features will be displayed in the order they are arranged here."
+#~ msgstr "Přidané funkce se zobrazí v pořadí, v jakém jsou zde uspořádány."
+
+#~ msgid ""
+#~ "The added plans will be displayed in the order they are arranged here."
+#~ msgstr "Přidané funkce se zobrazí v pořadí, v jakém jsou zde uspořádány."
+
+#~ msgid ""
+#~ "The added testimonial will be displayed in the order they are arranged "
+#~ "here."
+#~ msgstr "Přidané reference se zobrazí v pořadí, v jakém jsou zde uspořádány."
+
+#, fuzzy
+#~ msgid ""
+#~ "The easiest way to setup your theme is by importing demo data. It "
+#~ "includes demo posts, pages, images and theme settings. This will allow "
+#~ "you to edit the demo content, instead of creating everything from scratch."
+#~ msgstr ""
+#~ "Nejjednodušším způsobem konfigurace vašeho tématu je import ukázkových "
+#~ "dat. Sem patří ukázkové příspěvky, stránky, obrázky a nastavení témat. "
+#~ "Tato funkce vám umožní pouze upravit ukázkový obsah a nebudete muset "
+#~ "začínat úplně od začátku."
+
+#~ msgid "The field used on service pages"
+#~ msgstr "Pole používané na stránkách služeb"
+
+#~ msgid "The newly added font families will appear after saving the options."
+#~ msgstr "Nově přidaná písma se zobrazí po uložení možností."
+
+#~ msgid "The rules added here will be applied as additional CSS."
+#~ msgstr "Zde přidaná pravidla budou použita jako doplňkové CSS."
+
+#~ msgid "The selected courses/lessons will be displayed."
+#~ msgstr "Vybrané kurzy/lekce se zobrazí."
+
+#~ msgid "The selected therapies will be displayed."
+#~ msgstr "Vybrané kurzy/lekce se zobrazí."
+
+#~ msgid "Theme Options > Banners > Homepage Banner Height"
+#~ msgstr "Možnosti tématu > Bannery > Výška banneru domovské stránky"
+
+#~ msgid "Theme Options > Banners > Internal Banner Height"
+#~ msgstr "Možnosti tématu > Bannery > Výška interního banneru"
+
+#~ msgid "Theme Options > Typography > Font Styles > Internal Banners"
+#~ msgstr "Možnosti tématu > Typografie > Styly písma > Interní bannery"
+
+#, fuzzy
+#~ msgid "Theme Options reset."
+#~ msgstr "Možnosti tématu resetovány."
+
+#, fuzzy
+#~ msgid "Theme Options updated."
+#~ msgstr "Možnosti tématu aktualizovány."
+
+#~ msgid ""
+#~ "Theme's default font properties can be changed from the section specific "
+#~ "tabs given below."
+#~ msgstr ""
+#~ "Výchozí vlastnosti písma tématu lze změnit prostřednictvím specifických "
+#~ "karet uvedených níže."
+
+#, fuzzy
+#~ msgid "These examples will help you get started with customizing the CSS."
+#~ msgstr "Tyto příklady vám pomohou začít s vlastním nastavením CSS."
+
+#~ msgid "This email is already used. Please use a different email."
+#~ msgstr "Tento e-mail se již používá. Zadejte jiný e-mail."
+
+#~ msgid ""
+#~ "This post is password protected. Enter the password to view comments."
+#~ msgstr ""
+#~ "Tento příspěvek je chráněn heslem. Chcete-li zobrazit komentáře, zadejte "
+#~ "heslo."
+
+#~ msgid "This will add a shadow on the banner text"
+#~ msgstr "Tato funkce přidá k textu banneru stín."
+
+#~ msgid "This will add a shadow on the text."
+#~ msgstr "Tato funkce přidá k textu stín."
+
+#, fuzzy
+#~ msgid "This will be displayed in Listing Page section"
+#~ msgstr "Není-li nahrán obrázek, zobrazí se název webu."
+
+#~ msgid ""
+#~ "This will change the font familiy of titles of special elements, e.g., "
+#~ "widgets."
+#~ msgstr ""
+#~ "Tato možnost změní rodinu písma u nadpisů speciálních prvků, například "
+#~ "widgetů."
+
+#~ msgid "This will change the height of the banner."
+#~ msgstr "Tato funkce změní výšku banneru."
+
+#~ msgid "This will change the typography of content areas only."
+#~ msgstr "Tato funkce změní pouze typografii oblastí obsahu."
+
+#~ msgid "This will change the typography of homepage banner only."
+#~ msgstr "Tato funkce změní pouze typografii banneru domovské stránky."
+
+#~ msgid "This will change the typography of internal page banners only."
+#~ msgstr "Tato funkce změní pouze typografii interního banneru stránky."
+
+#~ msgid "This will change the typography of logo text only."
+#~ msgstr "Tato funkce změní pouze typografii textu loga."
+
+#~ msgid "This will change the typography of navigation menu in header."
+#~ msgstr "Tato funkce změní typografii navigačních menu v záhlaví."
+
+#~ msgid "This will change the typography of section titles on pages."
+#~ msgstr "Tato funkce změní typografii nadpisů sekcí na stránkách."
+
+#~ msgid "This will change the typography of the buttons."
+#~ msgstr "Tato funkce změní typografii tlačítek."
+
+#~ msgid "This will change the typography of the Footer."
+#~ msgstr "Tato funkce změní typografii zápatí."
+
+#~ msgid ""
+#~ "This will change the visibility and position of sidebar on the blog post "
+#~ "listing pages."
+#~ msgstr ""
+#~ "Tato funkce změní viditelnost a polohu postranního panelu na stránkách "
+#~ "s výpisem příspěvků na blogu."
+
+#~ msgid ""
+#~ "This will change the visibility and position of sidebar on the post "
+#~ "details pages."
+#~ msgstr ""
+#~ "Tato funkce změní viditelnost a polohu postranního panelu na stránkách "
+#~ "s detaily příspěvku."
+
+#~ msgid ""
+#~ "This will change the visibility and position of the sidebar on the pages."
+#~ msgstr "Tím se změní viditelnost a pozice postranního panelu na stránkách."
+
+# Warning that if you set a background colour, this will override any background images you may have.
+#
+# See screenshot for context and the corresponding colours.
+# ____________________________
+#~ msgid "This will override the body background image."
+#~ msgstr "Nastavení barvy zde přepíše obrázek na pozadí."
+
+#~ msgid "This will replace the default form."
+#~ msgstr "Tato funkce nahradí výchozí formulář."
+
+#, fuzzy
+#~ msgid "This will show/hide the featured images on archive pages."
+#~ msgstr "Tato funkce zobrazí/skryje detaily příspěvku."
+
+#~ msgid "This will show/hide the post details."
+#~ msgstr "Tato funkce zobrazí/skryje detaily příspěvku."
+
+# These keys are terms that are used to describe elements and settings in a WordPress theme. Try to translate them as generic as possible, so they can be reused.
+#
+# _______________________________________________________________
+#~ msgid "Timeline"
+#~ msgstr "Časová osa"
+
+#, fuzzy
+#~ msgid "Tips & tricks?"
+#~ msgstr "Tipy a triky?"
+
+#, fuzzy
+#~ msgid "Tips for CSS"
+#~ msgstr "Tipy pro CSS"
+
+#, fuzzy
+#~ msgid "Title"
+#~ msgstr "Název"
+
+# Label to set the colour of the title of the sections for category, recent posts, previous posts, etc.
+#
+# See screenshot for context and the corresponding colours.
+# ____________________________
+#~ msgid "Title of \"Category\" and \"Previous posts\""
+#~ msgstr "„Kategorie“ nebo nadpis „Předchozích příspěvků“"
+
+# Label to set the colour of the post title.
+#
+# See screenshot for context and the corresponding colours.
+# ____________________________
+#~ msgid "Title of posts"
+#~ msgstr "Nadpis příspěvku"
+
+# Label to set the colour blog titkle.
+#
+# See screenshot for context and the corresponding colour, purple in this case.
+# __________________________
+#~ msgid "Title of the blog"
+#~ msgstr "Nadpis blogu"
+
+#~ msgid "Title:"
+#~ msgstr "Nadpis:"
+
+#~ msgid "To change Banner Font Style"
+#~ msgstr "Styl písma interního banneru"
+
+#~ msgid "To change Banner Height: "
+#~ msgstr "Postup změny výšky banneru:"
+
+#~ msgid "To change Homepage Banner Content: "
+#~ msgstr "Postup změny obsahu banneru domovské stránky:"
+
+#, fuzzy
+#~ msgid "To change the font style of header"
+#~ msgstr "Postup změny stylu písma loga amit"
+
+#~ msgid "To change the font style of logo"
+#~ msgstr "Postup změny stylu písma loga amit"
+
+#, fuzzy
+#~ msgid ""
+#~ "To manage your products and orders, click \"Go to Products & Orders\", "
+#~ "and log in with your One.com account."
+#~ msgstr ""
+#~ "Chcete-li spravovat své produkty a objednávky, klikněte \"Přejít k "
+#~ "produktům a objednávkám\" a přihlaste se prostřednictvím svého účtu One."
+#~ "com."
+
+#~ msgid "to show this section."
+#~ msgstr "aby se tato sekce zobrazila."
+
+# If you choose the option to have a floating cart, the cart is visible on all pages. It sort of floats above the page and stays at the same place whether you scroll up and down.
+#
+# Use the slider to determine the vertical position of the cart on your page.
+#
+# ____________________________
+# Reference for developers:
+#
+#~ msgid "Top"
+#~ msgstr "Nahoře"
+
+#, fuzzy
+#~ msgid "Top left"
+#~ msgstr "Vlevo nahoře"
+
+#, fuzzy
+#~ msgid "Top right"
+#~ msgstr "Vpravo nahoře"
+
+#, fuzzy
+#~ msgid "Top Section Content"
+#~ msgstr "Obsah horní sekce"
+
+#, fuzzy
+#~ msgid "Top Section Content Image"
+#~ msgstr "Obrázek obsahu horní sekce"
+
+#, fuzzy
+#~ msgid "Top Section Subtitle"
+#~ msgstr "Podtitul horní sekce"
+
+#, fuzzy
+#~ msgid "Top Section Title"
+#~ msgstr "Nadpis horní sekce"
+
+#, fuzzy
+#~ msgid "Travel"
+#~ msgstr "Cesta"
+
+#~ msgid "Treatment Settings"
+#~ msgstr "Nastavení stránky"
+
+#~ msgid "Try a search instead"
+#~ msgstr "Zkuste hledání"
+
+#~ msgid "Try searching with a different keyword."
+#~ msgstr "Zkuste hledat podle jiného klíčového slova."
+
+#, fuzzy
+#~ msgid "Twitter"
+#~ msgstr "Twitter"
+
+#
+# Label for CAPTCHA. If the translation becomes too long, leave out "below" or just stick to "Type in the answer".
+#
+# _________________________________
+#~ msgid "Type in the answer to the sum below:"
+#~ msgstr "Zapište odpověď k součtu níže:"
+
+#, fuzzy
+#~ msgid "Typography"
+#~ msgstr "Typografie"
+
+#, fuzzy
+#~ msgid "Typography > Header Font Style > Header Menu Font Style"
+#~ msgstr "Typografie > Styl písma záhlaví > Styl písma loga"
+
+#~ msgid "Typography > Header Font Style > Logo Font Style"
+#~ msgstr "Typografie > Styl písma záhlaví > Styl písma loga"
+
+#, fuzzy
+#~ msgid "Undo"
+#~ msgstr "Vrátit zpět"
+
+#, fuzzy
+#~ msgid "Undo last action"
+#~ msgstr "Vrátit poslední akci"
+
+# These keys are terms that are used to describe elements and settings in a WordPress theme. Try to translate them as generic as possible, so they can be reused.
+#
+# _______________________________________________________________
+#~ msgid "Update Event"
+#~ msgstr "Aktualizovat událost"
+
+#~ msgid "Update Instructor"
+#~ msgstr "Aktualizovat instruktora"
+
+#~ msgid "Update Lesson"
+#~ msgstr "Aktualizovat lekci"
+
+#, fuzzy
+#~ msgid "Update Service"
+#~ msgstr "Upravit službu"
+
+#, fuzzy
+#~ msgid "Update the styling for borders."
+#~ msgstr "Aktualizujte styl ohraničení."
+
+#, fuzzy
+#~ msgid "Upload"
+#~ msgstr "Nahrát logo"
+
+#~ msgid "Upload background image."
+#~ msgstr "Nahrajte obrázek na pozadí."
+
+#~ msgid "Upload Banner"
+#~ msgstr "Nahrát banner"
+
+#, fuzzy
+#~ msgid "Upload banner of your website."
+#~ msgstr "Nahrajte banner svého webu."
+
+#~ msgid "Upload banner right text image."
+#~ msgstr "Nahrajte obrázek textu banneru vpravo."
+
+#~ msgid "Upload Favicon"
+#~ msgstr "Nahrát favicon"
+
+#, fuzzy
+#~ msgid "Upload favicon of your website."
+#~ msgstr "Nahrajte ikonu stránky svého webu."
+
+#, fuzzy
+#~ msgid "Upload footer logo of your website."
+#~ msgstr "Nahrajte logo zápatí svého webu."
+
+#~ msgid "Upload home page banner of your website."
+#~ msgstr "Nahrajte banner hlavní stránky svého webu."
+
+#~ msgid "Upload Icon"
+#~ msgstr "Nahrát ikonu"
+
+#~ msgid "Upload Logo"
+#~ msgstr "Nahrát logo"
+
+#, fuzzy
+#~ msgid "Upload logo of your website."
+#~ msgstr "Nahrajte logo svého webu."
+
+#, fuzzy
+#~ msgid "Usage"
+#~ msgstr "Zpráva"
+
+# There is a checkbox before this text, checking it will enable an "easy checkout banner" on mobile.
+#
+# ____________________________
+# Reference for developers:
+#
+#~ msgid "Use easy checkout banner on mobile"
+#~ msgstr "Použít banner pokladny v mobilní verzi"
+
+#~ msgid "Use shortcodes here, if necessary."
+#~ msgstr "Zde můžete použít zkrácený zápis, pokud je to nutné."
+
+#, fuzzy
+#~ msgid "Use this image"
+#~ msgstr "Použít tento obrázek"
+
+#, fuzzy
+#~ msgid "Used as image overlay on hover."
+#~ msgstr "Slouží pro překryv obrázku při přechodu myší."
+
+#, fuzzy
+#~ msgid "Used for a line placed below the items on the checkout page."
+#~ msgstr "Používá se pro čáru pod položkami na stránce pokladny."
+
+#, fuzzy
+#~ msgid "Used for border of order details."
+#~ msgstr "Slouží pro ohraničení detailů objednávky."
+
+#, fuzzy
+#~ msgid "Used for cart icon, price text, pagination, mobile slider border."
+#~ msgstr ""
+#~ "Použije se pro ikonu nákupního košíku, text ceny, stránkování, ohraničení "
+#~ "mobilního posuvníku."
+
+#, fuzzy
+#~ msgid "Used for default buttons, like 'Back' and 'Return to shop'."
+#~ msgstr "Slouží pro výchozí tlačítka, např. „Zpět“ a „Zpět do obchodu“."
+
+#, fuzzy
+#~ msgid "Used for headings on 'checkout page' and 'cart page'."
+#~ msgstr "Slouží pro záhlaví na „stránce pokladny“ a „stránce košíku“."
+
+#, fuzzy
+#~ msgid "Used for hover color on cart."
+#~ msgstr "Použije se pro barvu při přechodu myší na nákupní košík."
+
+# If you choose the option to have a floating cart, the cart is visible on all pages. It sort of floats above the page and stays at the same place whether you scroll up and down.
+#
+# Use the slider to determine the vertical position of the cart on your page.
+#
+# ____________________________
+# Reference for developers:
+#
+#~ msgid "Vertical cart position on the page"
+#~ msgstr "Svislé umístění na stránce"
+
+#~ msgid "View Adventures"
+#~ msgstr "View Cesta"
+
+# These keys are terms that are used to describe elements and settings in a WordPress theme. Try to translate them as generic as possible, so they can be reused.
+#
+# _______________________________________________________________
+#~ msgid "View Events"
+#~ msgstr "Zobrazit události"
+
+#~ msgid "View Instructor"
+#~ msgstr "Zobrazit instruktora"
+
+#~ msgid "View Instructors"
+#~ msgstr "Zobrazit instruktory"
+
+#~ msgid "View Lesson"
+#~ msgstr "Zobrazit lekci"
+
+#~ msgid "View Lessons"
+#~ msgstr "Zobrazit lekce"
+
+#~ msgid "View Spotlight"
+#~ msgstr "Zobrazit spotlight"
+
+#~ msgid "View Testimonial"
+#~ msgstr "View Svědectví"
+
+#~ msgid "View Testimonials"
+#~ msgstr "Zobrazit svědectví"
+
+#~ msgid "View Travel"
+#~ msgstr "Zobrazit cestu"
+
+#, fuzzy
+#~ msgid "We're here to help"
+#~ msgstr "Rádi vám pomůžeme"
+
+#~ msgid "Website"
+#~ msgstr "Web"
+
+#, fuzzy
+#~ msgid "When you import demo data, please be aware of the following:"
+#~ msgstr "Když naimportujete ukázková data, mějte na paměti následující:"
+
+#~ msgid "Widget to Display contact."
+#~ msgstr "Widget pro zobrazení kontaktu."
+
+#~ msgid "Widget to Display Testimonial."
+#~ msgstr "Widget pro zobrazení svědectví."
+
+#~ msgid "Widget to Display Travel Post."
+#~ msgstr "Widget pro zobrazení příspěvku o cestě."
+
+# These keys are terms that are used to describe elements and settings in a WordPress theme. Try to translate them as generic as possible, so they can be reused.
+#
+# _______________________________________________________________
+#~ msgid "Width"
+#~ msgstr "Šířka"
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# In this text we explain what the issue is and why it's a problem that needs to be fixed.
+# ________________________________________
+#
+#~ msgid ""
+#~ "Wordpress core updates are disabled. This means that your site cannot be "
+#~ "auto updated to latest minor updates of WordPress"
+#~ msgstr ""
+#~ "Znamená to, že menší aktualizace jádra se neinstalují automaticky. Tento "
+#~ "typ aktualizací většinou zahrnuje bezpečnostní opravy. Pokud tedy nejsou "
+#~ "nainstalované, je váš web zranitelnější vůči útokům."
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# In this text we explain what the issue is and why it's a problem that needs to be fixed.
+# ________________________________________
+#
+#~ msgid ""
+#~ "You are running an outdated version of PHP. We recommend using the latest "
+#~ "version of PHP."
+#~ msgstr ""
+#~ "Doporučená verze PHP je nejstabilnější a funguje nejlépe s nejnovějšími "
+#~ "verzemi platformy WordPress. Pravidelná aktualizace verze PHP znamená "
+#~ "nejmenší narušení provozu vašeho webu."
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# In this text we explain what the issue is and why it's a problem that needs to be fixed.
+# ________________________________________
+#
+#~ msgid ""
+#~ "You are using an outdated version of WordPress. Using an outdated version "
+#~ "of Wordpress can cause multiple problems, including security risks"
+#~ msgstr ""
+#~ "Doporučujeme vždy provést aktualizaci na nejnovější verzi platformy "
+#~ "WordPress, protože je nejbezpečnější a má nejnovější funkce."
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# In this text we explain what the issue is and why it's a problem that needs to be fixed.
+# ________________________________________
+#
+#~ msgid ""
+#~ "You are using default table prefix. This means that attackers can easily "
+#~ "guess your database configuration."
+#~ msgstr ""
+#~ "Používáte výchozí předponu tabulky WordPress _wp. Hackeři se na databáze "
+#~ "WordPress aktivně zaměřují a při použití řetězce _wp jako předpony "
+#~ "tabulky jsou databáze zranitelnější."
+
+#, fuzzy
+#~ msgid ""
+#~ "You can always change settings later directly in your shortcode on the "
+#~ "page."
+#~ msgstr ""
+#~ "Nastavení můžete později kdykoli změnit přímo ve svém zkráceném kódu na "
+#~ "stránce."
+
+#, fuzzy
+#~ msgid "You can have maximum 100 products per page."
+#~ msgstr "Na stránce můžete mít maximálně 100 produktů."
+
+# If you select "In header on all pages", you also have the option to enter a CSS selector to place the cart somewhere else on your site, on all pages.
+#
+# If you don't use a One.com theme, adding a CSS selector is required, if you do use a One.com theme adding a CSS selector is optional.
+#
+# This text needs to fit both scenarios.
+# ____________________________
+# Reference for developers:
+#
+#~ msgid ""
+#~ "You can place the cart somewhere else on your site by attaching it to an "
+#~ "HTML element. Enter a CSS selector that exists in your theme’s HTML."
+#~ msgstr ""
+#~ "Košík můžete umístit kdekoli na svém webu připojením k prvku HTML. "
+#~ "Zadejte přepínač CSS, který existuje v kódu HTML vašeho motivu."
+
+#, fuzzy
+#~ msgid ""
+#~ "You can re-order with drag & drop, the order will update after saving."
+#~ msgstr ""
+#~ "Přetažením můžete změnit uspořádání možností. Pořadí se aktualizuje po "
+#~ "uložení."
+
+#, fuzzy
+#~ msgid "You need to have at least 2 products per page."
+#~ msgstr "Potřebujete mít alespoň 2 produkty na stránce."
+
+#~ msgid "Your comment is awaiting moderation."
+#~ msgstr "Váš komentář čeká na akci moderátora."
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# In this text we explain what the issue is and why it's a problem that needs to be fixed.
+# ________________________________________
+#
+#~ msgid ""
+#~ "Your file and folder permissions are not set correctly. If they are too "
+#~ "strict you get errors on your site, if they are too loose this poses a "
+#~ "security risk."
+#~ msgstr ""
+#~ "Pomocí oprávnění pro soubory a složky můžete určit, kdo smí co dělat na "
+#~ "vašem webu. Příliš přísně nastavená oprávnění způsobují chyby při "
+#~ "přístupu k souborům a jejich spouštění. Pokud jsou naopak volná, mohou je "
+#~ "využít hackeři. "
+
+#, fuzzy
+#~ msgid "Your message has been successfully sent."
+#~ msgstr "Vaše zpráva byla úspěšně odeslána."
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# In this text we explain what the issue is and why it's a problem that needs to be fixed.
+# ________________________________________
+#
+#~ msgid ""
+#~ "Your site could not connect to wordpress.org, which means background "
+#~ "updates may not be working properly."
+#~ msgstr ""
+#~ "Váš web se nemohl připojit k serveru wordpress.org, takže aktualizace na "
+#~ "pozadí nebudou fungovat správně. Může to způsobovat některý z pluginů či "
+#~ "motivů. "
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# In this text we explain what the issue is and why it's a problem that needs to be fixed.
+# ________________________________________
+#
+#~ msgid ""
+#~ "Your site is configured to display errors to the visitors! This can "
+#~ "reveal sensitive information to attackers."
+#~ msgstr ""
+#~ "Pokud váš web zobrazuje chyby, znamená to, že je aktivní hlášení chyb "
+#~ "PHP, ladění WordPress, případně obojí. Pokud právě nepracujete na řešení "
+#~ "problémů, doporučujeme chyby deaktivovat. Pro návštěvníky jsou rušivé a "
+#~ "hackerům mohou prozradit slabá místa."
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+#
+# In this text we explain what the issue is and why it's a problem that needs to be fixed.
+# ________________________________________
+#
+#~ msgid ""
+#~ "Your site isn’t using HTTPS. Visitors on your site might get a warning "
+#~ "that your website isn’t secure and it can also have a negative effect on "
+#~ "your SEO rating."
+#~ msgstr ""
+#~ "Váš web nemá funkční certifikát SSL. Vzhledem k tomu, že všem doménám "
+#~ "hostovaným ve službě One.com se certifikát SSL přiřazuje automaticky, je "
+#~ "zřejmě nesprávně nastavená konfigurace."
+
+#, fuzzy
+#~ msgid "Your website tagline."
+#~ msgstr "Motto vašeho webu."
+
+#, fuzzy
+#~ msgid "Your website title."
+#~ msgstr "Nadpis vašeho webu."

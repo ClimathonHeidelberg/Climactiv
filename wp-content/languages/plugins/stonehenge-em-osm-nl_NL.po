@@ -1,0 +1,140 @@
+# Translation of Plugins - Events Manager – OpenStreetMaps - Development (trunk) in Dutch
+# This file is distributed under the same license as the Plugins - Events Manager – OpenStreetMaps - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-12-06 00:50:39+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: nl\n"
+"Project-Id-Version: Plugins - Events Manager – OpenStreetMaps - Development (trunk)\n"
+
+#: stonehenge-em-osm.php:357
+msgid "Location coordinates could not be found."
+msgstr "Locatie-coördinaten konden niet gevonden worden."
+
+#: stonehenge-em-osm.php:279
+msgid "Please check your settings."
+msgstr "Kijk alsjeblieft je instellingen na."
+
+#: stonehenge-em-osm.php:277
+msgid "OpenCage API Key is missing."
+msgstr "OpenCage API-sleutel ontbreekt."
+
+#: stonehenge-em-osm.php:268
+msgid "Longitude:"
+msgstr "Longitude:"
+
+#: stonehenge-em-osm.php:264
+msgid "Latitude:"
+msgstr "Latitude:"
+
+#: stonehenge-em-osm.php:259
+msgid "Drag the marker over the map for a more precise location."
+msgstr "Sleep de markering over de kaart voor een meer exacte locatie."
+
+#: stonehenge-em-osm.php:250
+msgid "none selected"
+msgstr "niets geselecteerd"
+
+#: stonehenge-em-osm.php:248
+msgid "Country:"
+msgstr "Land :"
+
+#: stonehenge-em-osm.php:241
+msgid "Region:"
+msgstr "Regio: :"
+
+#: stonehenge-em-osm.php:236
+msgid "Postcode:"
+msgstr "Postcode :"
+
+#: stonehenge-em-osm.php:231
+msgid "State/County:"
+msgstr "Provincie :"
+
+#: stonehenge-em-osm.php:226
+msgid "City/Town:"
+msgstr "Plaats :"
+
+#: stonehenge-em-osm.php:222
+msgid "Address:"
+msgstr "Adres :"
+
+#: stonehenge-em-osm.php:217
+msgid "OpenCage GeoCoding will auto-fill found fields in your blog's main locale."
+msgstr "OpenCage GeoCoding zal automatisch gevonden velden in de hoofdtaal van je blog vullen."
+
+#: stonehenge-em-osm.php:168
+msgid "<p>The shortcode <b>[locations_map]</b> is originally designed to accept several arguments.<br>This plugin does not support that (yet). [locations_map] will output all locations on your blog. Any added arguments are being ignored. I am working on this, but please be patient.</p>"
+msgstr "<p>De stortcode <b>[locations_map]</b> is oorspronkelijk ontworpen om verschillende argumenten te accepteren.<br>Deze plugin ondersteunt dat (nog) niet. [locations_map] zal alle locaties op je blog laten zien. Alle toegevoegde argumenten worden genegeerd. Ik ben hier mee bezig, dus even geduld, alsjeblieft.</p>"
+
+#: stonehenge-em-osm.php:167
+msgid "Important!"
+msgstr "Belangrijk!"
+
+#: stonehenge-em-osm.php:162
+msgid "Enter a number between 1 and 20. (Default is 15)"
+msgstr "Voer een nummer tussen 1 en 20 in. (Standaard is 15)"
+
+#: stonehenge-em-osm.php:160
+msgid "Set Zoom Level"
+msgstr "Stel Zoom-niveau in"
+
+#: stonehenge-em-osm.php:158
+msgid "The OpenCage API is only called to retrieve the coordinates and additional location info when creating a new or updating a location in the WordPress Admin.<br>So unless you add and/or edit more than 2.500 locations per day, you should be okay."
+msgstr "De OpenCage API-sleutel wordt alleen aangeroepen om de coördinaten en aanvullende informatie van een locatie op te halen als er een nieuwe wordt aangemaakt of een bestaande wordt aangepast in de WordPress Admin. <br>Dus tenzij je meet dan 2500 locaties per dag toevoegt en/of wijzigt, zit je wel goed."
+
+#: stonehenge-em-osm.php:156
+msgid "Get your free key"
+msgstr "Haal je gratis sleutel op"
+
+#: stonehenge-em-osm.php:152
+msgid "OpenCage API Key"
+msgstr "OpenCage API-sleutel"
+
+#: stonehenge-em-osm.php:146
+msgid "Your settings have been saved."
+msgstr "Je instellingen zijn opgeslagen."
+
+#: stonehenge-em-osm.php:142
+msgid "It uses OpenCage for geocoding."
+msgstr "Het gebruikt OpenCage for geo-codering."
+
+#: stonehenge-em-osm.php:141
+msgid "This plugin completely replaces the built-in Google Maps API with the free, open source Open Street Maps API."
+msgstr "Deze plugin vervangt volledig de ingebouwde Google Maps API met de gratis, open source Open Street Maps API."
+
+#: stonehenge-em-osm.php:84
+msgid "Donate"
+msgstr "Doneer"
+
+#: stonehenge-em-osm.php:83
+msgid "WordPress Profile"
+msgstr "WordPress-profiel"
+
+#: stonehenge-em-osm.php:82
+msgid "Plug-in Support"
+msgstr "Plugin Ondersteuning"
+
+#: stonehenge-em-osm.php:63
+msgid "Settings"
+msgstr "Instellingen"
+
+#. Author of the plugin
+msgid "Stonehenge Creations"
+msgstr "Stonehenge Creations"
+
+#. Plugin Name of the plugin
+msgid "Events Manager – OpenStreetMaps"
+msgstr "Events Manager – OpenStreetMaps"
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/stonehenge-em-osm/"
+msgstr "https://wordpress.org/plugins/stonehenge-em-osm/"
+
+#. Description of the plugin
+msgid "OpenStreetMaps replacement for Events Manager."
+msgstr "OpenStreetMaps vervanging voor Events Manager."

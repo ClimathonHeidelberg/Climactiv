@@ -1,0 +1,102 @@
+.osm-location-table input:disabled, .osm-location-table input:read-only,  .osm-location-table select:disabled {
+	background:#dcdcdc;
+	color:Gray;
+}
+
+@media only screen and (min-width: 750px) {
+	.osm-location-data {
+		padding: 10px;
+		vertical-align: top !important;
+	}
+
+	.osm-location-table {
+		width: 45%;
+		float: left;
+
+	}
+
+	.osm-location-table input, .osm-location-table select, #location-name {
+		width: 20em;
+	}
+
+	.osm-location-table tr > td {
+		padding-bottom: 10px;
+	}
+
+	.osm-location-table th {
+		text-align: left;
+		vertical-align: top;
+		padding: 0;
+	}
+
+	.osm-location-table td {
+		padding: 0;
+		margin: 0;
+	}
+
+	.osm-location-table p {
+		padding: 0;
+		padding-bottom: 10px;
+		margin: 0;
+		line-height: 1.25em;
+	}
+
+	#em-osm-admin-map-container {
+		width: 45%;
+		float: right;
+	}
+}
+
+
+#osm-search-tip {
+	margin:0;
+	padding:0;
+	white-space:normal;
+}
+
+.osm-tooltip {
+	border-bottom:1px dotted #000;
+	color:#2683ae;
+	cursor:help;
+	display:inline-block;
+	position:relative;
+	z-index:999999;
+}
+
+.osm-tooltip .osm-tooltiptext {
+	background-color:#0073aa;
+	border-radius:6px;
+	bottom:200%;
+	color:#fff;
+	font-style:normal;
+	left:0;
+	line-height:1.25em;
+	margin-left:-165px;
+	opacity:0;
+	padding:8px;
+	position:absolute;
+	text-align:left;
+	transition:opacity 1s;
+	visibility:hidden;
+	white-space:normal;
+	width:350px;
+	z-index:50;
+}
+
+.osm-tooltip .osm-tooltiptext::after {
+	border-color:#555 transparent transparent;
+	border-style:solid;
+	border-width:5px;
+	content:"";
+	left:50%;
+	margin-left:-5px;
+	position:absolute;
+	top:100%;
+}
+
+.osm-tooltip:hover .osm-tooltiptext {
+	opacity:1;
+	visibility:visible;
+	z-index:999;
+}
+

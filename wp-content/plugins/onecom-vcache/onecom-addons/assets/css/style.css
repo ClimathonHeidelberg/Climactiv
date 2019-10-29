@@ -1,0 +1,238 @@
+.hide {
+    display: none
+}
+
+a,
+a:focus {
+    outline: none;
+    text-decoration: none;
+    box-shadow: none;
+}
+
+.one_wrap a {
+    border-bottom: 1px solid transparent;
+}
+.one_wrap a:hover {
+    border-bottom-color: inherit;
+}
+
+.wrap {
+    padding: 1.5em
+}
+
+.one-hr {
+    margin-top: 2.5em;
+}
+
+/*#wp-admin-bar-purge-all-varnish-cache a.ab-item:before {
+    content: "\f503";
+    line-height: 1.25;
+}*/
+
+.one_wrap,
+.one-logo .textleft,
+.wrap_inner .nav-tab {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.one-logo {
+    padding: 0 !important;
+    display: flex;
+}
+
+.one-logo .textleft {
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: 1.3em;
+    flex: 1;
+    margin-right: 1em;
+}
+
+.one-logo .textleft span {
+    display: block;
+    color: #000;
+    font-size: 18px;
+    line-height: 1.45em;
+    letter-spacing: 0;
+    font-weight: 300;
+}
+
+.btn,
+.btn:focus,
+.btn:active {
+    outline: none;
+    box-shadow: none;
+}
+
+.btn.button_1,
+.btn.button_3 {
+    padding: 4px 20px;
+    border: 0;
+    border-radius: 0;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 13px;
+    font-weight: 400;
+    border-width: 1px;
+    border-style: solid;
+    cursor: pointer;
+    -webkit-transition: all 0.2s ease-in-out;
+    -moz-transition: all 0.2s ease-in-out;
+    transition: all 0.2s ease-in-out;
+}
+
+.btn.button_1:hover,
+.btn.button_3:hover {
+    -webkit-transition: all 0.2s ease-in-out;
+    -moz-transition: all 0.2s ease-in-out;
+    transition: all 0.2s ease-in-out;
+}
+
+.btn.button_1 {
+    background-color: #396fc9;
+    color: #ffffff;
+    margin: 0 15px 0 20px;
+    border-color: #396fc9
+}
+.btn.button_1:hover {
+    background-color: #284f90;
+    border-color: #284f90;
+}
+
+.btn.button_3 {
+    background-color: #fff;
+    color: #396fc9;
+    border-color: #396fc9;
+}
+.btn.button_3:hover {
+    background-color: #396fc9;
+    color: #fff;
+}
+
+.btn.btn_arrow {
+    background-color: #ffffff;
+    color: #666666;
+    padding: 3px;
+    cursor: pointer;
+    display: inline-block;
+    vertical-align: top;
+    border: 1px solid #bdbdbd;
+}
+
+.btn.button_2 {
+    background-color: #ffffff;
+    color: #252525;
+    padding: 15px 20px 9px 18px;
+    margin: 23px 2px 0px 10px;
+    cursor: pointer;
+    vertical-align: bottom;
+    display: inline-block;
+    box-shadow: inset 0 0 0 #4d4d4d;
+    font-size: 12px;
+    font-weight: 300;
+    border: 1px solid #ececec;
+    min-width: 70px;
+    text-align: center;
+}
+
+.btn.button_2 .dashicons,
+.dashicons-before:before {
+    vertical-align: middle;
+}
+
+.btn.inactive {
+    opacity: 0.6 !important;
+    cursor: not-allowed !important;
+}
+.btn.button_1.inactive:hover {
+    background-color: #396fc9 !important;
+}
+.btn.button_2.inactive:hover {
+    background-color: #fff !important;
+}
+
+.no-top-margin {
+    margin-top: 0 !important
+}
+.no-bottom-margin {
+    margin-bottom: 0 !important
+}
+.no-left-margin {
+    margin-left: 0 !important
+}
+.no-right-margin {
+    margin-right: 0 !important
+}
+
+.text-center {
+    text-align: center;
+}
+
+.wrap.onecom-varnish .form-table th {
+	width: 100px
+}
+
+.wrap.onecom-varnish tr.hide-th th {
+     display: none;
+}
+
+.wrap.onecom-varnish tr.hide-th td {
+    padding-left: 0;
+    width: 180px;
+}
+
+.wrap.onecom-varnish th {
+	font-weight: normal;
+	color: #444
+}
+
+.wrap.onecom-varnish p.submit {
+    float: left;
+    padding-top: 0;
+    margin-right: 15px;
+}
+
+
+span.tooltip {
+    position: relative;
+    cursor:pointer;
+    vertical-align: text-top;
+    margin-left: 5px;
+}
+
+span.tooltip > span + span {
+    position: absolute;
+    left: 150%;
+    right: auto;
+    top: 50%;
+    background: #fff;
+    padding: 15px;
+    width: 350px;
+    transform: translateY(-50%);
+    opacity: 0;
+    z-index:-99;
+    transition:0.2s opacity ease-in-out
+}
+
+span.tooltip > span:hover + span {
+    opacity:1;
+    z-index:1;
+    transition:0.2s opacity ease-in-out;
+    box-shadow:0 0 15px #ccc
+}
+.ab-top-menu #wp-admin-bar-purge-all-varnish-cache .ab-icon:before{
+    top: 2px;
+}
+@media screen and ( max-width: 782px ) {
+    .one-logo {
+        flex-direction: column-reverse;
+        margin-bottom: 1em !important;
+    }
+    .one-logo .textleft,
+    .one-logo .textright {
+        text-align: center;
+    }
+    .wrap.onecom-varnish tr.hide-th td {
+        width: auto;
+    }
+}

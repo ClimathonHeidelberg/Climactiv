@@ -1,0 +1,293 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: OCI Setup Wizard\n"
+"POT-Creation-Date: 2017-05-05 11:18+0530\n"
+"PO-Revision-Date: 2017-05-10 10:08+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"X-Poedit-Basepath: ../..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SearchPathExcluded-1: *.css\n"
+
+#: install.php:56
+msgid "Start"
+msgstr "Anfang"
+
+#: install.php:57 install.php:206
+msgid "Contact"
+msgstr "Kontakt"
+
+#: install.php:58 install.php:277
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: install.php:59
+msgid "Theme"
+msgstr "Thema"
+
+#: install.php:102
+msgid "WordPress Installation"
+msgstr "WordPress Installation"
+
+#: install.php:188
+msgid "Welcome to WordPress"
+msgstr "Willkommen bei WordPress"
+
+#: install.php:191
+msgid ""
+"WordPress is the world's most popular platform for creating websites and "
+"blogs. One.com handles the setup so you can focus on making your home on the "
+"web truly amazing."
+msgstr ""
+"WordPress ist die weltweit beliebteste Plattform für das Erstellen von "
+"Websites und Blogs. One.com übernimmt das Setup, so dass Sie sich darauf "
+"konzentrieren können, Ihr Zuhause im Internet wirklich großartig zu machen."
+
+#: install.php:196
+msgid "Get up and running in a few clicks"
+msgstr "Mit wenigen Klicks einrichten und zum Laufen bringen"
+
+#: install.php:197
+msgid "Customize your site with featured responsive themes and plugins"
+msgstr ""
+"Passen Sie Ihre Website mit vorbereiteten interaktiven Themen und Plugins an"
+
+#: install.php:198
+msgid "Use prebuilt shortcodes to customize your page"
+msgstr "Verwenden Sie vordefinierte Shortcodes, um Ihre Seite anzupassen"
+
+#: install.php:199
+msgid "Start selling online with ease"
+msgstr "Starten Sie ganz einfach Ihren eigenen Online-Shop"
+
+#: install.php:208
+msgid "Please provide the contact details for your website admin"
+msgstr "Bitte geben Sie die Kontaktdaten für Ihren Website-Administrator an"
+
+#: install.php:215
+msgid "Username"
+msgstr "Benutzername"
+
+#: install.php:221
+msgid ""
+"Usernames can have only alphanumeric characters, spaces, underscores, "
+"hyphens, periods, and the @ symbol."
+msgstr ""
+"Benutzernamen dürfen nur aus alphanumerischen Zeichen, Leerzeichen, "
+"Unterstrichen, Bindestrichen, Punkten und dem @ -Zeichen bestehen."
+
+#: install.php:227
+msgid "Password"
+msgstr "Passwort"
+
+#: install.php:237
+msgid "Hide"
+msgstr "Verbergen"
+
+#: install.php:242
+msgid "Important:"
+msgstr "Wichtig:"
+
+#: install.php:244
+msgid ""
+"You will need this password to log in. Please store it in a secure location."
+msgstr ""
+"Sie benötigen dieses Passwort, um sich anzumelden. Bitte speichern Sie es an "
+"einem sicheren Ort."
+
+#: install.php:251
+msgid "Confirm Password"
+msgstr "Passwort bestätigen"
+
+#: install.php:255
+msgid "Confirm use of weak password"
+msgstr "Die Verwendung eines schwachen Passworts bestätigen"
+
+#: install.php:262
+msgid "Email"
+msgstr "E-Mail-Adresse"
+
+#: install.php:268
+msgid "An email address where website visitors can contact you."
+msgstr ""
+"Eine E-Mail-Adresse, über die Besucher Ihrer Website mit Ihnen Kontakt "
+"aufnehmen können."
+
+#: install.php:280
+msgid "Please tell us more about your website:"
+msgstr "Bitte sagen Sie uns mehr über Ihre Website"
+
+#: install.php:283
+msgid "Note:"
+msgstr "Hinweis:"
+
+#: install.php:284
+msgid "Do not worry, you can always change these settings later."
+msgstr ""
+"Machen Sie sich nicht zu viele Gedanken darüber. Sie können diese "
+"Einstellungen später jederzeit wieder ändern."
+
+#: install.php:291
+msgid "Title"
+msgstr "Titel"
+
+#: install.php:296
+msgid "A WordPress Site"
+msgstr "Eine WordPress Website"
+
+#: install.php:297
+msgid ""
+"The title of your website appears at the top of all pages and in search "
+"results."
+msgstr ""
+"Der Titel Ihrer Website erscheint oben auf allen Seiten und in "
+"Suchergebnissen."
+
+#: install.php:303
+msgid "Tagline"
+msgstr "Kurzbeschreibung"
+
+#: install.php:308
+msgid "Just another WordPress site"
+msgstr "Nur eine weitere WordPress Website"
+
+#: install.php:309
+msgid ""
+"Think of the tagline as a slogan that describes what makes your website "
+"special. It will also appear in search results."
+msgstr ""
+"Stellen Sie sich diese Kurzbeschreibung als ein Motto vor, das kurzgefasst "
+"beschreibt, was Ihre Website auszeichnet. Sie wird ebenfalls in "
+"Suchergebnissen erscheinen."
+
+#: install.php:314
+msgid "Search Engine Visibility"
+msgstr "Sichtbarkeit in Suchmaschinen"
+
+#: install.php:318
+msgid "Discourage search engines from indexing this site"
+msgstr ""
+"Suchmaschinen mitteilen, dass diese Website nicht in den Index aufgenommen "
+"werden sollte"
+
+#: install.php:319
+msgid "It is up to search engines to honor this request."
+msgstr ""
+"Es steht den Suchmaschinen frei, diesem Wunsch nachzukommen oder nicht."
+
+#: install.php:325
+msgid "Terms & Conditions"
+msgstr "Nutzungsbedingungen"
+
+#: install.php:332
+msgid "Yes, I have read"
+msgstr "Ja, ich habe die"
+
+#: install.php:333
+msgid "the terms of business"
+msgstr "Nutzungsbedingungen gelesen"
+
+#: install.php:334
+msgid "and I agree to these!"
+msgstr "und erkläre mich damit einverstanden!"
+
+#: install.php:347
+msgid "Step"
+msgstr "Schritt"
+
+#: install.php:347
+msgid "of"
+msgstr "von"
+
+#: install.php:350 install.php:351 install.php:352 install.php:353
+msgid "Continue"
+msgstr "Weiter"
+
+#: install.php:372
+msgid "Select a theme"
+msgstr "Ein Thema wählen"
+
+#: install.php:375
+msgid "Select the perfect WordPress theme for your website."
+msgstr "Wählen Sie ein passendes WordPress Thema für Ihre Website."
+
+#: install.php:421
+msgid "Preview"
+msgstr "Voransicht"
+
+#: install.php:428
+msgid "Install"
+msgstr "Installieren"
+
+#: install.php:439
+msgid "No themes found"
+msgstr "Keine Themen gefunden"
+
+#: install.php:452
+msgid "Skip to dashboard"
+msgstr "Zum Dashboard wechseln"
+
+#: install.php:468
+msgid "Back to Themes"
+msgstr "Zurück zu den Website-Themen"
+
+#: install.php:474
+msgid "Desktop"
+msgstr "Desktop"
+
+#: install.php:475
+msgid "Mobile"
+msgstr "Mobil"
+
+#: oci/ajax.php:43
+msgid "Installing theme"
+msgstr "Thema installieren"
+
+#: oci/ajax.php:67
+msgid "WordPress is being upgraded. Please try again later."
+msgstr "WordPress wird aktualisiert. Bitte versuchen Sie es später nochmal."
+
+#: oci/ajax.php:70
+msgid "Something went wrong. Please contact the support at One.com."
+msgstr ""
+"Leider ist ein Fehler aufgetreten. Bitte wenden Sie sich an den Support von "
+"One.com."
+
+#: oci/ajax.php:84 oci/ajax.php:178
+msgid ""
+"Unable to connect to the file system. Please contact the support at One.com."
+msgstr ""
+"Eine Verbindung zum Dateisystem konnte nicht hergestellt werden. Bitte "
+"wenden Sie sich an den Support von One.com."
+
+#: oci/ajax.php:99
+msgid "Theme installed successfully."
+msgstr "Das Thema wurde installiert."
+
+#: oci/ajax.php:106
+msgid "Theme activated successfully."
+msgstr "Das Thema wurde aktiviert."
+
+#: oci/ajax.php:108
+msgid "Theme cannot be activated."
+msgstr "Das Thema kann nicht aktiviert werden."
+
+#: oci/ajax.php:129
+msgid "Installing plugin"
+msgstr "Plugin installieren"
+
+#: oci/ajax.php:192
+msgid "Plugin installed successfully."
+msgstr "Das Plugin wurde installiert."
+
+#: oci/ajax.php:300
+msgid "WordPress installed successfully!"
+msgstr "WordPress wurde installiert!"

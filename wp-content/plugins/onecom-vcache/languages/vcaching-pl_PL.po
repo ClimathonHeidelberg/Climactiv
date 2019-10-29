@@ -1,0 +1,497 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: varnish\n"
+"POT-Creation-Date: 2018-09-10 16:44+0530\n"
+"PO-Revision-Date: 2018-09-10 17:19+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.1.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SearchPathExcluded-1: *.css\n"
+
+#: onecom-addons/onecom-inc.php:154
+msgid ""
+"To get the best out of One.com Performance Cache, kindly deactivate the "
+"existing \"Varnish Caching\" plugin.&nbsp;&nbsp;"
+msgstr ""
+"Aby w pełni wykorzystać możliwości wtyczki One.com Performance Cache, "
+"zalecamy wyłączenie istniejącej wtyczki o nazwie „Varnish Caching”.&nbsp;"
+"&nbsp;"
+
+#: onecom-addons/onecom-inc.php:155
+msgid "Deactivate"
+msgstr ""
+
+#: onecom-addons/onecom-inc.php:268 vcaching.php:203 vcaching.php:287
+#: vcaching.php:299 vcaching.php:563 vcaching.php:571
+msgid "Performance Cache"
+msgstr ""
+
+#: onecom-addons/onecom-inc.php:288 vcaching.php:719
+msgid "Cache TTL"
+msgstr "Pamięć podręczna TTL"
+
+#: onecom-addons/onecom-inc.php:288
+msgid ""
+"The time that website data is stored in the Varnish cache. After the TTL "
+"expires the data will be updated, 0 means no caching."
+msgstr ""
+"Czas przechowywania danych witryny w pamięci Varnish. Po wygaśnięciu TTL "
+"dane zostaną uaktualnione, 0 oznacza brak przesyłania danych do pamięci "
+"podręcznej."
+
+#: onecom-addons/onecom-inc.php:338 vcaching.php:756
+msgid "Enable Performance Cache"
+msgstr "Włącz usługę Performance Cache"
+
+#: onecom-addons/onecom-inc.php:349 vcaching.php:772
+msgid "Time to live in seconds in Varnish cache"
+msgstr ""
+"“Time to live” Czas w sekundach przechowywania w pamięci podręcznej Varnish"
+
+#: onecom-addons/onecom-inc.php:412
+#, php-format
+msgid ""
+"It seems that %s is already purged. There is no resource in the cache to "
+"purge."
+msgstr ""
+"Wyczyszczono już %s. Nie ma zasobów w pamięci podręcznej do wyczyszczenia."
+
+#: onecom-addons/onecom-inc.php:413
+#, php-format
+msgid "%s is purged successfully."
+msgstr "%s został prawidłowo wyczyszczony."
+
+#: onecom-addons/onecom-inc.php:503
+msgid ""
+"A custom URL or permalink structure is required for the Performance Cache "
+"plugin to work correctly. Please go to the <a href=\"options-permalink.php"
+"\">Permalinks Options Page</a> to configure them."
+msgstr ""
+"Usługa Performance Cache wymaga zastosowania niestandardowych bezpośrednich "
+"odnośników. Przejdź na stronę <a href=\"options-permalink.php\">Ustawienia "
+"bezpośrednich odnośników</a>, aby je skonfigurować."
+
+#: onecom-addons/onecom-inc.php:525
+msgid "Hello, We've deactivated the One.com Varnish plugin from "
+msgstr ""
+
+#: onecom-addons/onecom-inc.php:526
+msgid "Deactivated the One.com Varnish plugin"
+msgstr ""
+
+#: onecom-addons/templates/page-settings.php:5
+msgid "One.com Performance Cache improves your website's performance"
+msgstr "Usługa One.com Performance Cache przyspiesza działanie Twojej witryny"
+
+#: onecom-addons/templates/page-settings.php:7
+msgid ""
+"With One.com Performance Cache enabled your website loads a lot faster. We "
+"save a cached copy of your website on a Varnish server, that will then be "
+"served to your next visitors. <br/>This is especially useful if you have a "
+"lot of visitors. It may also help to improve your SEO ranking. If you would "
+"like to learn more, please read our help article: <a href=\"https://help.one."
+"com/hc/en-us/articles/360000080458\" target=\"_blank\">How to use the One."
+"com Performance Cache for WordPress</a>."
+msgstr ""
+"Usługa One.com Performance Cache przyspiesza ładowanie witryny. Zapisujemy "
+"kopię witryny w pamięci podręcznej serwera Varnish I ta kopia jest "
+"prezentowana kolejnym odwiedzającym. <br/>Ta funkcja jest szczególnie "
+"użyteczna, jeżeli witryna ma wielu odwiedzających. Może również pomóc w "
+"poprawie pozycji witryny w rankingu SEO. Jeżeli chcesz dowiedzieć się "
+"więcej, przeczytaj nasz artykuł pomocy: <a href=\"https://help.one.com/hc/pl/"
+"articles/360000080458\" target=\"_blank\">Jak korzystać z wtyczki One.com "
+"Performance Cache plugin dla WordPress</a>."
+
+#: onecom-addons/templates/page-settings.php:25 vcaching.php:314
+#: vcaching.php:317 vcaching.php:334
+msgid "Purge Performance Cache"
+msgstr "Wyczyść całą pamięć Cache"
+
+#: onecom-addons/templates/page-settings.php:30
+msgid ""
+"To access this plugin, you must upgrade your hosting package to a <a "
+"href='https://www.one.com/en/wordpress' target='_blank'>WordPress package</"
+"a>."
+msgstr ""
+"Aby uzyskać dostęp do tej wtyczki, przejdź na <a href='https://www.one.com/"
+"en/wordpress' target='_blank'>pakiet hostingowy WordPress</a>."
+
+#: vcaching.php:57
+#, php-format
+msgid ""
+"Not required. If filled in overrides default TTL of %s seconds. 0 means no "
+"caching."
+msgstr ""
+
+#: vcaching.php:292
+msgid "Please set the IPs for Varnish!"
+msgstr ""
+
+#: vcaching.php:306
+msgid ""
+"Performance Cache requires you to use custom permalinks. Please go to the <a "
+"href=\"options-permalink.php\">Permalinks Options Page</a> to configure them."
+msgstr ""
+"Usługa Performance Cache wymaga zastosowania niestandardowych bezpośrednich "
+"odnośników. Przejdź do opcji <a href=“options-permalink.php”>Ustawienia "
+"bezpośrednich odnośników</a>, aby je skonfigurować."
+
+#: vcaching.php:329
+#, php-format
+msgid ""
+"Please setup Varnish IPs to be able to use <a href=\"%1$s\">Performance "
+"Cache</a>."
+msgstr ""
+
+#: vcaching.php:331
+#, php-format
+msgid ""
+"<a href=\"%1$s\">Performance Cache</a> automatically purges your posts when "
+"published or updated. Sometimes you need a manual flush."
+msgstr ""
+
+#: vcaching.php:332
+msgid "Press the button below to force it to purge your entire cache."
+msgstr ""
+
+#: vcaching.php:336
+msgid ""
+"You do not have permission to purge the cache for the whole site. Please "
+"contact your adminstrator."
+msgstr ""
+
+#: vcaching.php:374
+msgid "Truncate message activated. Showing only first 3 messages."
+msgstr ""
+
+#: vcaching.php:418
+msgid "Trying to purge URL : "
+msgstr "Próba wyczyszczenia adresu URL:"
+
+#: vcaching.php:574 vcaching.php:715
+msgid "Settings"
+msgstr ""
+
+#: vcaching.php:576 vcaching.php:886
+msgid "Console"
+msgstr ""
+
+#: vcaching.php:578 vcaching.php:613
+msgid "Statistics"
+msgstr ""
+
+#: vcaching.php:580
+msgid "VCLs Generator"
+msgstr ""
+
+#: vcaching.php:609
+msgid "Purge"
+msgstr ""
+
+#: vcaching.php:618
+msgid "Setup information"
+msgstr ""
+
+#: vcaching.php:619
+msgid ""
+"<strong>Short story</strong><br />You must generate by cronjob the JSON "
+"stats file. The generated files must be copied on the backend servers in the "
+"wordpress root folder."
+msgstr ""
+
+#: vcaching.php:621
+#, php-format
+msgid ""
+"<strong>Long story</strong><br />On every Varnish Cache server setup a "
+"cronjob that generates the JSON stats file :<br /> %1$s /path/to/be/set/"
+"filename.json # every 3 minutes."
+msgstr ""
+
+#: vcaching.php:623
+msgid ""
+"The generated files must be copied on the backend servers in the wordpress "
+"root folder."
+msgstr ""
+
+#: vcaching.php:625
+msgid ""
+"Use a different filename for each Varnish Cache server. After this is done, "
+"fill in the relative path to the files in Statistics JSONs on the Settings "
+"tab."
+msgstr ""
+
+#: vcaching.php:627
+msgid ""
+"Example 1 <br />If you have a single server, both Varnish Cache and the "
+"backend on it, use the folowing cronjob:"
+msgstr ""
+
+#: vcaching.php:629
+#, php-format
+msgid "%1$s /path/to/the/wordpress/root/varnishstat.json # every 3 minutes."
+msgstr ""
+
+#: vcaching.php:631
+msgid ""
+"Then fill in the relative path to the files in Statistics JSONs on the "
+"Settings tab :"
+msgstr ""
+
+#: vcaching.php:633
+msgid "/varnishstat.json"
+msgstr ""
+
+#: vcaching.php:636
+msgid ""
+"Example 2 <br />You have 2 Varnish Cache Servers, and 3 backend servers. "
+"Setup the cronjob :"
+msgstr ""
+
+#: vcaching.php:638
+#, php-format
+msgid "VC Server 1 : %1$s # every 3 minutes."
+msgstr ""
+
+#: vcaching.php:640
+#, php-format
+msgid "VC Server 2 : %1$s # every 3 minutes."
+msgstr ""
+
+#: vcaching.php:642
+msgid ""
+"Copy the files on the backend servers in /path/to/wordpress/root/"
+"varnishstat/ folder. Then fill in the relative path to the files in "
+"Statistics JSONs on the Settings tab :"
+msgstr ""
+
+#: vcaching.php:645
+msgid ""
+"/varnishstat/server1_3389398cd359cfa443f85ca040da069a.json,/varnishstat/"
+"server2_3389398cd359cfa443f85ca040da069a.json"
+msgstr ""
+
+#: vcaching.php:652
+#, php-format
+msgid "Server %1$s"
+msgstr ""
+
+#: vcaching.php:658
+#, php-format
+msgid "Fetching stats for server %1$s"
+msgstr ""
+
+#: vcaching.php:664
+msgid "Stats generated on"
+msgstr ""
+
+#: vcaching.php:665
+msgid "Description"
+msgstr ""
+
+#: vcaching.php:665
+msgid "Value"
+msgstr ""
+
+#: vcaching.php:665
+msgid "Key"
+msgstr ""
+
+#: vcaching.php:697
+msgid "Download"
+msgstr ""
+
+#: vcaching.php:703
+#, php-format
+msgid ""
+"You server's PHP configuration is missing the ZIP extension (ZipArchive "
+"class is used by VCaching). Please enable the ZIP extension. For more "
+"information click <a href=\"%1$s\" target=\"_blank\">here</a>."
+msgstr ""
+
+#: vcaching.php:705
+msgid ""
+"If you cannot enable the ZIP extension, please use the provided Varnish "
+"Cache configuration files located in /wp-content/plugins/vcaching/varnish-"
+"conf folder"
+msgstr ""
+
+#: vcaching.php:717
+msgid "Enable"
+msgstr ""
+
+#: vcaching.php:718
+msgid "Homepage cache TTL"
+msgstr ""
+
+#: vcaching.php:720
+msgid "IPs"
+msgstr ""
+
+#: vcaching.php:721
+msgid "Dynamic host"
+msgstr ""
+
+#: vcaching.php:723
+msgid "Hosts"
+msgstr ""
+
+#: vcaching.php:725
+msgid "Override default TTL"
+msgstr ""
+
+#: vcaching.php:726
+msgid "Purge key"
+msgstr ""
+
+#: vcaching.php:727
+msgid "Logged in cookie"
+msgstr ""
+
+#: vcaching.php:728
+msgid "Statistics JSONs"
+msgstr ""
+
+#: vcaching.php:729
+msgid "Truncate notice message"
+msgstr ""
+
+#: vcaching.php:730
+msgid "Purge on save menu"
+msgstr ""
+
+#: vcaching.php:731
+msgid "Use SSL on purge requests"
+msgstr ""
+
+#: vcaching.php:732
+msgid "Enable debug"
+msgstr ""
+
+#: vcaching.php:764
+msgid "Time to live in seconds in Varnish cache for homepage"
+msgstr ""
+
+#: vcaching.php:780 vcaching.php:973
+msgid "Comma separated ip/ip:port. Example : 192.168.0.2,192.168.0.3:8080"
+msgstr ""
+
+#: vcaching.php:789
+msgid ""
+"Uses the $_SERVER['HTTP_HOST'] as hash for Varnish. This means the purge "
+"cache action will work on the domain you're on.<br />Use this option if you "
+"use only one domain."
+msgstr ""
+
+#: vcaching.php:799
+msgid ""
+"Comma separated hostnames. Varnish uses the hostname to create the cache "
+"hash. For each IP, you must set a hostname.<br />Use this option if you use "
+"multiple domains."
+msgstr ""
+
+#: vcaching.php:808
+msgid "Override default TTL on each post/page."
+msgstr ""
+
+#: vcaching.php:816 vcaching.php:827
+msgid "Generate"
+msgstr ""
+
+#: vcaching.php:818
+msgid ""
+"Key used to purge Varnish cache. It is sent to Varnish as X-VC-Purge-Key "
+"header. Use a SHA-256 hash.<br />If you can't use ACL's, use this option. "
+"You can set the `purge key` in lib/purge.vcl.<br />Search the default value "
+"ff93c3cb929cee86901c7eefc8088e9511c005492c6502a930360c02221cf8f4 to find "
+"where to replace it."
+msgstr ""
+
+#: vcaching.php:829
+msgid ""
+"This module sets a special cookie to tell Varnish that the user is logged "
+"in. Use a SHA-256 hash. You can set the `logged in cookie` in default.vcl."
+"<br />Search the default value "
+"<i>flxn34napje9kwbwr4bjwz5miiv9dhgj87dct4ep0x3arr7ldif73ovpxcgm88vs</i> to "
+"find where to replace it."
+msgstr ""
+
+#: vcaching.php:839
+#, php-format
+msgid ""
+"Comma separated relative URLs. One for each IP. <a href=\"%1$s/wp-admin/"
+"index.php?page=vcaching-plugin&tab=stats&info=1\">Click here</a> for more "
+"info on how to set this up."
+msgstr ""
+
+#: vcaching.php:849
+msgid ""
+"When using multiple Varnish Cache servers, VCaching shows too many `Trying "
+"to purge URL` messages. Check this option to truncate that message."
+msgstr ""
+
+#: vcaching.php:859
+msgid "Purge menu related pages when a menu is saved."
+msgstr ""
+
+#: vcaching.php:869
+msgid "Use SSL (https://) for purge requests."
+msgstr ""
+
+#: vcaching.php:879
+msgid ""
+"Send all debugging headers to the client. Also shows complete response from "
+"Varnish on purge all."
+msgstr ""
+
+#: vcaching.php:888
+msgid "URL"
+msgstr ""
+
+#: vcaching.php:895
+msgid "Relative URL to purge. Example : /wp-content/uploads/.*"
+msgstr ""
+
+#: vcaching.php:901
+msgid "Varnish configuration"
+msgstr ""
+
+#: vcaching.php:903
+msgid "Backends"
+msgstr ""
+
+#: vcaching.php:904
+msgid "ACLs"
+msgstr ""
+
+#: vcaching.php:911
+msgid "Get configuration files"
+msgstr ""
+
+#: vcaching.php:913
+msgid "You cannot download the configuration files"
+msgstr ""
+
+#: vcaching.php:916
+msgid "Version"
+msgstr ""
+
+#: vcaching.php:965
+msgid "Varnish Cache version"
+msgstr ""
+
+#: vcaching.php:981
+msgid "Comma separated ip/ip range. Example : 192.168.0.2,192.168.1.1/24"
+msgstr ""
+
+#: vcaching.php:1059 vcaching.php:1069
+msgid "Purge from Varnish"
+msgstr "Wyczyść pamięć Varnish"

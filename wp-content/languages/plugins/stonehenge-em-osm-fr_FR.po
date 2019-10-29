@@ -1,0 +1,429 @@
+# Translation of Plugins - Events Manager &#8211; OpenStreetMaps - Development (trunk) in French (France)
+# This file is distributed under the same license as the Plugins - Events Manager &#8211; OpenStreetMaps - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-10-15 20:01:23+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - Events Manager &#8211; OpenStreetMaps - Development (trunk)\n"
+
+#: includes/class-maps.php:56
+msgid "no default location"
+msgstr "pas d’emplacement par défaut"
+
+#: stonehenge-em-osm.php:239
+msgid "Default Map Style"
+msgstr "Style de carte par défaut"
+
+#: stonehenge-em-osm.php:231
+msgid "Default Marker Color"
+msgstr "Couleur du marqueur par défaut"
+
+#: includes/class-functions.php:316
+msgid "Map Type"
+msgstr "Type de carte"
+
+#: stonehenge-em-osm.php:258
+msgid "If set to \"Yes\", the marker color and map style options will <u>not</u> be shown in front-end submission forms."
+msgstr "Si \"oui\" est choisi, les marqueurs de couleur et les options pour les styles de carte <u>ne seront pas</u> montrés dans les formulaires du site."
+
+#: stonehenge-em-osm.php:255
+msgid "Admin only"
+msgstr "Administrateur seulement"
+
+#: stonehenge-em-osm.php:250
+msgid "If set to \"Yes\", you can set the marker color and map style per location in the <a href=%s>Edit Location Page</a> or when creating a new location in the <a href=%s>Edit Event Page</a>."
+msgstr "Si \"oui\" est choisi, vous pouvez définir les marqueurs de couleurs et les styles de cartes par emplacement dans  <a href=%s>la page de modification des emplacements</a> ou quand vous créez un nouvel emplacement dans <a href=%s>la page de modification d’un évènement</a>."
+
+#: stonehenge-em-osm.php:247
+msgid "Enable per Location"
+msgstr "Activer par emplacement"
+
+#: stonehenge-em-osm.php:242
+msgid "This map style will be shown on <code>[events_map]</code> and <code>[locations_map]</code>. It will also be used as a fallback for single location maps using <code>#_LOCATIONMAP</code>."
+msgstr "Ce style de carte sera affiché sur <code>[events_map]</code> et <code>[locations_map]</code>. Il sera aussi utilisé pour une carte d’un emplacement unique utilisant <code>#_LOCATIONMAP</code>."
+
+#: stonehenge-em-osm.php:235
+msgid "The default marker color will be used as a fallback, if not set in the <a href=%s>Edit Location Page</a>."
+msgstr "La couleur du marqueur par défaut sera utilisé en dernier lieu, si il n’est pas défini dans <a href=%s>la page de modification des emplacements</a>."
+
+#: config/license.php:180
+msgid "License Key"
+msgstr "Clé de licence"
+
+#: includes/class-functions.php:325
+msgid "Default"
+msgstr "Défaut"
+
+#. Plugin URI of the plugin
+msgid "https://www.stonehengecreations.nl/creations/stonehenge-em-osm/"
+msgstr "https://www.stonehengecreations.nl/creations/stonehenge-em-osm/"
+
+#: config/server/Puc/v4p6/Vcs/PluginUpdateChecker.php:98
+msgid "There is no changelog available."
+msgstr "Il n’y a pas de liste de modifications disponibles."
+
+#: config/server/Puc/v4p6/Plugin/Ui.php:223
+msgid "Unknown update checker status \"%s\""
+msgstr "État de la mise à jour inconnu : \"%s\""
+
+#: config/server/Puc/v4p6/Plugin/Ui.php:217
+msgctxt "the plugin title"
+msgid "Could not determine if updates are available for %s."
+msgstr "Impossible de déterminer si une mise à jour est disponible pour %s."
+
+#: config/server/Puc/v4p6/Plugin/Ui.php:215
+msgctxt "the plugin title"
+msgid "A new version of the %s plugin is available."
+msgstr "Une nouvelle version de l’extension %s est disponible."
+
+#: config/server/Puc/v4p6/Plugin/Ui.php:213
+msgctxt "the plugin title"
+msgid "The %s plugin is up to date."
+msgstr "L’extension %s est à jour."
+
+#: config/server/Puc/v4p6/Plugin/Ui.php:128
+msgid "Check for updates"
+msgstr "Rechercher les mises à jour"
+
+#: config/server/Puc/v4p6/Plugin/Ui.php:77
+msgid "More information about %s"
+msgstr "Plus d’informations sur %s"
+
+#: config/server/Puc/v4p6/Plugin/Ui.php:54
+msgid "View details"
+msgstr "Voir les détails"
+
+#: stonehenge-em-osm.php:193
+msgid "Default Zoom Level"
+msgstr "Niveau de zoom par défaut"
+
+#: config/init.php:374
+msgid "Please select a file"
+msgstr "Veuillez choisir un fichier"
+
+#: includes/class-functions.php:392
+msgid "After the marker has been set, you can drag the marker to the preferred position and manually change the address details in the location form fields."
+msgstr "Après que le marqueur ait été choisi, vous pouvez déplacer ce marqueur à la position  voulue et changer manuellement les détails de l’adresse dans les champs du formulaire."
+
+#: includes/class-functions.php:392
+msgid "If your location cannot be found, search for one nearby."
+msgstr "Si votre emplacement ne peut pas être trouvé, vous pouvez en chercher un à côté."
+
+#: stonehenge-em-osm.php:265
+msgid "Automatically delete all data from your database when you uninstall this plugin?"
+msgstr "Supprimer automatiquement les données de votre base quand vous supprimez l’extension ?"
+
+#: stonehenge-em-osm.php:262
+msgid "Delete Data"
+msgstr "Supprimer les données"
+
+#: stonehenge-em-osm.php:189
+msgid "This plugin only calls the OpenCage API when you click the \"Search Address\" button."
+msgstr "Cette extension appelle l’API d’OpenCage quand vous cliquez sur le bouton \"Recherchez l’adresse\"."
+
+#: config/init.php:662
+msgctxt "Please check your settings and click on \"Save Changes\"."
+msgid "Please check your <a href=%1$s>settings</a> and click on \"%2$s\"."
+msgstr "Merci de vérifier <a href=%1$s>vos paramètres</a> et cliquer sur \"%2$s\"."
+
+#: config/init.php:637
+msgid "Rate this plugin"
+msgstr "Noter cette extension"
+
+#: config/init.php:191
+msgid "Not all required fields were filled out. Please check all sections and try again."
+msgstr "Tous les champs obligatoires n’ont pas été rempli. Merci de vérifier toutes les sections et essayer de nouveau."
+
+#: config/init.php:200
+msgid "Choose File"
+msgstr "Choisir un fichier"
+
+#: config/init.php:194
+msgid "Edit"
+msgstr "Modifier"
+
+#: config/init.php:193
+msgid "Remove"
+msgstr "Retirer"
+
+#: config/init.php:192
+msgid "Add"
+msgstr "Ajouter"
+
+#: config/init.php:432
+msgid "Select Color"
+msgstr "Sélectionner une couleur"
+
+#: config/init.php:375
+msgid "Clear"
+msgstr "Vider"
+
+#: config/init.php:256 config/init.php:662
+msgid "Save Changes"
+msgstr "Enregistrer les modifications"
+
+#: config/more.php:71
+msgid "Plugin <strong>activated</strong>."
+msgstr "Extension <strong>activée</strong>."
+
+#: config/more.php:75
+msgid "Install %s"
+msgstr "Installer %s"
+
+#: originals/em-actions.php:659
+msgid "Exported booking on %s"
+msgstr "Exporter les réservation sur %s"
+
+#: originals/em-actions.php:657
+msgid "When"
+msgstr "Quand"
+
+#: originals/em-actions.php:656
+msgid "Where"
+msgstr "Où"
+
+#: originals/em-actions.php:435 originals/em-actions.php:462
+msgid "ERROR : Email Not Sent."
+msgstr "ERREUR : le message n’a pas été envoyé."
+
+#: originals/em-actions.php:432 originals/em-actions.php:455
+msgctxt "bookings"
+msgid "No emails to send for this booking."
+msgstr "Aucun message d’envoyer pour cette réservation."
+
+#: originals/em-actions.php:430 originals/em-actions.php:453
+msgid "Email Sent."
+msgstr "Message envoyé."
+
+#: originals/em-actions.php:370
+msgid "You must log in to cancel your booking."
+msgstr "Vous devez vous connecter pour annuler votre réservation."
+
+#: originals/em-actions.php:206
+msgid "%s successfully deleted"
+msgstr "%s supprimé avec succès"
+
+#: originals/em-actions.php:205
+msgid "Location"
+msgstr "Emplacement"
+
+#: originals/em-actions.php:205
+msgid "Locations"
+msgstr "Emplacements"
+
+#: originals/em-actions.php:132
+msgid "%s could not be deleted."
+msgstr "%s ne peut pas être supprimé."
+
+#: originals/em-actions.php:129
+msgid "%s successfully deleted."
+msgstr "%s supprimé avec succès."
+
+#: originals/em-actions.php:127 originals/em-actions.php:655
+msgid "Event"
+msgstr "Événement"
+
+#: originals/em-actions.php:31
+msgid "No ticket id provided"
+msgstr "Aucun id de billet fourni"
+
+#: originals/em-actions.php:127
+msgid "Events"
+msgstr "Événements"
+
+#: config/init.php:675
+msgid "New options have been added. Please, check your <a href=%1$s>settings</a>."
+msgstr "De nouvelles options ont été ajoutées. Merci de vérifier <a href=%1$s>vos paramètres</a>."
+
+#: stonehenge-em-osm.php:217
+msgid "Show Fullscreen"
+msgstr "Montrer en plein écran"
+
+#: stonehenge-em-osm.php:210
+msgid "Show Zoom Controls"
+msgstr "Montrer les contrôles du zoom"
+
+#: includes/class-functions.php:390
+msgid "Search Address"
+msgstr "Recherche d’adresse"
+
+#: includes/location-select.php:14 config/init.php:341
+msgid "Select"
+msgstr "Sélectionner"
+
+#: config/init.php:311 config/init.php:415
+msgid "No"
+msgstr "Non"
+
+#: stonehenge-em-osm.php:203
+msgid "Show Zoom Level"
+msgstr "Afficher le niveau de zoom"
+
+#: stonehenge-em-osm.php:224
+msgid "Show Scale"
+msgstr "Afficher l’échelle"
+
+#: includes/class-maps.php:354
+msgid "No Events Found"
+msgstr "Aucun événement trouvé"
+
+#: stonehenge-em-osm.php:179
+msgid "This plugin completely replaces the built-in Google Maps with open source OpenStreetMap."
+msgstr "Cette extension remplace les fonctions intégrées de Google Maps par la version open source OpenStreetMap."
+
+#: includes/class-functions.php:248
+msgid "Blue"
+msgstr "Bleu"
+
+#: includes/class-functions.php:249
+msgid "Red"
+msgstr "Rouge"
+
+#: includes/class-functions.php:250
+msgid "Green"
+msgstr "Vert"
+
+#: includes/class-functions.php:251
+msgid "Orange"
+msgstr "Orange"
+
+#: includes/class-functions.php:252
+msgid "Yellow"
+msgstr "Jaune"
+
+#: includes/class-functions.php:253
+msgid "Purple"
+msgstr "Violet"
+
+#: includes/class-functions.php:254
+msgid "Grey"
+msgstr "Gris"
+
+#: includes/class-functions.php:255
+msgid "Black"
+msgstr "Noir"
+
+#: includes/class-functions.php:311
+msgid "Marker Color"
+msgstr "Couleur du marqueur"
+
+#: includes/class-functions.php:395
+msgid "The more details you provide, the more accurate the search result will be."
+msgstr "Plus vous fournissez de détails, plus précis seront les résultats de recherche."
+
+#: stonehenge-em-osm.php:189
+msgid "A free OpenCage API Key has a daily limit of 2500 calls per day."
+msgstr "Une clé API OpenCage a une limite quotidienne de 2500 appels par jour."
+
+#: config/init.php:311 config/init.php:415
+msgid "Yes"
+msgstr "Oui"
+
+#: includes/class-maps.php:223
+msgid "No Locations Found"
+msgstr "Aucun emplacement trouvé"
+
+#: includes/class-functions.php:386 includes/class-functions.php:409
+msgid "Please enter your OpenCage API Key in your <a href=%s>Plugin Settings</a>."
+msgstr "Merci de saisir votre clé d’API OpenCage dans les <a href=%s>réglages de l’extension</a>."
+
+#: includes/location-select.php:7
+msgid "Location:"
+msgstr "Emplacement :"
+
+#: includes/class-metabox.php:85
+msgid "You cannot edit saved locations here."
+msgstr "Vous ne pouvez pas modifier des emplacements enregistrés ici."
+
+#: includes/class-metabox.php:85
+msgid "Reset this form to create a location or search again."
+msgstr "Remettre à zéro ce formulaire pour créer un emplacement ou effectuer une nouvelle recherche."
+
+#: includes/class-metabox.php:68
+msgid "This event does not have a physical location."
+msgstr "Cet évènement n’a pas d’emplacement."
+
+#: includes/class-metabox.php:80
+msgid "Location Name:"
+msgstr "Nom de l’emplacement :"
+
+#: includes/location-select.php:12
+msgid "No Location"
+msgstr "Pas d’emplacement"
+
+#: includes/class-functions.php:391
+msgid "Hint"
+msgstr "Aide"
+
+#: includes/location-form-fields.php:5
+msgid "Address:"
+msgstr "Adresse :"
+
+#: includes/location-form-fields.php:9
+msgid "City/Town:"
+msgstr "Ville :"
+
+#: includes/location-form-fields.php:13
+msgid "State/County:"
+msgstr "État/Région :"
+
+#: includes/location-form-fields.php:17
+msgid "Postcode:"
+msgstr "Code postal :"
+
+#: includes/location-form-fields.php:21
+msgid "Region:"
+msgstr "Région :"
+
+#: includes/location-form-fields.php:27
+msgid "Country:"
+msgstr "Pays :"
+
+#: includes/location-form-fields.php:30
+msgid "none selected"
+msgstr "aucune sélection"
+
+#: stonehenge-em-osm.php:180
+msgid "It uses OpenCage for geocoding."
+msgstr "OpenCage est utilisé pour le codage géographique (geocoding)."
+
+#: stonehenge-em-osm.php:184
+msgid "OpenCage API Key"
+msgstr "Clé API OpenCage"
+
+#: stonehenge-em-osm.php:188
+msgid "Get your free key"
+msgstr "Récupérer votre clé gratuite"
+
+#: stonehenge-em-osm.php:199
+msgid "Enter a number between 1 and 19. (Default is 15)"
+msgstr "Entrez un nombre compris entre 1 et 19. (15 par défaut)"
+
+#: stonehenge-em-osm.php:173 config/init.php:623
+msgid "Settings"
+msgstr "Paramètres"
+
+#: config/init.php:640
+msgid "Donate"
+msgstr "Faire un don"
+
+#. Author URI of the plugin
+msgid "https://www.stonehengecreations.nl/"
+msgstr "https://www.stonehengecreations.nl/"
+
+#. Author of the plugin
+msgid "Stonehenge Creations"
+msgstr "Stonehenge Creations"
+
+#. Description of the plugin
+msgid "OpenStreetMap replacement for Events Manager."
+msgstr "Remplacement par OpenStreetMap pour Events Manager."
+
+#. Plugin Name of the plugin
+msgid "Events Manager - OpenStreetMaps"
+msgstr "Events Manager – OpenStreetMaps"

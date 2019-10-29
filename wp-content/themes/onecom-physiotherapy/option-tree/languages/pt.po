@@ -1,0 +1,170 @@
+msgid ""
+msgstr ""
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: PhraseApp (phraseapp.com)\n"
+
+#: option-tree/includes/ot-functions-option-types.php:1310
+msgid "Add Google Font"
+msgstr "Adicionar fonte"
+
+#: option-tree/includes/ot-functions-docs-page.php:398
+#: option-tree/includes/ot-functions-option-types.php:247
+#: option-tree/includes/ot-functions-option-types.php:3163
+#: option-tree/includes/ot-functions-settings-page.php:169
+#: option-tree/ot-loader.php:777
+msgid "Add Media"
+msgstr "Adicionar mídia"
+
+#: option-tree/includes/ot-functions-option-types.php:1512
+#: option-tree/includes/ot-functions-option-types.php:2258
+msgid "Add New"
+msgstr "Adicionar novo"
+
+#: admin/options-init.php:206
+msgid "Background"
+msgstr "Fundo"
+
+#: option-tree/includes/ot-functions-option-types.php:151
+msgid "Background Attachment"
+msgstr "Anexo do segundo plano"
+
+#: admin/options-init.php:173
+msgid "Background Color"
+msgstr "Cor de fundo"
+
+#: option-tree/includes/ot-functions-option-types.php:240
+msgid "Background Image"
+msgstr "Imagem de plano de fundo"
+
+#: option-tree/includes/ot-functions-option-types.php:171
+msgid "Background Position"
+msgstr "Posição do plano de fundo"
+
+#: option-tree/includes/ot-functions-option-types.php:132
+msgid "Background Repeat"
+msgstr "Repetir no segundo plano"
+
+#: option-tree/includes/ot-functions-option-types.php:214
+#: option-tree/includes/ot-functions-option-types.php:228
+msgid "Background Size"
+msgstr "Tamanho do segundo plano"
+
+#: option-tree/includes/ot-functions-docs-page.php:43
+#: option-tree/includes/ot-functions-docs-page.php:428
+#: option-tree/includes/ot-functions-docs-page.php:478
+msgid "Description"
+msgstr "Descrição"
+
+#: option-tree/includes/ot-functions-option-types.php:3042
+msgid "Font Weight"
+msgstr "Espessura da fonte"
+
+#: importer/views/plugin-page.php:100 importer/views/plugin-page.php:112
+msgid "Import Demo Data"
+msgstr "Importar dados de demonstração"
+
+#: importer/views/plugin-page.php:172
+msgid "Importing, please wait!"
+msgstr "Importando. Aguarde."
+
+#: importer/views/plugin-page.php:45
+msgid "It can take a couple of minutes for the import to finish, so please click the Import button only once."
+msgstr "A importação pode demorar alguns minutos, por isso clique no botão Importar apenas uma vez."
+
+#: admin/options-init.php:121
+msgid "Link Color"
+msgstr "Cor do link"
+
+#: importer/views/plugin-page.php:43
+msgid "No existing data will be deleted or modified, this includes posts, pages, categories, images, custom post types or any other data."
+msgstr "Nenhum dado existente será excluído ou modificado, incluindo publicações, páginas, categorias, imagens, tipos de publicação personalizados ou qualquer outro dado."
+
+#: importer/views/plugin-page.php:49
+msgid "Note:"
+msgstr "Nota:"
+
+#: option-tree/includes/ot-functions-option-types.php:446
+msgid "Offset Left"
+msgstr "Desvio à esquerda"
+
+#: option-tree/includes/ot-functions-option-types.php:455
+msgid "Offset Top"
+msgstr "Desvio superior"
+
+#: option-tree/ot-loader.php:22
+msgid "OptionTree is installed as a plugin and also embedded in your current theme. Please deactivate the plugin to load the theme dependent version of OptionTree, and remove this warning."
+msgstr "O OptioTree é instalado como plugin e também incorporado ao seu tema atual. Desative o plugin para carregar a versão dependente do tema do OptionTree e remova este aviso."
+
+#: importer/views/plugin-page.php:50
+msgid "Otherwise you might end up mixing the demo data with the existing content on your website."
+msgstr "De outra forma, poderá criar conflitos por misturar conteúdo de demonstração com o conteúdo existente no seu site."
+
+#: importer/views/plugin-page.php:44
+msgid "Posts, pages, images, widgets, menus and other theme settings will get imported."
+msgstr "Publicações, páginas, imagens, widgets, menus e outras configurações de temas serão importados."
+
+#: option-tree/includes/ot-settings-api.php:365
+msgid "Reset Options"
+msgstr "Redefinir opções"
+
+#: option-tree/includes/ot-functions-settings-page.php:93
+#: option-tree/includes/ot-functions-settings-page.php:132
+msgid "Save Changes"
+msgstr "Salvar alterações"
+
+#: option-tree/includes/ot-functions-option-types.php:3160
+msgid "Select an image by clicking the + button"
+msgstr "Selecione uma imagem clicando no botão +"
+
+#: option-tree/includes/ot-functions-docs-page.php:272
+msgid "Social Links"
+msgstr "Links de redes sociais"
+
+#: option-tree/includes/ot-functions-docs-page.php:52
+msgid "Standard"
+msgstr "Padrão"
+
+#: option-tree/includes/ot-functions-option-types.php:3081
+msgid "Text Decoration"
+msgstr "Decoração de texto"
+
+#: importer/views/plugin-page.php:35
+msgid "The easiest way to setup your theme is by importing demo data. It includes demo posts, pages, images and theme settings. This will allow you to edit the demo content, instead of creating everything from scratch."
+msgstr "A forma mais fácil de configurar seu tema é importando dados de demonstração. Eles incluem demonstrações de publicações, páginas, imagens e configurações de temas. Você poderá editar o conteúdo da demonstração, em vez de criar tudo do zero."
+
+#: option-tree/includes/ot-functions-admin.php:57
+#: option-tree/includes/ot-functions-admin.php:127
+#: option-tree/includes/ot-functions-admin.php:221
+msgid "Theme Options reset."
+msgstr "Opções de tema redefinidas."
+
+#: option-tree/includes/ot-functions-admin.php:56
+#: option-tree/includes/ot-functions-admin.php:126
+#: option-tree/includes/ot-functions-admin.php:220
+msgid "Theme Options updated."
+msgstr "Opções de tema atualizadas."
+
+#: metaboxes/metabox.php:174
+msgid "Title"
+msgstr "Título"
+
+#: admin/options-init.php:244
+msgid "Typography"
+msgstr "Tipografia"
+
+#: importer/views/plugin-page.php:40
+msgid "When you import demo data, please be aware of the following:"
+msgstr "Ao importar dados de demonstração, esteja ciente do seguinte:"
+
+#: option-tree/includes/ot-functions-option-types.php:1515
+#: option-tree/includes/ot-functions-option-types.php:2261
+msgid "You can re-order with drag & drop, the order will update after saving."
+msgstr "Você pode reordenar com a função de arrastar e soltar. A ordem será atualizada depois de salva."
+
+#: importer/views/plugin-page.php:49
+msgid "You should only import demo data when making a new website from scratch."
+msgstr "Deverá apenas importar conteúdo de exemplo quando efetuar um website a partir do zero."

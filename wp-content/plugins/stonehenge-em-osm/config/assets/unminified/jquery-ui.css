@@ -1,0 +1,436 @@
+/*! jQuery UI - v1.12.1 - 2019-06-15
+* http://jqueryui.com
+* Includes: theme.css
+* To view and modify this theme, visit http://jqueryui.com/themeroller/?scope=stonehenge-settings&folderName=blitzer&cornerRadiusShadow=8px&offsetLeftShadow=-8px&offsetTopShadow=-8px&thicknessShadow=8px&opacityShadow=10&bgImgOpacityShadow=0&bgTextureShadow=flat&bgColorShadow=333333&opacityOverlay=40&bgImgOpacityOverlay=65&bgTextureOverlay=dots_small&bgColorOverlay=a6a6a6&iconColorError=cc0000&fcError=2e2e2e&borderColorError=cc0000&bgImgOpacityError=75&bgTextureError=diagonals_thick&bgColorError=f3d8d8&iconColorHighlight=004276&fcHighlight=444444&borderColorHighlight=fcd3a1&bgImgOpacityHighlight=55&bgTextureHighlight=glass&bgColorHighlight=fbf8ee&iconColorActive=cc0000&fcActive=cc0000&borderColorActive=eeeeee&bgImgOpacityActive=65&bgTextureActive=flat&bgColorActive=ffffff&iconColorHover=cc0000&fcHover=111111&borderColorHover=cdd5da&bgImgOpacityHover=100&bgTextureHover=highlight_hard&bgColorHover=f6f6f6&iconColorDefault=cc0000&fcDefault=004276&borderColorDefault=d8dcdf&bgImgOpacityDefault=100&bgTextureDefault=highlight_hard&bgColorDefault=eeeeee&iconColorContent=cc0000&fcContent=333333&borderColorContent=eeeeee&bgImgOpacityContent=75&bgTextureContent=flat&bgColorContent=ffffff&iconColorHeader=ffffff&fcHeader=ffffff&borderColorHeader=e3a1a1&bgImgOpacityHeader=15&bgTextureHeader=highlight_soft&bgColorHeader=cc0000&cornerRadius=6px&fsDefault=1.1em&fwDefault=bold&ffDefault=Arial%2Csans-serif
+* Copyright jQuery Foundation and other contributors; Licensed MIT */
+
+
+/* Component containers
+----------------------------------*/
+stonehenge-settings .ui-widget {
+	font-family: Arial,sans-serif;
+	font-size: 1.1em;
+}
+stonehenge-settings .ui-widget .ui-widget {
+	font-size: 1em;
+}
+stonehenge-settings .ui-widget input,
+stonehenge-settings .ui-widget select,
+stonehenge-settings .ui-widget textarea,
+stonehenge-settings .ui-widget button {
+	font-family: Arial,sans-serif;
+	font-size: 1em;
+}
+stonehenge-settings .ui-widget.ui-widget-content {
+	border: 1px solid #d8dcdf;
+}
+stonehenge-settings .ui-widget-content {
+	border: 1px solid #eeeeee;
+	background: #ffffff;
+	color: #333333;
+}
+stonehenge-settings .ui-widget-content a {
+	color: #333333;
+}
+stonehenge-settings .ui-widget-header {
+	border: 1px solid #e3a1a1;
+	background: #cc0000 url("images/ui-bg_highlight-soft_15_cc0000_1x100.png") 50% 50% repeat-x;
+	color: #ffffff;
+	font-weight: bold;
+}
+stonehenge-settings .ui-widget-header a {
+	color: #ffffff;
+}
+
+/* Interaction states
+----------------------------------*/
+stonehenge-settings .ui-state-default,
+stonehenge-settings .ui-widget-content .ui-state-default,
+stonehenge-settings .ui-widget-header .ui-state-default,
+stonehenge-settings .ui-button,
+
+/* We use html here because we need a greater specificity to make sure disabled
+works properly when clicked or hovered */
+html stonehenge-settings .ui-button.ui-state-disabled:hover,
+html stonehenge-settings .ui-button.ui-state-disabled:active {
+	border: 1px solid #d8dcdf;
+	background: #eeeeee url("images/ui-bg_highlight-hard_100_eeeeee_1x100.png") 50% 50% repeat-x;
+	font-weight: bold;
+	color: #004276;
+}
+stonehenge-settings .ui-state-default a,
+stonehenge-settings .ui-state-default a:link,
+stonehenge-settings .ui-state-default a:visited,
+astonehenge-settings .ui-button,
+a:linkstonehenge-settings .ui-button,
+a:visitedstonehenge-settings .ui-button,
+stonehenge-settings .ui-button {
+	color: #004276;
+	text-decoration: none;
+}
+stonehenge-settings .ui-state-hover,
+stonehenge-settings .ui-widget-content .ui-state-hover,
+stonehenge-settings .ui-widget-header .ui-state-hover,
+stonehenge-settings .ui-state-focus,
+stonehenge-settings .ui-widget-content .ui-state-focus,
+stonehenge-settings .ui-widget-header .ui-state-focus,
+stonehenge-settings .ui-button:hover,
+stonehenge-settings .ui-button:focus {
+	border: 1px solid #cdd5da;
+	background: #f6f6f6 url("images/ui-bg_highlight-hard_100_f6f6f6_1x100.png") 50% 50% repeat-x;
+	font-weight: bold;
+	color: #111111;
+}
+stonehenge-settings .ui-state-hover a,
+stonehenge-settings .ui-state-hover a:hover,
+stonehenge-settings .ui-state-hover a:link,
+stonehenge-settings .ui-state-hover a:visited,
+stonehenge-settings .ui-state-focus a,
+stonehenge-settings .ui-state-focus a:hover,
+stonehenge-settings .ui-state-focus a:link,
+stonehenge-settings .ui-state-focus a:visited,
+astonehenge-settings .ui-button:hover,
+astonehenge-settings .ui-button:focus {
+	color: #111111;
+	text-decoration: none;
+}
+
+stonehenge-settings .ui-visual-focus {
+	box-shadow: 0 0 3px 1px rgb(94, 158, 214);
+}
+stonehenge-settings .ui-state-active,
+stonehenge-settings .ui-widget-content .ui-state-active,
+stonehenge-settings .ui-widget-header .ui-state-active,
+astonehenge-settings .ui-button:active,
+stonehenge-settings .ui-button:active,
+stonehenge-settings .ui-button.ui-state-active:hover {
+	border: 1px solid #eeeeee;
+	background: #ffffff;
+	font-weight: bold;
+	color: #cc0000;
+}
+stonehenge-settings .ui-icon-background,
+stonehenge-settings .ui-state-active .ui-icon-background {
+	border: #eeeeee;
+	background-color: #cc0000;
+}
+stonehenge-settings .ui-state-active a,
+stonehenge-settings .ui-state-active a:link,
+stonehenge-settings .ui-state-active a:visited {
+	color: #cc0000;
+	text-decoration: none;
+}
+
+/* Interaction Cues
+----------------------------------*/
+stonehenge-settings .ui-state-highlight,
+stonehenge-settings .ui-widget-content .ui-state-highlight,
+stonehenge-settings .ui-widget-header .ui-state-highlight {
+	border: 1px solid #fcd3a1;
+	background: #fbf8ee url("images/ui-bg_glass_55_fbf8ee_1x400.png") 50% 50% repeat-x;
+	color: #444444;
+}
+stonehenge-settings .ui-state-checked {
+	border: 1px solid #fcd3a1;
+	background: #fbf8ee;
+}
+stonehenge-settings .ui-state-highlight a,
+stonehenge-settings .ui-widget-content .ui-state-highlight a,
+stonehenge-settings .ui-widget-header .ui-state-highlight a {
+	color: #444444;
+}
+stonehenge-settings .ui-state-error,
+stonehenge-settings .ui-widget-content .ui-state-error,
+stonehenge-settings .ui-widget-header .ui-state-error {
+	border: 1px solid #cc0000;
+	background: #f3d8d8 url("images/ui-bg_diagonals-thick_75_f3d8d8_40x40.png") 50% 50% repeat;
+	color: #2e2e2e;
+}
+stonehenge-settings .ui-state-error a,
+stonehenge-settings .ui-widget-content .ui-state-error a,
+stonehenge-settings .ui-widget-header .ui-state-error a {
+	color: #2e2e2e;
+}
+stonehenge-settings .ui-state-error-text,
+stonehenge-settings .ui-widget-content .ui-state-error-text,
+stonehenge-settings .ui-widget-header .ui-state-error-text {
+	color: #2e2e2e;
+}
+stonehenge-settings .ui-priority-primary,
+stonehenge-settings .ui-widget-content .ui-priority-primary,
+stonehenge-settings .ui-widget-header .ui-priority-primary {
+	font-weight: bold;
+}
+stonehenge-settings .ui-priority-secondary,
+stonehenge-settings .ui-widget-content .ui-priority-secondary,
+stonehenge-settings .ui-widget-header .ui-priority-secondary {
+	opacity: .7;
+	filter:Alpha(Opacity=70); /* support: IE8 */
+	font-weight: normal;
+}
+stonehenge-settings .ui-state-disabled,
+stonehenge-settings .ui-widget-content .ui-state-disabled,
+stonehenge-settings .ui-widget-header .ui-state-disabled {
+	opacity: .35;
+	filter:Alpha(Opacity=35); /* support: IE8 */
+	background-image: none;
+}
+stonehenge-settings .ui-state-disabled .ui-icon {
+	filter:Alpha(Opacity=35); /* support: IE8 - See #6059 */
+}
+
+/* Icons
+----------------------------------*/
+
+/* states and images */
+stonehenge-settings .ui-icon {
+	width: 16px;
+	height: 16px;
+}
+stonehenge-settings .ui-icon,
+stonehenge-settings .ui-widget-content .ui-icon {
+	background-image: url("images/ui-icons_cc0000_256x240.png");
+}
+stonehenge-settings .ui-widget-header .ui-icon {
+	background-image: url("images/ui-icons_ffffff_256x240.png");
+}
+stonehenge-settings .ui-state-hover .ui-icon,
+stonehenge-settings .ui-state-focus .ui-icon,
+stonehenge-settings .ui-button:hover .ui-icon,
+stonehenge-settings .ui-button:focus .ui-icon {
+	background-image: url("images/ui-icons_cc0000_256x240.png");
+}
+stonehenge-settings .ui-state-active .ui-icon,
+stonehenge-settings .ui-button:active .ui-icon {
+	background-image: url("images/ui-icons_cc0000_256x240.png");
+}
+stonehenge-settings .ui-state-highlight .ui-icon,
+stonehenge-settings .ui-button .ui-state-highlight.ui-icon {
+	background-image: url("images/ui-icons_004276_256x240.png");
+}
+stonehenge-settings .ui-state-error .ui-icon,
+stonehenge-settings .ui-state-error-text .ui-icon {
+	background-image: url("images/ui-icons_cc0000_256x240.png");
+}
+stonehenge-settings .ui-button .ui-icon {
+	background-image: url("images/ui-icons_cc0000_256x240.png");
+}
+
+/* positioning */
+stonehenge-settings .ui-icon-blank { background-position: 16px 16px; }
+stonehenge-settings .ui-icon-caret-1-n { background-position: 0 0; }
+stonehenge-settings .ui-icon-caret-1-ne { background-position: -16px 0; }
+stonehenge-settings .ui-icon-caret-1-e { background-position: -32px 0; }
+stonehenge-settings .ui-icon-caret-1-se { background-position: -48px 0; }
+stonehenge-settings .ui-icon-caret-1-s { background-position: -65px 0; }
+stonehenge-settings .ui-icon-caret-1-sw { background-position: -80px 0; }
+stonehenge-settings .ui-icon-caret-1-w { background-position: -96px 0; }
+stonehenge-settings .ui-icon-caret-1-nw { background-position: -112px 0; }
+stonehenge-settings .ui-icon-caret-2-n-s { background-position: -128px 0; }
+stonehenge-settings .ui-icon-caret-2-e-w { background-position: -144px 0; }
+stonehenge-settings .ui-icon-triangle-1-n { background-position: 0 -16px; }
+stonehenge-settings .ui-icon-triangle-1-ne { background-position: -16px -16px; }
+stonehenge-settings .ui-icon-triangle-1-e { background-position: -32px -16px; }
+stonehenge-settings .ui-icon-triangle-1-se { background-position: -48px -16px; }
+stonehenge-settings .ui-icon-triangle-1-s { background-position: -65px -16px; }
+stonehenge-settings .ui-icon-triangle-1-sw { background-position: -80px -16px; }
+stonehenge-settings .ui-icon-triangle-1-w { background-position: -96px -16px; }
+stonehenge-settings .ui-icon-triangle-1-nw { background-position: -112px -16px; }
+stonehenge-settings .ui-icon-triangle-2-n-s { background-position: -128px -16px; }
+stonehenge-settings .ui-icon-triangle-2-e-w { background-position: -144px -16px; }
+stonehenge-settings .ui-icon-arrow-1-n { background-position: 0 -32px; }
+stonehenge-settings .ui-icon-arrow-1-ne { background-position: -16px -32px; }
+stonehenge-settings .ui-icon-arrow-1-e { background-position: -32px -32px; }
+stonehenge-settings .ui-icon-arrow-1-se { background-position: -48px -32px; }
+stonehenge-settings .ui-icon-arrow-1-s { background-position: -65px -32px; }
+stonehenge-settings .ui-icon-arrow-1-sw { background-position: -80px -32px; }
+stonehenge-settings .ui-icon-arrow-1-w { background-position: -96px -32px; }
+stonehenge-settings .ui-icon-arrow-1-nw { background-position: -112px -32px; }
+stonehenge-settings .ui-icon-arrow-2-n-s { background-position: -128px -32px; }
+stonehenge-settings .ui-icon-arrow-2-ne-sw { background-position: -144px -32px; }
+stonehenge-settings .ui-icon-arrow-2-e-w { background-position: -160px -32px; }
+stonehenge-settings .ui-icon-arrow-2-se-nw { background-position: -176px -32px; }
+stonehenge-settings .ui-icon-arrowstop-1-n { background-position: -192px -32px; }
+stonehenge-settings .ui-icon-arrowstop-1-e { background-position: -208px -32px; }
+stonehenge-settings .ui-icon-arrowstop-1-s { background-position: -224px -32px; }
+stonehenge-settings .ui-icon-arrowstop-1-w { background-position: -240px -32px; }
+stonehenge-settings .ui-icon-arrowthick-1-n { background-position: 1px -48px; }
+stonehenge-settings .ui-icon-arrowthick-1-ne { background-position: -16px -48px; }
+stonehenge-settings .ui-icon-arrowthick-1-e { background-position: -32px -48px; }
+stonehenge-settings .ui-icon-arrowthick-1-se { background-position: -48px -48px; }
+stonehenge-settings .ui-icon-arrowthick-1-s { background-position: -64px -48px; }
+stonehenge-settings .ui-icon-arrowthick-1-sw { background-position: -80px -48px; }
+stonehenge-settings .ui-icon-arrowthick-1-w { background-position: -96px -48px; }
+stonehenge-settings .ui-icon-arrowthick-1-nw { background-position: -112px -48px; }
+stonehenge-settings .ui-icon-arrowthick-2-n-s { background-position: -128px -48px; }
+stonehenge-settings .ui-icon-arrowthick-2-ne-sw { background-position: -144px -48px; }
+stonehenge-settings .ui-icon-arrowthick-2-e-w { background-position: -160px -48px; }
+stonehenge-settings .ui-icon-arrowthick-2-se-nw { background-position: -176px -48px; }
+stonehenge-settings .ui-icon-arrowthickstop-1-n { background-position: -192px -48px; }
+stonehenge-settings .ui-icon-arrowthickstop-1-e { background-position: -208px -48px; }
+stonehenge-settings .ui-icon-arrowthickstop-1-s { background-position: -224px -48px; }
+stonehenge-settings .ui-icon-arrowthickstop-1-w { background-position: -240px -48px; }
+stonehenge-settings .ui-icon-arrowreturnthick-1-w { background-position: 0 -64px; }
+stonehenge-settings .ui-icon-arrowreturnthick-1-n { background-position: -16px -64px; }
+stonehenge-settings .ui-icon-arrowreturnthick-1-e { background-position: -32px -64px; }
+stonehenge-settings .ui-icon-arrowreturnthick-1-s { background-position: -48px -64px; }
+stonehenge-settings .ui-icon-arrowreturn-1-w { background-position: -64px -64px; }
+stonehenge-settings .ui-icon-arrowreturn-1-n { background-position: -80px -64px; }
+stonehenge-settings .ui-icon-arrowreturn-1-e { background-position: -96px -64px; }
+stonehenge-settings .ui-icon-arrowreturn-1-s { background-position: -112px -64px; }
+stonehenge-settings .ui-icon-arrowrefresh-1-w { background-position: -128px -64px; }
+stonehenge-settings .ui-icon-arrowrefresh-1-n { background-position: -144px -64px; }
+stonehenge-settings .ui-icon-arrowrefresh-1-e { background-position: -160px -64px; }
+stonehenge-settings .ui-icon-arrowrefresh-1-s { background-position: -176px -64px; }
+stonehenge-settings .ui-icon-arrow-4 { background-position: 0 -80px; }
+stonehenge-settings .ui-icon-arrow-4-diag { background-position: -16px -80px; }
+stonehenge-settings .ui-icon-extlink { background-position: -32px -80px; }
+stonehenge-settings .ui-icon-newwin { background-position: -48px -80px; }
+stonehenge-settings .ui-icon-refresh { background-position: -64px -80px; }
+stonehenge-settings .ui-icon-shuffle { background-position: -80px -80px; }
+stonehenge-settings .ui-icon-transfer-e-w { background-position: -96px -80px; }
+stonehenge-settings .ui-icon-transferthick-e-w { background-position: -112px -80px; }
+stonehenge-settings .ui-icon-folder-collapsed { background-position: 0 -96px; }
+stonehenge-settings .ui-icon-folder-open { background-position: -16px -96px; }
+stonehenge-settings .ui-icon-document { background-position: -32px -96px; }
+stonehenge-settings .ui-icon-document-b { background-position: -48px -96px; }
+stonehenge-settings .ui-icon-note { background-position: -64px -96px; }
+stonehenge-settings .ui-icon-mail-closed { background-position: -80px -96px; }
+stonehenge-settings .ui-icon-mail-open { background-position: -96px -96px; }
+stonehenge-settings .ui-icon-suitcase { background-position: -112px -96px; }
+stonehenge-settings .ui-icon-comment { background-position: -128px -96px; }
+stonehenge-settings .ui-icon-person { background-position: -144px -96px; }
+stonehenge-settings .ui-icon-print { background-position: -160px -96px; }
+stonehenge-settings .ui-icon-trash { background-position: -176px -96px; }
+stonehenge-settings .ui-icon-locked { background-position: -192px -96px; }
+stonehenge-settings .ui-icon-unlocked { background-position: -208px -96px; }
+stonehenge-settings .ui-icon-bookmark { background-position: -224px -96px; }
+stonehenge-settings .ui-icon-tag { background-position: -240px -96px; }
+stonehenge-settings .ui-icon-home { background-position: 0 -112px; }
+stonehenge-settings .ui-icon-flag { background-position: -16px -112px; }
+stonehenge-settings .ui-icon-calendar { background-position: -32px -112px; }
+stonehenge-settings .ui-icon-cart { background-position: -48px -112px; }
+stonehenge-settings .ui-icon-pencil { background-position: -64px -112px; }
+stonehenge-settings .ui-icon-clock { background-position: -80px -112px; }
+stonehenge-settings .ui-icon-disk { background-position: -96px -112px; }
+stonehenge-settings .ui-icon-calculator { background-position: -112px -112px; }
+stonehenge-settings .ui-icon-zoomin { background-position: -128px -112px; }
+stonehenge-settings .ui-icon-zoomout { background-position: -144px -112px; }
+stonehenge-settings .ui-icon-search { background-position: -160px -112px; }
+stonehenge-settings .ui-icon-wrench { background-position: -176px -112px; }
+stonehenge-settings .ui-icon-gear { background-position: -192px -112px; }
+stonehenge-settings .ui-icon-heart { background-position: -208px -112px; }
+stonehenge-settings .ui-icon-star { background-position: -224px -112px; }
+stonehenge-settings .ui-icon-link { background-position: -240px -112px; }
+stonehenge-settings .ui-icon-cancel { background-position: 0 -128px; }
+stonehenge-settings .ui-icon-plus { background-position: -16px -128px; }
+stonehenge-settings .ui-icon-plusthick { background-position: -32px -128px; }
+stonehenge-settings .ui-icon-minus { background-position: -48px -128px; }
+stonehenge-settings .ui-icon-minusthick { background-position: -64px -128px; }
+stonehenge-settings .ui-icon-close { background-position: -80px -128px; }
+stonehenge-settings .ui-icon-closethick { background-position: -96px -128px; }
+stonehenge-settings .ui-icon-key { background-position: -112px -128px; }
+stonehenge-settings .ui-icon-lightbulb { background-position: -128px -128px; }
+stonehenge-settings .ui-icon-scissors { background-position: -144px -128px; }
+stonehenge-settings .ui-icon-clipboard { background-position: -160px -128px; }
+stonehenge-settings .ui-icon-copy { background-position: -176px -128px; }
+stonehenge-settings .ui-icon-contact { background-position: -192px -128px; }
+stonehenge-settings .ui-icon-image { background-position: -208px -128px; }
+stonehenge-settings .ui-icon-video { background-position: -224px -128px; }
+stonehenge-settings .ui-icon-script { background-position: -240px -128px; }
+stonehenge-settings .ui-icon-alert { background-position: 0 -144px; }
+stonehenge-settings .ui-icon-info { background-position: -16px -144px; }
+stonehenge-settings .ui-icon-notice { background-position: -32px -144px; }
+stonehenge-settings .ui-icon-help { background-position: -48px -144px; }
+stonehenge-settings .ui-icon-check { background-position: -64px -144px; }
+stonehenge-settings .ui-icon-bullet { background-position: -80px -144px; }
+stonehenge-settings .ui-icon-radio-on { background-position: -96px -144px; }
+stonehenge-settings .ui-icon-radio-off { background-position: -112px -144px; }
+stonehenge-settings .ui-icon-pin-w { background-position: -128px -144px; }
+stonehenge-settings .ui-icon-pin-s { background-position: -144px -144px; }
+stonehenge-settings .ui-icon-play { background-position: 0 -160px; }
+stonehenge-settings .ui-icon-pause { background-position: -16px -160px; }
+stonehenge-settings .ui-icon-seek-next { background-position: -32px -160px; }
+stonehenge-settings .ui-icon-seek-prev { background-position: -48px -160px; }
+stonehenge-settings .ui-icon-seek-end { background-position: -64px -160px; }
+stonehenge-settings .ui-icon-seek-start { background-position: -80px -160px; }
+/* ui-icon-seek-first is deprecated, use ui-icon-seek-start instead */
+stonehenge-settings .ui-icon-seek-first { background-position: -80px -160px; }
+stonehenge-settings .ui-icon-stop { background-position: -96px -160px; }
+stonehenge-settings .ui-icon-eject { background-position: -112px -160px; }
+stonehenge-settings .ui-icon-volume-off { background-position: -128px -160px; }
+stonehenge-settings .ui-icon-volume-on { background-position: -144px -160px; }
+stonehenge-settings .ui-icon-power { background-position: 0 -176px; }
+stonehenge-settings .ui-icon-signal-diag { background-position: -16px -176px; }
+stonehenge-settings .ui-icon-signal { background-position: -32px -176px; }
+stonehenge-settings .ui-icon-battery-0 { background-position: -48px -176px; }
+stonehenge-settings .ui-icon-battery-1 { background-position: -64px -176px; }
+stonehenge-settings .ui-icon-battery-2 { background-position: -80px -176px; }
+stonehenge-settings .ui-icon-battery-3 { background-position: -96px -176px; }
+stonehenge-settings .ui-icon-circle-plus { background-position: 0 -192px; }
+stonehenge-settings .ui-icon-circle-minus { background-position: -16px -192px; }
+stonehenge-settings .ui-icon-circle-close { background-position: -32px -192px; }
+stonehenge-settings .ui-icon-circle-triangle-e { background-position: -48px -192px; }
+stonehenge-settings .ui-icon-circle-triangle-s { background-position: -64px -192px; }
+stonehenge-settings .ui-icon-circle-triangle-w { background-position: -80px -192px; }
+stonehenge-settings .ui-icon-circle-triangle-n { background-position: -96px -192px; }
+stonehenge-settings .ui-icon-circle-arrow-e { background-position: -112px -192px; }
+stonehenge-settings .ui-icon-circle-arrow-s { background-position: -128px -192px; }
+stonehenge-settings .ui-icon-circle-arrow-w { background-position: -144px -192px; }
+stonehenge-settings .ui-icon-circle-arrow-n { background-position: -160px -192px; }
+stonehenge-settings .ui-icon-circle-zoomin { background-position: -176px -192px; }
+stonehenge-settings .ui-icon-circle-zoomout { background-position: -192px -192px; }
+stonehenge-settings .ui-icon-circle-check { background-position: -208px -192px; }
+stonehenge-settings .ui-icon-circlesmall-plus { background-position: 0 -208px; }
+stonehenge-settings .ui-icon-circlesmall-minus { background-position: -16px -208px; }
+stonehenge-settings .ui-icon-circlesmall-close { background-position: -32px -208px; }
+stonehenge-settings .ui-icon-squaresmall-plus { background-position: -48px -208px; }
+stonehenge-settings .ui-icon-squaresmall-minus { background-position: -64px -208px; }
+stonehenge-settings .ui-icon-squaresmall-close { background-position: -80px -208px; }
+stonehenge-settings .ui-icon-grip-dotted-vertical { background-position: 0 -224px; }
+stonehenge-settings .ui-icon-grip-dotted-horizontal { background-position: -16px -224px; }
+stonehenge-settings .ui-icon-grip-solid-vertical { background-position: -32px -224px; }
+stonehenge-settings .ui-icon-grip-solid-horizontal { background-position: -48px -224px; }
+stonehenge-settings .ui-icon-gripsmall-diagonal-se { background-position: -64px -224px; }
+stonehenge-settings .ui-icon-grip-diagonal-se { background-position: -80px -224px; }
+
+
+/* Misc visuals
+----------------------------------*/
+
+/* Corner radius */
+stonehenge-settings .ui-corner-all,
+stonehenge-settings .ui-corner-top,
+stonehenge-settings .ui-corner-left,
+stonehenge-settings .ui-corner-tl {
+	border-top-left-radius: 6px;
+}
+stonehenge-settings .ui-corner-all,
+stonehenge-settings .ui-corner-top,
+stonehenge-settings .ui-corner-right,
+stonehenge-settings .ui-corner-tr {
+	border-top-right-radius: 6px;
+}
+stonehenge-settings .ui-corner-all,
+stonehenge-settings .ui-corner-bottom,
+stonehenge-settings .ui-corner-left,
+stonehenge-settings .ui-corner-bl {
+	border-bottom-left-radius: 6px;
+}
+stonehenge-settings .ui-corner-all,
+stonehenge-settings .ui-corner-bottom,
+stonehenge-settings .ui-corner-right,
+stonehenge-settings .ui-corner-br {
+	border-bottom-right-radius: 6px;
+}
+
+/* Overlays */
+stonehenge-settings .ui-widget-overlay {
+	background: #a6a6a6 url("images/ui-bg_dots-small_65_a6a6a6_2x2.png") 50% 50% repeat;
+	opacity: .4;
+	filter: Alpha(Opacity=40); /* support: IE8 */
+}
+stonehenge-settings .ui-widget-shadow {
+	-webkit-box-shadow: -8px -8px 8px #333333;
+	box-shadow: -8px -8px 8px #333333;
+}

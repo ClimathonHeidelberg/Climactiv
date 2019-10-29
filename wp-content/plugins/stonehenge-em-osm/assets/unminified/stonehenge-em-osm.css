@@ -1,0 +1,80 @@
+#osm-search-tip {
+	margin:0;
+	padding:0;
+	white-space:normal;
+}
+
+.osm-location-map-container {
+	display:inline-block;
+	height:300px;
+	vertical-align:top;
+	width:400px;
+}
+
+#osm-location-table {
+    width: 50%;
+    float: left;
+    border: none;
+}
+
+
+.osm-tooltip {
+	border-bottom:1px dotted #000;
+	color:#2683ae;
+	cursor:help;
+	display:inline-block;
+	position:relative;
+	z-index:999999;
+}
+
+.osm-tooltip .osm-tooltiptext {
+	background-color:#0073aa;
+	border-radius:6px;
+	bottom:200%;
+	color:#fff;
+	font-style:normal;
+	left:0;
+	line-height:1.25em;
+	margin-left:-165px;
+	opacity:0;
+	padding:8px;
+	position:absolute;
+	text-align:left;
+	transition:opacity 1s;
+	visibility:hidden;
+	white-space:normal;
+	width:350px;
+	z-index:50;
+}
+
+.osm-tooltip .osm-tooltiptext::after {
+	border-color:#555 transparent transparent;
+	border-style:solid;
+	border-width:5px;
+	content:"";
+	left:50%;
+	margin-left:-5px;
+	position:absolute;
+	top:100%;
+}
+
+.osm-tooltip:hover .osm-tooltiptext {
+	opacity:1;
+	visibility:visible;
+	z-index:999;
+}
+
+input[type=text]:disabled {
+	background:#dcdcdc;
+	color:Gray;
+}
+
+input[type=text]:read-only {
+	background:#dcdcdc;
+	color:Gray;
+}
+
+select:disabled {
+	background:#dcdcdc;
+	color:Gray;
+}

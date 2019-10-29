@@ -1,0 +1,283 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: OCI Setup Wizard\n"
+"POT-Creation-Date: 2017-05-09 14:43+0530\n"
+"PO-Revision-Date: 2017-05-10 10:09+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"X-Poedit-Basepath: ../..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SearchPathExcluded-1: *.css\n"
+
+#: install.php:56
+msgid "Start"
+msgstr "Aloita"
+
+#: install.php:57 install.php:205
+msgid "Contact"
+msgstr "Yhteystiedot"
+
+#: install.php:58 install.php:276
+msgid "Settings"
+msgstr "Asetukset"
+
+#: install.php:59
+msgid "Theme"
+msgstr "Teema"
+
+#: install.php:102
+msgid "WordPress Installation"
+msgstr "WordPress-asennus"
+
+#: install.php:187
+msgid "Welcome to WordPress"
+msgstr "Tervetuloa käyttämään WordPressiä"
+
+#: install.php:190
+msgid ""
+"WordPress is the world's most popular platform for creating websites and "
+"blogs. One.com handles the setup so you can focus on making your home on the "
+"web truly amazing."
+msgstr ""
+"WordPress on maailman suosituin alusta verkkosivustojen ja blogien "
+"luomiseen. One.com huolehtii asetusten määrittämisestä, jotta sinä voit "
+"keskittyä kotisivusi viilaamiseen."
+
+#: install.php:195
+msgid "Get up and running in a few clicks"
+msgstr "Aloita käyttö muutamalla napsautuksella."
+
+#: install.php:196
+msgid "Customize your site with featured responsive themes and plugins"
+msgstr "Lisää sivustollesi responsiivisia teemoja ja lisäosia."
+
+#: install.php:197
+msgid "Use prebuilt shortcodes to customize your page"
+msgstr "Käytä esimääritettyjä lyhytkoodeja sivusi muokkaamiseen."
+
+#: install.php:198
+msgid "Start selling online with ease"
+msgstr "Aloita verkkomyynti helposti."
+
+#: install.php:207
+msgid "Please provide the contact details for your website admin"
+msgstr "Syötä verkkosivustosi hallinnoijan yhteystiedot."
+
+#: install.php:214
+msgid "Username"
+msgstr "Käyttäjätunnus"
+
+#: install.php:220
+msgid ""
+"Usernames can have only alphanumeric characters, spaces, underscores, "
+"hyphens, periods, and the @ symbol."
+msgstr ""
+"Käyttäjätunnukset voivat sisältää ainoastaan aakkosnumeerisia merkkejä, "
+"välilyöntejä, alaviivoja, tavuviivoja, pisteitä ja @-merkkejä."
+
+#: install.php:226
+msgid "Password"
+msgstr "Salasana"
+
+#: install.php:236
+msgid "Hide"
+msgstr "Piilota"
+
+#: install.php:241
+msgid "Important:"
+msgstr "Tärkeää:"
+
+#: install.php:243
+msgid ""
+"You will need this password to log in. Please store it in a secure location."
+msgstr ""
+"Tarvitset tätä salasanaa sisäänkirjautumiseen. Säilytä sitä turvallisessa "
+"paikassa."
+
+#: install.php:250
+msgid "Confirm Password"
+msgstr "Vahvista salasana"
+
+#: install.php:254
+msgid "Confirm use of weak password"
+msgstr "Vahvista heikon salasanan käyttö"
+
+#: install.php:261
+msgid "Email"
+msgstr "Sähköpostiosoite"
+
+#: install.php:267
+msgid "An email address where website visitors can contact you."
+msgstr ""
+"Sähköpostiosoite, jonka kautta verkkosivustosi kävijät voivat ottaa sinuun "
+"yhteyden."
+
+#: install.php:279
+msgid "Please tell us more about your website:"
+msgstr "Kerro meille enemmän verkkosivustostasi:"
+
+#: install.php:282
+msgid "Note:"
+msgstr "Huomio:"
+
+#: install.php:283
+msgid "Do not worry, you can always change these settings later."
+msgstr "Älä huoli, voit muuttaa asetuksia milloin tahansa jälkikäteen."
+
+#: install.php:290
+msgid "Title"
+msgstr "Otsikko"
+
+#: install.php:295
+msgid "A WordPress Site"
+msgstr "WordPress-sivusto"
+
+#: install.php:296
+msgid ""
+"The title of your website appears at the top of all pages and in search "
+"results."
+msgstr ""
+"Verkkosivustosi otsikko näkyy kaikkien sivujen yläreunassa ja hakutuloksissa."
+
+#: install.php:302
+msgid "Tagline"
+msgstr "Tunnuslause"
+
+#: install.php:307
+msgid "Just another WordPress site"
+msgstr "Yksi WordPress-sivusto muiden joukossa"
+
+#: install.php:308
+msgid ""
+"Think of the tagline as a slogan that describes what makes your website "
+"special. It will also appear in search results."
+msgstr ""
+"Tunnuslause on kuin slogan, joka kertoo, mikä tekee verkkosivustostasi "
+"erityisen. Se näkyy lisäksi hakutuloksissa."
+
+#: install.php:313
+msgid "Search Engine Visibility"
+msgstr "Hakukonenäkyvyys"
+
+#: install.php:317
+msgid "Discourage search engines from indexing this site"
+msgstr "Estä hakukoneita indeksoimasta tätä sivustoa"
+
+#: install.php:318
+msgid "It is up to search engines to honor this request."
+msgstr "Tämän pyynnön noudattaminen riippuu hakukoneesta."
+
+#: install.php:324
+msgid "Terms & Conditions"
+msgstr "Ehdot"
+
+#: install.php:331
+msgid "Yes, I have read"
+msgstr "Kyllä, olen lukenut"
+
+#: install.php:332
+msgid "the terms of business"
+msgstr "\t"
+
+#: install.php:333
+msgid "and I agree to these!"
+msgstr "ja hyväksyn ne."
+
+#: install.php:346
+msgid "Step"
+msgstr "Vaihe"
+
+#: install.php:346
+msgid "of"
+msgstr "of"
+
+#: install.php:349 install.php:350 install.php:351 install.php:352
+msgid "Continue"
+msgstr "Jatka"
+
+#: install.php:371
+msgid "Select a theme"
+msgstr "Valitse teema"
+
+#: install.php:374
+msgid "Select the perfect WordPress theme for your website."
+msgstr "Valitse täydellinen WordPress-teema verkkosivustollesi."
+
+#: install.php:420
+msgid "Preview"
+msgstr "Esikatsele"
+
+#: install.php:427
+msgid "Install"
+msgstr "Asenna"
+
+#: install.php:438
+msgid "No themes found"
+msgstr "Yhtään teemaa ei löytynyt"
+
+#: install.php:451
+msgid "Skip to dashboard"
+msgstr "Siirry hallintapaneeliin"
+
+#: install.php:467
+msgid "Back to Themes"
+msgstr "Palaa teemoihin"
+
+#: install.php:473
+msgid "Desktop"
+msgstr "Työpöytä"
+
+#: install.php:474
+msgid "Mobile"
+msgstr "Mobiili"
+
+#: oci/ajax.php:43
+msgid "Installing theme"
+msgstr "Asennetaan teemaa"
+
+#: oci/ajax.php:67
+msgid "WordPress is being upgraded. Please try again later."
+msgstr "WordPressiä päivitetään. Yritä myöhemmin uudelleen."
+
+#: oci/ajax.php:70
+msgid "Something went wrong. Please contact the support at One.com."
+msgstr "Jokin meni vikaan. Ota yhteyttä One.comin tukeen."
+
+#: oci/ajax.php:84 oci/ajax.php:178
+msgid ""
+"Unable to connect to the file system. Please contact the support at One.com."
+msgstr ""
+"Yhteyden muodostaminen tiedostojärjestelmään ei onnistu. Ota yhteyttä One."
+"comin tukeen."
+
+#: oci/ajax.php:99
+msgid "Theme installed successfully."
+msgstr "Teeman asentaminen onnistui."
+
+#: oci/ajax.php:106
+msgid "Theme activated successfully."
+msgstr "Teeman ottaminen käyttöön onnistui."
+
+#: oci/ajax.php:108
+msgid "Theme cannot be activated."
+msgstr "Teemaa ei voi ottaa käyttöön."
+
+#: oci/ajax.php:129
+msgid "Installing plugin"
+msgstr "Asennetaan lisäosaa"
+
+#: oci/ajax.php:192
+msgid "Plugin installed successfully."
+msgstr "Lisäosan asentaminen onnistui."
+
+#: oci/ajax.php:300
+msgid "WordPress installed successfully!"
+msgstr "WordPressin asentaminen onnistui!"

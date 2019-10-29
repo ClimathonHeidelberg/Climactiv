@@ -1,0 +1,107 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+.ld {
+  display: table;
+  position: relative;
+  width: 100%;
+}
+
+.ld-row {
+  display: table-row;
+  width: auto;
+  margin-bottom: 6rem;
+		transition: transform 200ms ease-in-out;
+}
+
+.ld-row:hover {
+  
+		transition: transform 200ms ease-in-out;
+  transform: scale(1.05);
+}
+
+.ld-number {
+  font-size: 20px;
+}
+
+.ld-cell {
+  float:left;
+      display: table-cell;
+  padding-left: 0rem;
+  padding-right: 0rem;
+  top: 50%;
+  -ms-transform: translateY(50%);
+  transform: translateY(50%);
+  
+
+}
+
+.ld-number {
+  padding-right: 0rem;
+}
+
+.ld-cell-inner {
+  float:left;
+      display: table-cell;
+  padding-left: 2rem;
+  padding-right: 2rem;
+  top: 50%;
+  
+
+}
+ 
+@media screen and (max-width: 500px) {
+.ld-colorbg {
+  width: 100%;
+  border-radius: 2rem; 
+  background: red;
+}
+
+  .ld-spacer {
+   
+    display: none;
+    
+  }
+}
+
+@media screen and (min-width: 500px) {
+
+  .ld-spacer {
+   
+    
+    display: block;
+    
+  }
+  
+  .ld-name {
+    
+    min-width: 20rem;
+    
+  }
+  
+}
+
+.ld-colorbg {
+  
+  border-radius: 2rem; 
+  background: #4CB944;
+}
+
+.ld-pic {
+			position: relative;
+			top: -1rem;
+			left: 2.5rem;
+			width: 6rem;
+			height: 6rem;
+			border-radius: 50%;
+			background-size: cover;
+			background-position: center;
+			margin-right: 1rem;
+			box-shadow:
+				0 0 1rem 0 rgba(black, 0.2),
+				0 1rem 1rem -0.5rem rgba(black, 0.3);
+  -ms-transform: translateY(-5%);
+  transform: translateY(-5%);
+  top: 50%;
+  z-index: 9;
+		}</style>
+<!-- end Simple Custom CSS and JS -->

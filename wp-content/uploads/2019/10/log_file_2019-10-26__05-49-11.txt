@@ -1,0 +1,38 @@
+
+---Downloaded files---
+The import files for: Theme demo data were successfully downloaded!
+Initial max execution time = 50
+Files info:
+Site URL = https://www.climactiv.de
+Data file = /customers/3/3/4/climactiv.de/httpd.www/wp-content/themes/onecom-physiotherapy/importer/content.xml
+Widget file = /customers/3/3/4/climactiv.de/httpd.www/wp-content/uploads/2019/10/demo-widgets-import-file_2019-10-26__05-49-11.json
+Customizer file = not defined!
+Redux files:
+not defined!
+
+---Importing widgets---
+Sidebar : 
+
+Search - No Title - Widget already exists
+Recent Posts - No Title - Widget already exists
+Recent Comments - No Title - Widget already exists
+Archives - No Title - Widget already exists
+Categories - No Title - Widget already exists
+Meta - No Title - Widget already exists
+
+Footer 1 : 
+
+Text - GET IN TOUCH - Imported
+
+Footer 2 : 
+
+Text - OPENING HOURS - Imported
+
+Footer 3 : 
+
+Social Icons - FOLLOW US - Imported
+
+
+
+---pt-ocdi/after_import---
+

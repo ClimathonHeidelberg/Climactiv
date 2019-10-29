@@ -1,0 +1,186 @@
+msgid ""
+msgstr ""
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: PhraseApp (phraseapp.com)\n"
+
+#: option-tree/includes/ot-functions-option-types.php:1310
+msgid "Add Google Font"
+msgstr "Añadir fuente de Google"
+
+#: option-tree/includes/ot-functions-docs-page.php:398
+#: option-tree/includes/ot-functions-option-types.php:247
+#: option-tree/includes/ot-functions-option-types.php:3163
+#: option-tree/includes/ot-functions-settings-page.php:169
+#: option-tree/ot-loader.php:777
+msgid "Add Media"
+msgstr "Agregar medios"
+
+#: option-tree/includes/ot-functions-option-types.php:1512
+#: option-tree/includes/ot-functions-option-types.php:2258
+msgid "Add New"
+msgstr "Añadir nuevo"
+
+#: admin/options-init.php:206
+msgid "Background"
+msgstr "Fondo"
+
+#: option-tree/includes/ot-functions-option-types.php:151
+msgid "Background Attachment"
+msgstr "Fijación del fondo"
+
+#: admin/options-init.php:173
+msgid "Background Color"
+msgstr "Color de fondo"
+
+#: option-tree/includes/ot-functions-option-types.php:240
+msgid "Background Image"
+msgstr "Imagen de fondo"
+
+#: option-tree/includes/ot-functions-option-types.php:171
+msgid "Background Position"
+msgstr "Posición del fondo"
+
+#: option-tree/includes/ot-functions-option-types.php:132
+msgid "Background Repeat"
+msgstr "Repetición del fondo"
+
+#: option-tree/includes/ot-functions-option-types.php:214
+#: option-tree/includes/ot-functions-option-types.php:228
+msgid "Background Size"
+msgstr "Tamaño del fondo"
+
+#: option-tree/includes/ot-functions-docs-page.php:43
+#: option-tree/includes/ot-functions-docs-page.php:428
+#: option-tree/includes/ot-functions-docs-page.php:478
+msgid "Description"
+msgstr "Descripción"
+
+#: option-tree/includes/ot-functions-option-types.php:2990
+msgid "Font Family"
+msgstr "Familia de fuente"
+
+#: option-tree/includes/ot-functions-option-types.php:3003
+msgid "Font Size"
+msgstr "Tamaño de fuente"
+
+#: option-tree/includes/ot-functions-option-types.php:3016
+msgid "Font Style"
+msgstr "Estilo de fuente"
+
+#: option-tree/includes/ot-functions-option-types.php:3042
+msgid "Font Weight"
+msgstr "Espesor de la fuente"
+
+#: importer/views/plugin-page.php:100 importer/views/plugin-page.php:112
+msgid "Import Demo Data"
+msgstr "Importar datos de la demo"
+
+#: importer/views/plugin-page.php:172
+msgid "Importing, please wait!"
+msgstr "Importando. Espere..."
+
+#: importer/views/plugin-page.php:45
+msgid "It can take a couple of minutes for the import to finish, so please click the Import button only once."
+msgstr "La importación puede tardar un par de minutos, pero solo debe hacer clic en el botón Importar una vez."
+
+#: option-tree/includes/ot-functions-option-types.php:3068
+msgid "Line Height"
+msgstr "Alto de línea"
+
+#: admin/options-init.php:121
+msgid "Link Color"
+msgstr "Color de los enlaces"
+
+#: importer/views/plugin-page.php:43
+msgid "No existing data will be deleted or modified, this includes posts, pages, categories, images, custom post types or any other data."
+msgstr "No se eliminarán ni modificarán datos existentes; esto incluye entradas, páginas, categorías, imágenes, tipos de entradas personalizadas o cualquier otro dato."
+
+#: importer/views/plugin-page.php:49
+msgid "Note:"
+msgstr "Nota:"
+
+#: option-tree/includes/ot-functions-option-types.php:446
+msgid "Offset Left"
+msgstr "Desplazamiento izquierda"
+
+#: option-tree/includes/ot-functions-option-types.php:455
+msgid "Offset Top"
+msgstr "Interior arriba"
+
+#: option-tree/ot-loader.php:22
+msgid "OptionTree is installed as a plugin and also embedded in your current theme. Please deactivate the plugin to load the theme dependent version of OptionTree, and remove this warning."
+msgstr "OptionTree se ha instalado como plugin y se ha integrado en su tema actual. Desactive el plugin para subir la versión dependiente del tema de OptionTree y elimine esta advertencia."
+
+#: importer/views/plugin-page.php:50
+msgid "Otherwise you might end up mixing the demo data with the existing content on your website."
+msgstr "De otro modo acabaría mezclando contenido ya existente en la web con el de muestra."
+
+#: importer/views/plugin-page.php:44
+msgid "Posts, pages, images, widgets, menus and other theme settings will get imported."
+msgstr "Se importarán entradas, páginas, imágenes, widgets, menús y otras configuraciones de tema."
+
+#: option-tree/includes/ot-settings-api.php:365
+msgid "Reset Options"
+msgstr "Restablecer opciones"
+
+#: option-tree/includes/ot-functions-settings-page.php:93
+#: option-tree/includes/ot-functions-settings-page.php:132
+msgid "Save Changes"
+msgstr "Guardar cambios"
+
+#: option-tree/includes/ot-functions-option-types.php:3160
+msgid "Select an image by clicking the + button"
+msgstr "Seleccione una imagen haciendo clic en el botón +"
+
+#: option-tree/includes/ot-functions-docs-page.php:272
+msgid "Social Links"
+msgstr "Enlaces a redes sociales"
+
+#: option-tree/includes/ot-functions-docs-page.php:52
+msgid "Standard"
+msgstr "Estándar"
+
+#: option-tree/includes/ot-functions-option-types.php:3081
+msgid "Text Decoration"
+msgstr "Decoración de texto"
+
+#: importer/views/plugin-page.php:35
+msgid "The easiest way to setup your theme is by importing demo data. It includes demo posts, pages, images and theme settings. This will allow you to edit the demo content, instead of creating everything from scratch."
+msgstr "El modo más fácil de configurar su tema es importando datos de la demo que incluyen entradas, páginas, imágenes y configuraciones de tema. De ese modo podrá editar el contenido de la demo en lugar de crearlo todo desde cero."
+
+#: option-tree/includes/ot-functions-admin.php:57
+#: option-tree/includes/ot-functions-admin.php:127
+#: option-tree/includes/ot-functions-admin.php:221
+msgid "Theme Options reset."
+msgstr "Opciones de tema restablecidas."
+
+#: option-tree/includes/ot-functions-admin.php:56
+#: option-tree/includes/ot-functions-admin.php:126
+#: option-tree/includes/ot-functions-admin.php:220
+msgid "Theme Options updated."
+msgstr "Opciones de tema actualizadas."
+
+#: metaboxes/metabox.php:174
+msgid "Title"
+msgstr "Título"
+
+#: admin/options-init.php:244
+msgid "Typography"
+msgstr "Tipografía"
+
+#: importer/views/plugin-page.php:40
+msgid "When you import demo data, please be aware of the following:"
+msgstr "Al importar datos de la demo, tenga en cuenta lo siguiente:"
+
+#: option-tree/includes/ot-functions-option-types.php:1515
+#: option-tree/includes/ot-functions-option-types.php:2261
+msgid "You can re-order with drag & drop, the order will update after saving."
+msgstr "Puede reordenar todo con la función de arrastrar y soltar; el orden se actualizará después de guardar."
+
+#: importer/views/plugin-page.php:49
+msgid "You should only import demo data when making a new website from scratch."
+msgstr "Solo debería importar contenido de muestra si está creando una página desde cero."

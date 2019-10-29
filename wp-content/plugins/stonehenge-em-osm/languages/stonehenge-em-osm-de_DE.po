@@ -1,0 +1,249 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Events Manager – OpenStreetMaps\n"
+"POT-Creation-Date: 2019-01-31 23:01+0100\n"
+"PO-Revision-Date: 2019-01-31 23:07+0100\n"
+"Last-Translator: Patrick Buntsma <info@stonehengecreations.nl>\n"
+"Language-Team: Patrick Buntsma <info@stonehengecreations.nl>\n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: stonehenge-em-osm.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: osm-shortcodes.php:52
+msgid "This event does not have a location selected."
+msgstr "Für dieses Ereignis ist kein Ort ausgewählt."
+
+#: partials/location-edit.php:19 partials/location-form-fields.php:27
+msgid "Address:"
+msgstr "Adresse:"
+
+#: partials/location-edit.php:24 partials/location-form-fields.php:32
+msgid "City/Town:"
+msgstr "Stadt/Ort:"
+
+#: partials/location-edit.php:30 partials/location-form-fields.php:38
+msgid "State/County:"
+msgstr "Staat/Land:"
+
+#: partials/location-edit.php:36 partials/location-form-fields.php:44
+msgid "Postcode:"
+msgstr "Postleitzahl:"
+
+#: partials/location-edit.php:42 partials/location-form-fields.php:50
+msgid "Region:"
+msgstr "Region:"
+
+#: partials/location-edit.php:49 partials/location-form-fields.php:57
+msgid "Country:"
+msgstr "Land:"
+
+#: partials/location-edit.php:51 partials/location-form-fields.php:59
+msgid "none selected"
+msgstr "nichts ausgewählt"
+
+#: partials/location-select.php:16
+msgid "Location:"
+msgstr "Standort:"
+
+#: partials/location-select.php:19
+msgid "No Location"
+msgstr "Keine Standort"
+
+#: partials/location-select.php:45
+msgid "Map:"
+msgstr "Karte:"
+
+#: stonehenge-em-osm.php:80
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: stonehenge-em-osm.php:99
+msgid "Plug-in Support"
+msgstr "Plug-in-Unterstützung"
+
+#: stonehenge-em-osm.php:100
+msgid "WordPress Profile"
+msgstr "WordPress Profil"
+
+#: stonehenge-em-osm.php:101
+msgid "Donate"
+msgstr "Spenden"
+
+#: stonehenge-em-osm.php:134
+#, php-format
+msgid ""
+"Please enter your OpenCage API Key in your <a href=\"%s\">Plugin Settings</"
+"a>."
+msgstr ""
+"Bitte geben Sie Ihren OpenCage API-Schlüssel in Ihre <a href=“%s”>Plugin-"
+"Einstellungen</a> ein."
+
+#: stonehenge-em-osm.php:275
+msgid "This event does not have a physical location."
+msgstr "Dieses Ereignis hat keinen physischen Standort."
+
+#: stonehenge-em-osm.php:322
+msgid "Location Name:"
+msgstr "Name Standort:"
+
+#: stonehenge-em-osm.php:331
+msgid "You cannot edit saved locations here."
+msgstr "Gespeicherte Orte können Sie hier nicht bearbeiten."
+
+#: stonehenge-em-osm.php:331
+msgid "Reset this form to create a location or search again."
+msgstr ""
+"Setzen Sie dieses Formular zurück, um einen Standort zu erstellen oder "
+"erneut zu suchen."
+
+#: stonehenge-em-osm.php:488
+msgid "Location coordinates could not be found."
+msgstr "Standortkoordinaten konnten nicht gefunden werden."
+
+#: stonehenge-em-osm.php:571
+msgid "No locations found"
+msgstr "Keine Standorte gefunden"
+
+#: stonehenge-em-osm.php:817
+msgid "Hint"
+msgstr "Hinweis"
+
+#: stonehenge-em-osm.php:818
+msgid ""
+"If your location cannot be found, search for one nearby.<br>After the marker "
+"has been set, you can drag the marker to the preferred position and manually "
+"change the address details in the location form fields."
+msgstr ""
+"Wenn Ihr Standort nicht gefunden wird, suchen Sie nach einem in der Nähe."
+"<br>Nach dem Setzen des Markers können Sie den Marker an die gewünschte "
+"Position ziehen und die Adressdetails in den Standortformularfeldern manuell "
+"ändern."
+
+#: stonehenge-em-osm.php:821
+msgid ""
+"The more details you provide, the more accurate the search result will be."
+msgstr "Je mehr Details Sie angeben, desto genauer wird das Suchergebnis sein."
+
+#: stonehenge-em-osm.php:851
+msgid ""
+"This plugin completely replaces the built-in Google Maps with open source "
+"OpenStreetMap."
+msgstr ""
+"Dieses Plugin ersetzt vollständig die integrierten Google Maps durch Open "
+"Source OpenStreetMap."
+
+#: stonehenge-em-osm.php:852
+msgid "It uses OpenCage for geocoding."
+msgstr "Es verwendet OpenCage für die Geokodierung."
+
+#: stonehenge-em-osm.php:856
+msgid "Your settings have been saved."
+msgstr "Deine Einstellungen wurden gespeichert."
+
+#: stonehenge-em-osm.php:864
+msgid "OpenCage API Key"
+msgstr "OpenCage API Schlüssel"
+
+#: stonehenge-em-osm.php:869
+msgid "Get your free key"
+msgstr "Holen Sie sich Ihren kostenlosen Schlüssel"
+
+#: stonehenge-em-osm.php:872
+msgid "A free OpenCage API Key has a daily limit of 2500 calls per day."
+msgstr ""
+"Ein kostenloser OpenCage API Schlüssel hat ein tägliches Limit von 2500 "
+"Anrufen pro Tag."
+
+#: stonehenge-em-osm.php:873
+msgid ""
+"This plugin calls the OpenCage API if you:<br>- Create a new or edit an "
+"existing location.<br>- Use the \"Search Location by Name\" field in the "
+"Edit/Submit Event Page."
+msgstr ""
+
+#: stonehenge-em-osm.php:879
+msgid "Single Marker Zoom"
+msgstr "Einzelmarker-Zoom"
+
+#: stonehenge-em-osm.php:881
+msgid "Enter a number between 1 and 19. (Default is 15)"
+msgstr ""
+"Geben Sie eine Zahl zwischen 1 und 19 ein. (Standardeinstellung ist 15)"
+
+#: stonehenge-em-osm.php:885
+msgid "Marker Color:"
+msgstr "Markerfarbe:"
+
+#: stonehenge-em-osm.php:888
+msgid "Blue"
+msgstr "Blau"
+
+#: stonehenge-em-osm.php:889
+msgid "Red"
+msgstr "Rot"
+
+#: stonehenge-em-osm.php:890
+msgid "Green"
+msgstr "Grün"
+
+#: stonehenge-em-osm.php:891
+msgid "Orange"
+msgstr "Orange"
+
+#: stonehenge-em-osm.php:892
+msgid "Yellow"
+msgstr "Gelb"
+
+#: stonehenge-em-osm.php:893
+msgid "Purple"
+msgstr "Lila"
+
+#: stonehenge-em-osm.php:894
+msgid "Grey"
+msgstr "Grau"
+
+#: stonehenge-em-osm.php:895
+msgid "Black"
+msgstr "Schwarz"
+
+#: stonehenge-em-osm.php:900
+msgid "Map Style:"
+msgstr "Kartenstil:"
+
+#: stonehenge-em-osm.php:916
+msgid "You can preview map styles by reloading any map on your website."
+msgstr ""
+"Sie können eine Vorschau der Kartenstile anzeigen, indem Sie eine beliebige "
+"Karte auf Ihrer Website erneut laden."
+
+#. Plugin Name of the plugin/theme
+msgid "Events Manager – OpenStreetMaps"
+msgstr "Events Manager – OpenStreetMaps"
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org/plugins/stonehenge-em-osm/"
+msgstr "https://wordpress.org/plugins/stonehenge-em-osm/"
+
+#. Description of the plugin/theme
+msgid "OpenStreetMaps replacement for Events Manager."
+msgstr "OpenStreetMaps Ersatz für den Event Manager."
+
+#. Author of the plugin/theme
+msgid "Stonehenge Creations"
+msgstr "Stonehenge Creations"
+
+#. Author URI of the plugin/theme
+msgid "https://www.stonehengecreations.nl/"
+msgstr "https://www.stonehengecreations.nl/"

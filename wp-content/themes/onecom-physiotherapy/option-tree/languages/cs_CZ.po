@@ -1,0 +1,4058 @@
+msgid ""
+msgstr ""
+"Language: cs_CZ\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: PhraseApp (phraseapp.com)\n"
+
+#: core/theme-option.php:460
+#, fuzzy
+msgid " Full Width Section Image"
+msgstr "Obrázek sekce s plnou šířkou"
+
+#: importer/inc/OneClickDemoImport.php:382
+#, php-format
+msgid "%1$s%3$sThat's it, all done!%4$s%2$sThe import of demo data has finished. Please check your page and make sure that everything has been imported correctly.%5$s"
+msgstr "%1$s%3$sA to je vše - hotovo!%4$s%2$sImport ukázkových dat byl dokončen. Prohlédněte si svou stránku a zkontrolujte, zda bylo všechno naimportováno správně.%5$s"
+
+#: importer/inc/OneClickDemoImport.php:393
+#, php-format
+msgid "%1$sThe demo import has finished, but there were some import errors.%2$sMore details about the errors can be found in this %3$s%5$slog file%6$s%4$s%7$s"
+msgstr "%1$sImport ukázkových dat byl dokončen, ale nastaly při něm nějaké chyby.%2$sDalší podrobnosti o těchto chybách najdete v tomto %3$s%5$sprotokolovém souboru%6$s%4$s%7$s"
+
+#: 404.php:22
+#, fuzzy
+msgid "404"
+msgstr "404"
+
+#: inc/theme_options.php:1417
+msgid "404 Page Content"
+msgstr "Obsah stránky 404"
+
+#: admin/options-init.php:478
+msgid "About"
+msgstr "O uživateli"
+
+#: admin/options-init.php:436 admin/options-init.php:443
+msgid "Above the flip box"
+msgstr "Nad překlápěcím polem"
+
+#: inc/theme_metaboxes.php:625
+msgid "Acronym"
+msgstr "Zkratka"
+
+#: inc/functions.php:251 inc/functions.php:266 inc/functions.php:593
+#: inc/functions.php:595 templates/network/plugin-listing.php:87
+#: templates/network/plugin-listing.php:89
+#: templates/network/recommended-plugin-listing.php:100
+#: templates/network/theme-listing-loop.php:77
+#: templates/network/theme-listing-loop.php:79 templates/plugin-listing.php:86
+#: templates/plugin-listing.php:88 templates/recommended-plugin-listing.php:99
+#: templates/theme-listing-loop.php:74 templates/theme-listing-loop.php:76
+#, fuzzy
+msgid "Activate"
+msgstr "Aktivovat"
+
+#: option-tree/includes/ot-functions-docs-page.php:660
+#: option-tree/includes/ot-functions-docs-page.php:689
+#, fuzzy
+msgid "Activating a Layout"
+msgstr "Výpis příspěvků na blogu – rozvržení stránky"
+
+#: templates/network/plugin-listing.php:84
+#: templates/network/recommended-plugin-listing.php:98
+#: templates/network/theme-listing-loop.php:67 templates/plugin-listing.php:83
+#: templates/recommended-plugin-listing.php:97
+#: templates/theme-listing-loop.php:64
+#, fuzzy
+msgid "Active"
+msgstr "Aktivní"
+
+#: admin/options-init.php:213
+msgid "Active Color"
+msgstr "Aktivní barva"
+
+#: includes/ws-shortcode.php:40
+#, fuzzy
+msgid "Actual ratio"
+msgstr "Aktuální poměr"
+
+#: includes/customize-page.php:101
+#, fuzzy
+msgid "Add a custom color to text in your online shop."
+msgstr "Přidejte vlastní barvu písma textu pro váš internetový obchod."
+
+#: includes/customize-page.php:86
+#, fuzzy
+msgid "Add a custom font for your online shop."
+msgstr "Přidejte vlastní písmo pro svůj internetový obchod."
+
+#: custompost/custompost.php:8
+msgid "Add Adventure"
+msgstr "Add Cesta"
+
+#: includes/settings-page.php:43
+#, fuzzy
+msgid "Add custom CSS to the shopfront."
+msgstr "Přidejte vlastní šablony stylů CSS k úvodní prezentaci obchodu."
+
+#: includes/customize-page.php:62
+#, fuzzy
+msgid "Add custom CSS to your shop and read the tips to get started. You can always start over, by emptying the custom CSS field below."
+msgstr "Přidejte vlastní šablony stylů CSS a přečtěte si tipy, jak začít. Po vyprázdnění níže uvedeného vlastního pole CSS můžete vždy začít znovu."
+
+#: inc/theme_options.php:627
+msgid "Add fonts in your website."
+msgstr "Přidejte do svého webu písma."
+
+#: option-tree/includes/ot-functions-option-types.php:1310
+#, fuzzy
+msgid "Add Google Font"
+msgstr "Přidat písmo Google Font"
+
+#: option-tree/includes/ot-functions-docs-page.php:398
+#: option-tree/includes/ot-functions-option-types.php:247
+#: option-tree/includes/ot-functions-option-types.php:3163
+#: option-tree/includes/ot-functions-settings-page.php:169
+#: option-tree/ot-loader.php:777
+#, fuzzy
+msgid "Add Media"
+msgstr "Přidat média"
+
+#: option-tree/includes/ot-functions-option-types.php:1512
+#: option-tree/includes/ot-functions-option-types.php:2258
+#, fuzzy
+msgid "Add New"
+msgstr "Přidat novou položku"
+
+#: custompost/custompost.php:9
+msgid "Add New Adventure"
+msgstr "Add New Cesta"
+
+#: inc/core_functions.php:469
+msgid "Add New Catalog"
+msgstr "Přidat novou položku"
+
+#: inc/core_functions.php:446
+msgid "Add New Instructor"
+msgstr "Přidat nového instruktora"
+
+#: functions.php:167
+msgid "Add New Reviews"
+msgstr "Přidat nové recenze"
+
+#: custompost/customposts.php:71
+msgid "Add New Service"
+msgstr "Přidat novou službu"
+
+#: custompost/customposts.php:40
+msgid "Add New Spotlight"
+msgstr "Přidat nový spotlight"
+
+#: custompost/customposts.php:9
+msgid "Add New Testimonial"
+msgstr "Přidat nové svědectví"
+
+#: custompost/custompost.php:9
+msgid "Add New Travel"
+msgstr "Přidat novou cestu"
+
+#: admin/options-init.php:121
+msgid "Add phone number on your website"
+msgstr "Přidejte na svůj web telefonní číslo"
+
+#: functions.php:164
+msgid "Add Reviews"
+msgstr "Přidat recenze"
+
+#: custompost/customposts.php:70
+msgid "Add Service"
+msgstr "Přidat službu"
+
+#: custompost/customposts.php:39
+msgid "Add Spotlight"
+msgstr "Přidat spotlight"
+
+#: custompost/custompost.php:101
+msgid "Add Testimonial"
+msgstr "Add Svědectví"
+
+#: custompost/customposts.php:8
+msgid "Add Testimonials"
+msgstr "Přidat svědectví"
+
+#: custompost/custompost.php:8
+msgid "Add Travel"
+msgstr "Přidat cestu"
+
+#: includes/settings-page.php:30
+#, fuzzy
+msgid "Add your online shop to a page"
+msgstr "Přidejte svůj internetový obchod na stránku"
+
+#: inc/widgets.php:266 inc/widgets.php:350
+msgid "Address"
+msgstr "Adresa"
+
+#: admin/options-init.php:540
+msgid "Address Line 1"
+msgstr "Řádek adresy 1"
+
+#: admin/options-init.php:546
+msgid "Address Line 2"
+msgstr "Řádek adresy 2"
+
+# You have three ways that you can show the shopping cart on your site.
+# 
+# This is the header and description, after which you need to choose an option.
+# 
+# ____________________________
+# Reference for developers:
+# 
+#: includes/ws-cart-shortcode.php:21
+msgid "Adjust cart position"
+msgstr "Nastavení umístění a stylu košíku"
+
+#: inc/theme_options.php:68
+msgid "Advanced"
+msgstr "Rozšířené"
+
+#: custompost/custompost.php:6 custompost/custompost.php:7
+msgid "Adventure"
+msgstr "Cesta"
+
+#: functions.php:165
+msgid "All Reviews"
+msgstr "Všechny recenze"
+
+#: includes/ws-shortcode.php:25
+#, fuzzy
+msgid "Alphabetical"
+msgstr "Abecedně"
+
+#: includes/settings-page.php:85
+#, fuzzy
+msgid "Any question?"
+msgstr "Máte dotaz?"
+
+#: templates/discouraged-plugin-listing.php:119
+#: templates/network/discouraged-plugin-listing.php:119
+#, fuzzy
+msgid "Are you sure that you want to deactivate this plugin?"
+msgstr "Opravdu chcete tento modul plug-in deaktivovat?"
+
+#: staging/Includes/Core/views/ajax/staging_details.php:52
+#: staging/Includes/Core/views/ajax/staging_details.php:53
+#: staging/Includes/Core/views/includes/footer.php:14
+#: staging/Includes/Core/views/includes/footer.php:29
+#: staging/Includes/Core/views/includes/footer.php:44
+#: staging/Includes/Core/views/includes/footer.php:62
+#: staging/Includes/Core/views/staging.php:34
+#, fuzzy
+msgid "Are you sure?"
+msgstr "Jste si jist/a?"
+
+# This option will be available to users instead of "In head of all pages", but only when they don't use a One.com theme. The customer then needs to add a css selector in the box below.
+# ____________________________
+# Reference for developers:
+# 
+#: includes/ws-cart-shortcode.php:41
+#, fuzzy
+msgid "Attach cart to css selector"
+msgstr "Zobrazit selektor kategorie"
+
+#: template-parts/internal-banner.php:60
+#: template-parts/internal-banner.php:62
+msgid "Author"
+msgstr "Autor"
+
+#: inc/theme_metaboxes.php:89 inc/theme_metaboxes.php:504
+#: inc/theme_metaboxes.php:687 inc/theme_metaboxes.php:939
+#: inc/theme_metaboxes.php:1026 inc/theme_metaboxes.php:1101
+#: inc/theme_metaboxes.php:1191
+msgid "Auto"
+msgstr "Automaticky"
+
+#: templates/network/theme-listing.php:83 templates/theme-listing.php:83
+#, fuzzy
+msgid "Back to themes"
+msgstr "Zpět na témata"
+
+#: admin/options-init.php:206
+#, fuzzy
+msgid "Background"
+msgstr "Pozadí"
+
+#: option-tree/includes/ot-functions-option-types.php:151
+#, fuzzy
+msgid "Background Attachment"
+msgstr "Fixace pozadí"
+
+#: admin/options-init.php:173
+#, fuzzy
+msgid "Background Color"
+msgstr "Barva pozadí"
+
+#: includes/customize-page.php:209
+#, fuzzy
+msgid "Background color (dropdown menu)"
+msgstr "Barva pozadí (rozevírací nabídka)"
+
+#: includes/customize-page.php:153
+#, fuzzy
+msgid "Background color (online shop)"
+msgstr "Barva pozadí (webshop)"
+
+#: option-tree/includes/ot-functions-option-types.php:240
+#, fuzzy
+msgid "Background Image"
+msgstr "Obrázek pozadí"
+
+#: option-tree/includes/ot-functions-option-types.php:171
+#, fuzzy
+msgid "Background Position"
+msgstr "Pozice pozadí"
+
+#: option-tree/includes/ot-functions-option-types.php:132
+#, fuzzy
+msgid "Background Repeat"
+msgstr "Opakování pozadí"
+
+#: inc/theme_metaboxes.php:288 inc/theme_metaboxes.php:526
+msgid "Background Section"
+msgstr "Sekce pozadí"
+
+#: inc/theme_options.php:302
+msgid "Background Section - Text Color"
+msgstr "Sekce pozadí – barva textu"
+
+#: option-tree/includes/ot-functions-option-types.php:214
+#: option-tree/includes/ot-functions-option-types.php:228
+#, fuzzy
+msgid "Background Size"
+msgstr "Velikost pozadí"
+
+#: core/theme-option.php:406
+#, fuzzy
+msgid "Banner"
+msgstr "Prapor"
+
+#: admin/options-init.php:417
+msgid "Banner Blurb"
+msgstr "Výňatek z banneru"
+
+#: inc/theme_options.php:368
+msgid "Banner Buttons"
+msgstr "Tlačítka banneru"
+
+#: inc/theme_options.php:391
+msgid "Banner Buttons - Border"
+msgstr "Tlačítka banneru – ohraničení"
+
+#: inc/theme_options.php:399
+msgid "Banner Buttons - Border Radius"
+msgstr "Tlačítka banneru – poloměr zakulacení rohů"
+
+#: inc/theme_options.php:382
+msgid "Banner Buttons - Show Border"
+msgstr "Tlačítka banneru – zobrazit ohraničení"
+
+#: inc/widgets.php:195
+msgid "Banner Caption"
+msgstr "Popisek banneru"
+
+#: inc/theme_metaboxes.php:123
+msgid "Banner Caption - Subtitle"
+msgstr "Popisek banneru – podtitulek"
+
+#: inc/theme_metaboxes.php:114
+msgid "Banner Caption - Title"
+msgstr "Popisek banneru – titulek"
+
+#: inc/theme_metaboxes.php:105 inc/theme_metaboxes.php:954
+#: inc/theme_metaboxes.php:1041 inc/theme_metaboxes.php:1116
+#: inc/theme_metaboxes.php:1206
+msgid "Banner Custom Height"
+msgstr "Vlastní výška banneru"
+
+#: inc/theme-options.php:329
+msgid "Banner Font Style"
+msgstr "Styl písma banneru"
+
+#: inc/theme_options.php:890
+msgid "Banner Heading Font Style"
+msgstr "Styl písma nadpisu banneru"
+
+#: inc/theme_metaboxes.php:81 inc/theme_metaboxes.php:496
+#: inc/theme_metaboxes.php:679 inc/theme_metaboxes.php:931
+#: inc/theme_metaboxes.php:1018 inc/theme_metaboxes.php:1093
+#: inc/theme_metaboxes.php:1183
+msgid "Banner Height"
+msgstr "Výška banneru"
+
+#: inc/widgets.php:211
+msgid "Banner Height (px)"
+msgstr "Výška banneru (px)"
+
+#: metaboxes/metabox.php:44
+#, fuzzy
+msgid "Banner Image"
+msgstr "Obrázek na banneru"
+
+#: admin/options-init.php:432
+msgid "Banner Right Text"
+msgstr "Text banneru vpravo"
+
+#: admin/options-init.php:441
+msgid "Banner Right Text Image"
+msgstr "Obrázek textu banneru vpravo"
+
+#: inc/theme_metaboxes.php:977 inc/theme_metaboxes.php:1052
+#: inc/theme_metaboxes.php:1150
+msgid "Banner Setting"
+msgstr "Nastavení banneru"
+
+#: inc/theme_metaboxes.php:904 inc/theme_metaboxes.php:985
+msgid "Banner Settings"
+msgstr "Nastavení banneru"
+
+#: core/theme-option.php:421
+#, fuzzy
+msgid "Banner Sub-text"
+msgstr "Vedlejší text banneru"
+
+#: inc/theme_options.php:910
+msgid "Banner Subtext Font Style"
+msgstr "Styl písma subtextu banneru"
+
+#: admin/options-init.php:411
+msgid "Banner Subtitle Text"
+msgstr "Text podtitulu banneru"
+
+#: core/theme-option.php:415
+#, fuzzy
+msgid "Banner Text"
+msgstr "Text banneru"
+
+#: admin/options-init.php:405
+msgid "Banner Title Text"
+msgstr "Text nadpisu banneru"
+
+#: inc/widgets.php:249
+msgid "Banner Widget"
+msgstr "Widget banneru"
+
+#: staging/Includes/Core/views/staging.php:25
+#, fuzzy
+msgid "Before you continue, please be aware of the following:"
+msgstr "Než budete pokračovat, mějte na paměti následující:"
+
+#: core/theme-option.php:433 core/theme-option.php:443
+#: core/theme-option.php:450
+#, fuzzy
+msgid "Below the banner"
+msgstr "Pod bannerem"
+
+#: admin/options-init.php:451
+msgid "Below the banner."
+msgstr "Pod bannerem."
+
+#: core/theme-option.php:484 core/theme-option.php:494
+#: core/theme-option.php:501 core/theme-option.php:508
+#: core/theme-option.php:518 core/theme-option.php:525
+#: core/theme-option.php:532 core/theme-option.php:542
+#: core/theme-option.php:549
+#, fuzzy
+msgid "Below the full width section"
+msgstr "Pod sekcí s plnou šířkou"
+
+#: inc/core_functions.php:60
+msgid "Big Text Color"
+msgstr "Barva velkého textu"
+
+#: inc/theme_options.php:1082
+msgid "Blog Listing - Page Layout"
+msgstr "Výpis příspěvků na blogu – rozvržení stránky"
+
+#: admin/options-init.php:522
+msgid "Blog Section Title"
+msgstr "Nadpis sekce blogu"
+
+#: functions.php:151
+msgid "Blog Sidebar"
+msgstr "Boční panel blogu"
+
+#: inc/theme_options.php:111 inc/theme_options.php:716
+#: inc/theme_options.php:723
+msgid "Body"
+msgstr "Tělo"
+
+#: admin/options-init.php:111
+#, fuzzy
+msgid "Body Background"
+msgstr "Pozadí těla stránky"
+
+#: admin/options-init.php:112
+#, fuzzy
+msgid "Body background with image, color, etc."
+msgstr "Pozadí těla s obrázkem, barvou atd."
+
+#: admin/options-init.php:251
+#, fuzzy
+msgid "Body Font Style"
+msgstr "Styl písma těla"
+
+#: admin/options-init.php:392
+msgid "Body Social Icon background Color"
+msgstr "Barva pozadí ikony sociální sítě v těle stránky"
+
+#: admin/options-init.php:385
+msgid "Body Social Icon Color"
+msgstr "Barva ikony sociální sítě v těle stránky"
+
+#: includes/customize-page.php:100
+#, fuzzy
+msgid "Body text"
+msgstr "Základní text"
+
+#: inc/theme_options.php:115
+msgid "Body Text Color"
+msgstr "Barva těla textu"
+
+#: inc/theme_metaboxes.php:1242
+msgid "Booking Page Link"
+msgstr "Odkaz na rezervační stránku"
+
+#: includes/customize-page.php:220
+#, fuzzy
+msgid "Border color (dropdown menu)"
+msgstr "Barva ohraničení (rozevírací nabídka)"
+
+#: includes/customize-page.php:265
+#, fuzzy
+msgid "Borders"
+msgstr "Ohraničení"
+
+# If you choose the option to have a floating cart, the cart is visible on all pages. It sort of floats above the page and stays at the same place whether you scroll up and down.
+# 
+# Use the slider to determine the vertical position of the cart on your page.
+# 
+# ____________________________
+# Reference for developers:
+# 
+#: includes/ws-cart-shortcode.php:62
+#, fuzzy
+msgid "Bottom"
+msgstr "Vlevo dole"
+
+#: metabox/metabox.php:16
+#, fuzzy
+msgid "Bottom Content"
+msgstr "Obsah dolní sekce"
+
+#: includes/ws-shortcode.php:75
+#, fuzzy
+msgid "Bottom left"
+msgstr "Vlevo dole"
+
+#: options-init.php:391
+msgid "Bottom Left Section"
+msgstr "Dolní levá sekce"
+
+#: admin/options-init.php:534
+msgid "Bottom Left Section Content"
+msgstr "Obsah dolní levé sekce"
+
+#: admin/options-init.php:528
+msgid "Bottom Left Section Title"
+msgstr "Nadpis dolní levé sekce"
+
+#: includes/customize-page.php:301
+#, fuzzy
+msgid "Bottom line (borders)"
+msgstr "Spodní čára (ohraničení)"
+
+#: includes/ws-shortcode.php:74
+#, fuzzy
+msgid "Bottom right"
+msgstr "Vpravo dole"
+
+#: options-init.php:397
+msgid "Bottom Right Section"
+msgstr "Dolní pravá sekce"
+
+#: core/theme-option.php:559
+#, fuzzy
+msgid "Bottom Section"
+msgstr "Dolní sekce"
+
+#: admin/options-init.php:543
+#, fuzzy
+msgid "Bottom Section Content"
+msgstr "Obsah dolní sekce"
+
+#: admin/options-init.php:552
+#, fuzzy
+msgid "Bottom Section Image"
+msgstr "Obrázek dolní sekce"
+
+#: admin/options-init.php:537
+#, fuzzy
+msgid "Bottom Section Subtitle"
+msgstr "Podtitul dolní sekce"
+
+#: admin/options-init.php:531
+#, fuzzy
+msgid "Bottom Section Title"
+msgstr "Nadpis dolní sekce"
+
+#: option-tree/includes/ot-functions-docs-page.php:116
+#, fuzzy
+msgid "Box Shadow"
+msgstr "Stín textu"
+
+#: core/theme-option.php:483
+#, fuzzy
+msgid "Box-1 Image"
+msgstr "Obrázek pole 1"
+
+#: core/theme-option.php:500
+#, fuzzy
+msgid "Box-1 Text"
+msgstr "Text pole 1"
+
+#: core/theme-option.php:493
+#, fuzzy
+msgid "Box-1 Title"
+msgstr "Nadpis pole 1"
+
+#: core/theme-option.php:507
+#, fuzzy
+msgid "Box-2 Image"
+msgstr "Obrázek pole 2"
+
+#: core/theme-option.php:524
+#, fuzzy
+msgid "Box-2 Text"
+msgstr "Text pole 2"
+
+#: core/theme-option.php:517
+#, fuzzy
+msgid "Box-2 Title"
+msgstr "Nadpis pole 2"
+
+#: core/theme-option.php:531
+#, fuzzy
+msgid "Box-3 Image"
+msgstr "Obrázek pole 3"
+
+#: core/theme-option.php:548
+#, fuzzy
+msgid "Box-3 Text"
+msgstr "Text pole 3"
+
+#: core/theme-option.php:541
+#, fuzzy
+msgid "Box-3 Title"
+msgstr "Nadpis pole 3"
+
+#: inc/widgets.php:100
+msgid "Brand description."
+msgstr "Popis značky."
+
+#: functions.php:265
+#, fuzzy
+msgid "Breakfast"
+msgstr "Snídaně"
+
+#: single.php:104
+#, fuzzy
+msgid "Breakfast: "
+msgstr "Snídaně:"
+
+#: admin/options-init.php:583
+msgid "Button Background Color"
+msgstr "Barva pozadí tlačítka"
+
+#: admin/options-init.php:133
+#, fuzzy
+msgid "Button Color"
+msgstr "Barva tlačítka"
+
+#: inc/theme_metaboxes.php:131 inc/widgets.php:199
+msgid "Button Label"
+msgstr "Text na tlačítku"
+
+#: inc/theme_metaboxes.php:138 inc/theme_metaboxes.php:271
+#: inc/theme_metaboxes.php:326 inc/theme_metaboxes.php:554
+#: inc/widgets.php:203
+msgid "Button Link"
+msgstr "Odkaz tlačítka"
+
+#: inc/theme_metaboxes.php:795
+msgid "Button Text"
+msgstr "Text tlačítka"
+
+#: inc/theme_metaboxes.php:203 inc/theme_metaboxes.php:263
+#: inc/theme_metaboxes.php:318 inc/theme_metaboxes.php:427
+#: inc/theme_metaboxes.php:547 inc/theme_metaboxes.php:961
+#: inc/theme_metaboxes.php:967 inc/theme_metaboxes.php:1130
+#: inc/theme_metaboxes.php:1236
+msgid "Button Title"
+msgstr "Titulek tlačítka"
+
+#: inc/theme_options.php:358 inc/theme_options.php:1042
+msgid "Buttons"
+msgstr "Tlačítka"
+
+#: inc/theme_options.php:1049
+msgid "Buttons Font Style"
+msgstr "Styl písma tlačítek"
+
+#: templates/network/recommended-plugin-listing.php:117
+#: templates/recommended-plugin-listing.php:116
+#, fuzzy
+msgid "By"
+msgstr "Autor"
+
+# "Cancel" and go back, or "Save" your settings.
+# 
+# ____________________________
+# Reference for developers:
+# 
+#: includes/ws-cart-shortcode.php:127
+#, fuzzy
+msgid "Cancel"
+msgstr "Zrušit"
+
+#: inc/theme_metaboxes.php:58
+msgid "Caption Alignment"
+msgstr "Zarovnání popisku"
+
+#: functions.php:277
+#, fuzzy
+msgid "Car"
+msgstr "Vozidlo"
+
+#: single.php:122
+#, fuzzy
+msgid "Car: "
+msgstr "Vozidlo:"
+
+#: includes/customize-page.php:167
+#, fuzzy
+msgid "Cart & price (focus color)"
+msgstr "Nákupní košík a cena (barva zvýraznění)"
+
+# You can set the color of the cart. If you select the floating cart option, then you should also choose a background color, this is the little tab around the cart.
+# 
+# Same for the checkout banner, the background is the blue color in the screenshot, and the cart color here is set to white.
+# 
+# ____________________________
+# Reference for developers:
+# 
+#: includes/ws-cart-shortcode.php:75
+#, fuzzy
+msgid "Cart color"
+msgstr "Barva textu"
+
+# Title and button text for the cart feature under Online Shop plugin settings.
+# 
+# ____________________________
+# Reference for developers:
+# 
+#: includes/settings-page.php:52 includes/settings-page.php:55
+#: includes/settings-page.php:56
+msgid "Cart position and style"
+msgstr "Umístění a styl košíku"
+
+#: includes/ws-cart-shortcode.php:124
+#, fuzzy
+msgid "Cart saved successfully."
+msgstr "Pracovní verze byla úspěšně vytvořena."
+
+# You can set the color of the cart. If you select the floating cart option, then you should also choose a background color, this is the little tab around the cart.
+# 
+# Same for the checkout banner, the background is the blue color in the screenshot, and the cart color here is set to white.
+# 
+# ____________________________
+# Reference for developers:
+# 
+#: includes/ws-cart-shortcode.php:81 includes/ws-cart-shortcode.php:86
+#: includes/ws-cart-shortcode.php:114
+msgid "Cart tab background color"
+msgstr "Barva pozadí karty košíku"
+
+#: inc/core_functions.php:491
+msgid "Catalog Description"
+msgstr "Logo a popis"
+
+#: staging/Includes/Core/views/ajax/staging_details.php:47
+#, fuzzy
+msgid "Caution: Rebuilding will overwrite all files and the database of your existing staging website."
+msgstr "Pozor: Při resetu se přepíší všechny soubory a databáze vašeho stávajícího pracovního webu."
+
+#: inc/theme_metaboxes.php:71
+msgid "Center"
+msgstr "Na střed"
+
+#: admin/options-init.php:144
+msgid "Change header background color"
+msgstr "Změňte barvu pozadí záhlaví"
+
+#: includes/customize-page.php:210
+#, fuzzy
+msgid "Change the background color for dropdown menus."
+msgstr "Změňte barvu pozadí pro rozevírací nabídky."
+
+#: includes/customize-page.php:221
+#, fuzzy
+msgid "Change the border color for dropdown menus."
+msgstr "Změňte barvu ohraničení pro rozevírací nabídky."
+
+#: includes/customize-page.php:242
+#, fuzzy
+msgid "Change the color of text for selected dropdown items."
+msgstr "Změňte barvu textu pro položky vybrané z rozevírací nabídky."
+
+#: includes/customize-page.php:116
+#, fuzzy
+msgid "Change the color on text links, selected text and text for input fields."
+msgstr "Změňte barvu odkazů na text, vybraného textu a textu pro vstupní pole."
+
+#: inc/theme_metaboxes.php:82
+msgid "Change the font for this banner"
+msgstr "Změnit písmo pro tento banner"
+
+#: inc/theme_metaboxes.php:497 inc/theme_metaboxes.php:680
+#: inc/theme_metaboxes.php:932 inc/theme_metaboxes.php:1019
+#: inc/theme_metaboxes.php:1094 inc/theme_metaboxes.php:1184
+msgid "Change the font for this internal banner"
+msgstr "Změnit písmo pro tento interní banner"
+
+#: inc/theme_options.php:606
+msgid "Change the font style for Header Menu"
+msgstr "Změnit styl písma pro menu záhlaví"
+
+#: inc/theme_options.php:586
+msgid "Change the font style for logo"
+msgstr "Změnit styl písma pro logo"
+
+#: includes/customize-page.php:252
+#, fuzzy
+msgid "Change the hover color for the items in dropdown menu."
+msgstr "Změňte barvu při přechodu myší pro položky v rozevírací nabídce."
+
+#: includes/customize-page.php:232
+#, fuzzy
+msgid "Change the text color for dropdown menus."
+msgstr "Změňte barvu textu pro rozevírací nabídky."
+
+#: includes/settings-page.php:86
+#, fuzzy
+msgid "Chat with us"
+msgstr "Chatujte s námi"
+
+#: metaboxes/metabox.php:185 metaboxes/metabox.php:198
+#, fuzzy
+msgid "Choose or Upload an Image"
+msgstr "Vyberte nebo nahrajte obrázek"
+
+#: staging/Includes/Core/views/ajax/staging_details.php:28
+#, fuzzy
+msgid "Click on \"Rebuild Staging\" to regenerate your staging site."
+msgstr "Kliknutím na „Rebuild staging“ (Aktualizovat pracovní verzi) obnovíte pracovní web."
+
+#: includes/ws-cart-shortcode.php:20 includes/ws-shortcode.php:2
+#, fuzzy
+msgid "close"
+msgstr "zavřít"
+
+#: inc/theme-metaboxes.php:174
+msgid "Collection Link"
+msgstr "Odkaz na kolekci"
+
+#: inc/theme_options.php:64
+msgid "Color Scheme"
+msgstr "Barevné schéma"
+
+#: option-tree/includes/ot-functions-docs-page.php:128
+#, fuzzy
+msgid "Colorpicker"
+msgstr "Barevné schéma"
+
+#: comments.php:38
+#, fuzzy
+msgid "Comments are closed."
+msgstr "Komentáře jsou uzavřeny."
+
+#: admin/options-init.php:127
+msgid "Common Bottom Text"
+msgstr "Obecný dolní text"
+
+#: inc/functions.php:111 inc/functions.php:325
+#, fuzzy
+msgid "Connection timed out"
+msgstr "Vypršel časový limit připojení"
+
+#: admin/options-init.php:561
+#, fuzzy
+msgid "Contact"
+msgstr "Kontakt"
+
+#: inc/core_functions.php:279
+msgid "Contact Details "
+msgstr "Kontaktní údaje"
+
+#: inc/theme-metaboxes.php:390 inc/theme-metaboxes.php:396
+msgid "Contact Form"
+msgstr "Kontaktní formulář"
+
+#: inc/core_functions.php:276
+msgid "Contact query from website"
+msgstr "Dotaz na kontakt z webu"
+
+#: admin/options-init.php:450
+#, fuzzy
+msgid "Content"
+msgstr "Obsah"
+
+#: inc/theme_options.php:412
+msgid "Content Buttons"
+msgstr "Tlačítka obsahu"
+
+#: inc/theme_options.php:434
+msgid "Content Buttons - Border"
+msgstr "Tlačítka obsahu – ohraničení"
+
+#: inc/theme_options.php:447
+msgid "Content Buttons - Border Radius"
+msgstr "Tlačítka obsahu – poloměr zakulacení rohů"
+
+#: inc/theme_options.php:425
+msgid "Content Buttons - Show Border"
+msgstr "Tlačítka obsahu – zobrazit ohraničení"
+
+#: template-parts/content.php:36
+#, fuzzy
+msgid "Continue reading"
+msgstr "Pokračovat ve čtení"
+
+#: staging/one_staging.php:149
+#, fuzzy
+msgid "Copied successfully."
+msgstr "Pracovní verze byla úspěšně vytvořena."
+
+#: includes/ws-shortcode.php:105
+#, fuzzy
+msgid "Copied to clipboard"
+msgstr "Zkopírováno do schránky"
+
+#: includes/ws-shortcode.php:102
+#, fuzzy
+msgid "Copy shortcode"
+msgstr "Zkopírovat zkrácený kód"
+
+#: staging/Includes/Core/views/staging.php:34
+#, fuzzy
+msgid "Copy staging to live"
+msgstr "Kopírovat pracovní verzi do ostré verze webu"
+
+#: staging/Includes/Core/views/staging.php:18
+#, fuzzy
+msgid "Copy staging to your live site"
+msgstr "Kopírovat pracovní verzi do ostré verze webu"
+
+#: includes/ws-shortcode.php:95
+#, fuzzy
+msgid "Copy this shortcode to the page"
+msgstr "Tento zkrácený kód zkopírujte na stránku"
+
+#: staging/one_staging.php:156
+#, fuzzy
+msgid "Copying database..."
+msgstr "Kopíruje se databáze…"
+
+#: staging/one_staging.php:158
+#, fuzzy
+msgid "Copying files..."
+msgstr "Kopírují se soubory…"
+
+#: inc/theme_options.php:338
+msgid "Copyright Background Color"
+msgstr "Barva pozadí prohlášení o autorských právech"
+
+#: inc/theme-options.php:311
+msgid "Copyright Font Style"
+msgstr "Styl písma prohlášení o autorských právech"
+
+#: admin/options-init.php:200
+#, fuzzy
+msgid "Copyright Text"
+msgstr "Text prohlášení o autorských právech"
+
+#: inc/theme_options.php:349
+msgid "Copyright Text Color"
+msgstr "Barva textu prohlášení o autorských právech"
+
+#: staging/Includes/Core/views/live.php:47
+#, fuzzy
+msgid "Create a staging version of your site to try out new plugins, themes and customizations"
+msgstr "Vytvořte si pracovní verzi svého webu a vyzkoušejte na ní nové moduly plug-in, motivy a přizpůsobení"
+
+#: staging/Includes/Core/views/live.php:54
+#, fuzzy
+msgid "Create staging site"
+msgstr "Vytvořit pracovní web"
+
+#: option-tree/includes/ot-functions-docs-page.php:653
+#: option-tree/includes/ot-functions-docs-page.php:682
+#, fuzzy
+msgid "Creating a Layout"
+msgstr "Výpis příspěvků na blogu – rozvržení stránky"
+
+#: includes/ws-shortcode.php:45
+#, fuzzy
+msgid "Crop images"
+msgstr "Oříznout obrázky"
+
+#: inc/theme_metaboxes.php:97 inc/theme_metaboxes.php:512
+#: inc/theme_metaboxes.php:695 inc/theme_metaboxes.php:947
+#: inc/theme_metaboxes.php:1034 inc/theme_metaboxes.php:1109
+#: inc/theme_metaboxes.php:1199
+msgid "Custom"
+msgstr "Vlastní"
+
+#: inc/theme_options.php:101
+msgid "Custom colors selection may override the Primary and Secondary Skin colors at some places"
+msgstr "Výběr vlastních barev může na některých místech potlačit primární a sekundární barvu skinu"
+
+#: inc/theme_options.php:1388
+msgid "Custom CSS"
+msgstr "Vlastní CSS"
+
+#: inc/theme_metaboxes.php:435 inc/theme_metaboxes.php:826
+msgid "Custom Form"
+msgstr "Vlastní formulář"
+
+#: inc/theme-metaboxes.php:87
+msgid "Custom Height"
+msgstr "Vlastní výška"
+
+#: custompost/customposts.php:92
+msgid "Custom post type for Service"
+msgstr "Typ vlastního příspěvku pro službu"
+
+#: custompost/customposts.php:61
+msgid "Custom post type for Spotlight"
+msgstr "Typ vlastního příspěvku pro spotlight"
+
+#: custompost/custompost.php:30
+msgid "Custom post type for Travel"
+msgstr "Typ vlastního příspěvku pro cestu"
+
+#: webshop.php:124
+#, fuzzy
+msgid "Customize"
+msgstr "Přizpůsobit"
+
+#: inc/theme_options.php:583
+msgid "Customize > Site Identity > Site Icon"
+msgstr "Přizpůsobte > Identita webu > Ikona webu"
+
+#: inc/theme_options.php:100
+msgid "Customize Skin"
+msgstr "Upravit skin"
+
+#: includes/customize-page.php:61 webshop.php:124
+#, fuzzy
+msgid "Customize the look of your online shop"
+msgstr "Přizpůsobte vzhled svého internetového obchodu"
+
+#: includes/settings-page.php:42
+#, fuzzy
+msgid "Customize the styling for your shop"
+msgstr "Přizpůsobte styl svého internetového obchodu"
+
+#: admin/options-init.php:426
+msgid "CV Headline"
+msgstr "Titulek CV"
+
+#: admin/options-init.php:420
+msgid "CV Name"
+msgstr "Název CV"
+
+#: admin/options-init.php:432
+msgid "CV Summary"
+msgstr "Shrnutí CV"
+
+#: inc/theme_metaboxes.php:620
+msgid "Day"
+msgstr "Den"
+
+#: onecom-addons/onecom-inc.php:155
+#, fuzzy
+msgid "Deactivate"
+msgstr "Deaktivovat"
+
+#: templates/discouraged-plugin-listing.php:121
+#: templates/network/discouraged-plugin-listing.php:121
+#, fuzzy
+msgid "Deactivating a plugin can break functionality on your website."
+msgstr "Při deaktivaci modulu plug-in mohou některé součásti vašich stránek přestat fungovat."
+
+# Description displayed on the cart tile under the Online shop plugin settings.
+# ____________________________
+# Reference for developers:
+# 
+#: includes/settings-page.php:53
+msgid "Decide how the cart icon is displayed. Place it on all pages or not."
+msgstr "Vyberte, jak a kde se bude na vašem webu zobrazovat ikona nákupního košíku. "
+
+#: includes/customize-page.php:268
+#, fuzzy
+msgid "Default buttons (borders)"
+msgstr "Výchozí tlačítka (ohraničení)"
+
+#: inc/theme-metaboxes.php:309
+msgid "Default page title will be displayed if this field is blank."
+msgstr "Je-li toto pole prázdné, zobrazí se výchozí nadpis stránky."
+
+#: staging/Includes/Core/views/ajax/staging_details.php:53
+#, fuzzy
+msgid "Delete Staging"
+msgstr "Vymazat pracovní verzi"
+
+#: option-tree/includes/ot-functions-docs-page.php:666
+#: option-tree/includes/ot-functions-docs-page.php:695
+#, fuzzy
+msgid "Deleting a Layout"
+msgstr "Výpis příspěvků na blogu – rozvržení stránky"
+
+#: staging/one_staging.php:162
+#, fuzzy
+msgid "Deleting staging..."
+msgstr "Odstraňuje se přípravný web…"
+
+#: option-tree/includes/ot-functions-docs-page.php:43
+#: option-tree/includes/ot-functions-docs-page.php:428
+#: option-tree/includes/ot-functions-docs-page.php:478
+#, fuzzy
+msgid "Description"
+msgstr "Popis"
+
+#: templates/network/theme-listing.php:90 templates/theme-listing.php:90
+#, fuzzy
+msgid "Desktop"
+msgstr "Plocha počítače"
+
+#: templates/discouraged-plugin-listing.php:13
+#: templates/discouraged-plugin-listing.php:25
+#: templates/network/discouraged-plugin-listing.php:13
+#: templates/network/discouraged-plugin-listing.php:25
+#: templates/network/plugin-listing.php:25
+#: templates/network/recommended-plugin-listing.php:25
+#: templates/plugin-listing.php:25 templates/recommended-plugin-listing.php:25
+#, fuzzy
+msgid "Discouraged plugins"
+msgstr "Nedoporučované moduly plug-in"
+
+#: core/widgets.php:317
+msgid "Display information with icon."
+msgstr "Zobrazí informace u ikony."
+
+#: inc/widgets.php:250
+msgid "Displays a call to action banner with image."
+msgstr "Zobrazí banner s výzvou a obrázkem."
+
+#: inc/widgets.php:267
+msgid "Displays an address on your site."
+msgstr "Zobrazí adresu vašich stránek."
+
+#: core/widgets.php:20
+msgid "Displays social icons list."
+msgstr "Zobrazí seznam ikon pro sociální sítě."
+
+#: includes/customize-page.php:207
+#, fuzzy
+msgid "Dropdown menus"
+msgstr "Rozevírací nabídky"
+
+#: page_Travel.php:98
+#, fuzzy
+msgid "Earlier Travels"
+msgstr "Dřívější cesty"
+
+#: custompost/custompost.php:10
+msgid "Edit Adventure"
+msgstr "Edit Cesta"
+
+#: inc/theme_options.php:1378
+msgid "Edit Footer Widgets"
+msgstr "Upravit widgety zápatí"
+
+#: inc/core_functions.php:449
+msgid "Edit Instructor"
+msgstr "Upravit instruktora"
+
+#: inc/core_functions.php:391
+msgid "Edit Lesson"
+msgstr "Upravit lekci"
+
+#: functions.php:166
+msgid "Edit Reviews"
+msgstr "Upravit recenze"
+
+#: custompost/customposts.php:72
+#, fuzzy
+msgid "Edit Service"
+msgstr "Upravit službu"
+
+#: custompost/customposts.php:41
+msgid "Edit Spotlight"
+msgstr "Upravit spotlight"
+
+#: includes/settings-page.php:44
+#, fuzzy
+msgid "Edit styling"
+msgstr "Upravit použití stylů"
+
+#: custompost/custompost.php:103
+msgid "Edit Testimonial"
+msgstr "Edit Svědectví"
+
+#: custompost/customposts.php:10
+msgid "Edit Testimonials"
+msgstr "Upravit svědectví"
+
+#: custompost/custompost.php:10
+msgid "Edit Travel"
+msgstr "Upravit cestu"
+
+#: inc/core_functions.php:259
+msgid "Email "
+msgstr "E-mail"
+
+#: comments.php:70
+#, fuzzy
+msgid "Email"
+msgstr "E-mail"
+
+#: admin/options-init.php:558
+msgid "Email Address"
+msgstr "E-mailová adresa"
+
+#: inc/core_functions.php:325
+msgid "Email entered is not valid or empty."
+msgstr "Zadaný e-mail není platný nebo je prázdný."
+
+#: inc/core_functions.php:237
+msgid "Email entered is not valid."
+msgstr "Zadaný e-mail není platný."
+
+#: inc/core_functions.php:329
+msgid "Email is too large, please use a valid email."
+msgstr "E-mail je příliš dlouhý, zadejte platný e-mail."
+
+#: inc/core_functions.php:241
+msgid "Email is too large."
+msgstr "E-mail je příliš dlouhý."
+
+#: inc/theme_metaboxes.php:806
+msgid "Email Subject"
+msgstr "Předmět e-mailu"
+
+#: widgets/widget.php:140
+msgid "Email:"
+msgstr "E-mail:"
+
+#: inc/theme-metaboxes.php:90
+msgid "Enter banner height with unit. Example - 560px"
+msgstr "Zadejte výšku banneru s jednotkami. Například 560 px"
+
+#: admin/options-init.php:470
+msgid "Enter multiple towns using comma (,) such as: Town1,Town2,Town3"
+msgstr "Zadejte více měst oddělených čárkami (,) – např. Město1, Město2, Město3"
+
+#: inc/theme-metaboxes.php:130
+msgid "Enter one specification per line."
+msgstr "Zadejte do každého řádku jednu specifikaci."
+
+#: inc/theme-metaboxes.php:117
+msgid "Enter product price with unit. Example - $128.00"
+msgstr "Zadejte cenu produktu s jednotkami. Například 128,00 USD."
+
+#: admin/options-init.php:504
+msgid "Enter title for full width section."
+msgstr "Zadejte nadpis pro sekci s plnou šířkou."
+
+#: admin/options-init.php:468
+msgid "Enter Towns"
+msgstr "Zadejte města"
+
+#: admin/options-init.php:381
+#, fuzzy
+msgid "Enter your social profile links here:"
+msgstr "Sem zadejte odkazy na své sociální sítě:"
+
+#: 404.php:6
+msgid "Error 404 - Not Found"
+msgstr "Chyba 404 – Nenalezeno"
+
+#: inc/theme_metaboxes.php:601
+msgid "Events"
+msgstr "Události"
+
+#: inc/theme_metaboxes.php:570
+msgid "Events Section"
+msgstr "Sekce událostí"
+
+#: includes/customize-page.php:88 includes/customize-page.php:103
+#: includes/customize-page.php:118 includes/customize-page.php:140
+#: includes/customize-page.php:156 includes/customize-page.php:170
+#: includes/customize-page.php:186 includes/customize-page.php:197
+#: includes/customize-page.php:212 includes/customize-page.php:223
+#: includes/customize-page.php:234 includes/customize-page.php:244
+#: includes/customize-page.php:254 includes/customize-page.php:271
+#: includes/customize-page.php:282 includes/customize-page.php:293
+#: includes/customize-page.php:304
+#, fuzzy
+msgid "Example:"
+msgstr "Příklad:"
+
+#: metabox/metabox.php:29
+msgid "Excerpt"
+msgstr "Výňatek"
+
+#: templates/network/theme-listing.php:14 templates/theme-listing.php:14
+#, fuzzy
+msgid "Exclusive themes specially crafted for One.com customers."
+msgstr "Exkluzivní témata navržená speciálně na míru zákazníkům One.com."
+
+#: admin/options-init.php:387
+#, fuzzy
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/theme-metaboxes.php:468 inc/theme-metaboxes.php:474
+msgid "FAQ's"
+msgstr "Časté dotazy"
+
+#: core/theme-option.php:189
+#, fuzzy
+msgid "Favicon"
+msgstr "Ikona stránky"
+
+#: admin/options-init.php:164
+#, fuzzy
+msgid "Favicon Icon"
+msgstr "Ikona stránky"
+
+#: inc/theme-metaboxes.php:96
+msgid "Featured Product"
+msgstr "Doporučovaný produkt"
+
+#: inc/theme-metaboxes.php:183
+msgid "Featured Products"
+msgstr "Doporučované produkty"
+
+#: inc/theme_metaboxes.php:210
+msgid "Features"
+msgstr "Funkce"
+
+#: inc/theme_metaboxes.php:241
+msgid "Features List"
+msgstr "Seznam funkcí"
+
+#: includes/customize-page.php:136
+#, fuzzy
+msgid "Fill color"
+msgstr "Barva výplně"
+
+#: includes/customize-page.php:138
+#, fuzzy
+msgid "Fill color is applied to .svg icons in your shop, like the arrow on the \"Back\" button."
+msgstr "Barva výplně se použije na ikony .svg ve vašem obchodě, například na šipku na tlačítku „Zpět“."
+
+#: staging/one_staging.php:160
+#, fuzzy
+msgid "Finalising..."
+msgstr "Finalising…"
+
+#: staging/one_staging.php:161
+#, fuzzy
+msgid "Finished!"
+msgstr "Hotovo!"
+
+#: functions.php:269
+#, fuzzy
+msgid "Flight"
+msgstr "Let"
+
+#: single.php:110
+#, fuzzy
+msgid "Flight: "
+msgstr "Let:"
+
+# If you choose the option to have a floating cart, the cart is visible on all pages. It sort of floats above the page and stays at the same place whether you scroll up and down.
+# 
+# Use the slider to determine the vertical position of the cart on your page.
+# 
+# ____________________________
+# Reference for developers:
+# 
+#: includes/ws-cart-shortcode.php:32
+msgid "Floating cart on all pages"
+msgstr "Plovoucí košík na všech stránkách"
+
+#: includes/customize-page.php:165
+#, fuzzy
+msgid "Focus color"
+msgstr "Barva zvýraznění"
+
+#: includes/customize-page.php:84
+#, fuzzy
+msgid "Font"
+msgstr "Písmo"
+
+#: inc/theme_options.php:626
+msgid "Font Families"
+msgstr "Písma"
+
+#: option-tree/includes/ot-functions-option-types.php:2990
+#, fuzzy
+msgid "Font Family"
+msgstr "Rodina písem"
+
+#: option-tree/includes/ot-functions-option-types.php:3003
+#, fuzzy
+msgid "Font Size"
+msgstr "Velikost Písma"
+
+#: option-tree/includes/ot-functions-option-types.php:3016
+#, fuzzy
+msgid "Font Style"
+msgstr "Styl písma"
+
+#: inc/theme_options.php:654
+msgid "Font Styles"
+msgstr "Styly písma"
+
+#: option-tree/includes/ot-functions-option-types.php:3042
+#, fuzzy
+msgid "Font Weight"
+msgstr "Tloušťka písma"
+
+#: admin/options-init.php:183
+#, fuzzy
+msgid "Footer"
+msgstr "Zápatí"
+
+#: functions.php:83
+msgid "Footer 1"
+msgstr "Zápatí 1"
+
+#: functions.php:93
+msgid "Footer 2"
+msgstr "Zápatí 2"
+
+#: functions.php:103
+msgid "Footer 3"
+msgstr "Zápatí 3"
+
+#: functions.php:160
+msgid "Footer Area 1"
+msgstr "Oblast zápatí 1"
+
+#: functions.php:169
+msgid "Footer Area 2"
+msgstr "Oblast zápatí 2"
+
+#: functions.php:178
+msgid "Footer Area 3"
+msgstr "Oblast zápatí 3"
+
+#: admin/options-init.php:207
+#, fuzzy
+msgid "Footer background with image, color, etc."
+msgstr "Pozadí zápatí s obrázkem, barvou atd."
+
+#: inc/theme_options.php:1358
+msgid "Footer Color"
+msgstr "Barva zápatí"
+
+#: inc/theme_options.php:1407
+msgid "Footer Scripts"
+msgstr "Skripty zápatí"
+
+#: admin/options-init.php:399
+msgid "Footer Social Icon Color"
+msgstr "Barva ikony sociální sítě v zápatí"
+
+#: inc/theme_options.php:1073
+msgid "For example: Post Author, Published Date, Post Categories"
+msgstr "Příklad: autor příspěvku, datum zveřejnění, kategorie příspěvku"
+
+#: inc/theme_options.php:459
+msgid "Form Buttons"
+msgstr "Tlačítka formuláře"
+
+#: inc/theme_options.php:481
+msgid "Form Buttons - Border"
+msgstr "Tlačítka formuláře – ohraničení"
+
+#: inc/theme_options.php:489
+msgid "Form Buttons - Border Radius"
+msgstr "Tlačítka formuláře – poloměr zakulacení rohů"
+
+#: inc/theme_options.php:472
+msgid "Form Buttons - Show Border"
+msgstr "Tlačítka formuláře – zobrazit ohraničení"
+
+#: inc/theme_metaboxes.php:445 inc/theme_metaboxes.php:835
+msgid "Form Embed Code or Shortcode"
+msgstr "Vytvoření vloženého kódu nebo krátkého kódu"
+
+#: inc/theme_metaboxes.php:754
+msgid "Form Fields Labels"
+msgstr "Popisky polí formuláře"
+
+#: inc/theme_metaboxes.php:731
+msgid "Form Section"
+msgstr "Sekce formuláře"
+
+#: inc/theme_metaboxes.php:93 inc/theme_metaboxes.php:508
+#: inc/theme_metaboxes.php:691 inc/theme_metaboxes.php:943
+#: inc/theme_metaboxes.php:1030 inc/theme_metaboxes.php:1105
+#: inc/theme_metaboxes.php:1195
+msgid "Full Viewport"
+msgstr "Plný výřez"
+
+#: admin/options-init.php:522
+#, fuzzy
+msgid "Full width Section Background Image"
+msgstr "Obrázek na pozadí sekce s plnou šířkou"
+
+#: admin/options-init.php:494
+msgid "Full Width Section Background Image"
+msgstr "Obrázek na pozadí sekce s plnou šířkou"
+
+#: admin/options-init.php:510
+msgid "Full Width Section Description"
+msgstr "Nadpis sekce s plnou šířkou"
+
+#: admin/options-init.php:516
+#, fuzzy
+msgid "Full Width Section Subtitle"
+msgstr "Podtitul sekce s plnou šířkou"
+
+#: core/theme-option.php:469
+#, fuzzy
+msgid "Full Width Section Text"
+msgstr "Text sekce s plnou šířkou"
+
+#: admin/options-init.php:510
+#, fuzzy
+msgid "Full Width Section Title"
+msgstr "Nadpis sekce s plnou šířkou"
+
+#: option-tree/includes/ot-functions-docs-page.php:168
+#, fuzzy
+msgid "Gallery"
+msgstr "Galerie"
+
+#: admin/options-init.php:90
+#, fuzzy
+msgid "General"
+msgstr "Obecné"
+
+#: includes/settings-page.php:31
+#, fuzzy
+msgid "Generate a shortcode and add it to any page."
+msgstr "Vygenerujte si zkrácený kód a přidejte jej na libovolnou stránku."
+
+#: includes/ws-shortcode.php:3
+#, fuzzy
+msgid "Generate the shortcode"
+msgstr "Vygenerovat zkrácený kód"
+
+# Description telling users what to do here. The shortcode should be copied in the page in WordPress.
+# 
+# ____________________________
+# Reference for developers:
+# 
+#: includes/ws-shortcode.php:4
+#, fuzzy
+msgid "Generate the shortcode with these settings, and copy it to the page where you want your webshop to be displayed."
+msgstr "Pokud chcete vygenerovat zkrácený kód, upravte zde nastavení, a potom zkopírujte kód na stránku, na které má být e-shop zobrazen."
+
+#: template-parts/content-none.php:21
+#, fuzzy
+msgid "Get started here"
+msgstr "Začněte zde"
+
+#: includes/settings-page.php:32
+#, fuzzy
+msgid "Get the shortcode"
+msgstr "Získat zkrácený kód"
+
+#: onecom-themes-plugins.php:417
+#, fuzzy
+msgid "Go to Control Panel at One.com"
+msgstr "Přejít k ovládacímu panelu One.com"
+
+#: onecom-themes-plugins.php:434
+#, fuzzy
+msgid "Go to Guides & FAQ at One.com"
+msgstr "Přejít do sekce Průvodci a často kladené dotazy na One.com"
+
+#: includes/settings-page.php:21
+#, fuzzy
+msgid "Go to Products & Orders"
+msgstr "Přejít k produktům a objednávkám"
+
+#: option-tree/includes/ot-functions-docs-page.php:171
+#, fuzzy
+msgid "Google Fonts"
+msgstr "Přidat písmo Google Font"
+
+#: core/theme-option.php:374
+#, fuzzy
+msgid "Google Plus"
+msgstr "Google Plus"
+
+#: admin/options-init.php:399
+#, fuzzy
+msgid "Google+"
+msgstr "Google+"
+
+#: functions.php:256
+#, fuzzy
+msgid "Group"
+msgstr "Skupina"
+
+#: single.php:92
+#, fuzzy
+msgid "Group: "
+msgstr "Skupina:"
+
+#: functions.php:273
+#, fuzzy
+msgid "Guide"
+msgstr "Průvodce"
+
+#: single.php:116
+#, fuzzy
+msgid "Guide: "
+msgstr "Průvodce:"
+
+#: admin/options-init.php:270
+#, fuzzy
+msgid "H1 Font Style"
+msgstr "Styl písma H1"
+
+#: inc/theme-options.php:682
+msgid "H1 Text Color"
+msgstr "Barva textu H1"
+
+#: admin/options-init.php:288
+#, fuzzy
+msgid "H2 Font Style"
+msgstr "Styl písma H2"
+
+#: inc/theme-options.php:689
+msgid "H2 Text Color"
+msgstr "Barva textu H2"
+
+#: admin/options-init.php:306
+#, fuzzy
+msgid "H3 Font Style"
+msgstr "Styl písma H3"
+
+#: inc/theme-options.php:696
+msgid "H3 Text Color"
+msgstr "Barva textu H3"
+
+#: admin/options-init.php:324
+#, fuzzy
+msgid "H4 Font Style"
+msgstr "Styl písma H4"
+
+#: inc/theme-options.php:703
+msgid "H4 Text Color"
+msgstr "Barva textu H4"
+
+#: admin/options-init.php:342
+#, fuzzy
+msgid "H5 Font Style"
+msgstr "Styl písma H5"
+
+#: inc/theme-options.php:710
+msgid "H5 Text Color"
+msgstr "Barva textu H5"
+
+#: admin/options-init.php:360
+#, fuzzy
+msgid "H6 Font Style"
+msgstr "Styl písma H6"
+
+#: inc/theme-options.php:717
+msgid "H6 Text Color"
+msgstr "Barva textu H6"
+
+#: inc/theme_options.php:1397
+msgid "Head Scripts"
+msgstr "Skripty hlavičky"
+
+#: admin/options-init.php:146
+#, fuzzy
+msgid "Header"
+msgstr "Záhlaví"
+
+#: inc/theme_options.php:597
+msgid "Header Height"
+msgstr "Výška záhlaví"
+
+#: admin/options-init.php:154
+#, fuzzy
+msgid "Header Logo"
+msgstr "Logo v záhlaví"
+
+#: inc/theme_options.php:694
+msgid "Header Menu Font Style"
+msgstr "Styl písma menu záhlaví"
+
+#: inc/theme_options.php:380 inc/theme_options.php:741
+msgid "Heading"
+msgstr "Záhlaví"
+
+#: includes/customize-page.php:290
+#, fuzzy
+msgid "Headings (borders)"
+msgstr "Záhlaví (ohraničení)"
+
+#: inc/theme_options.php:130
+msgid "Headings Colors"
+msgstr "Barvy nadpisů"
+
+#: metaboxes/metabox.php:40
+#, fuzzy
+msgid "Hightlight Box"
+msgstr "Zvýrazněné pole"
+
+#: metaboxes/metabox.php:41
+#, fuzzy
+msgid "Hightlight Content"
+msgstr "Zvýrazněný obsah"
+
+#: admin/options-init.php:425
+#, fuzzy
+msgid "Home"
+msgstr "Hlavní stránka"
+
+#: inc/theme_options.php:883
+msgid "Homepage Banner"
+msgstr "Banner domovské stránky"
+
+#: inc/theme_options.php:259
+msgid "Homepage Banner - Text Color"
+msgstr "Banner domovské stránky – barva textu"
+
+#: options-init.php:346
+msgid "Homepage Content"
+msgstr "Obsah hlavní stránky"
+
+#: options-init.php:338
+msgid "Homepage Slogan"
+msgstr "Slogan hlavní stránky"
+
+#: inc/widgets.php:380
+msgid "Hover"
+msgstr "Při přejetí myší"
+
+#: inc/core_functions.php:56
+msgid "Hover Background Color"
+msgstr "Barva pozadí při přejetí myší"
+
+#: includes/customize-page.php:183
+#, fuzzy
+msgid "Hover color"
+msgstr "Barva při přechodu myší"
+
+#: admin/options-init.php:220
+msgid "Hover Color"
+msgstr "Barva při přejetí myší"
+
+#: includes/customize-page.php:251
+#, fuzzy
+msgid "Hover color (dropdown menu)"
+msgstr "Barva při přechodu myší (rozevírací nabídka)"
+
+#: inc/core_functions.php:54
+msgid "Hover Text Color"
+msgstr "Barva textu při přejetí myší"
+
+#: inc/theme_metaboxes.php:255
+msgid "Icon"
+msgstr "Ikona"
+
+#: core/widgets.php:382
+msgid "Icon Alignment"
+msgstr "Zarovnání ikon"
+
+#: core/theme-option.php:390
+#, fuzzy
+msgid "Icon Background Color"
+msgstr "Barva pozadí ikony"
+
+#: core/widgets.php:316
+msgid "Icon Box"
+msgstr "Pole ikony"
+
+#: core/theme-option.php:381
+#, fuzzy
+msgid "Icon Color"
+msgstr "Barva ikony"
+
+#: core/widgets.php:96
+msgid "Icon Hover Color"
+msgstr "Barva ikony při přejetí myší"
+
+#: core/widgets.php:390
+msgid "Icon Size"
+msgstr "Velikost ikony"
+
+#: inc/widgets.php:389
+msgid "If colors are not set, skin colors will be applied."
+msgstr "Pokud nejsou barvy nastaveny, použijí se výchozí barvy."
+
+#: inc/theme_options.php:508
+msgid "If turned On, the native colors of social icons will be used."
+msgstr "Je-li tato možnost zapnuta, použijí se vlastní barvy ikon sociálních sítí."
+
+#: metaboxes/metabox.php:183
+#, fuzzy
+msgid "Image"
+msgstr "Obrázek"
+
+#: includes/customize-page.php:194
+#, fuzzy
+msgid "Image overlay color"
+msgstr "Barva překryvu obrázku"
+
+#: includes/ws-shortcode.php:34
+#, fuzzy
+msgid "Image style"
+msgstr "Styl obrázku"
+
+#: ../includes/ot-functions-admin.php:137
+msgid "Import"
+msgstr "Import"
+
+#: importer/views/plugin-page.php:100 importer/views/plugin-page.php:112
+#, fuzzy
+msgid "Import Demo Data"
+msgstr "Importovat ukázková data"
+
+#: importer/views/plugin-page.php:14
+msgid "Import demo data"
+msgstr "Import ukázkových dat"
+
+#: importer/views/plugin-page.php:172
+#, fuzzy
+msgid "Importing, please wait!"
+msgstr "Probíhá import, čekejte prosím!"
+
+# This option places the cart in the header on all your pages, usually to the right of your menu. This option is only available when you are using a One.com theme. If you use another theme you get the option "Attach cart to CSS selector" instead.
+# 
+# ____________________________
+# Reference for developers:
+# 
+#: includes/ws-cart-shortcode.php:38
+msgid "In head on all pages"
+msgstr "V záhlaví na všech stránkách"
+
+# This option places the cart in the header on all your pages, usually to the right of your menu. This option is only available when you are using a One.com theme. If you use another theme you get the option "Attach cart to CSS selector" instead.
+# 
+# ____________________________
+# Reference for developers:
+# 
+#: includes/ws-cart-shortcode.php:38
+#, fuzzy
+msgid "In header on all pages"
+msgstr "V záhlaví na všech stránkách"
+
+#: inc/theme_metaboxes.php:709 inc/theme_metaboxes.php:715
+#: inc/theme_metaboxes.php:1124 inc/theme_metaboxes.php:1213
+#: inc/theme_metaboxes.php:1220
+msgid "Information Blocks"
+msgstr "Bloky informací"
+
+#: admin/options-init.php:571
+#, fuzzy
+msgid "Insert email addresses separated by comma"
+msgstr "Zadejte e-mailové adresy oddělené čárkami"
+
+# Selecting this option only shows the cart icon inside the webshop widget, and not on any other places. It is the default setting for the cart.
+# 
+# ____________________________
+# Reference for developers:
+# 
+#: includes/ws-cart-shortcode.php:49
+msgid "Inside Webshop widget"
+msgstr "Pouze ve widgetu nakupování"
+
+#: admin/options-init.php:373
+msgid "Instagram"
+msgstr "Instagram"
+
+#: templates/network/theme-listing-loop.php:82
+#: templates/network/theme-listing.php:87 templates/theme-listing-loop.php:79
+#: templates/theme-listing.php:87
+#, fuzzy
+msgid "Install"
+msgstr "Instalovat"
+
+#: templates/network/plugin-listing.php:92
+#: templates/network/recommended-plugin-listing.php:102
+#: templates/plugin-listing.php:91 templates/recommended-plugin-listing.php:101
+#, fuzzy
+msgid "Install now"
+msgstr "Nainstalovat nyní"
+
+#: inc/functions.php:534
+#, fuzzy
+msgid "Installing plugin"
+msgstr "Instaluje se modul plug-in"
+
+#: inc/functions.php:199
+#, fuzzy
+msgid "Installing theme"
+msgstr "Instalace tématu"
+
+#: inc/core_functions.php:467
+msgid "Instructor"
+msgstr "Instruktor"
+
+#: inc/core_functions.php:468
+msgid "Instructor Description"
+msgstr "Popis instruktora"
+
+#: inc/theme_options.php:272
+msgid "Internal Banner - Text Color"
+msgstr "Interní banner – barva textu"
+
+#: inc/theme_options.php:949
+msgid "Internal Banner Font Style"
+msgstr "Styl písma interního banneru"
+
+#: inc/theme_metaboxes.php:519 inc/theme_metaboxes.php:703
+msgid "Internal Banner Height"
+msgstr "Výška interního banneru"
+
+#: inc/theme_options.php:942
+msgid "Internal Banners"
+msgstr "Interní bannery"
+
+#: staging/Includes/Core/views/staging.php:30
+#, fuzzy
+msgid "It can take a couple of minutes for the copy to finish, so please do not close or navigate away from this page."
+msgstr "Dokončení kopírování může trvat několik minut, proto tuto stránku nezavírejte, ani z ní neodcházejte."
+
+#: importer/views/plugin-page.php:45
+#, fuzzy
+msgid "It can take a couple of minutes for the import to finish, so please click the Import button only once."
+msgstr "Než se import dokončí, může to trvat i několik minut. Klikněte na tlačítko Import pouze jednou."
+
+#: staging/Includes/Core/views/staging.php:28
+#, fuzzy
+msgid "It is not possible to reverse this process."
+msgstr "Tento proces je nevratný."
+
+#: admin/options-init.php:128
+msgid "It will display on every pages, services etc."
+msgstr "Zobrazí se na jednotlivých stránkách, ve službách atd."
+
+#: inc/theme-metaboxes.php:164 inc/theme-metaboxes.php:213
+#: inc/theme-metaboxes.php:250 inc/theme-metaboxes.php:494
+msgid "Items"
+msgstr "Položky"
+
+#: option-tree/includes/ot-functions-docs-page.php:174
+#, fuzzy
+msgid "JavaScript"
+msgstr "Skripty hlavičky"
+
+#: searchform.php:3 searchform.php:7
+msgctxt "label"
+msgid "Search for:"
+msgstr "Hledat:"
+
+#: includes/ws-shortcode.php:38
+#, fuzzy
+msgid "Landscape"
+msgstr "Na šířku"
+
+#: ../includes/ot-functions-admin.php:4381
+msgid "Layout"
+msgstr "Rozvržení"
+
+#: includes/customize-page.php:81 includes/settings-page.php:75
+#, fuzzy
+msgid "Learn more"
+msgstr "Zjistit více informací"
+
+#: includes/settings-page.php:74
+#, fuzzy
+msgid "Learn more about the online shop from the guides and FAQs on our website."
+msgstr "Další informace o internetovém obchodě získáte v příručkách a častých otázkách na našem webu."
+
+#: inc/template-tags.php:65
+#, fuzzy
+msgid "Leave a Comment"
+msgstr "Přidat komentář"
+
+#: inc/theme_metaboxes.php:75
+msgid "Left"
+msgstr "Doleva"
+
+#: core/theme-option.php:432
+#, fuzzy
+msgid "Left Section Image"
+msgstr "Obrázek levé sekce"
+
+#: core/theme-option.php:449
+#, fuzzy
+msgid "Left Section Text"
+msgstr "Text levé sekce"
+
+#: core/theme-option.php:442
+#, fuzzy
+msgid "Left Section Title"
+msgstr "Nadpis levé sekce"
+
+#: ../includes/ot-functions-admin.php:3196
+msgid "Left Sidebar"
+msgstr "Levý postranní panel"
+
+#: inc/core_functions.php:409
+msgid "Lesson"
+msgstr "Lekce"
+
+#: inc/core_functions.php:410
+msgid "Lesson Description"
+msgstr "Popis lekce"
+
+#: option-tree/includes/ot-functions-option-types.php:3068
+#, fuzzy
+msgid "Line Height"
+msgstr "Výška Řádku"
+
+#: ../includes/ot-functions-admin.php:3262
+#: ../includes/ot-functions-admin.php:3318
+#: ../includes/ot-functions-admin.php:5506
+msgid "Link"
+msgstr "Odkaz"
+
+#: admin/options-init.php:121
+#, fuzzy
+msgid "Link Color"
+msgstr "Barva odkazu"
+
+#: admin/options-init.php:176
+#, fuzzy
+msgid "Link Hover Color"
+msgstr "Barva odkazu při přejetí myší"
+
+#: inc/theme-metaboxes.php:40 inc/theme-metaboxes.php:280
+msgid "Link Text"
+msgstr "Text odkazu"
+
+#: admin/options-init.php:361
+msgid "Linkedin"
+msgstr "LinkedIn"
+
+#: admin/options-init.php:109
+msgid "Links Color"
+msgstr "Barva odkazů"
+
+#: admin/options-init.php:191
+#, fuzzy
+msgid "Logo"
+msgstr "Logo"
+
+#: inc/widgets.php:99
+msgid "Logo & Description"
+msgstr "Logo a popis"
+
+#: inc/theme_options.php:674
+msgid "Logo Font Style"
+msgstr "Styl písma loga"
+
+#: inc/theme_options.php:179
+msgid "Logo Text Color"
+msgstr "Barva textu loga"
+
+#: functions.php:94
+#, fuzzy
+msgid "Mainmenu Navigation"
+msgstr "Navigace v hlavní nabídce"
+
+#: inc/theme_options.php:1377
+msgid "Manage Footer Widgets"
+msgstr "Spravovat widgety zápatí"
+
+#: inc/theme_options.php:606
+msgid "Manage Header Menu"
+msgstr "Spravovat menu záhlaví"
+
+#: inc/theme_options.php:605
+msgid "Manage Logo Text"
+msgstr "Spravovat text loga"
+
+#: inc/theme_options.php:585
+msgid "Manage Site Title"
+msgstr "Spravovat název webu"
+
+#: core/widgets.php:106
+msgid "Manage Social Icons"
+msgstr "Správa ikon pro sociální sítě"
+
+#: inc/theme_metaboxes.php:882
+msgid "Map Embed Code"
+msgstr "Vložený kód mapy"
+
+#: inc/theme_metaboxes.php:853
+msgid "Map Section"
+msgstr "Sekce mapy"
+
+#: admin/options-init.php:188
+#, fuzzy
+msgid "Menu"
+msgstr "Menu"
+
+#: admin/options-init.php:195
+msgid "Menu Font Style"
+msgstr "Styl písma nabídky"
+
+#: inc/theme_options.php:212
+msgid "Menu Item Background Color"
+msgstr "Barva pozadí položky menu"
+
+#: inc/theme_options.php:200
+msgid "Menu Item Color"
+msgstr "Barva položky menu"
+
+#: inc/core_functions.php:268
+msgid "Message "
+msgstr "Zpráva"
+
+#: inc/theme_metaboxes.php:785 page-templates/contact-page.php:108
+msgid "Message"
+msgstr "Zpráva"
+
+#: inc/core_functions.php:249
+msgid "Message is too large, please shorten it."
+msgstr "Zpráva je příliš dlouhá, zkraťte ji."
+
+#: inc/core_functions.php:245
+msgid "Message text is empty or too short."
+msgstr "Text zprávy je prázdný nebo příliš krátký."
+
+# If you choose the option to have a floating cart, the cart is visible on all pages. It sort of floats above the page and stays at the same place whether you scroll up and down.
+# 
+# Use the slider to determine the vertical position of the cart on your page.
+# 
+# ____________________________
+# Reference for developers:
+# 
+#: includes/ws-cart-shortcode.php:61
+msgid "Middle"
+msgstr "Uprostřed"
+
+#: admin/options-init.php:504
+msgid "Middle Bottom Section Content"
+msgstr "Obsah střední dolní sekce"
+
+#: admin/options-init.php:498
+msgid "Middle Bottom Section Title"
+msgstr "Nadpis střední dolní sekce"
+
+#: admin/options-init.php:465
+msgid "Middle Left Section Content"
+msgstr "Obsah střední levé sekce"
+
+#: admin/options-init.php:459
+msgid "Middle Left Section Title"
+msgstr "Nadpis střední levé sekce"
+
+#: admin/options-init.php:491
+msgid "Middle Right Section Content"
+msgstr "Obsah střední pravé sekce"
+
+#: admin/options-init.php:476
+msgid "Middle Right Section Image"
+msgstr "Obrázek střední pravé sekce"
+
+#: admin/options-init.php:484
+msgid "Middle Right Section Title"
+msgstr "Nadpis střední pravé sekce"
+
+#: admin/options-init.php:465
+msgid "Middle Section Content"
+msgstr "Obsah střední sekce"
+
+#: admin/options-init.php:476
+#, fuzzy
+msgid "Middle Section-1 Content Image"
+msgstr "Obrázek obsahu střední sekce 1"
+
+#: admin/options-init.php:469
+#, fuzzy
+msgid "Middle Section-1 Link"
+msgstr "Odkaz střední sekce 1"
+
+#: admin/options-init.php:463
+#, fuzzy
+msgid "Middle Section-1 Title"
+msgstr "Nadpis střední sekce 1"
+
+#: admin/options-init.php:497
+#, fuzzy
+msgid "Middle Section-2 Left Content"
+msgstr "Obsah střední sekce 2 vlevo"
+
+#: admin/options-init.php:503
+#, fuzzy
+msgid "Middle Section-2 Right content"
+msgstr "Obsah střední sekce 2 vpravo"
+
+#: admin/options-init.php:491
+#, fuzzy
+msgid "Middle Section-2 Title"
+msgstr "Nadpis střední sekce 2"
+
+#: templates/network/theme-listing.php:91 templates/theme-listing.php:91
+#, fuzzy
+msgid "Mobile"
+msgstr "Mobilní"
+
+#: inc/theme_metaboxes.php:615
+msgid "Month"
+msgstr "Měsíc"
+
+#: templates/network/recommended-plugin-listing.php:110
+#: templates/recommended-plugin-listing.php:109
+#, fuzzy
+msgid "More details"
+msgstr "Více detailů"
+
+#: includes/ws-shortcode.php:29
+#, fuzzy
+msgid "Most popular"
+msgstr "Nejpopulárnější"
+
+#: inc/core_functions.php:263
+msgid "Name "
+msgstr "Jméno"
+
+#: comments.php:67
+#, fuzzy
+msgid "Name"
+msgstr "Jméno"
+
+#: inc/core_functions.php:229
+msgid "Name is empty or too short."
+msgstr "Název je prázdný nebo příliš krátký."
+
+#: inc/core_functions.php:233
+msgid "Name is too large."
+msgstr "Název je příliš dlouhý."
+
+#: staging/Includes/Core/views/ajax/staging_details.php:50
+#: staging/Includes/Core/views/live.php:51
+#: staging/Includes/Core/views/staging.php:32
+msgid "Need help?"
+msgstr "Potřebovat pomoc?"
+
+#: custompost/custompost.php:11
+msgid "New Adventure"
+msgstr "New Cesta"
+
+#: inc/theme-metaboxes.php:146
+msgid "New Collections"
+msgstr "Nové kolekce"
+
+#: inc/core_functions.php:448
+msgid "New Item"
+msgstr "Nová položka"
+
+#: inc/core_functions.php:390
+msgid "New Lesson"
+msgstr "Nová lekce"
+
+#: custompost/customposts.php:73
+#, fuzzy
+msgid "New Service"
+msgstr "Nová služba"
+
+#: custompost/customposts.php:42
+msgid "New Spotlight"
+msgstr "Nový spotlight"
+
+#: custompost/customposts.php:11
+msgid "New Testimonial"
+msgstr "Nové svědectví"
+
+#: custompost/custompost.php:11
+msgid "New Travel"
+msgstr "Nová cesta"
+
+#: includes/ws-shortcode.php:26
+#, fuzzy
+msgid "Newest"
+msgstr "Od nejnovějšího"
+
+#: inc/theme_metaboxes.php:396
+msgid "Newsletter"
+msgstr "Zpravodaj"
+
+#: inc/theme-metaboxes.php:327
+msgid "Newsletter Settings"
+msgstr "Nastavení zpravodaje"
+
+#: template-parts/content-none.php:7
+msgid "No entries found!"
+msgstr "Nebyly nalezeny žádné záznamy!"
+
+#: importer/views/plugin-page.php:43
+#, fuzzy
+msgid "No existing data will be deleted or modified, this includes posts, pages, categories, images, custom post types or any other data."
+msgstr "Žádná stávající data se nevymažou ani nezmění – to platí pro příspěvky, stránky, kategorie, obrázky, vlastní typy příspěvků a jiná data."
+
+#: search.php:33
+msgid "No posts found. Try a different search!"
+msgstr "Nebyly nalezeny žádné příspěvky. Zkuste hledat něco jiného!"
+
+#: inc/theme_options.php:1095 inc/theme_options.php:1121
+msgid "No Sidebar"
+msgstr "Žádný postranní panel"
+
+#: index.php:33
+msgid "Not Found"
+msgstr "Nenalezeno"
+
+#: templates/discouraged-plugin-listing.php:117
+#: templates/network/discouraged-plugin-listing.php:117
+#, fuzzy
+msgid "Not right now"
+msgstr "Teď ne"
+
+#: inc/theme_options.php:1148
+msgid "Note: You can override this setting on a specific page."
+msgstr "Poznámka: Toto nastavení můžete přepsat na konkrétní stránce."
+
+#: inc/theme_options.php:1123
+msgid "Note: You can override this setting on a specific post."
+msgstr "Poznámka: Toto nastavení můžete přepsat na konkrétní příspěvek."
+
+#: custompost/customposts.php:14 custompost/customposts.php:45
+#: custompost/customposts.php:76
+#, fuzzy
+msgid "Nothing found"
+msgstr "Nic nenalezeno"
+
+#: custompost/customposts.php:15 custompost/customposts.php:46
+#: custompost/customposts.php:77
+#, fuzzy
+msgid "Nothing found in Trash"
+msgstr "V koši nebylo nic nalezeno"
+
+#: admin/options-init.php:484
+#, fuzzy
+msgid "Notice Section Content"
+msgstr "Obsah sekce s oznámením"
+
+#: option-tree/includes/ot-functions-option-types.php:446
+#, fuzzy
+msgid "Offset Left"
+msgstr "Posun vlevo"
+
+#: option-tree/includes/ot-functions-option-types.php:455
+#, fuzzy
+msgid "Offset Top"
+msgstr "Posun nahoře"
+
+#: staging/Includes/Core/views/includes/header.php:6
+#, fuzzy
+msgid "One Staging"
+msgstr "One Staging"
+
+#: onecom-themes-plugins.php:310 onecom-themes-plugins.php:311
+#: onecom-themes-plugins.php:366 onecom-themes-plugins.php:369
+#, fuzzy
+msgid "One.com"
+msgstr "One.com"
+
+#: onecom-themes-plugins.php:414
+#, fuzzy
+msgid "One.com Control Panel"
+msgstr "Ovládací panel One.com"
+
+#: onecom-themes-plugins.php:431
+#, fuzzy
+msgid "One.com Guides & FAQ"
+msgstr "One.com – průvodci a často kladené dotazy"
+
+#: includes/settings-page.php:15
+#, fuzzy
+msgid "One.com Online Shop"
+msgstr "Internetový obchod One.com"
+
+#: templates/discouraged-plugin-listing.php:23
+#: templates/network/discouraged-plugin-listing.php:23
+#: templates/network/plugin-listing.php:23
+#: templates/network/recommended-plugin-listing.php:23
+#: templates/plugin-listing.php:23 templates/recommended-plugin-listing.php:23
+#, fuzzy
+msgid "One.com plugins"
+msgstr "One.com – moduly plug-in"
+
+#: webshop.php:116
+#, fuzzy
+msgid "Online shop Settings"
+msgstr "Nastavení internetového obchodu"
+
+#: staging/Includes/Core/views/ajax/staging_details.php:44
+#, fuzzy
+msgid "Only one staging version can be created for each website. When you rebuild a staging website, any existing staging site will be replaced with a new snapshot of your live website."
+msgstr "Pro každý web je možné vytvořit pouze jednu pracovní verzi. Když resetujete pracovní verzi webu, stávající pracovní verze bude nahrazena novým snímkem ostré verze webu."
+
+#: inc/widgets.php:208
+msgid "Open in new window?"
+msgstr "Otevřít v novém okně?"
+
+#: option-tree/includes/ot-functions-docs-page.php:821
+#, fuzzy
+msgid "OptionTree"
+msgstr "Možnosti tématu resetovány"
+
+#: option-tree/ot-loader.php:22
+#, fuzzy
+msgid "OptionTree is installed as a plugin and also embedded in your current theme. Please deactivate the plugin to load the theme dependent version of OptionTree, and remove this warning."
+msgstr "OptionTree je nainstalován jako modul plug-in a je rovněž vložen do vašeho aktuálního tématu. Nejprve deaktivujte modul plug-in, abyste si mohli načíst verzi OptionTree dle tématu, a poté vymažte toto varování."
+
+#: includes/customize-page.php:279
+#, fuzzy
+msgid "Order details (borders)"
+msgstr "Detaily objednávky (ohraničení)"
+
+#: includes/settings-page.php:85
+#, fuzzy
+msgid "Our chat support is open 24/7"
+msgstr "Naše podpora na chatu funguje 24 hodin denně, 7 dnů v týdnu"
+
+#: option-tree/includes/ot-functions-docs-page.php:220
+#, fuzzy
+msgid "Page Checkbox"
+msgstr "Sekce stránky"
+
+#: admin/options-init.php:461 admin/options-init.php:485
+#: admin/options-init.php:514
+msgid "Page content"
+msgstr "Obsah stránky"
+
+#: metaboxes/metabox.php:53
+msgid "Page Content"
+msgstr "Obsah stránky"
+
+#: metabox/metabox.php:18
+msgid "Page Description"
+msgstr "Obsah stránky"
+
+#: metabox/metabox.php:28
+msgid "Page Header"
+msgstr "Záhlaví stránky"
+
+#: 404.php:23
+#, fuzzy
+msgid "Page Not Found"
+msgstr "Stránka nenalezena"
+
+#: inc/theme_metaboxes.php:641
+msgid "Page Section"
+msgstr "Sekce stránky"
+
+#: inc/theme_metaboxes.php:25 inc/theme_metaboxes.php:461
+#: inc/theme_metaboxes.php:896 inc/theme_metaboxes.php:1060
+#: inc/theme_metaboxes.php:1142 inc/theme_options.php:285
+#: inc/theme_options.php:987
+msgid "Page Sections"
+msgstr "Sekce stránky"
+
+#: option-tree/includes/ot-functions-docs-page.php:223
+#, fuzzy
+msgid "Page Select"
+msgstr "Sekce stránky"
+
+#: metabox/metabox.php:5
+#, fuzzy
+msgid "Page Settings"
+msgstr "Nastavení stránky"
+
+#: metaboxes/metabox.php:23
+#, fuzzy
+msgid "Page Sub Title"
+msgstr "Podtitul stránky"
+
+#: inc/theme_metaboxes.php:991 inc/theme_metaboxes.php:1066
+#: inc/theme_metaboxes.php:1155
+msgid "Page Subtitle"
+msgstr "Podtitulek stránky"
+
+#: inc/theme_options.php:152 inc/theme_options.php:762
+msgid "Page Title"
+msgstr "Podtitulek"
+
+#: inc/theme_options.php:891 inc/theme_options.php:950
+msgid "Pages > Home > Banner"
+msgstr "Stránky > Domovská > Banner"
+
+#: single.php:80
+#, fuzzy
+msgid "Pages:"
+msgstr "Stránky:"
+
+#: admin/options-init.php:367
+msgid "Personal Website"
+msgstr "Osobní web"
+
+#: admin/options-init.php:552
+#, fuzzy
+msgid "Phone"
+msgstr "Telefon"
+
+#: widgets/widget.php:142
+msgid "Phone:"
+msgstr "Telefon:"
+
+#: front-page.php:135
+msgid "Please add / edit"
+msgstr "Přidejte/upravte"
+
+#: inc/theme_metaboxes.php:447 inc/theme_metaboxes.php:836
+msgid "Please copy and paste the Embed Code or Shortcode of the custom form (if any). This will replace the default form."
+msgstr "Zkopírujte a vložte vložený kód nebo krátký kód vlastního formuláře (pokud existuje). Tím nahradíte výchozí formulář."
+
+#: includes/ws-shortcode.php:85
+#, fuzzy
+msgid "Please enter a number between 2 and 100."
+msgstr "Zadejte číslo od 2 do 100."
+
+#: template-parts/home/section-newsletter.php:31
+msgid "Please enter your email."
+msgstr "Zadejte svůj e-mail."
+
+#: staging/Includes/Core/views/live.php:49
+#, fuzzy
+msgid "Please note"
+msgstr "Please note"
+
+#: inc/theme_metaboxes.php:193
+msgid "Please select the courses to be diplayed."
+msgstr "Vyberte kurzy, které chcete zobrazit."
+
+#: core/theme-option.php:434 core/theme-option.php:461
+#, fuzzy
+msgid "Please upload Image."
+msgstr "Nahrajte obrázek."
+
+#: core/theme-option.php:533
+#, fuzzy
+msgid "Please upload the image ."
+msgstr "Nahrajte obrázek."
+
+#: core/theme-option.php:407 core/theme-option.php:485
+#: core/theme-option.php:509
+#, fuzzy
+msgid "Please upload the image."
+msgstr "Nahrajte obrázek."
+
+#: staging/Includes/Core/views/live.php:7
+#, fuzzy
+msgid "Please wait, while we are copying your live site to the staging site."
+msgstr "Počkejte prosím, kopírujeme ostrou verzi vašeho webu do pracovní verze."
+
+#: staging/Includes/Core/views/live.php:15
+#, fuzzy
+msgid "Please wait, while we are updating staging site."
+msgstr "Prosím, počkejte, když aktualizujeme stránku stagingu."
+
+#: functions.php:119 functions.php:139
+msgid "Please wait..."
+msgstr "Počkejte prosím..."
+
+#: inc/functions.php:585
+#, fuzzy
+msgid "Plugin installed successfully"
+msgstr "Modul plug-in byl úspěšně nainstalován"
+
+#: onecom-themes-plugins.php:328 onecom-themes-plugins.php:329
+#: onecom-themes-plugins.php:336 onecom-themes-plugins.php:337
+#: onecom-themes-plugins.php:344 onecom-themes-plugins.php:345
+#: onecom-themes-plugins.php:389 onecom-themes-plugins.php:392
+#: onecom-themes-plugins.php:403
+#, fuzzy
+msgid "Plugins"
+msgstr "Moduly plug-in"
+
+#: staging/Includes/Core/views/live.php:49
+#, fuzzy
+msgid "Plugins that are URL sensitive may not work as expected on the staging site."
+msgstr "Moduly plug-in, které rozlišují URL adresy, nemusí na pracovním webu správně fungovat."
+
+#: templates/network/plugin-listing.php:13 templates/plugin-listing.php:13
+#, fuzzy
+msgid "Plugins that bring the One.com experience and services to WordPress."
+msgstr "Moduly plug-in, které propojují prostředí a služby One.com s WordPressem."
+
+#: includes/ws-shortcode.php:39
+#, fuzzy
+msgid "Portrait"
+msgstr "Na výšku"
+
+#: inc/core_functions.php:449
+msgctxt "Post Type General Name"
+msgid "Instructors"
+msgstr "Instruktoři"
+
+#: inc/core_functions.php:391
+msgctxt "Post Type General Name"
+msgid "Lessons"
+msgstr "Lekce"
+
+#: inc/core_functions.php:450
+msgctxt "Post Type Singular Name"
+msgid "Instructor"
+msgstr "Instruktor"
+
+#: inc/core_functions.php:392
+msgctxt "Post Type Singular Name"
+msgid "Lesson"
+msgstr "Lekce"
+
+#: archive.php:36
+msgid "Posted in"
+msgstr "Publikováno dne/v"
+
+#: importer/views/plugin-page.php:44
+#, fuzzy
+msgid "Posts, pages, images, widgets, menus and other theme settings will get imported."
+msgstr "Příspěvky, stránky, obrázky, widgety, menu a další nastavení témat se naimportují."
+
+#: staging/one_staging.php:157
+#, fuzzy
+msgid "Preparing directories..."
+msgstr "Připravují se adresáře…"
+
+#: staging/one_staging.php:154
+#, fuzzy
+msgid "Preparing..."
+msgstr "Probíhá příprava…"
+
+#: templates/network/recommended-plugin-listing.php:13
+#: templates/recommended-plugin-listing.php:13
+#, fuzzy
+msgid "Presenting some of our favorite WordPress plugins, curated for quality."
+msgstr "Představujeme některé z našich oblíbených modulů plug-in pro Wordpress, u kterých garantujeme kvalitu."
+
+#: templates/network/theme-listing-loop.php:49
+#: templates/theme-listing-loop.php:42
+#, fuzzy
+msgid "Preview"
+msgstr "Náhled"
+
+#: functions.php:261
+#, fuzzy
+msgid "Price"
+msgstr "Cena"
+
+#: single.php:98
+#, fuzzy
+msgid "Price: "
+msgstr "Cena:"
+
+#: includes/ws-shortcode.php:28
+#, fuzzy
+msgid "Price: High to low"
+msgstr "Cena: od nejvyšší po nejnižší"
+
+#: includes/ws-shortcode.php:27
+#, fuzzy
+msgid "Price: Low to high"
+msgstr "Cena: od nejnižší po nejvyšší"
+
+#: functions.php:225
+msgid "Primary"
+msgstr "Primární"
+
+#: functions.php:150
+msgid "Primary Navigation"
+msgstr "Hlavní navigace"
+
+#: functions.php:142
+msgid "Primary Sidebar"
+msgstr "Primární boční panel"
+
+#: includes/ws-shortcode.php:93
+#, fuzzy
+msgid "Pro tip"
+msgstr "Tip:"
+
+#: includes/ws-shortcode.php:65
+#, fuzzy
+msgid "Products per page"
+msgstr "Počet produktů na stránce"
+
+#: includes/ws-shortcode.php:51
+#, fuzzy
+msgid "Products per row"
+msgstr "Počet produktů v řádku"
+
+#: admin/options-init.php:451
+msgid "Profile Image"
+msgstr "Profilový obrázek"
+
+#: includes/ws-shortcode.php:69
+#, fuzzy
+msgid "Promotion label position"
+msgstr "Poloha propagačního popisku"
+
+#: inc/theme_metaboxes.php:817
+msgid "Provide email accounts where you want to receive emails from this form."
+msgstr "Zadejte e-mailové účty, na které chcete dostávat e-maily z tohoto formuláře."
+
+#: admin/options-init.php:572
+#, fuzzy
+msgid "Provide email ids on which you want to receive email from contact form. Example: info@one.com, contact@gmail.com"
+msgstr "Zadejte e-maily, na které chcete dostávat zprávy z kontaktního formuláře. Příklad: info@one.com, contact@gmail.com"
+
+#: single.php:48
+#, fuzzy
+msgid "Published on: "
+msgstr "Publikováno dne:"
+
+#: admin/options-init.php:489
+msgid "Quote Form Description"
+msgstr "Popis formuláře cenové nabídky"
+
+#: admin/options-init.php:482
+msgid "Quote Form Title"
+msgstr "Nadpis formuláře cenové nabídky"
+
+#: option-tree/includes/ot-functions-docs-page.php:235
+#, fuzzy
+msgid "Radio Image"
+msgstr "Obrázek na banneru"
+
+#: template-parts/content-none.php:21
+#, fuzzy
+msgid "Ready to publish your first post?"
+msgstr "Jste připraveni publikovat první příspěvek?"
+
+#: staging/Includes/Core/views/ajax/staging_details.php:52
+#, fuzzy
+msgid "Rebuild Staging"
+msgstr "Resetovat pracovní verzi"
+
+#: admin/options-init.php:570
+#, fuzzy
+msgid "Recipients"
+msgstr "Příjemci"
+
+#: templates/discouraged-plugin-listing.php:24
+#: templates/network/discouraged-plugin-listing.php:24
+#: templates/network/plugin-listing.php:24
+#: templates/network/recommended-plugin-listing.php:24
+#: templates/plugin-listing.php:24 templates/recommended-plugin-listing.php:24
+#, fuzzy
+msgid "Recommended plugins"
+msgstr "Doporučené moduly plug-in"
+
+#: includes/customize-page.php:69
+#, fuzzy
+msgid "Redo"
+msgstr "Opakovat"
+
+#: includes/customize-page.php:69
+#, fuzzy
+msgid "Redo last undone action"
+msgstr "Opakovat poslední vrácenou akci"
+
+#: comments.php:67 comments.php:70
+msgid "Required"
+msgstr "Povinné"
+
+#: option-tree/includes/ot-settings-api.php:365
+#, fuzzy
+msgid "Reset Options"
+msgstr "Možnosti resetování"
+
+#: functions.php:162 functions.php:163 functions.php:169
+msgid "Reviews"
+msgstr "Recenze"
+
+#: inc/theme_metaboxes.php:67
+msgid "Right"
+msgstr "Doprava"
+
+#: metaboxes/metabox.php:27
+#, fuzzy
+msgid "Right Main Content"
+msgstr "Hlavní obsah vpravo"
+
+#: ../includes/ot-functions-admin.php:3201
+msgid "Right Sidebar"
+msgstr "Pravý postranní panel"
+
+# "Cancel" and go back, or "Save" your settings.
+# 
+# ____________________________
+# Reference for developers:
+# 
+#: includes/ws-cart-shortcode.php:128
+msgid "Save"
+msgstr "Uložit"
+
+#: includes/customize-page.php:7 includes/customize-page.php:68
+#, fuzzy
+msgid "Save & Publish"
+msgstr "Uložit a publikovat"
+
+#: option-tree/includes/ot-functions-settings-page.php:93
+#: option-tree/includes/ot-functions-settings-page.php:132
+#, fuzzy
+msgid "Save Changes"
+msgstr "Uložit změny"
+
+#: includes/customize-page.php:48 includes/customize-page.php:68
+#, fuzzy
+msgid "Saved & Published"
+msgstr "Uloženo a publikováno"
+
+#: inc/theme_options.php:1408
+msgid "Scripts to be inserted after footer."
+msgstr "Skripty, které budou vloženy za zápatí."
+
+#: inc/theme_options.php:1398
+msgid "Scripts to be inserted in \"head\" tag."
+msgstr "Skripty, které budou vloženy do tagu \"head\"."
+
+#: searchform.php:9
+msgid "Search"
+msgstr "Hledání"
+
+#: custompost/custompost.php:13
+msgid "Search Adventures"
+msgstr "Search Cesta"
+
+#: custompost/custompost.php:44
+msgid "Search Event"
+msgstr "Searc "
+
+#: search.php:22
+#, fuzzy
+msgid "Search Results"
+msgstr "Výsledky hledání"
+
+#: custompost/customposts.php:75
+msgid "Search Service"
+msgstr "Hledat službu"
+
+#: custompost/customposts.php:44
+msgid "Search Spotlight"
+msgstr "Hledat spotlight"
+
+#: custompost/custompost.php:106
+msgid "Search Testimonial"
+msgstr "Search Svědectví"
+
+#: custompost/customposts.php:13
+msgid "Search Testimonials"
+msgstr "Hledat svědectví"
+
+#: custompost/custompost.php:13
+msgid "Search Travel"
+msgstr "Hledat cestu"
+
+#: template-parts/internal-banner.php:45
+#, php-format
+msgid "Search: %s"
+msgstr "Hledání: %s"
+
+#: inc/theme_options.php:743
+msgid "Secondary Font Family"
+msgstr "Sekundární rodina písma"
+
+#: inc/theme_metaboxes.php:279 inc/theme_metaboxes.php:335
+#: inc/theme_metaboxes.php:387 inc/theme_metaboxes.php:562
+#: inc/theme_metaboxes.php:844
+msgid "Section Background"
+msgstr "Pozadí sekce"
+
+#: inc/theme_metaboxes.php:167 inc/theme_metaboxes.php:230
+#: inc/theme_metaboxes.php:309 inc/theme_metaboxes.php:418
+#: inc/theme_metaboxes.php:592 inc/theme_metaboxes.php:874
+msgid "Section Content"
+msgstr "Obsah sekce"
+
+#: inc/theme_metaboxes.php:160 inc/theme_metaboxes.php:223
+#: inc/theme_metaboxes.php:302 inc/theme_metaboxes.php:359
+#: inc/theme_metaboxes.php:410 inc/theme_metaboxes.php:540
+#: inc/theme_metaboxes.php:584 inc/theme_metaboxes.php:745
+#: inc/theme_metaboxes.php:867
+msgid "Section Title"
+msgstr "Nadpis sekce"
+
+#: inc/theme_options.php:994
+msgid "Section Titles Font Style"
+msgstr "Styl písma nadpisů sekcí"
+
+#: option-tree/includes/ot-functions-option-types.php:3160
+#, fuzzy
+msgid "Select an image by clicking the + button"
+msgstr "Vyberte obrázek kliknutím na tlačítko +"
+
+#: admin/options-init.php:174
+#, fuzzy
+msgid "Select background color of header."
+msgstr "Vyberte barvu pozadí záhlaví."
+
+#: admin/options-init.php:406
+msgid "Select icon background color on footer section"
+msgstr "Vyberte barvu pozadí ikony v oblasti zápatí"
+
+#: admin/options-init.php:393
+msgid "Select icon background color on main content area"
+msgstr "Vyberte barvu pozadí ikony v oblasti hlavního obsahu"
+
+#: admin/options-init.php:400
+msgid "Select icon color on footer section"
+msgstr "Vyberte barvu ikony v oblasti zápatí"
+
+#: admin/options-init.php:386
+msgid "Select icon color on main content area"
+msgstr "Vyberte barvu ikony v oblasti hlavního obsahu"
+
+#: core/theme-option.php:391
+#, fuzzy
+msgid "Select social icon background color"
+msgstr "Vyberte barvu pozadí ikony sociální sítě"
+
+#: admin/options-init.php:416
+#, fuzzy
+msgid "Select social icon background color."
+msgstr "Vyberte barvu pozadí ikony sociální sítě."
+
+#: core/theme-option.php:382
+#, fuzzy
+msgid "Select social icon color"
+msgstr "Vyberte barvu ikony sociální sítě"
+
+#: admin/options-init.php:408
+#, fuzzy
+msgid "Select social icon color."
+msgstr "Vyberte barvu ikony sociální sítě."
+
+#: admin/options-init.php:588
+msgid "Select the button background color for contact form "
+msgstr "Vyberte barvu pozadí tlačítka pro kontaktní formulář"
+
+#: admin/options-init.php:206 admin/options-init.php:226
+#: admin/options-init.php:245 admin/options-init.php:263
+#: admin/options-init.php:281 admin/options-init.php:299
+#: admin/options-init.php:317 admin/options-init.php:335
+#, fuzzy
+msgid "Select the font size, font family, color etc"
+msgstr "Slouží k výběru velikosti písma, typu písma, barvy atd."
+
+#: admin/options-init.php:256 admin/options-init.php:275
+#: admin/options-init.php:293 admin/options-init.php:311
+#: admin/options-init.php:329 admin/options-init.php:347
+#: admin/options-init.php:365
+#, fuzzy
+msgid "Select the font size, font family, color etc."
+msgstr "Vyberte velikost písma, druh písma, barvu atd."
+
+#: admin/options-init.php:200
+msgid "Select the font size, font family, color for menu"
+msgstr "Vyberte velikost písma, druh písma a barvu pro nabídku"
+
+# This text is a description explaining what checking happens when you check the option to show the checkout banner.
+# 
+# ____________________________
+# Reference for developers:
+# 
+#: includes/ws-cart-shortcode.php:111
+msgid "Select this option to show a checkout banner at the bottom of all pages of your site on mobile devices, when there is something in the cart."
+msgstr "Tuto možnost vyberte, chcete-li zobrazovat banner pokladny v dolní části všech stránek svého webu na mobilních zařízeních, pokud v košíku něco je."
+
+# You have three ways that you can show the shopping cart on your site.
+# 
+# This is the header and description, after which you need to choose an option.
+# 
+# ____________________________
+# Reference for developers:
+# 
+#: includes/ws-cart-shortcode.php:25
+msgid "Select where you want the cart icon to be visible."
+msgstr "Vyberte, kde se má ikona košíku na vašem webu zobrazovat."
+
+#: includes/customize-page.php:241
+#, fuzzy
+msgid "Selected value (dropdown)"
+msgstr "Vybraná hodnota (rozevírací nabídka)"
+
+#: custompost/customposts.php:68 custompost/customposts.php:69
+#, fuzzy
+msgid "Service"
+msgstr "Služba"
+
+#: inc/theme_metaboxes.php:148
+msgid "Services"
+msgstr "Služby"
+
+#: admin/options-init.php:429
+msgid "Services Button Link"
+msgstr "Odkaz tlačítka služeb"
+
+#: admin/options-init.php:423
+msgid "Services Button Text"
+msgstr "Text tlačítka služeb"
+
+#: includes/customize-page.php:154
+#, fuzzy
+msgid "Set a color for the background of your shop."
+msgstr "Nastavte barvu pozadí svého obchodu."
+
+# Title and button text for the cart feature under Online Shop plugin settings.
+# 
+# ____________________________
+# Reference for developers:
+# 
+#: includes/ws-cart-shortcode.php:21
+#, fuzzy
+msgid "Set cart position and style"
+msgstr "Umístění a styl košíku"
+
+#: option-tree/includes/ot-functions-docs-page.php:49
+#, fuzzy
+msgid "Settings"
+msgstr "Nastavení"
+
+#: inc/theme_metaboxes.php:249 inc/theme_metaboxes.php:609
+msgid "Short Description"
+msgstr "Stručný popis"
+
+#: includes/ws-shortcode.php:15
+#, fuzzy
+msgid "Show \"sort by\" selector"
+msgstr "Zobrazit selektor \"seřadit podle\""
+
+#: inc/theme_metaboxes.php:483 inc/theme_metaboxes.php:664
+#: inc/theme_metaboxes.php:918 inc/theme_metaboxes.php:1005
+#: inc/theme_metaboxes.php:1080 inc/theme_metaboxes.php:1169
+msgid "Show Banner?"
+msgstr "Zobrazit banner?"
+
+#: includes/ws-shortcode.php:9
+#, fuzzy
+msgid "Show category selector"
+msgstr "Zobrazit selektor kategorie"
+
+#: inc/theme_metaboxes.php:175
+msgid "Show Courses"
+msgstr "Zobrazit kurzy"
+
+#: inc/theme_options.php:564
+msgid "Show Logo"
+msgstr "Zobrazit logo"
+
+#: inc/theme_options.php:1072
+msgid "Show Post Metadata"
+msgstr "Zobrazit metadata příspěvku"
+
+#: inc/theme_metaboxes.php:153 inc/theme_metaboxes.php:216
+#: inc/theme_metaboxes.php:294 inc/theme_metaboxes.php:351
+#: inc/theme_metaboxes.php:402 inc/theme_metaboxes.php:532
+#: inc/theme_metaboxes.php:576 inc/theme_metaboxes.php:737
+#: inc/theme_metaboxes.php:859
+msgid "Show Section"
+msgstr "Zobrazit sekci"
+
+#: inc/theme_metaboxes.php:216 inc/theme_metaboxes.php:506
+#: inc/theme_metaboxes.php:609 inc/theme_metaboxes.php:756
+#: inc/theme_metaboxes.php:878
+msgid "Show Title"
+msgstr "Titulek"
+
+#: inc/theme-metaboxes.php:335
+msgid "Show/Hide Newsletter Section"
+msgstr "Zobrazit/skrýt sekci zpravodaje"
+
+#: inc/theme_options.php:1147
+msgid "Single Page - Page layout"
+msgstr "Jedna stránka - rozvržení stránky"
+
+#: inc/theme_options.php:1108
+msgid "Single Post - Page Layout"
+msgstr "Jeden příspěvek – rozvržení stránky"
+
+#: admin/options-init.php:104
+#, fuzzy
+msgid "Site Description / Tagline"
+msgstr "Popis webu / Motto"
+
+#: admin/options-init.php:168
+msgid "Site Name"
+msgstr "Název webu"
+
+#: inc/theme_options.php:574
+msgid "Site title"
+msgstr "Název webu"
+
+#: admin/options-init.php:97
+#, fuzzy
+msgid "Site Title"
+msgstr "Nadpis webu"
+
+#: admin/options-init.php:221
+msgid "Site Title Font Style"
+msgstr "Styl písma pro nadpis webu"
+
+#: inc/theme_options.php:574
+msgid "Site title will be displayed if no image uploaded."
+msgstr "Není-li nahrán obrázek, zobrazí se název webu."
+
+#: inc/theme_options.php:84
+msgid "Skin - Primary Color"
+msgstr "Skin – primární barva"
+
+#: inc/theme_options.php:92
+msgid "Skin - Secondary Color"
+msgstr "Skin – sekundární barva"
+
+#: inc/core_functions.php:61
+msgid "Small Text Color"
+msgstr "Barva malého textu"
+
+#: admin/options-init.php:379
+#, fuzzy
+msgid "Social"
+msgstr "Sociální sítě"
+
+#: admin/options-init.php:415
+#, fuzzy
+msgid "Social Icon Background Color"
+msgstr "Barva pozadí ikony sociální sítě"
+
+#: admin/options-init.php:406
+#, fuzzy
+msgid "Social Icon Color"
+msgstr "Barva ikony sociální sítě"
+
+#: inc/theme_options.php:507 inc/widgets.php:362
+msgid "Social Icon Default Colors"
+msgstr "Výchozí barvy ikon sociálních sítí"
+
+#: inc/theme_options.php:499
+msgid "Social Icons"
+msgstr "Ikony sociálních sítí"
+
+#: inc/theme_options.php:518
+msgid "Social Icons Color"
+msgstr "Barva ikon sociálních sítí"
+
+#: option-tree/includes/ot-functions-docs-page.php:272
+#, fuzzy
+msgid "Social Links"
+msgstr "Odkazy na sociální sítě"
+
+#: inc/theme_options.php:1148
+msgid "Social Profile Icon"
+msgstr "Ikona profilu na sociální síti"
+
+#: inc/theme_options.php:1323
+msgid "Social Profile Link"
+msgstr "Odkaz na profil na sociální síti"
+
+#: admin/options-init.php:516
+msgid "Social Section Content"
+msgstr "Obsah sekce sociálních sítí"
+
+#: admin/options-init.php:510
+msgid "Social Section Title"
+msgstr "Nadpis sekce sociálních sítí"
+
+#: inc/core_functions.php:302 inc/core_functions.php:362
+msgid "Some error occurred, please reload the page and try again."
+msgstr "Došlo k chybě. Obnovte stránku a zkuste to znovu."
+
+#: functions.php:309
+msgid "Something went wrong! Please try again!"
+msgstr "Něco se nepovedlo! Zkuste to znovu!"
+
+#: inc/functions.php:219 inc/functions.php:553
+#, fuzzy
+msgid "Something went wrong. Please contact the support at One.com."
+msgstr "Něco se pokazilo. Kontaktujte podporu One.com."
+
+# Error message that is currently hidden, will be used in the future.
+# ____________________________
+# Reference for developers:
+# 
+#: includes/ws-cart-shortcode.php:125
+msgid "Something went wrong. Please reload the page and try again."
+msgstr "Něco se nepovedlo. Obnovte stránku a opakujte akci."
+
+#: staging/one_staging.php:150
+#, fuzzy
+msgid "Something went wrong; please try again."
+msgstr "Něco se pokazilo. Kontaktujte podporu One.com."
+
+#: index.php:35
+msgid "Sorry, but you are looking for something that isn't here."
+msgstr "Je nám líto, ale hledáte něco, co tady není."
+
+#: inc/functions.php:364
+#, fuzzy
+msgid "Sorry, no compatible plugins found with your version of WordPress and PHP."
+msgstr "Je nám líto, ale nebyly nalezeny žádné kompatibilní moduly plug-in pro vaši verzi aplikace WordPress a PHP."
+
+#: inc/functions.php:139
+#, fuzzy
+msgid "Sorry, no compatible themes found for your version of WordPress and PHP."
+msgstr "Je nám líto, ale nebyla nalezena žádná kompatibilní témata pro vaši verzi aplikace WordPress a PHP."
+
+#: includes/ws-shortcode.php:22
+#, fuzzy
+msgid "Sort by"
+msgstr "Seřadit podle"
+
+#: inc/widgets.php:215
+msgid "Space after caption (px)"
+msgstr "Prostor za popiskem (px)"
+
+#: inc/theme-metaboxes.php:126
+msgid "Specifications"
+msgstr "Specifikace"
+
+#: custompost/customposts.php:37 custompost/customposts.php:38
+msgid "Spotlight"
+msgstr "Spotlight"
+
+#: admin/options-init.php:442
+msgid "Spotlight Blurb"
+msgstr "Výňatek ze spotlightu"
+
+#: front-page.php:135
+msgid "spotlight posts"
+msgstr "příspěvky typu Spotlight,"
+
+#: admin/options-init.php:435
+msgid "Spotlight Title"
+msgstr "Nadpis spotlightu"
+
+#: includes/ws-shortcode.php:37
+#, fuzzy
+msgid "Square"
+msgstr "Čtverec"
+
+#: staging/Includes/Core/views/ajax/staging_details.php:22
+#, fuzzy
+msgid "Staging Backend:"
+msgstr "Pracovní backend:"
+
+#: staging/Includes/Core/views/ajax/staging_details.php:21
+#, fuzzy
+msgid "Staging Frontend:"
+msgstr "Pracovní frontend:"
+
+#: staging/Includes/Core/views/ajax/staging_details.php:15
+#, fuzzy
+msgid "Staging site broken"
+msgstr "Pracovní web je nefunkční"
+
+#: option-tree/includes/ot-functions-docs-page.php:52
+#, fuzzy
+msgid "Standard"
+msgstr "Standardní"
+
+#: staging/one_staging.php:155
+#, fuzzy
+msgid "Start copying..."
+msgstr "Zahájení kopírování…"
+
+#: inc/theme-options.php:841
+msgid "Sub Footer Background"
+msgstr "Pozadí části zápatí"
+
+#: inc/theme-options.php:852
+msgid "Sub Footer Text Color"
+msgstr "Barva textu části zápatí"
+
+#: metabox/metabox.php:96
+#, fuzzy
+msgid "Sub Title"
+msgstr "Podtitul"
+
+#: inc/theme_options.php:238
+msgid "Submenu Item Background Color"
+msgstr "Barva pozadí položky podmenu"
+
+#: inc/theme_options.php:225
+msgid "Submenu Item Color"
+msgstr "Barva položky podmenu"
+
+#: inc/theme-options.php:794
+msgid "Submenu Item color"
+msgstr "Podnabídka položek barva"
+
+#: comments.php:81
+msgid "Submit Comment"
+msgstr "Odeslat komentář"
+
+#: functions.php:120 functions.php:140
+msgid "Subscribe"
+msgstr "Přihlásit odběr"
+
+#: inc/core_functions.php:358
+msgid "Subscribed successfully."
+msgstr "Odběr úspěšně přihlášen."
+
+#: inc/widgets.php:65
+msgid "Subtext"
+msgstr "Subtext"
+
+#: inc/theme_metaboxes.php:1252 inc/theme_metaboxes.php:1260
+msgid "Subtitle"
+msgstr "Podtitulek"
+
+#: templates/discouraged-plugin-listing.php:88
+#: templates/network/discouraged-plugin-listing.php:88
+#, fuzzy
+msgid "Suggested alternative"
+msgstr "Doporučená alternativa"
+
+#: templates/discouraged-plugin-listing.php:88
+#: templates/network/discouraged-plugin-listing.php:88
+#, fuzzy
+msgid "Suggested alternatives"
+msgstr "Doporučené alternativy"
+
+#: functions.php:103
+#, fuzzy
+msgid "Testimonial"
+msgstr "Svědectví"
+
+#: inc/theme-options.php:367
+msgid "Testimonial Font Style"
+msgstr "Styl písma reference"
+
+#: custompost/customposts.php:6 custompost/customposts.php:7
+#, fuzzy
+msgid "Testimonials"
+msgstr "Reference"
+
+#: metaboxes/metabox.php:37
+#, fuzzy
+msgid "Text"
+msgstr "Text"
+
+#: includes/customize-page.php:98
+#, fuzzy
+msgid "Text color"
+msgstr "Barva textu"
+
+#: admin/options-init.php:152
+#, fuzzy
+msgid "Text Color"
+msgstr "Barva textu"
+
+#: includes/customize-page.php:231
+#, fuzzy
+msgid "Text color (dropdown menu)"
+msgstr "Barva textu (rozevírací nabídka)"
+
+#: option-tree/includes/ot-functions-option-types.php:3081
+#, fuzzy
+msgid "Text Decoration"
+msgstr "Text s ozdobnými efekty"
+
+#: includes/customize-page.php:115
+#, fuzzy
+msgid "Text links"
+msgstr "Odkazy na text"
+
+#: inc/theme_options.php:930 inc/theme_options.php:969
+msgid "Text Shadow"
+msgstr "Stín textu"
+
+#: option-tree/includes/ot-functions-docs-page.php:371
+#, fuzzy
+msgid "Textblock"
+msgstr "Barva textu"
+
+#: option-tree/includes/ot-functions-docs-page.php:374
+#, fuzzy
+msgid "Textblock Titled"
+msgstr "Nadpis sekce"
+
+#: inc/theme_metaboxes.php:242 inc/theme_metaboxes.php:1221
+msgid "The added features will be displayed in the order they are arranged here."
+msgstr "Přidané funkce se zobrazí v pořadí, v jakém jsou zde uspořádány."
+
+#: inc/theme_metaboxes.php:370 inc/theme_metaboxes.php:603
+msgid "The added testimonial will be displayed in the order they are arranged here."
+msgstr "Přidané reference se zobrazí v pořadí, v jakém jsou zde uspořádány."
+
+#: importer/views/plugin-page.php:35
+#, fuzzy
+msgid "The easiest way to setup your theme is by importing demo data. It includes demo posts, pages, images and theme settings. This will allow you to edit the demo content, instead of creating everything from scratch."
+msgstr "Nejjednodušším způsobem konfigurace vašeho tématu je import ukázkových dat. Sem patří ukázkové příspěvky, stránky, obrázky a nastavení témat. Tato funkce vám umožní pouze upravit ukázkový obsah a nebudete muset začínat úplně od začátku."
+
+#: admin/options-init.php:483 admin/options-init.php:490
+msgid "The field used on service pages"
+msgstr "Pole používané na stránkách služeb"
+
+#: staging/Includes/Core/views/ajax/staging_details.php:45
+#, fuzzy
+msgid "The login details for the staging backend are the same as for the live website."
+msgstr "Přihlašovací údaje pro pracovní backend jsou shodné s údaji pro ostrou verzi webu."
+
+#: inc/theme_options.php:627
+msgid "The newly added font families will appear after saving the options."
+msgstr "Nově přidaná písma se zobrazí po uložení možností."
+
+#: modules/notice-discouraged-plugins.php:90
+#, php-format
+#, fuzzy
+msgid "The plugin <strong>%s</strong>, that you are using, creates a lot of large temporary files causing high load on our servers and possible time-outs on your site.<br/>We strongly advise you to deactivate it. If you keep on using this plugin we may be forced to suspend your site. "
+msgstr "Modul plug-in <strong>%s</strong>, který používáte, vytváří mnoho velkých dočasných souborů, které zatěžují naše servery a mohou způsobovat výpadky vašeho webu.<br/>Důrazně proto doporučujeme jej deaktivovat. Pokud budete tento modul plug-in nadále používat, budeme nuceni váš web pozastavit. "
+
+#: inc/theme_options.php:1389
+msgid "The rules added here will be applied as additional CSS."
+msgstr "Zde přidaná pravidla budou použita jako doplňkové CSS."
+
+#: inc/theme_metaboxes.php:194
+msgid "The selected courses/lessons will be displayed."
+msgstr "Vybrané kurzy/lekce se zobrazí."
+
+#: staging/Includes/Core/views/live.php:48
+#, fuzzy
+msgid "The staging environment allows you to make changes to your site, without it affecting the live version of your website. When you create a staging site, it will be a snapshot of your live website."
+msgstr "Pracovní prostředí vám umožňuje provádět na webu změny, aniž by to ovlivnilo ostrou verzi webu. Když vytvoříte pracovní web, stane se z něj snímek ostré verze webu."
+
+#: staging/Includes/Core/views/includes/footer.php:46
+#, fuzzy
+msgid "The staging site will be lost."
+msgstr "Přijdete o pracovní verzi webu."
+
+#: staging/Includes/Core/views/ajax/staging_details.php:43
+#, fuzzy
+msgid "The staging website is a copy of your live website, where you can test new plugins and themes without affecting your live website."
+msgstr "Pracovní web je kopie ostré verze vašich stránek, v níž můžete testovat nové moduly plug-in a motivy, aniž by to ovlivnilo ostrou verzi vašeho webu."
+
+#: inc/functions.php:248
+#, fuzzy
+msgid "Theme installed successfully"
+msgstr "Téma bylo úspěšně nainstalováno"
+
+#: inc/theme_options.php:891
+msgid "Theme Options > Banners > Homepage Banner Height"
+msgstr "Možnosti tématu > Bannery > Výška banneru domovské stránky"
+
+#: inc/theme_options.php:950
+msgid "Theme Options > Banners > Internal Banner Height"
+msgstr "Možnosti tématu > Bannery > Výška interního banneru"
+
+#: inc/theme_metaboxes.php:963
+msgid "Theme Options > Typography > Font Styles > Internal Banners"
+msgstr "Možnosti tématu > Typografie > Styly písma > Interní bannery"
+
+#: option-tree/includes/ot-functions-admin.php:57
+#: option-tree/includes/ot-functions-admin.php:127
+#: option-tree/includes/ot-functions-admin.php:221
+#, fuzzy
+msgid "Theme Options reset."
+msgstr "Možnosti tématu resetovány."
+
+#: option-tree/includes/ot-functions-admin.php:56
+#: option-tree/includes/ot-functions-admin.php:126
+#: option-tree/includes/ot-functions-admin.php:220
+#, fuzzy
+msgid "Theme Options updated."
+msgstr "Možnosti tématu aktualizovány."
+
+#: inc/theme_options.php:655
+msgid "Theme's default font properties can be changed from the section specific tabs given below."
+msgstr "Výchozí vlastnosti písma tématu lze změnit prostřednictvím specifických karet uvedených níže."
+
+#: onecom-themes-plugins.php:320 onecom-themes-plugins.php:321
+#: onecom-themes-plugins.php:378 onecom-themes-plugins.php:381
+#, fuzzy
+msgid "Themes"
+msgstr "Témata"
+
+#: templates/discouraged-plugin-listing.php:60
+#: templates/network/discouraged-plugin-listing.php:60
+#, fuzzy
+msgid "There are also some suggestions for alternative plugins to use instead."
+msgstr "Jsou zde uvedeny i alternativní doporučené moduly plug-in."
+
+#: includes/customize-page.php:82
+#, fuzzy
+msgid "These examples will help you get started with customizing the CSS."
+msgstr "Tyto příklady vám pomohou začít s vlastním nastavením CSS."
+
+#: inc/core_functions.php:336
+msgid "This email is already used. Please use a different email."
+msgstr "Tento e-mail se již používá. Zadejte jiný e-mail."
+
+#: staging/Includes/Core/views/staging.php:22
+#, fuzzy
+msgid "This is your staging website, a snapshot of your live website. Here you can test changes without affecting your live website."
+msgstr "Toto je vaše pracovní verze webu, tj. snímek ostré verze. Můžete zde testovat různé změny, aniž by to mělo vliv na ostrou verzi webu."
+
+#: comments.php:7
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Tento příspěvek je chráněn heslem. Chcete-li zobrazit komentáře, zadejte heslo."
+
+#: inc/theme_options.php:970
+msgid "This will add a shadow on the banner text"
+msgstr "Tato funkce přidá k textu banneru stín."
+
+#: inc/theme_options.php:931
+msgid "This will add a shadow on the text."
+msgstr "Tato funkce přidá k textu stín."
+
+#: inc/theme_options.php:744
+msgid "This will change the font familiy of titles of special elements, e.g., widgets."
+msgstr "Tato možnost změní rodinu písma u nadpisů speciálních prvků, například widgetů."
+
+#: inc/theme_metaboxes.php:963
+msgid "This will change the height of the banner."
+msgstr "Tato funkce změní výšku banneru."
+
+#: inc/theme_options.php:724
+msgid "This will change the typography of content areas only."
+msgstr "Tato funkce změní pouze typografii oblastí obsahu."
+
+#: inc/theme_options.php:891 inc/theme_options.php:911
+msgid "This will change the typography of homepage banner only."
+msgstr "Tato funkce změní pouze typografii banneru domovské stránky."
+
+#: inc/theme_options.php:950
+msgid "This will change the typography of internal page banners only."
+msgstr "Tato funkce změní pouze typografii interního banneru stránky."
+
+#: inc/theme_options.php:675
+msgid "This will change the typography of logo text only."
+msgstr "Tato funkce změní pouze typografii textu loga."
+
+#: inc/theme_options.php:695
+msgid "This will change the typography of navigation menu in header."
+msgstr "Tato funkce změní typografii navigačních menu v záhlaví."
+
+#: inc/theme_options.php:995
+msgid "This will change the typography of section titles on pages."
+msgstr "Tato funkce změní typografii nadpisů sekcí na stránkách."
+
+#: inc/theme_options.php:1050
+msgid "This will change the typography of the buttons."
+msgstr "Tato funkce změní typografii tlačítek."
+
+#: inc/theme_options.php:1022
+msgid "This will change the typography of the Footer."
+msgstr "Tato funkce změní typografii zápatí."
+
+#: inc/theme_options.php:1083
+msgid "This will change the visibility and position of sidebar on the blog post listing pages."
+msgstr "Tato funkce změní viditelnost a polohu postranního panelu na stránkách s výpisem příspěvků na blogu."
+
+#: inc/theme_options.php:1109
+msgid "This will change the visibility and position of sidebar on the post details pages."
+msgstr "Tato funkce změní viditelnost a polohu postranního panelu na stránkách s detaily příspěvku."
+
+#: inc/theme_options.php:1148
+msgid "This will change the visibility and position of the sidebar on the pages."
+msgstr "Tím se změní viditelnost a pozice postranního panelu na stránkách."
+
+#: staging/Includes/Core/views/includes/footer.php:64
+#, fuzzy
+msgid "This will overwrite your live website with a copy of the files and database from your staging website."
+msgstr "Dojde k přepsání vaší ostré verze webu kopií souborů a databáze z pracovní verze."
+
+#: staging/Includes/Core/views/includes/footer.php:16
+#, fuzzy
+msgid "This will overwrite your staging website with a copy of the files and database from your live website. All changes made in your staging website will be lost."
+msgstr "Dojde k přepsání vaší pracovní verze webu kopií souborů a databáze z ostré verze. Veškeré změny provedené v pracovní verzi webu se ztratí."
+
+#: inc/theme_metaboxes.php:436
+msgid "This will replace the default form."
+msgstr "Tato funkce nahradí výchozí formulář."
+
+#: inc/theme_options.php:1073
+msgid "This will show/hide the post details."
+msgstr "Tato funkce zobrazí/skryje detaily příspěvku."
+
+#: includes/settings-page.php:73
+#, fuzzy
+msgid "Tips & tricks?"
+msgstr "Tipy a triky?"
+
+#: includes/customize-page.php:80
+#, fuzzy
+msgid "Tips for CSS"
+msgstr "Tipy pro CSS"
+
+#: metaboxes/metabox.php:174
+#, fuzzy
+msgid "Title"
+msgstr "Název"
+
+#: widgets/widget.php:74 widgets/widget.php:138
+msgid "Title:"
+msgstr "Nadpis:"
+
+#: inc/theme_metaboxes.php:963
+msgid "To change Banner Font Style"
+msgstr "Styl písma interního banneru"
+
+#: inc/theme_options.php:891 inc/theme_options.php:950
+msgid "To change Banner Height: "
+msgstr "Postup změny výšky banneru:"
+
+#: inc/theme_options.php:891 inc/theme_options.php:950
+msgid "To change Homepage Banner Content: "
+msgstr "Postup změny obsahu banneru domovské stránky:"
+
+#: inc/theme_options.php:564
+msgid "To change the font style of logo"
+msgstr "Postup změny stylu písma loga amit"
+
+#: includes/settings-page.php:17
+#, fuzzy
+msgid "To manage your products and orders, click \"Go to Products & Orders\", and log in with your One.com account."
+msgstr "Chcete-li spravovat své produkty a objednávky, klikněte \"Přejít k produktům a objednávkám\" a přihlaste se prostřednictvím svého účtu One.com."
+
+#: front-page.php:135
+msgid "to show this section."
+msgstr "aby se tato sekce zobrazila."
+
+# If you choose the option to have a floating cart, the cart is visible on all pages. It sort of floats above the page and stays at the same place whether you scroll up and down.
+# 
+# Use the slider to determine the vertical position of the cart on your page.
+# 
+# ____________________________
+# Reference for developers:
+# 
+#: includes/ws-cart-shortcode.php:60
+msgid "Top"
+msgstr "Nahoře"
+
+#: includes/ws-shortcode.php:73
+#, fuzzy
+msgid "Top left"
+msgstr "Vlevo nahoře"
+
+#: includes/ws-shortcode.php:72
+#, fuzzy
+msgid "Top right"
+msgstr "Vpravo nahoře"
+
+#: admin/options-init.php:446
+#, fuzzy
+msgid "Top Section Content"
+msgstr "Obsah horní sekce"
+
+#: admin/options-init.php:455
+#, fuzzy
+msgid "Top Section Content Image"
+msgstr "Obrázek obsahu horní sekce"
+
+#: admin/options-init.php:440
+#, fuzzy
+msgid "Top Section Subtitle"
+msgstr "Podtitul horní sekce"
+
+#: admin/options-init.php:434
+#, fuzzy
+msgid "Top Section Title"
+msgstr "Nadpis horní sekce"
+
+#: functions.php:121
+#, fuzzy
+msgid "Travel"
+msgstr "Cesta"
+
+#: template-parts/content-none.php:11
+msgid "Try a search instead"
+msgstr "Zkuste hledání"
+
+#: inc/functions.php:139 inc/functions.php:364
+#, fuzzy
+msgid "Try again"
+msgstr "Zkuste to znovu"
+
+#: template-parts/content-none.php:9
+msgid "Try searching with a different keyword."
+msgstr "Zkuste hledat podle jiného klíčového slova."
+
+#: admin/options-init.php:393
+#, fuzzy
+msgid "Twitter"
+msgstr "Twitter"
+
+#: admin/options-init.php:244
+#, fuzzy
+msgid "Typography"
+msgstr "Typografie"
+
+#: inc/theme_options.php:564
+msgid "Typography > Header Font Style > Logo Font Style"
+msgstr "Typografie > Styl písma záhlaví > Styl písma loga"
+
+#: inc/functions.php:233 inc/functions.php:570
+#, fuzzy
+msgid "Unable to connect to the file system. Please contact the support at One.com."
+msgstr "Nelze se připojit k systému souborů. Kontaktujte podporu One.com."
+
+#: includes/customize-page.php:70
+#, fuzzy
+msgid "Undo"
+msgstr "Vrátit zpět"
+
+#: includes/customize-page.php:70
+#, fuzzy
+msgid "Undo last action"
+msgstr "Vrátit poslední akci"
+
+#: inc/core_functions.php:450
+msgid "Update Instructor"
+msgstr "Aktualizovat instruktora"
+
+#: inc/core_functions.php:392
+msgid "Update Lesson"
+msgstr "Aktualizovat lekci"
+
+#: includes/customize-page.php:267
+#, fuzzy
+msgid "Update the styling for borders."
+msgstr "Aktualizujte styl ohraničení."
+
+#: staging/one_staging.php:159
+#, fuzzy
+msgid "Updating database..."
+msgstr "Aktualizuje se databáze…"
+
+#: option-tree/includes/ot-functions-docs-page.php:397
+#, fuzzy
+msgid "Upload"
+msgstr "Nahrát logo"
+
+#: admin/options-init.php:495
+msgid "Upload background image."
+msgstr "Nahrajte obrázek na pozadí."
+
+#: inc/widgets.php:191
+msgid "Upload Banner"
+msgstr "Nahrát banner"
+
+#: admin/options-init.php:133
+#, fuzzy
+msgid "Upload banner of your website."
+msgstr "Nahrajte banner svého webu."
+
+#: admin/options-init.php:442
+msgid "Upload banner right text image."
+msgstr "Nahrajte obrázek textu banneru vpravo."
+
+#: inc/theme_options.php:616
+msgid "Upload Favicon"
+msgstr "Nahrát favicon"
+
+#: admin/options-init.php:165
+#, fuzzy
+msgid "Upload favicon of your website."
+msgstr "Nahrajte ikonu stránky svého webu."
+
+#: admin/options-init.php:192
+#, fuzzy
+msgid "Upload footer logo of your website."
+msgstr "Nahrajte logo zápatí svého webu."
+
+#: admin/options-init.php:397
+msgid "Upload home page banner of your website."
+msgstr "Nahrajte banner hlavní stránky svého webu."
+
+#: core/widgets.php:371
+msgid "Upload Icon"
+msgstr "Nahrát ikonu"
+
+#: inc/theme_options.php:573 inc/widgets.php:59 inc/widgets.php:61
+msgid "Upload Logo"
+msgstr "Nahrát logo"
+
+#: admin/options-init.php:155
+#, fuzzy
+msgid "Upload logo of your website."
+msgstr "Nahrajte logo svého webu."
+
+#: option-tree/includes/ot-functions-docs-page.php:432
+#: option-tree/includes/ot-functions-docs-page.php:482
+#, fuzzy
+msgid "Usage"
+msgstr "Zpráva"
+
+# There is a checkbox before this text, checking it will enable an "easy checkout banner" on mobile.
+# 
+# ____________________________
+# Reference for developers:
+# 
+#: includes/ws-cart-shortcode.php:109
+msgid "Use easy checkout banner on mobile"
+msgstr "Použít banner pokladny v mobilní verzi"
+
+#: admin/options-init.php:423 admin/options-init.php:433
+#: admin/options-init.php:466 admin/options-init.php:511
+#: admin/options-init.php:520
+msgid "Use shortcodes here, if necessary."
+msgstr "Zde můžete použít zkrácený zápis, pokud je to nutné."
+
+#: metaboxes/metabox.php:199
+#, fuzzy
+msgid "Use this image"
+msgstr "Použít tento obrázek"
+
+#: includes/customize-page.php:195
+#, fuzzy
+msgid "Used as image overlay on hover."
+msgstr "Slouží pro překryv obrázku při přechodu myší."
+
+#: includes/customize-page.php:302
+#, fuzzy
+msgid "Used for a line placed below the items on the checkout page."
+msgstr "Používá se pro čáru pod položkami na stránce pokladny."
+
+#: includes/customize-page.php:280
+#, fuzzy
+msgid "Used for border of order details."
+msgstr "Slouží pro ohraničení detailů objednávky."
+
+#: includes/customize-page.php:168
+#, fuzzy
+msgid "Used for cart icon, price text, pagination, mobile slider border."
+msgstr "Použije se pro ikonu nákupního košíku, text ceny, stránkování, ohraničení mobilního posuvníku."
+
+#: includes/customize-page.php:269
+#, fuzzy
+msgid "Used for default buttons, like 'Back' and 'Return to shop'."
+msgstr "Slouží pro výchozí tlačítka, např. „Zpět“ a „Zpět do obchodu“."
+
+#: includes/customize-page.php:291
+#, fuzzy
+msgid "Used for headings on 'checkout page' and 'cart page'."
+msgstr "Slouží pro záhlaví na „stránce pokladny“ a „stránce košíku“."
+
+#: includes/customize-page.php:184
+#, fuzzy
+msgid "Used for hover color on cart."
+msgstr "Použije se pro barvu při přechodu myší na nákupní košík."
+
+# If you choose the option to have a floating cart, the cart is visible on all pages. It sort of floats above the page and stays at the same place whether you scroll up and down.
+# 
+# Use the slider to determine the vertical position of the cart on your page.
+# 
+# ____________________________
+# Reference for developers:
+# 
+#: includes/ws-cart-shortcode.php:54
+msgid "Vertical cart position on the page"
+msgstr "Svislé umístění na stránce"
+
+#: custompost/custompost.php:12
+msgid "View Adventures"
+msgstr "View Cesta"
+
+#: modules/notice-discouraged-plugins.php:104
+#, fuzzy
+msgid "View discouraged plugins"
+msgstr "Zobrazit nedoporučované moduly plug-in"
+
+#: templates/discouraged-plugin-listing.php:63
+#: templates/network/discouraged-plugin-listing.php:63
+#, fuzzy
+msgid "View full list of discouraged plugins"
+msgstr "Zobrazit celý seznam nedoporučovaných modulů plug-in"
+
+#: inc/core_functions.php:451
+msgid "View Instructor"
+msgstr "Zobrazit instruktora"
+
+#: inc/core_functions.php:452
+msgid "View Instructors"
+msgstr "Zobrazit instruktory"
+
+#: inc/core_functions.php:393
+msgid "View Lesson"
+msgstr "Zobrazit lekci"
+
+#: inc/core_functions.php:394
+msgid "View Lessons"
+msgstr "Zobrazit lekce"
+
+#: custompost/customposts.php:74
+#, fuzzy
+msgid "View Service"
+msgstr "Zobrazit službu"
+
+#: custompost/customposts.php:43
+msgid "View Spotlight"
+msgstr "Zobrazit spotlight"
+
+#: custompost/custompost.php:105
+msgid "View Testimonial"
+msgstr "View Svědectví"
+
+#: custompost/customposts.php:12
+msgid "View Testimonials"
+msgstr "Zobrazit svědectví"
+
+#: custompost/custompost.php:12
+msgid "View Travel"
+msgstr "Zobrazit cestu"
+
+#: staging/Includes/Core/views/ajax/staging_details.php:27
+#, fuzzy
+msgid "We have detected that your staging site is broken due to missing database table(s) and/or directory(s)."
+msgstr "Zjistili jsme, že váš pracovní web je nefunkční kvůli chybějícím databázovým tabulkám a/nebo adresářům."
+
+#: includes/settings-page.php:84
+#, fuzzy
+msgid "We're here to help"
+msgstr "Rádi vám pomůžeme"
+
+#: comments.php:73
+msgid "Website"
+msgstr "Web"
+
+#: staging/Includes/Core/views/staging.php:29
+#, fuzzy
+msgid "When you copy from staging to live, all data and files of your live website will be overwritten. This includes recently added posts, pages, media uploads and files."
+msgstr "When you copy from staging to live, all data and files of your live website will be overwritten. This includes recently added posts, pages, media uploads and files."
+
+#: importer/views/plugin-page.php:40
+#, fuzzy
+msgid "When you import demo data, please be aware of the following:"
+msgstr "Když naimportujete ukázková data, mějte na paměti následující:"
+
+#: widgets/widget.php:86
+msgid "Widget to Display contact."
+msgstr "Widget pro zobrazení kontaktu."
+
+#: widgets/widget.php:9
+msgid "Widget to Display Testimonial."
+msgstr "Widget pro zobrazení svědectví."
+
+#: widget/widget.php:9
+msgid "Widget to Display Travel Post."
+msgstr "Widget pro zobrazení příspěvku o cestě."
+
+#: inc/functions.php:184
+#, fuzzy
+msgid "WordPress is being upgraded. Please try again later."
+msgstr "WordPress se upgraduje. Zkuste to znovu později."
+
+#: templates/discouraged-plugin-listing.php:117
+#: templates/network/discouraged-plugin-listing.php:117
+#, fuzzy
+msgid "Yes, deactivate plugin"
+msgstr "Ano, deaktivovat modul plug-in"
+
+#: templates/discouraged-plugin-listing.php:58
+#: templates/network/discouraged-plugin-listing.php:58
+#, fuzzy
+msgid "You are doing great! None of your installed plugins, are on our list of discouraged plugins."
+msgstr "Vedete si skvěle! Žádný z vašich nainstalovaných modulů plug-in se nenachází na našem seznamu nedoporučovaných modulů."
+
+#: modules/notice-discouraged-plugins.php:101
+#, fuzzy
+msgid "You are using one or more plugins from the list of plugins we discourage. We recommend that you deactivate them, to ensure the best performance of your website. "
+msgstr "Používáte minimálně jeden modul plug-in ze seznamu modulů plug-in, které nedoporučujeme používat. Abyste si zajistili optimální fungování webu, raději tyto moduly plug-in deaktivujte. "
+
+#: includes/ws-shortcode.php:93
+#, fuzzy
+msgid "You can always change settings later directly in your shortcode on the page."
+msgstr "Nastavení můžete později kdykoli změnit přímo ve svém zkráceném kódu na stránce."
+
+#: includes/ws-shortcode.php:83
+#, fuzzy
+msgid "You can have maximum 100 products per page."
+msgstr "Na stránce můžete mít maximálně 100 produktů."
+
+# If you select "In header on all pages", you also have the option to enter a CSS selector to place the cart somewhere else on your site, on all pages.
+# 
+# If you don't use a One.com theme, adding a CSS selector is required, if you do use a One.com theme adding a CSS selector is optional.
+# 
+# This text needs to fit both scenarios.
+# ____________________________
+# Reference for developers:
+# 
+#: includes/ws-cart-shortcode.php:69
+msgid "You can place the cart somewhere else on your site by attaching it to an HTML element. Enter a CSS selector that exists in your theme’s HTML."
+msgstr "Košík můžete umístit kdekoli na svém webu připojením k prvku HTML. Zadejte přepínač CSS, který existuje v kódu HTML vašeho motivu."
+
+#: option-tree/includes/ot-functions-option-types.php:1515
+#: option-tree/includes/ot-functions-option-types.php:2261
+#, fuzzy
+msgid "You can re-order with drag & drop, the order will update after saving."
+msgstr "Přetažením můžete změnit uspořádání možností. Pořadí se aktualizuje po uložení."
+
+#: staging/Includes/Core/views/live.php:48
+#, fuzzy
+msgid "You can use it as a playground to test new plugins and themes. Once you are satisfied with the result, you can copy all the changes to your live website with a single click."
+msgstr "Můžete jej používat jako „hřiště“ pro testování nových modulů plug-in a motivů. Až budete spokojeni s výsledkem, můžete veškeré provedené změny nakopírovat jedním kliknutím do ostré verze webu."
+
+#: includes/ws-shortcode.php:84
+#, fuzzy
+msgid "You need to have at least 2 products per page."
+msgstr "Potřebujete mít alespoň 2 produkty na stránce."
+
+#: functions.php:307
+#, fuzzy
+msgid "Your message has been successfully sent."
+msgstr "Vaše zpráva byla úspěšně odeslána."
+
+#: staging/Includes/Core/views/ajax/staging_details.php:13
+#, fuzzy
+msgid "Your staging site"
+msgstr "Váš pracovní web"
+
+#: admin/options-init.php:105
+#, fuzzy
+msgid "Your website tagline."
+msgstr "Motto vašeho webu."
+
+#: admin/options-init.php:98
+#, fuzzy
+msgid "Your website title."
+msgstr "Nadpis vašeho webu."
+
+#: templates/discouraged-plugin-listing.php:60
+#: templates/network/discouraged-plugin-listing.php:60
+#, fuzzy
+msgid "Your WordPress site should work the best possible way. We checked the plugins on your website, and listed those we don't recommended you to use."
+msgstr "Váš web ve WordPressu by měl fungovat optimálně. Zkontrolovali jsme moduly plug-in na vašem webu a ve výpisu najdete ty, které nedoporučujeme používat."
